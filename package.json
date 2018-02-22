@@ -4,9 +4,14 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "gatsby": "^1.9.204",
+    "gatsby": "^1.9.206",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-react-helmet": "^2.0.5",
+    "gatsby-plugin-sass": "^1.0.17",
+    "gatsby-plugin-sharp": "^1.6.28",
+    "gatsby-remark-images": "^1.5.44",
+    "gatsby-source-filesystem": "^1.5.19",
+    "gatsby-transformer-remark": "^1.7.32",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
