@@ -50,3 +50,10 @@ Do you support Single Logout? | No, we don't support single logout at this time.
 What happens to users on my team that don't belong to our claimed domain? | Turning on SSO will only affect users of the claimed domain. Any users that are using e-mail addresses on other domains will not be affected.
 What is your Entity ID? | Our entity id is hackerone.com
 What is your ACS URL? | Our ACS URL is https://hackerone.com/users/saml/auth
+
+### Additional Information
+Here are some screenshots that provide additional details on Service Provider and Attribute mapping:
+
+![saml_1](./images/saml_1.png)
+
+![saml_2](./images/saml_2.png) 
