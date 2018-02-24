@@ -25,7 +25,7 @@ Field | Detail
 ------ | ------
 Email Domain | The email domain for users that will be required to use SAML authentication.
 Single Sign On URL | The URL from your SAML provider to initiate a single sign-on attempt, sometimes called the login URL.
-X509 Cerificate | The certificate from your SAML provider to verify the single sign-on reponse. 
+X509 Certificate | The certificate from your SAML provider to verify the single sign-on reponse. 
 
 4. Click **Run test**. This will launch a new window that'll allow a test login. 
 5. Enter your login credentials to the test window. After your login attempt, the test will either succeed or fail and provide warning messages about your test login in the **Status** section. 
