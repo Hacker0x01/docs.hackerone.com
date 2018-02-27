@@ -1,6 +1,7 @@
 ---
 title: "Communicating with Hackers"
-path: "/docs/program-operations/miscellaneous/communicating-with-hackers"
+path: "/docs/program-operations/tool-tips/communicating-with-hackers"
+date: 2018-02-27
 ---
 You can communicate with hackers by:
 * Commenting on reports
