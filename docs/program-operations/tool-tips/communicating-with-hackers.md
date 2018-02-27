@@ -16,7 +16,7 @@ You can easily communicate with hackers by commenting within the report. To add 
 
 The hacker will get a notification in their HackerOne profile and will also be notified by email if they have notifications for the report enabled. If you want to make sure they get the message no matter their notification settings, you can type @[hacker’s username] in the comment to address them directly.
 
-![Communicate with hackers1](./images/communicate-with-hackers.png?raw=true)
+![Communicate with hackers1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/program-operations/tool-tips/images/communicate-with-hackers.png?raw=true)
 
 #### Commenting on Multiple Reports
 You can add comments to multiple reports simultaneously. To add comments to multiple reports:
