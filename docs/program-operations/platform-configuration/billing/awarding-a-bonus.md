@@ -4,6 +4,8 @@ path: "/docs/program-operations/platform-configuration/billing/awarding-a-bonus"
 ---
 You can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable hackers to have more ways to earn rewards on HackerOne and for security teams to offer more flexible incentives without increasing the market rate for bounties. 
 
+![Bonus](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/program-operations/platform-configuration/images/bonus.png?raw=true)
+
 ### Difference Between a Bounty and a Bonus
 Bounty amounts are used to determine how important a report is. The hacker will be given an adjusted amount of reputation based on the bounty amount. 
 
