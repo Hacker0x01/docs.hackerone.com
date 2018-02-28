@@ -4,10 +4,8 @@ import Link from "gatsby-link"
 import SidebarBody from "../components/sidebar_body"
 import docsSidebar from "../pages/docs/doc-links.yaml"
 
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { markdownRemark } = data; // data.markdownRemark holds our post data
+export default function Template({ data }) {
+  const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
   return (
     <div>
@@ -25,7 +23,7 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query DocByPath($path: String) {
+  query DocByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

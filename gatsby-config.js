@@ -6,23 +6,22 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/docs/`,
-        name: "markdown-pages",
+        name: "docs",
       },
     },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          'gatsby-plugin-sharp',
           {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 590,
-              linkImagesToOriginal: true,
             },
           },
         ],

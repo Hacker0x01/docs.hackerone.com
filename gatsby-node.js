@@ -3,7 +3,7 @@ const path = require("path");
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
-  const docsTemplate = path.resolve(`src/templates/docs.js`);
+  const docsTemplate = path.resolve('./src/templates/docs.js');
 
   return graphql(`
     {
@@ -13,6 +13,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       ) {
         edges {
           node {
+            html
             frontmatter {
               path
             }

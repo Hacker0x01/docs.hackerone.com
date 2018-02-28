@@ -10,8 +10,9 @@
     "gatsby-plugin-sass": "^1.0.17",
     "gatsby-plugin-sharp": "^1.6.28",
     "gatsby-remark-images": "^1.5.44",
-    "gatsby-source-filesystem": "^1.5.19",
-    "gatsby-transformer-remark": "^1.7.32",
+    "gatsby-source-filesystem": "^1.5.24",
+    "gatsby-transformer-remark": "^1.7.33",
+    "gatsby-transformer-sharp": "^1.6.21",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
