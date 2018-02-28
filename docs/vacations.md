@@ -1,7 +1,6 @@
 ---
 title: "Vacations"
 path: "/docs/program-operations/miscellaneous/vacations"
-date: "2018-02-27"
 ---
 If a key member of your security team goes on vacation or will be unavailable for a short period of time, be transparent with your hackers and let them know that your internal security resources will be limited for a bit. To notify hackers, you can:
 1. Use a trigger to set an automated response

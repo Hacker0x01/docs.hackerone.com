@@ -1,4 +1,8 @@
 ---
 title: "Hacktivity"
-path: "/docs/navigation-overview/hacktivity"
+book: "Programs"
+part: "Navigation Overview"
+path: "/docs/programs/navigation-overview/hacktivity"
 ---
+
+Test

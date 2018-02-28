@@ -14,10 +14,7 @@ export default function Template({
       <div style={{ paddingLeft: "340px" }}>
         <div style={{ maxWidth: 1200, padding: "24px", margin: "0 auto" }}>
           <h1>{frontmatter.title}</h1>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
+          <div dangerouslySetInnerHTML={{ __html: html }} />
         </div>
       </div>
       <div>
@@ -28,11 +25,10 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query DocByPath($path: String!) {
+  query DocByPath($path: String) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
         path
         title
       }
