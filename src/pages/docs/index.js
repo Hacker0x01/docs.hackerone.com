@@ -1,7 +1,7 @@
 import React from "react"
 import Link from "gatsby-link"
 
-import SidebarBody from "../../components/sidebar_body"
+import SidebarBody from "../../components/sidebar/sidebar"
 import docsSidebar from "./doc-links.yaml"
 
 class IndexRoute extends React.Component {

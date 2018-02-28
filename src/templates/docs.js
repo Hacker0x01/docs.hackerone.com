@@ -1,7 +1,7 @@
 import React from "react"
 import Link from "gatsby-link"
 
-import SidebarBody from "../components/sidebar_body"
+import Sidebar from "../components/sidebar/sidebar"
 import docsSidebar from "../pages/docs/doc-links.yaml"
 
 export default function Template({ data }) {
@@ -16,7 +16,7 @@ export default function Template({ data }) {
         </div>
       </div>
       <div>
-        <SidebarBody inline yaml={docsSidebar} />
+        <Sidebar inline yaml={docsSidebar} />
       </div>
     </div>
   );
