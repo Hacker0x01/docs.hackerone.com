@@ -1,7 +1,6 @@
 ---
-title: "Triggers"
+title: "Hacktivity"
 path: /docs/automation/triggers
 ---
 
-Content.
 
