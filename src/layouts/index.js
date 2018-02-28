@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header'
 
-import "../css/main.scss"
+import "../css/main.css"
 
 const TemplateWrapper = ({ children }) => (
   <div>

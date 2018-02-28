@@ -1,8 +1,7 @@
 @import 'reset';
-@import 'variables';
 
 body {
-  background: $grey;
+  background: #f5f5f5;
 }
 
 a {
