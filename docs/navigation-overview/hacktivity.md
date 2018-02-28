@@ -1,6 +1,4 @@
 ---
 title: "Hacktivity"
-path: /docs/automation/triggers
+path: "/docs/navigation-overview/hacktivity"
 ---
-
-

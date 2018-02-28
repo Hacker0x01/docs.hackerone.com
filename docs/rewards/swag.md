@@ -1,7 +1,6 @@
 ---
 title: "Swag"
-path: /docs/rewards/swag
+path: "/docs/rewards/swag"
 ---
 
 Content.
-

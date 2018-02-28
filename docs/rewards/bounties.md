@@ -1,7 +1,6 @@
 ---
 title: "Bounties"
-path: /docs/rewards/bounties
+path: "/docs/rewards/bounties"
 ---
 
 Content.
-
