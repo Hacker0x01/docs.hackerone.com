@@ -2,7 +2,7 @@ import React from "react"
 import Link from "gatsby-link"
 
 import Sidebar from "../components/sidebar/sidebar"
-import docsSidebar from "../pages/docs/doc-links.yaml"
+import docsSidebar from "../pages/hackers/doc-links.yaml"
 
 export default function Template({ data }) {
   const { markdownRemark } = data;
