@@ -29,8 +29,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      console.log(node);
-      let template, book;
+      let template;
       if (node.frontmatter.path.includes("programs/")) {
         template = programsTemplate;
       } else if (node.frontmatter.path.includes("hackers/")) {
