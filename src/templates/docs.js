@@ -6,13 +6,12 @@ import docsSidebar from "../pages/docs/doc-links.yaml"
 
 export default function Template({ data }) {
   const { markdownRemark } = data;
-  const { frontmatter, html } = markdownRemark;
   return (
     <div>
       <div style={{ paddingLeft: "340px" }}>
         <div style={{ maxWidth: 1200, padding: "24px", margin: "0 auto" }}>
-          <h1>{frontmatter.title}</h1>
-          <div dangerouslySetInnerHTML={{ __html: html }} />
+          <h1>{markdownRemark.frontmatter.title}</h1>
+          <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
         </div>
       </div>
       <div>
