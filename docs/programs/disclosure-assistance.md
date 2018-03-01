@@ -1,8 +1,6 @@
 ---
 title: "Disclosure Assistance"
 path: "/programs/disclosure-assistance"
-part: "Navigation Overview"
-section: "Directory"
 ---
 
 When a vulnerability is found, it needs to get into the right hands quickly to ensure it'll be resolved safely without public harm. Organizations typically publish a vulnerability disclosure policy with guidance on how they want to receive information related to potential vulnerabilities in their products or online services (see ISO 29147). Some organizations, however, don't have well-defined methods of receiving vulnerability reports from external finders.

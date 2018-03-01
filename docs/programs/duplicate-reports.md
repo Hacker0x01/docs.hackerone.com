@@ -1,6 +1,6 @@
 ---
 title: "Duplicate Reports"
-path: "/programs/rduplicate-reports"
+path: "/programs/duplicate-reports"
 ---
 
 Content.
