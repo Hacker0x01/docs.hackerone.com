@@ -1,6 +1,6 @@
 ---
-title: "Single Sign-On via SAML"
-path: "/programs/sso-via-saml"
+title: "Single Sign-On (SSO) via SAML"
+path: "/programs/single-sign-on-sso-via-saml"
 ---
 
 HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Language 2.0 (SAML 2.0) for these providers:
@@ -56,4 +56,4 @@ Here are some screenshots that provide additional details on Service Provider an
 
 ![saml1](./images/saml_1.png?raw=true)
 
-![saml_2](./images/saml_2.png?raw=true) 
+![saml_2](./images/saml_2.png?raw=true)
