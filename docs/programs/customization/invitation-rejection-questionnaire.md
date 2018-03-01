@@ -1,7 +1,6 @@
 ---
 title: "Invitation Rejection Questionnaire"
 path: "/programs/invitation-rejection-questionnaire"
-part: "Customization"
 ---
 
 # NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.

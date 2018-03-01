@@ -3,7 +3,8 @@ const path = require("path");
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
-  const docsTemplate = path.resolve('./src/templates/docs.js');
+  const programsTemplate = path.resolve('./src/templates/programs.js');
+  const hackersTemplate = path.resolve('./src/templates/hackers.js');
 
   return graphql(`
     {
@@ -16,7 +17,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             html
             frontmatter {
               path
-              part
               title
             }
           }
@@ -29,10 +29,17 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      console.log(node);
+      let template, book;
+      if (node.frontmatter.path.includes("programs/")) {
+        template = programsTemplate;
+      } else if (node.frontmatter.path.includes("hackers/")) {
+        template = hackersTemplate;
+      }
+
       createPage({
         path: node.frontmatter.path,
-        component: docsTemplate,
-        context: {}, // additional data can be passed via context
+        component: template,
       });
     });
   });

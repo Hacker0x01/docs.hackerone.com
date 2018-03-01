@@ -1,8 +1,8 @@
 import React from "react"
 import Link from "gatsby-link"
 
-import SidebarBody from "../../components/sidebar/sidebar"
-import docsSidebar from "./doc-links.yaml"
+import Sidebar from "../../components/sidebar/sidebar"
+import programsNav from "./programs-nav.yaml"
 
 class IndexRoute extends React.Component {
   render() {
@@ -16,7 +16,7 @@ class IndexRoute extends React.Component {
           </div>
         </div>
         <div>
-          <SidebarBody inline yaml={docsSidebar} />
+          <Sidebar links={programsNav} />
         </div>
       </div>
     )

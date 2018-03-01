@@ -2,7 +2,7 @@ import React from "react"
 import Link from "gatsby-link"
 
 import Sidebar from "../components/sidebar/sidebar"
-import docsSidebar from "../pages/hackers/doc-links.yaml"
+import programsNav from "../pages/programs/programs-nav.yaml"
 
 export default function Template({ data }) {
   const { markdownRemark } = data;
@@ -15,14 +15,14 @@ export default function Template({ data }) {
         </div>
       </div>
       <div>
-        <Sidebar inline yaml={docsSidebar} />
+        <Sidebar links={programsNav} />
       </div>
     </div>
   );
 }
 
 export const pageQuery = graphql`
-  query DocByPath($path: String!) {
+  query programsDocByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {

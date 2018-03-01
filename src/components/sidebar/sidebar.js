@@ -39,7 +39,7 @@ const SectionLink = props => {
   return (
     <li className={styles.item} key={item.title}>
       <Link
-        to={item.link}
+        to={item.path}
         activeClassName={styles.linkActive}
         className={styles.link}
       >
@@ -50,13 +50,13 @@ const SectionLink = props => {
   )
 }
 
-class SidebarBody extends React.Component {
+class Sidebar extends React.Component {
   render() {
-    const menu = this.props.yaml
+    const links = this.props.links
 
     return (
       <div className={styles.body}>
-        {menu.map((section, index) => (
+        {links.map((section, index) => (
           <div key={index}>
             <Section
               {...section}
@@ -70,4 +70,4 @@ class SidebarBody extends React.Component {
   }
 }
 
-export default SidebarBody
+export default Sidebar
