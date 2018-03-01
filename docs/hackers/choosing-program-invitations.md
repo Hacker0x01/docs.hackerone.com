@@ -1,6 +1,6 @@
 ---
 title: "Choosing Program Invitations"
-path: "/docs/hackers/choosing-program-invitations"
+path: "/hackers/choosing-program-invitations"
 ---
 
 Content.

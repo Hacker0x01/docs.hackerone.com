@@ -1,6 +1,6 @@
 ---
 title: "Hacker Reviews"
-path: "/docs/hackers/hacker-reviews"
+path: "/hackers/hacker-reviews"
 ---
 
 Content.

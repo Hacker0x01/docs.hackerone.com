@@ -1,6 +1,6 @@
 ---
 title: "Invitations Priority Queue"
-path: "/docs/hackers/invitations-priority-queue"
+path: "/hackers/invitations-priority-queue"
 ---
 
 Content.

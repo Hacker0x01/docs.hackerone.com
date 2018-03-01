@@ -1,6 +1,6 @@
 ---
 title: "Invitation Rejection Questionnaire"
-path: "/docs/hackers/invitation-rejection-questionnaire"
+path: "/hackers/invitation-rejection-questionnaire"
 ---
 
 Content.
