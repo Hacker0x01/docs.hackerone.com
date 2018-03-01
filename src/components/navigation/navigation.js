@@ -22,8 +22,8 @@ export default ({ pathname }) => {
         <img src={logo} className={styles.logoImage} alt="" />
       </Link>
       <ul className={styles.list}>
-        <NavItem linkTo="/docs/">Hackers</NavItem>
-        <NavItem linkTo="/tutorial/">Programs</NavItem>
+        <NavItem linkTo="/hackers/">Hackers</NavItem>
+        <NavItem linkTo="/programs/">Programs</NavItem>
       </ul>
     </div>
   )

@@ -1,13 +1,3 @@
-- title: Test
-  items:
-    - title: Invitation Rejection Questionnaire
-      link: /docs/hackers/invitation-rejection-questionnaire
-    - title: Invitations Priority Queue
-      link: /docs/hackers/invitations-priority-queue
-    - title: Choosing Program Invitations
-      link: /docs/hackers/choosing-program-invitations
-    - title: Hacker Reviews
-      link: /docs/hackers/hacker-reviews
 - title: Customization
   items:
     - title: Policy & Scope
