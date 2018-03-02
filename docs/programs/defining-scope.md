@@ -15,8 +15,8 @@ Your Scope is a collection of assets you want hackers to hack. When assets are l
   * Sort through your reports by asset - differentiate the reports for your mobile app vs your web app.
   * Do data analysis per domain - Is it time to switch your marketing site provider, because all your vulnerabilities stem from that area? Is one particular engineering team responsible for 90% of your Cross-Site Scripting vulnerabilities?
   
- ### To View and Edit your Existing Scope
- To view and edit your existing scope: 
+ ### To Create and Edit your Existing Scope
+To view and edit your existing scope: 
 1. Go to the Scope section in your program's **Settings** > **Program** > **Policy & Scope**.
 
 ![Scope image 1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/Scope1.png?raw=true)
@@ -34,3 +34,4 @@ Eligibility for Submission | Whether you want hackers to submit to reports about
 Eligibility for Bounty | Whether you intend on providing bounties for this Asset or not. If you have a mixed Bug Bounty - Vulnerability Disclosure program, you will want to explicitly mark the assets you will or will not pay for. This is also surfaced to hackers on both your team profile and the report submission form.
 Environmental Score | Adjust the severity of each vulnerability submission based on the Environment by specifying the maximum impact to Confidentiality, Integrity, or Availability of that Asset's data. You can read more about our CVSS implementation here: How does HackerOne recommend determining Severity?
 Instruction | If you have any detail descriptions or comments on the Asset, this field will surface that on both your program profile page and your report submission form.
+4. Click **Add Asset**. 
