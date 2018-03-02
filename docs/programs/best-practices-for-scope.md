@@ -1,6 +1,6 @@
 ---
-title: "Scope Best Practices"
-path: "/programs/scope-best-practices"
+title: "Best Practices for Scope"
+path: "/programs/best-practices-for-scope"
 ---
 * **Provide granularity**
   * The more defined each asset is, the less room there is for misunderstanding. Avoid setting a wildcard to encapsulate different domains into one asset, e.g., keep your `blog.yourprogram.com` distinct from `secure.yourprogram.com`.
