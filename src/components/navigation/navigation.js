@@ -28,11 +28,9 @@ export default ({ pathname }) => {
       <ul className={styles.list}>
         <NavItem
           linkTo="/hackers"
-          isActive={location.pathname.includes('/hackers')}
           title="Hackers" />
         <NavItem
           linkTo="/programs"
-          isActive={location.pathname.includes('/programs')}
           title="Programs" />
       </ul>
     </div>
