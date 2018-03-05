@@ -69,7 +69,8 @@ class Sidebar extends React.Component {
           height: "calc(100vh - 60px)",
           overflowY: "auto",
           display: "flex",
-          flex: "1"
+          flex: "1",
+          position: "fixed",
         }}>
           <nav style={{ flex: 1 }}>
             <div className={styles.body}>
