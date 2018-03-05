@@ -1,5 +1,6 @@
 import React from "react"
 import Link from "gatsby-link"
+import DocSearch from "../docsearch/docsearch"
 import logo from "./logo.svg"
 
 import styles from './navigation.module.css'
@@ -33,6 +34,8 @@ export default ({ pathname }) => {
           linkTo="/programs"
           title="Programs" />
       </ul>
+
+      <DocSearch />
     </div>
   )
 }
