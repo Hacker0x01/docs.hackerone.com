@@ -8,7 +8,7 @@ const NavItem = ({ linkTo, title }) => (
   <li className={styles.item}>
     <Link
         to={linkTo}
-        activeClassName={location.pathname.includes(linkTo) ? styles.linkActive : null}
+        activeClassName={styles.linkActive}
         className={styles.link}
       >
       {title}
