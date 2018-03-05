@@ -55,16 +55,36 @@ class Sidebar extends React.Component {
     const links = this.props.links
 
     return (
-      <div className={styles.body}>
-        {links.map((section, index) => (
-          <div key={index}>
-            <Section
-              {...section}
-              title={section.title}
-              index={index}
-            />
-          </div>
-        ))}
+      <div style={{
+        display: "flex",
+        flexGrow: 0,
+        flexShrink: 0,
+        flexBasis: 300,
+        borderRight: "1px solid #e9e9e9",
+      }}>
+        <div style={{
+          marginLeft: "-999px",
+          paddingLeft: "999px",
+          backgroundColor: "#fff",
+          height: "calc(100vh - 60px)",
+          overflowY: "auto",
+          display: "flex",
+          flex: "1"
+        }}>
+          <nav style={{ flex: 1 }}>
+            <div className={styles.body}>
+              {links.map((section, index) => (
+                <div key={index}>
+                  <Section
+                    {...section}
+                    title={section.title}
+                    index={index}
+                  />
+                </div>
+              ))}
+            </div>
+          </nav>
+        </div>
       </div>
     )
   }

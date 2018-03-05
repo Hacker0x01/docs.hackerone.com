@@ -1,12 +1,5 @@
 .body {
-  background: #fff;
-  border-right: 1px solid #e9e9e9;
-  height: calc(100vh - 60px);
-  overflow-y: auto;
-  padding: 24px 48px;
-  position: fixed;
-  top: 60px;
-  width: 340px;
+  padding: 24px 48px 24px 0;
 }
 
 .section {
@@ -28,6 +21,7 @@
   list-style: none;
   margin: 16px 0;
   padding: 0;
+  word-break: break-word;
 }
 
 .link {

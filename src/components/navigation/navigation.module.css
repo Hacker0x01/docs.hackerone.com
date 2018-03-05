@@ -10,9 +10,9 @@
 }
 
 .wrapper {
+  composes: wrapper from "../../css/utilities.module.css";
   display: flex;
   align-items: center;
-  width: 100%;
   height: 100%;
 }
 
