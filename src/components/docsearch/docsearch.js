@@ -13,7 +13,7 @@ class DocSearch extends React.Component {
     if (window.docsearch) {
       window.docsearch({
         apiKey: 'acfb7def12803db2cd4ac0539b2b571a',
-        indexName: 'hackerone', 
+        indexName: 'hackerone',
         inputSelector: "#algolia-doc-search",
       });
     } else {
@@ -35,6 +35,7 @@ class DocSearch extends React.Component {
           justifyContent: "center",
           paddingLeft: "0.5rem",
           paddingRight: "0.5rem",
+          margin: 0,
         }}>
         <input
           style={{
@@ -42,7 +43,7 @@ class DocSearch extends React.Component {
             background: "transparent",
             border: 0,
             color: "#fff",
-            fontSize: 18,
+            fontSize: 16,
             fontWeight: 300,
             fontFamily: "inherit",
             position: "relative",
