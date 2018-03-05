@@ -60,12 +60,11 @@ class Sidebar extends React.Component {
         flexGrow: 0,
         flexShrink: 0,
         flexBasis: 300,
-        borderRight: "1px solid #e9e9e9",
       }}>
         <div style={{
           marginLeft: "-999px",
           paddingLeft: "999px",
-          backgroundColor: "#fff",
+          backgroundColor: "#f9f9f9",
           height: "calc(100vh - 60px)",
           overflowY: "auto",
           display: "flex",
