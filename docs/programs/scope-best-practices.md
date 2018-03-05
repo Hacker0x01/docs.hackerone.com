@@ -1,7 +1,12 @@
 ---
-title: "Best Practices for Scope"
-path: "/programs/best-practices-for-scope"
+title: "Scope Best Practices"
+path: "/programs/scope-best-practices"
 ---
+
+Well-defined scopes clearly communicate your program's needs and expectations with hackers. This enables hackers to have a better idea around what you would like them to focus on and how they should prioritize their time. 
+
+Here are some practical guidelines to help you define and set up your scope:
+
 * **Provide granularity**
   * The more defined each asset is, the less room there is for misunderstanding. Avoid setting a wildcard to encapsulate different domains into one asset, e.g., keep your `blog.yourprogram.com` distinct from `secure.yourprogram.com`.
 * **List Assets that are out of scope**.
