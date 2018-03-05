@@ -3,7 +3,7 @@ import styles from "../css/utilities.module.css"
 
 const IndexPage = () => {
   return <div>
-    <header style={{ backgroundColor: "#9e9e9e", color: "#fff" }}>
+    <header style={{ backgroundColor: "#676767", color: "#fff" }}>
       <div className={styles.wrapper} style={{
         paddingTop: "95px",
         paddingBottom: "85px",
@@ -23,7 +23,6 @@ const IndexPage = () => {
             display: "flex",
             flexDirection: "column",
             flex: "0 1 50%",
-            marginLeft: 40,
           }}>
             <h1>Hackers</h1>
             <p>
