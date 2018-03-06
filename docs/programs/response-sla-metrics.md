@@ -8,7 +8,7 @@ HackerOne tracks and enables you to define SLA targets for these 4 response SLA 
 Time | Details
 ---- | -------
 Time to first response | The elapsed time from report creation to the first public activity on a report. The first public activity includes adding a public comment, changing the report state, or changing the report severity.
-Time to triage | The elapsed time from when a report is created to when a report is changed to a triaged state. A report can skip the triaged state and move directly to a closed state (e.g. resolved). In this instance, the time to triage will be the elapsed time between report creation and the time the report is resolved.
+Time to triage | The elapsed time from when a report is created to when a report is changed to a triaged state. A report can skip the triaged state and move directly to a closed state (e.g. resolved).
 Time to bounty | *(Bounty programs only)* The elapsed time from when a report is triaged to when a bounty is paid. Only reports that are eligible for a bounty will be tracked as part of this metric. The time to bounty timer will run until the report is either marked as ineligible or closed as a state where it’s not normal to award a bounty (e.g. spam). 
 Time to resolution | The elapsed time between report triaged and report closed. These  five closed report states will stop the timer: resolved, informative, not applicable, duplicate, and spam.
 
@@ -28,7 +28,7 @@ Target | The target responsiveness set by an individual program. Reports are ind
 ### Healthy Response SLA Times
 HackerOne recommends your program to follow the following response SLA times to ensure a healthy program:
 
-Metric | Recommended | Limit 
+Time | Recommended | Limit 
 -------- | ----------- | -----
 Time to first response | 1 day | 5 days 
 Time to triage | 2 days | 10 days 
