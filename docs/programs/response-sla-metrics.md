@@ -3,7 +3,7 @@ title: "Response SLA Metrics"
 path: "/programs/response-sla-metrics"
 ---
 
-HackerOne tracks and enables you to define SLA targets for these 4 response efficiency metrics (timers):
+HackerOne tracks and enables you to define SLA targets for these 4 response efficiency metrics, or also known as timers:
 
 Response Efficiency Metric | Details
 -------------------------- | -------------
@@ -25,8 +25,8 @@ Here are response SLA definitions and best practices to keep in mind when config
 
 Term | Detail
 ----- | ------
-Recommended | The default setting for all new programs. HackerOne's suggesting setting for best practice. 
-Limit | The maximum acceptable response times as defined by HackerOne. For programs which consistently fail to meet HackerOne’s limits, temporary pausing of new report submissions may be suggested.
+Recommended | The default setting for all new programs. HackerOne's suggested setting for best practice. 
+Limit | The maximum acceptable response time as defined by HackerOne. For programs that consistently fail to meet HackerOne’s limits, temporary pausing of new report submissions may be suggested.
 Target | The target responsiveness set by an individual program. Reports are individually denoted if the SLA "missed" or "failed." Program targets can’t be set to exceed the limit.
 
 ### Healthy Program Metrics
@@ -41,7 +41,7 @@ Time to resolution | 30 days | N/A | Customized
 
 *Note: All times above are in business days
 
-FAQs
+### FAQs
 
 Question | Answer
 -------- | --------
