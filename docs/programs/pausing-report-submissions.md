@@ -13,6 +13,6 @@ When you pause report submissions for your program, HackerOne:
 * Communicates this to potential hackers with a message notification on your program's security page.
 * Disables the **Submit Report** button on your security page
 
-Programs can re-enable submissions for their program as long as they don't currently have reports that are failing to meet response SLAs. 
+Programs can re-enable report submissions as long as they don't currently have reports that are failing to meet response SLAs. 
 
 For programs that don't meet response SLA limits, HackerOne may temporarily pause new report submissions for you. When a program fixes all of their failing SLA reports, report submissions will automatically resume. 
