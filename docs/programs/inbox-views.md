@@ -3,7 +3,6 @@ title: "Inbox Views"
 path: "/programs/inbox-views"
 ---
 
-### Customizing Inbox Views
 The administrator of your security team can customize views in your inbox. The administrator can:
 * Add an inbox view
 * Update existing views
@@ -21,3 +20,24 @@ To add a new View:
 6. Type the View name in the **View name** field.
 7. Click **Save view**. 
 
+The changes will be made directly in your inbox. 
+
+### Changing the Order of Views
+To change the order of views:
+1. Go to your program's **Settings > Program > Inbox Views**. 
+2. Click and drag the icon next to the View name to the order you want the View to appear.  
+
+### Removing Views
+To permanently remove a View from your inbox:
+1. In **Settings > Program > Inbox Views**, select **Remove**. A window will pop up confirming whether you want to remove the view. 
+2. Click **Ok**. 
+
+### Showing and Hiding Views
+To show and hide Views: 
+1. In **Settings > Program > Inbox Views**, select **Shown** next to the View you want to hide. The View will then be hidden. *Note: Shown means that the inbox view currently appears in your Inbox.* 
+2. When a View is hidden, select **Hidden** to show the View.
+
+
+*Note: There is a *Preview* section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.* 
+
+![inbox-view](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/inbox-views.png?raw=true)
