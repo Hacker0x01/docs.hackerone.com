@@ -22,4 +22,4 @@ Indicator Type | Criteria
 -------------- | ----------
 Green | All reports meet SLA targets
 Orange | ≥ 5 reports miss SLA targets and there are no fails
-Red | ≥ 1 report fails SLA limit
+Red | ≥ 1 report fails the SLA limit
