@@ -22,7 +22,7 @@ Some response SLA definitions to keep in mind when configuring your program's ta
 Term | Detail
 ----- | ------
 Recommended | The default setting for all new programs. HackerOne's suggested setting for best practice. 
-Limit | The maximum acceptable response time as defined by HackerOne. For programs that don't meet HackerOne’s limits, temporary pausing of new report submissions may be suggested.
+Limit | The maximum acceptable response time as defined by HackerOne. For programs that don't meet HackerOne’s limits, HackerOne may temporarily pause new report submissions on your behalf. When programs address these SLA failing reports, report submissions will automatically resume. 
 Target | The target responsiveness set by an individual program. Reports are individually denoted if the SLA "missed" or "failed." Program targets can’t be set to exceed the limit.
 
 ### Healthy Response SLA Times
