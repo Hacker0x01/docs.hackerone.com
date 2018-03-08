@@ -15,11 +15,14 @@ To start paying hackers:
 6. Click **Manage groups** next to the API identifier to grant reward permissions to various groups.
 7. Select the groups you want to give reward permissions to. By default, the Standard group has Reward permissions. 
 8. Make sure your billing methods have been complete so that there's a way to pay out bounties in **Settings > General > Billing**. 
-9. Go to [this page](https://api.hackerone.com/docs/v1#/programs/bounties) to see the documentation on how to award a bounty. See the code example in cURL and Ruby that'll help you. *Note: the 1337 program ID used in the example below is not real and should be replaced with your own program ID. You can find your program ID in report objects or by asking your HackerOne program manager. 
+9. Configure how to award a bounty. Go to [this page](https://api.hackerone.com/docs/v1#/programs/bounties) to see the documentation on how to award a bounty. See the code example in cURL and Ruby that'll help you. *Note: the 1337 program ID used in the example below is not real and should be replaced with your own program ID. You can find your program ID in report objects or by asking your HackerOne program manager. 
 
 cURL | Ruby
 ---- | ----
 ![cURL](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/bountiesforreportsoutsideofh1-1.png?raw=true) | ![Ruby](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/bountiesforreportsoutsideofh1-2.png?raw=true)
 
- By default, the Standard group has Reward Management permission. If you've created separate groups, please select the groups that apply.
+10. Award the bounty for the hacker. 
 
+After the bounty has been awarded, the hacker will receive an email to claim the bounty. HackerOne will collect the person's tax form before processing the payout. The awarded amount, including your applicable fees, will be deducted from your balance immediately. A resolved dummy report will show up in your Bugs overview, which will help you keep track of the bounties you've paid out.
+
+For technical questions or help with your implementation, please reach out to support@hackerone.com or your HackerOne program manager. 
