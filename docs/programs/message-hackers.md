@@ -3,7 +3,7 @@ title: "Message Hackers"
 path: "/programs/message-hackers"
 ---
 
-It's important to have good communication with hackers as it enables them to know what's going on with your program, which sets clear expectations with them. In order to better communicate with hackers, you can use the Message Hackers feature. 
+It's important to have good communication with hackers as it enables them to know what's going on with your program. In order to communicate any changes or announcements with your hackers, you can use the Message Hackers feature. 
 
 To use the Message Hackers feature:
 1. Go to your program's **Settings > Hacker Management > Message Hackers**. 
