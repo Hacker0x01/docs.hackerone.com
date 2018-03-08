@@ -5,4 +5,5 @@ node_modules
 # Build directory
 public/
 .DS_Store
+npm-debug.log
 yarn-error.log
