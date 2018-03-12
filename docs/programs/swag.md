@@ -7,4 +7,14 @@ You can award a hacker with various swag in addition to or instead of bounties. 
 
 To award a hacker with swag:
 1. Go to **Settings > Program > Rewards > Swag**. 
-2. 
+2. Click **Turn on** to enable your program to reward hackers with swag. 
+3. Go to your inbox and open the report you'd like to award swag for.
+4. Expand the action picker at the bottom of the report above the comment box.
+5. Select **Set award**.
+6. In the next action picker, change **Award** to **Swag** in the drop-down list. 
+7. *(Optional)* Add a comment about the award in the comment box.
+8. Click **Set award**. 
+
+Your program will receive the mailing address and is responsible for fulfillment and delivery to the hacker. 
+
+![swag](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/swag.png?raw=true)
