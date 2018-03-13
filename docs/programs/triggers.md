@@ -14,5 +14,6 @@ To set up triggers:
 
 Once your trigger is set up, when new, incoming reports meet the criteria of your trigger, the apporpriate action will automatically be applied to the report. This will save you time from having to manually respond to every report that comes in. 
 
-![trigger-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/triggers.png?raw=true)
+![trigger-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/triggers-1.png?raw=true)
+
 ![trigger-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/triggers-2.png?raw=true)
