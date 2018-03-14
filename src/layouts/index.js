@@ -4,6 +4,8 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header/header'
 
+import "../fonts/effra.css"
+
 import "../css/main.css"
 import "../css/algolia.css"
 

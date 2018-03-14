@@ -1,7 +1,8 @@
 @import './reset.css';
 
 body {
-background: #fff;
+  background: #fff;
+  font-family: 16px/24px "Effra", sans-serif;
 }
 
 a {

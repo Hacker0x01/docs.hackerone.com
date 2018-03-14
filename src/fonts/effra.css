@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Effra";
+  font-style: normal;
+  font-weight: 600;
+  src: local("#"), url("./effra-heavy.woff") format("woff"),
+}
+
+@font-face {
+  font-family: "Effra";
+  font-style: normal;
+  font-weight: 300;
+  src: local("#"), url("./effra-light.woff") format("woff"),
+}
+
+@font-face {
+  font-family: "Effra";
+  font-style: normal;
+  font-weight: 500;
+  src: local("#"), url("./effra-medium.woff") format("woff"),
+}
+
+@font-face {
+  font-family: "Effra";
+  font-style: normal;
+  font-weight: 400;
+  src: local("#"), url("./effra-regular.woff") format("woff"),
+}
