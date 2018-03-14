@@ -6,7 +6,10 @@ import programsNav from "../pages/programs/programs-nav.yaml"
 export default function Template({ data }) {
   const { markdownRemark } = data;
   return (
-    <Article links={programsNav}>
+    <Article
+        links={programsNav}
+        docOnGithub={`${markdownRemark.frontmatter.path}.md`}
+    >
       <h1>{markdownRemark.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
     </Article>
