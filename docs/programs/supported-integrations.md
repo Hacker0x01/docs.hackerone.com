@@ -20,4 +20,4 @@ HackerOne currently supports these integrations:
 * Trac
 * Zendesk
 
-Don't see your issue tracker listed here? [Let HackerOne know](https://support.hackerone.com/hc/en-us/requests/new), to get that added for you.
+Don't see your issue tracker listed here? [Let HackerOne know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
