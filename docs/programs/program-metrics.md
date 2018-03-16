@@ -37,5 +37,4 @@ Bounty metrics are calculated over a program’s lifetime and set realistic expe
 
 Total bounties paid can be a strong indicator that a bounty program is active and healthy. The mean and median bounty also serve as rough guidance for how much a hacker can expect in return for a valid report. 
 
-
-*Note: Any reports filed by a security team's members will not be reflected in the metrics.
+*Note: Any reports filed by a security team's members will not be reflected in the metrics.*
