@@ -1,6 +1,9 @@
 import React from "react";
 import styles from "../css/utilities.module.css"
 
+import Topic from "../components/topic/topic";
+import Footer from "../components/footer/footer";
+
 const IndexPage = () => {
   return <div>
     <header style={{ backgroundColor: "#676767", color: "#fff" }}>
@@ -18,32 +21,34 @@ const IndexPage = () => {
     </header>
     <section style={{ marginTop: "64px", marginBottom: "64px" }}>
       <div className={styles.wrapper}>
-        <div style={{ display: "flex", flexDirection: "row" }}>
-          <div style={{
-            display: "flex",
-            flexDirection: "column",
-            flex: "0 1 50%",
-          }}>
-            <h1>Hackers</h1>
-            <p>
-              Hello hackers.
-            </p>
-          </div>
+        <div>
+          <h1>Getting started</h1>
+          <p>
+            We can help make your workflow faster and eaier. Here are some tooltips that you might find useful.
+          </p>
+        </div>
 
-          <div style={{
-            display: "flex",
-            flexDirection: "column",
-            flex: "0 1 50%",
-            marginLeft: 40,
-          }}>
-            <h1>Programs</h1>
+        <div style={{ display: "flex", flexDirection: "row" }}>
+          <Topic url="/hackers">
+            <h2>Hackers</h2>
             <p>
-              Hello programs.
+              A complete toolkit designed for hackers to answer any questions
+              about our platform.
             </p>
-          </div>
+          </Topic>
+
+          <Topic url="/programs">
+            <h2>Programs</h2>
+            <p>
+              Anything you need to know about how our platform works and the
+              services we offer.
+            </p>
+          </Topic>
         </div>
       </div>
     </section>
+
+    <Footer />
   </div>;
 };
 
