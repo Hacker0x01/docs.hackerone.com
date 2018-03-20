@@ -11,7 +11,7 @@ When a hacker reports a vulnerability that has already been reported, it's consi
 
 ### Adding a Hacker to the Original Report
 To add the hacker to the original report:
-1) Go to the actions section of the report.
+1) Go to the bottom of the report above the comment box.
 2) Change the action picker to **Close report > Duplicate**. 
 3) Enter the original report number in the **Search report** field, and select the report from the selection list. 
 4) A check box stating **Add *hacker name* to the original report** will show under the **Search report** field. 
