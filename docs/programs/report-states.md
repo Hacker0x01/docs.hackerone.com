@@ -5,6 +5,8 @@ path: "/programs/report-states"
 All reports are either Open or Closed and can be changed to a variety of different states. 
 
 ### Open Report States
+
+When reports haven't been acted on or resolved, they are in an open state. 
 These are the Open report states:
 
 State | Detail
@@ -24,8 +26,8 @@ These are the Closed report states:
 
 State | Detail | Change to Hacker Reputation
 ----- | ------ | ----------------------------
-Resolved | The report is valid and no further dialoge is with the hacker is needed. | Increase +7
+Resolved | The report is valid and no further dialoge is with the hacker is needed. | Increase +7 points
 Informative | The report contains useful information but doesn't warrant an immediate action or a fix. Your program can consider providing an alternative risk assessment or other mitigating factors, and public disclosure is available with mutual agreement. | No change
-Duplicate | This issue has already been reported. Programs can build trust by attributing the issue to its original discovered and linking it to a previous report or include other details about its' discovery. Public disclosure is not available for this state. <br>*Note: If a hacker files a duplicate or public report, their reputation will go down.* | If the hacker submits the original report: <br>Resolved: +2 <br>Not Applicable: -5 <br>Informative: 0
-Not Applicable | The report doesn't contain a valid issue and has no security implications. Security teams should describe why the report was invalid so the hacker can improve. | Decrease -5
-Spam | The report is invalid because the hacker didn't describe a legitimate security vulnerability. You 
+Duplicate | This issue has already been reported. Programs can build trust by attributing the issue to its original discovered and linking it to a previous report or include other details about its' discovery. Public disclosure is not available for this state. <br>*Note: If a hacker files a duplicate or public report, their reputation will go down.* | If the hacker submits the original report:<br>*Resolved*: +2 points<br><br><br>*Not Applicable*: -5 points<br><br>*Informative*: 0
+Not Applicable | The report doesn't contain a valid issue and has no security implications. Security teams should describe why the report was invalid so the hacker can improve. | Decrease -5 points
+Spam | The report is invalid because the hacker didn't describe a legitimate security vulnerability. You should notify HackerOne so additional restrictions can be applied to to the hacker. | Decrease -10 points
