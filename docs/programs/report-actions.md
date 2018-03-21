@@ -73,7 +73,7 @@ To assign a report:
 3) Enter the username of the assignee or the group. 
 4) Click **Assign report**. 
 
-![assign report](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/assign-report.png?raw=true)
+![assign report](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/assign-report.png?raw=true)
 
 ### Set Award
 You can mark that you've rewarded a hacker with swag or a monetary amount through setting awards.
