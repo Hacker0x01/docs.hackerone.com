@@ -1,0 +1,33 @@
+---
+title: "Export Reports"
+path: "/programs/export-reports"
+---
+
+You can download reports as .CSV files to enable you to quickly generate a spreadsheet of selected reports with key details. The .CSV files don't include the comments. The downloaded file provides the:
+
+* Report ID
+* Title
+* Severity rating
+* Severity score
+* State
+* Substate
+* Weakness
+* Time the report was reported
+* Time of first response
+* Time of triage time
+* Time the report was closed
+* Time the hacker was awarded with the award
+* Security member assigned to the report
+* Hacker that submitted the report
+* Bounty 
+* Bonus
+* Whether the report is public or private
+* Reference
+* Reference URL
+* Structured scope
+
+To export reports as a .CSV file:
+1) Select the check box of the reports you'd like to export in your inbox. You can select as many reports as you'd like. 
+2) Click the **Download as CSV** link that appears to download the selected reports. 
+
+![export-reports](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/export-reports.png?raw=true)
