@@ -22,13 +22,13 @@ To request public disclosure:
    Full | Upon public disclosure, the full contents of the report are visible. 
    Limited | Only the summary and timeline of the activity will be visible. Limited disclosure allows for greater control over sensitive or extraneous information. 
    
-
+![public-disclosure-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-2.png?raw=true)
 
 
 
 The diagram illustrates the public disclosure process: 
 
-![public-disclosure]
+![public-disclosure](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure.png?raw=true)
 
 
 
