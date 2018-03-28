@@ -14,15 +14,21 @@ Here's a good example of a summarized disclosure from the Shopify security team:
 ### Requesting Public Disclosure
 To request public disclosure:
 1) Go to the report you want to publicly disclose. 
-2) Select **Request public disclosure** in the action picker at the bottom of the report. 
-3) Select whether you want to disclose the **Full** report or **Limited**. 
+2) Make sure the report is closed. 
+3) Select **Request public disclosure** in the action picker at the bottom of the report. 
+4) Select whether you want to disclose the **Full** report or **Limited**. 
    
    Option | Details
    ------ | -------
    Full | Upon public disclosure, the full contents of the report are visible. 
    Limited | Only the summary and timeline of the activity will be visible. Limited disclosure allows for greater control over sensitive or extraneous information. 
    
+5) *(Optional)* Enter a comment to describe your reasons for public disclosure. 
+6) Click **Post**. 
+   
 ![public-disclosure-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-2.png?raw=true)
+
+
 
 
 
