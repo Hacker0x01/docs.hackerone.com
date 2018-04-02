@@ -3,7 +3,7 @@ title: "Public Disclosure"
 path: "/programs/pulic-disclosure"
 ---
 
-Public disclosure enables you to be transparent about the security vulnerabilities found for your program. HackerOne's public disclosure process balances transparency with control over what information is shared wtih the public.  
+Public disclosure enables you to be transparent about the security vulnerabilities found for your program. HackerOne's public disclosure process balances transparency with control over what information is shared with the public.  
 
 Programs can choose from 3 disclosure settings for programs:
 
@@ -22,12 +22,12 @@ Both hackers and program members can request public disclosure. To request publi
    
    Option | Details
    ------ | -------
-   Full | Upon public disclosure, the full contents of the report are visible including: <ul>Vulnerability information <ul>Summary <ul>Timeline such as comments and attachment<br>*Note: Internal comments are hidden.*  
-   Limited | Only the summary and timeline of the activity will be visible. Limited disclosure allows for greater control over sensitive or extraneous information. 
+   Full | Upon public disclosure, the full contents of the report are visible including:<ul>Vulnerability information</ul><ul>Summary</ul><ul>Timeline such as comments and attachment</ul><br>*Note: Internal comments are hidden.*  
+   Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. 
    
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure. 
-6) Click **Post**. 
-   
+6) Click **Post**.    
+
 ![public-disclosure-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-2.png?raw=true)
 
 After public disclosure has been requested, the admin of the of the program can choose to publicly disclose the report. They can select **Disclose publicly** to disclose the report. 
@@ -36,11 +36,12 @@ After public disclosure has been requested, the admin of the of the program can 
 
 ### Limiting Public Report Information
 
-When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communications between the hacker and the security team from first report to resolution. There are two ways a security teams can limit the information shared: 
+When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communications between the hacker and the security team from first report to resolution. There are two ways a security team can limit the information shared: 
 
 Option | Detail
 ------ | -------
-Redacting 
+Redacting Sensitive Information | You can redact information in your report. In the **Visibility** field in your report, select **Redact**. This will enable you to provide a string to permanently redact the information from your report. ![public-disclosure-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-discloure-4.png?raw=true)
+Limiting Visibility | 
 
 
 * Redacting sensitive information 
