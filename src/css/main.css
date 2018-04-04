@@ -2,7 +2,9 @@
 
 body {
   background: #fff;
-  font-family: 16px/24px "Effra", sans-serif;
+  font-family: "Effra", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 a {
