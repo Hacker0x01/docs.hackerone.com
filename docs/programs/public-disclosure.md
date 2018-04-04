@@ -11,7 +11,7 @@ Option | Detail
 ------ | -------
 Disclosure by Default | The hacker or your security team can request public disclosure for any closed report in your program. If the admin of your program agrees to disclosure, the contents of the report will be made public within 30 days.<br> <br>*This is the default setting for all verified programs*. 
 Disclosure requiring Mutual Agreement | The hacker can request public disclosure for any closed report in your program. If your program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br>*You must request to opt-in to this option.* 
-Disclosure Disabled | Public disclosure is not allowed for any report.
+Disclosure Disabled | Public disclosure isn't allowed for any report.
 
 ### Requesting Public Disclosure
 Both hackers and program members can request public disclosure. To request public disclosure:
