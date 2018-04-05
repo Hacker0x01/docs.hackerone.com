@@ -1,10 +1,10 @@
 import React from 'react'
-import styles from './topic.module.css'
+import './topic.scss'
 
 const Topic = (props) => {
   return <a
     href={props.url}
-    className={styles.wrapper}>
+    className="topic">
     {props.children}
   </a>
 }

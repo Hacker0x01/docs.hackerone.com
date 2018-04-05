@@ -1,0 +1,28 @@
+.search {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  margin: 0;
+}
+
+.search__input {
+  appearance: none;
+  background: #fff;
+  border: 0;
+  border-radius: 4px;
+  width: 200px;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: inherit;
+  position: relative;
+  padding: 8px 16px;
+  transition: width .2s ease-in-out;
+
+  &:focus {
+    width: 300px;
+  }
+}

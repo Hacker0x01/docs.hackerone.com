@@ -1,0 +1,19 @@
+.article {
+  max-width: 1200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.article__inner {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 24px 0 24px 48px;
+}

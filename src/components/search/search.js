@@ -1,10 +1,11 @@
 import React from 'react';
+import "./search.scss";
 
 type State = {
   enabled: boolean,
 };
 
-class DocSearch extends React.Component {
+class Search extends React.Component {
   state = {
     enabled: true,
   };
@@ -26,30 +27,9 @@ class DocSearch extends React.Component {
     const {enabled} = this.state;
 
     return enabled ? (
-      <form
-        style={{
-          display: "flex",
-          flex: "0 0 auto",
-          flexDirection: "row",
-          alignItems: "center",
-          justifyContent: "center",
-          paddingLeft: "0.5rem",
-          paddingRight: "0.5rem",
-          margin: 0,
-        }}>
+      <form className="search">
         <input
-          style={{
-            appearance: "none",
-            background: "#fff",
-            border: 0,
-            borderRadius: 4,
-            width: 200,
-            fontSize: 16,
-            fontWeight: 300,
-            fontFamily: "inherit",
-            position: "relative",
-            padding: "8px 16px",
-          }}
+          className="search__input"
           id="algolia-doc-search"
           type="search"
           placeholder="Search docs"
@@ -60,4 +40,4 @@ class DocSearch extends React.Component {
   }
 }
 
-export default DocSearch;
+export default Search;

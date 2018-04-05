@@ -1,16 +1,16 @@
 import React from "react"
 import Link from "gatsby-link"
-import DocSearch from "../docsearch/docsearch"
+import Search from "../search/search"
 import logo from "./logo.svg"
 
-import styles from './navigation.module.css'
+import './navigation.scss'
 
 const NavItem = ({ linkTo, title }) => (
-  <li className={styles.item}>
+  <li className="navigation__item">
     <Link
         to={linkTo}
-        activeClassName={styles.linkActive}
-        className={styles.link}
+        activeClassName="navigation__link--active"
+        className="navigation__link"
       >
       {title}
     </Link>
@@ -19,14 +19,14 @@ const NavItem = ({ linkTo, title }) => (
 
 export default ({ pathname }) => {
   return (
-    <div role="navigation" className={styles.wrapper}>
+    <div role="navigation" className="navigation__wrapper">
       <Link
         to="/"
-        className={styles.logo}
+        className="navigation__logo"
       >
-        <img src={logo} className={styles.logoImage} alt="" />
+        <img src={logo} className="navigation__logo-image" alt="" />
       </Link>
-      <ul className={styles.list}>
+      <ul className="navigation__list">
         <NavItem
           linkTo="/hackers"
           title="Hackers" />
@@ -35,7 +35,7 @@ export default ({ pathname }) => {
           title="Programs" />
       </ul>
 
-      <DocSearch />
+      <Search />
     </div>
   )
 }

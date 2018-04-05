@@ -1,4 +1,4 @@
-.wrapper {
+.topic {
   display: flex;
   flex-direction: column;
   flex: 0 1 1;
@@ -12,11 +12,11 @@
   text-decoration: none;
 }
 
-.wrapper + .wrapper {
+.topic + .topic {
   margin-left: 40px;
 }
 
-.wrapper:hover {
+.topic:hover {
   border-color: #d3d9e8;
   box-shadow: 0 2px 4px rgba(211, 217, 232, .66);
 }

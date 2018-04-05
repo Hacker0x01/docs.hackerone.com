@@ -1,8 +1,8 @@
 import React from "react";
-import styles from "../css/utilities.module.css"
-
 import Topic from "../components/topic/topic";
 import Footer from "../components/footer/footer";
+
+import styles from "../css/utilities.module.css"
 
 const IndexPage = () => {
   return <div>

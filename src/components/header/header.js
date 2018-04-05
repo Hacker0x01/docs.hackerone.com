@@ -1,10 +1,10 @@
 import React from 'react'
 import Navigation from '../navigation/navigation'
 
-import styles from './header.module.css'
+import './header.scss'
 
 const Header = () => (
-  <div className={styles.wrapper}>
+  <div className="header">
     <Navigation />
   </div>
 )

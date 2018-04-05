@@ -1,11 +1,11 @@
 import React from "react"
 import Link from "gatsby-link"
 
-import styles from "./sidebar.module.css"
+import "./sidebar.scss"
 
 const Section = props => (
-  <div className={styles.section}>
-    <h3 className={styles.title}>
+  <div className="sidebar__section">
+    <h3 className="sidebar__title">
       {props.title}
     </h3>
     <SectionLinks {...props} title={props.title} />
@@ -14,7 +14,7 @@ const Section = props => (
 
 const SectionLinks = props => {
   return (
-    <ul className={styles.items}>
+    <ul className="sidebar__items">
       {props.items.map((item, index) => (
         <SectionLink
           node={item}
@@ -37,15 +37,15 @@ const SectionLink = props => {
   const item = props.node
 
   return (
-    <li className={styles.item} key={item.title}>
+    <li className="sidebar__item" key={item.title}>
       {item.path ? <Link
         to={item.path}
-        activeClassName={styles.linkActive}
-        className={styles.link}
+        activeClassName="sidebar__link--active"
+        className="sidebar__link"
       >
         {item.title}
-      </Link> : <span className={styles.linkDisabled}>{item.title}</span>}
-      {childnodes ? <ul className={styles.subItems}>{childnodes}</ul> : null}
+      </Link> : <span className="sidebar__link--disabled">{item.title}</span>}
+      {childnodes ? <ul className="sidebar__sub-items">{childnodes}</ul> : null}
     </li>
   )
 }
@@ -55,35 +55,19 @@ class Sidebar extends React.Component {
     const links = this.props.links
 
     return (
-      <div style={{
-        display: "flex",
-        flexGrow: 0,
-        flexShrink: 0,
-        flexBasis: 300,
-      }}>
-        <div style={{
-          marginLeft: "-999px",
-          paddingLeft: "999px",
-          backgroundColor: "#f9f9f9",
-          height: "calc(100vh - 60px)",
-          overflowY: "auto",
-          display: "flex",
-          flex: "1",
-          position: "fixed",
-        }}>
-          <nav style={{ flex: 1 }}>
-            <div className={styles.body}>
-              {links.map((section, index) => (
-                <div key={index}>
-                  <Section
-                    {...section}
-                    title={section.title}
-                    index={index}
-                  />
-                </div>
-              ))}
-            </div>
-          </nav>
+      <div className="sidebar">
+        <div className="sidebar__wrapper">
+          <div className="sidebar__body">
+            {links.map((section, index) => (
+              <div key={index}>
+                <Section
+                  {...section}
+                  title={section.title}
+                  index={index}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     )
