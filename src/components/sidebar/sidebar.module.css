@@ -40,6 +40,12 @@
   font-weight: 500;
 }
 
+.linkDisabled {
+  composes: link;
+  opacity: .15;
+  cursor: not-allowed;
+}
+
 .title {
   font-size: 14px;
   color: #9e9e9e;

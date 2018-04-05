@@ -1,45 +1,72 @@
 -
   items:
     - title: Getting Started
-- title: TIPS
+      # path: /programs/getting-started
+- title: Tips
   items:
     - title: Communicating with Hackers
+      path: /programs/communicating-with-hackers
     - title: Scope Best Practices
+      path: /programs/scope-best-practices
     - title: Good Policies
-    - title: Reports Received Outside of HackerOne
-- title: YOUR PROGRAM
+      path: /programs/good-policies
+    - title: Bounties for Reports Outside of HackerOne
+      path: /programs/bounties-for-reports-outside-of-hackerone
+- title: Your program
   items:
     - title: Defining Scope
-    - title: Good Policies
+      path: /programs/defining-scope
     - title: Submit Report Form
+      path: /programs/submit-report-form
     - title: Response SLA
+      path: /programs/response-slas
     - title: Email Forwarding
+      path: /programs/email-forwarding
     - title: Asset Types
+      path: /programs/asset-types
     - title: Create Custom User Groups
-- title: REPORTS
+      path: /programs/create-custom-user-groups
+- title: Reports
   items:
     - title: Human-Augmented Signal
+      path: /programs/human-augmented-signal
     - title: Disclosure Assistance
+      path: /programs/disclosure-assistance
     - title: Common Responses
+      path: /programs/common-responses
     - title: Triggers
-    - title: Integrations
-- title: SECURITY
+      path: /programs/triggers
+    - title: Supported Integrations
+      path: /programs/supported-integrations
+- title: Security
   items:
-    - title: Single Sign-On via SAML
+    - title: Single Sign-On (SSO) via SAML
+      path: /programs/single-sign-on-sso-via-saml
     - title: Two-Factor Authentication
-- title: NAVIGATION
+      # path: /programs/two-factor-authentication
+- title: Navigation
   items:
     - title: Inbox
+      # path: /programs/inbox
     - title: Hacktivity
+      path: /programs/hacktivity
     - title: Directory
+      # path: /programs/directory
     - title: Dashboard
+      path: /programs/dashboard
     - title: Settings
-- title: HACKERS
+      # path: /programs/settings
+- title: Hackers
   items:
     - title: Signal
+      # path: /programs/signal
     - title: Message Hackers
-- title: PAYMENTS
+      path: /programs/message-hackers
+- title: Payments
   items:
     - title: Billing
+      # path: /programs/billing
     - title: Credit Card
+      # path: /programs/credit-card
     - title: Rewards
+      # path: /programs/rewards

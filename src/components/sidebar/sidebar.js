@@ -38,13 +38,13 @@ const SectionLink = props => {
 
   return (
     <li className={styles.item} key={item.title}>
-      <Link
+      {item.path ? <Link
         to={item.path}
         activeClassName={styles.linkActive}
         className={styles.link}
       >
         {item.title}
-      </Link>
+      </Link> : <span className={styles.linkDisabled}>{item.title}</span>}
       {childnodes ? <ul className={styles.subItems}>{childnodes}</ul> : null}
     </li>
   )
