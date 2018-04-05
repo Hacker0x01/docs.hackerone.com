@@ -40,14 +40,15 @@ class DocSearch extends React.Component {
         <input
           style={{
             appearance: "none",
-            background: "transparent",
+            background: "#fff",
             border: 0,
-            color: "#fff",
+            borderRadius: 4,
+            width: 200,
             fontSize: 16,
             fontWeight: 300,
             fontFamily: "inherit",
             position: "relative",
-            padding: "5px",
+            padding: "8px 16px",
           }}
           id="algolia-doc-search"
           type="search"
