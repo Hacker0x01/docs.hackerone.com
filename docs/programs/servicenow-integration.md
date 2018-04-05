@@ -1,0 +1,25 @@
+---
+title: "ServiceNow Integration"
+path: "/programs/servicenow-integration"
+---
+
+With ServiceNow integration, HackerOne makes it easy for you to track ServiceNow issues as references on the platform.
+
+In order to configure ServiceNow integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+
+<li> The base URI of the ServiceNow instance (e.g. https://company.service-now.com/)
+<li> Whether you use “Description” or “Additional Comments” for more details
+<li> Category (the “choice value”) you’d like issues to default to
+<li> Any other custom/specific fields you’d like pre-populated such as: contact type, subcategory, priority, caller, assignment group
+
+With all of the provided information, HackerOne will be able to set up your requested integration. As ServiceNow is highly customizable, HackerOne may need to set up a discussion to set your integration so it works best for your team. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
+
+### How the Integration Works
+After your ServiceNow integration has been set up:
+1. Change the action picker to **Change state > Triaged** in your report. 
+
+![integrations](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/integrations.png?raw=true)
+
+2. Click **Escalate**.
+3. You’ll be taken to your ServiceNow account where the report is pre-populated. Submit the issue to create the report in ServiceNow.
+4. Copy the ServiceNow report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in ServiceNow.  
