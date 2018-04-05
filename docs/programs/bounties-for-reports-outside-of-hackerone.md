@@ -2,7 +2,8 @@
 title: "Bounties for Reports Outside of HackerOne"
 path: "/programs/bounties-for-reports-outside-of-hackerone"
 ---
-When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. The API endpoint isn't for awarding bounties for reports on HackerOne itself, but is only for reports that are reported outside of HackerOne. 
+
+When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. This option is only available in HackerOne Professional, HackerOne Enterprise, and HackerOne Community Edition. This API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 
 *Note: This option is only available for HackerOne Professional, Enterprise, and Community editions. 
 
