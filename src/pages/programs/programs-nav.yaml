@@ -1,94 +1,45 @@
-- title: Welcome
+-
   items:
     - title: Getting Started
-      path: /programs/getting-started
-    - title: Tool Tips
-      path: /programs/tool-tips
-      items:
-        - title: Communicating with Hackers
-          path: /programs/communicating-with-hackers
-- title: Navigation
+- title: TIPS
   items:
+    - title: Communicating with Hackers
+    - title: Scope Best Practices
+    - title: Good Policies
+    - title: Reports Received Outside of HackerOne
+- title: YOUR PROGRAM
+  items:
+    - title: Defining Scope
+    - title: Good Policies
+    - title: Submit Report Form
+    - title: Response SLA
+    - title: Email Forwarding
+    - title: Asset Types
+    - title: Create Custom User Groups
+- title: REPORTS
+  items:
+    - title: Human-Augmented Signal
+    - title: Disclosure Assistance
+    - title: Common Responses
+    - title: Triggers
+    - title: Integrations
+- title: SECURITY
+  items:
+    - title: Single Sign-On via SAML
+    - title: Two-Factor Authentication
+- title: NAVIGATION
+  items:
+    - title: Inbox
     - title: Hacktivity
-      path: /programs/hacktivity
     - title: Directory
-      path: /programs/directory
-      items:
-        - title: Disclosure Assistance
-          path: /programs/disclosure-assistance
+    - title: Dashboard
     - title: Settings
-      path: /programs/settings
-      items:
-        - title: General
-          items:
-            - title: Authentication
-              items:
-                - title: Single Sign-On via SAML
-                  path: /programs/single-sign-on-sso-via-saml
-                - title: Two-Factor Authentication
-                  path: /programs/two-factor-authentication
-            - title: Group Management
-              items:
-                - title: Create Custom User Groups
-                  path: /programs/create-custom-user-groups
-            - title: Billing
-              items:
-                - title: Payments
-                  path: /programs/payments
-                - title: Awarding a Bonus
-                  path: /programs/awarding-a-bonus
-        - title: Customization
-          items:
-            - title: Policy Scope
-              items:
-                - title: Defining Scope
-                  path: /programs/defining-scope
-                - title: Scope Best Practices
-                  path: /programs/scope-best-practices
-                - title: Asset Types
-                  path: /programs/asset-types
-                - title: Good Policies
-                  path: /programs/good-policies
-            - title: Submit Report Form
-              path: /programs/submit-report-form
-              items:
-                - title: Pausing Report Submissions
-                  path: /programs/pausing-report-submissions
-            - title: Response SLA
-              path: /programs/response-sla
-              items:
-                - title: Response SLA Metrics
-                  path: /programs/response-sla-metrics
-                - title: Setting Response SLAs
-                  path: /programs/setting-response-slas
-            - title: Inbox Views
-              path: /programs/inbox-views
-        - title: Hacker Management
-          items:
-            - title: Email Forwarding
-              path: /programs/email-forwarding
-            - title: Signal
-              items:
-                - title: Signal Requirements
-                  path: /programs/signal-requirements
-                - title: Human-Augmented Signal
-                  path: /programs/human-augmented-signal
-            - title: Message Hackers
-              path: /programs/message-hackers
-        - title: Rewards
-          items:
-            - title: Bounties
-              items:
-                - title: Reports Received Outside of HackerOne
-                  path: /programs/reports-received-outside-of-hackerone
-                - title: Awarding Bounties
-                  path: /programs/awarding-bounties
-            - title: Swag
-              path: /programs/swag
-        - title: Automation
-          items:
-            - title: Common Responses
-              path: /programs/common-responses
-            - title: Triggers
-              path: /programs/triggers
-            - title: Integrations
+- title: HACKERS
+  items:
+    - title: Signal
+    - title: Message Hackers
+- title: PAYMENTS
+  items:
+    - title: Billing
+    - title: Credit Card
+    - title: Rewards
