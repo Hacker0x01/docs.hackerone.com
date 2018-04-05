@@ -1,10 +1,10 @@
-import React from "react"
-import Link from "gatsby-link"
-import Article from "../components/article/article"
-import hackersNav from "../pages/hackers/hackers-nav.yaml"
+import React from 'react'
+import Link from 'gatsby-link'
+import Article from '../components/article/article'
+import hackersNav from '../pages/hackers/hackers-nav.yaml'
 
 export default function Template({ data }) {
-  const { markdownRemark } = data;
+  const { markdownRemark } = data
   return (
     <Article
       links={hackersNav}
@@ -13,7 +13,7 @@ export default function Template({ data }) {
       <h1>{markdownRemark.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
     </Article>
-  );
+  )
 }
 
 export const pageQuery = graphql`
@@ -26,4 +26,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

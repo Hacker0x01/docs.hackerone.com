@@ -1,32 +1,32 @@
-import React from 'react';
+import React from 'react'
 
-import "./search.scss";
-import "./algolia.css"
+import './search.scss'
+import './algolia.css'
 
 type State = {
   enabled: boolean,
-};
+}
 
 class Search extends React.Component {
   state = {
     enabled: true,
-  };
+  }
 
   componentDidMount() {
     if (window.docsearch) {
       window.docsearch({
         apiKey: 'acfb7def12803db2cd4ac0539b2b571a',
         indexName: 'hackerone',
-        inputSelector: "#algolia-doc-search",
-      });
+        inputSelector: '#algolia-doc-search',
+      })
     } else {
-      console.warn('Search has failed to load and now is being disabled');
-      this.setState({enabled: false});
+      console.warn('Search has failed to load and now is being disabled')
+      this.setState({ enabled: false })
     }
   }
 
   render() {
-    const {enabled} = this.state;
+    const { enabled } = this.state
 
     return enabled ? (
       <form className="search">
@@ -38,8 +38,8 @@ class Search extends React.Component {
           aria-label="Search docs"
         />
       </form>
-    ) : null;
+    ) : null
   }
 }
 
-export default Search;
+export default Search
