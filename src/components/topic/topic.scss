@@ -1,3 +1,8 @@
+.topics {
+  display: flex;
+  flex-direction: row;
+}
+
 .topic {
   display: flex;
   flex-direction: column;
@@ -10,6 +15,10 @@
   transition: box-shadow .25s ease-in-out, border-color .25s ease-in-out;
   color: #585858;
   text-decoration: none;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .topic + .topic {

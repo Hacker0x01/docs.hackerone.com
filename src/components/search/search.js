@@ -1,5 +1,7 @@
 import React from 'react';
+
 import "./search.scss";
+import "./algolia.css"
 
 type State = {
   enabled: boolean,

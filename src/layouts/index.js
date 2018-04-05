@@ -4,9 +4,8 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header/header'
 
-import "../fonts/effra.css"
-import "../css/main.css"
-import "../css/algolia.css"
+import "../fonts/effra.scss"
+import "../css/main.scss"
 
 const TemplateWrapper = ({ children }) => (
   <div>
@@ -18,7 +17,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
-    <div style={{ paddingTop: 60 }}>
+    <div className="wrapper">
       {children()}
     </div>
   </div>

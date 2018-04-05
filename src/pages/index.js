@@ -2,16 +2,10 @@ import React from "react";
 import Topic from "../components/topic/topic";
 import Footer from "../components/footer/footer";
 
-import styles from "../css/utilities.module.css"
-
 const IndexPage = () => {
   return <div>
-    <header style={{ backgroundColor: "#676767", color: "#fff" }}>
-      <div className={styles.wrapper} style={{
-        paddingTop: "95px",
-        paddingBottom: "85px",
-        textAlign: "center"
-      }}>
+    <header className="hero">
+      <div className="hero__wrapper">
         <h1>Welcome to HackerOne's Product Documentation Center</h1>
         <p>
           You'll find comprehensive guides and documentation to help you start
@@ -19,8 +13,9 @@ const IndexPage = () => {
         </p>
       </div>
     </header>
-    <section style={{ marginTop: "64px", marginBottom: "64px" }}>
-      <div className={styles.wrapper}>
+
+    <section className="homepage-content">
+      <div className="homepage-content__wrapper">
         <div>
           <h1>Getting started</h1>
           <p>
@@ -28,7 +23,7 @@ const IndexPage = () => {
           </p>
         </div>
 
-        <div style={{ display: "flex", flexDirection: "row" }}>
+        <div className="topics">
           <Topic url="/hackers">
             <h2>Hackers</h2>
             <p>
