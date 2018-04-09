@@ -3,19 +3,18 @@ title: "Getting Started"
 path: "/programs/getting-started"
 ---
 
-Congratulations on deciding to set up your vulnerability disclosure program on HackerOne! Here are the steps that will get you up and running:
+Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:
 
-Go to hackerone.com
-click sign up
-fill out the info - must fill out all fields
-click create program
-confirmation email will be sent. click **Confirm email address**. 
-select the type of program you'd like to launch 
+1. Go to hackerone.com.
+2. Click Sign Up.
+3. Fill out all fields on the form.
+4. Click **Create Program**. 
+5. A confirmation email will be sent asking you to confirm your email address. Go to your email and click **Confirm email address**. 
+6. You'll be taken to a page where you can select the type of program you'd like to launch. You can choose from:
+   
+   Option | Detail
+   ------ | -------
+   HackerOne Response | A platform for organizations to receive and resolve security vulnerability reports from external third parties. A private vulnerability disclosure program.  
+   HackerOne Bounty | A continuous security program in which trusted hackers are incentivized to find critical vulnerabilities. 
 
 ![getting-started-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/getting-started-1.png?raw=true)
-
-If you click Bounty - need to go through the steps for setting up bounty program
-
-If you click Response - it'll take you to the Setup Guide
-
-![getting-started-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/getting-started-2.png?raw=true)
