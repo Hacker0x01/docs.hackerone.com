@@ -1,72 +1,72 @@
 -
   items:
     - title: Getting Started
-      path: /programs/getting-started
+      path: /programs/getting-started/
 - title: Tips
   items:
     - title: Communicating with Hackers
-      path: /programs/communicating-with-hackers
+      path: /programs/communicating-with-hackers/
     - title: Scope Best Practices
-      path: /programs/scope-best-practices
+      path: /programs/scope-best-practices/
     - title: Good Policies
-      path: /programs/good-policies
+      path: /programs/good-policies/
     - title: Bounties for Reports Outside of HackerOne
-      path: /programs/bounties-for-reports-outside-of-hackerone
+      path: /programs/bounties-for-reports-outside-of-hackerone/
 - title: Your program
   items:
     - title: Defining Scope
-      path: /programs/defining-scope
+      path: /programs/defining-scope/
     - title: Submit Report Form
-      path: /programs/submit-report-form
+      path: /programs/submit-report-form/
     - title: Response SLA
-      path: /programs/response-slas
+      path: /programs/response-slas/
     - title: Email Forwarding
-      path: /programs/email-forwarding
+      path: /programs/email-forwarding/
     - title: Asset Types
-      path: /programs/asset-types
+      path: /programs/asset-types/
     - title: Create Custom User Groups
-      path: /programs/create-custom-user-groups
+      path: /programs/create-custom-user-groups/
 - title: Reports
   items:
     - title: Human-Augmented Signal
-      path: /programs/human-augmented-signal
+      path: /programs/human-augmented-signal/
     - title: Disclosure Assistance
-      path: /programs/disclosure-assistance
+      path: /programs/disclosure-assistance/
     - title: Common Responses
-      path: /programs/common-responses
+      path: /programs/common-responses/
     - title: Triggers
-      path: /programs/triggers
+      path: /programs/triggers/
     - title: Supported Integrations
-      path: /programs/supported-integrations
+      path: /programs/supported-integrations/
 - title: Security
   items:
     - title: Single Sign-On (SSO) via SAML
-      path: /programs/single-sign-on-sso-via-saml
+      path: /programs/single-sign-on-sso-via-saml/
     - title: Two-Factor Authentication
-      path: /programs/two-factor-authentication
+      path: /programs/two-factor-authentication/
 - title: Navigation
   items:
     - title: Inbox
-      path: /programs/inbox
+      path: /programs/inbox/
     - title: Hacktivity
-      path: /programs/hacktivity
+      path: /programs/hacktivity/
     - title: Directory
-      path: /programs/directory
+      path: /programs/directory/
     - title: Dashboard
-      path: /programs/dashboard
+      path: /programs/dashboard/
     - title: Settings
-      path: /programs/settings
+      path: /programs/settings/
 - title: Hackers
   items:
     - title: Signal
-      path: /programs/signal
+      path: /programs/signal/
     - title: Message Hackers
-      path: /programs/message-hackers
+      path: /programs/message-hackers/
 - title: Payments
   items:
     - title: Billing
-      path: /programs/billing
+      path: /programs/billing/
     - title: Credit Card
-      path: /programs/credit-card
+      path: /programs/credit-card/
     - title: Rewards
-      path: /programs/rewards
+      path: /programs/rewards/
