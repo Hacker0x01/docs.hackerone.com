@@ -40,7 +40,7 @@ class IndexRoute extends React.Component {
     return (
       <div className="article">
         <Sidebar
-          defaultActiveSection={findSectionByPath(location.pathname, this.props.links)}
+          defaultActiveSection={findSectionByPath(window.location.pathname, this.props.links)}
           links={this.props.links} />
         <article className="article__inner">
           {this.props.children}
