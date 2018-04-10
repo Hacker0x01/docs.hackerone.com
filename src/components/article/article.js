@@ -31,14 +31,6 @@ const findSectionByPath = (pathname, sections) => {
 };
 
 class IndexRoute extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      location: window.location.pathname,
-    }
-  }
-
   render() {
     const { links } = this.props;
     const githubRepo =
