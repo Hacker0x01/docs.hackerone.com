@@ -1898,6 +1898,10 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
+classnames@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.5.tgz#fb3801d453467649ef3603c7d61a02bd129bde6d"
+
 cli-boxes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/cli-boxes/-/cli-boxes-1.0.0.tgz#4fa917c3e59c94a004cd61f8ee509da651687143"
@@ -9136,6 +9140,10 @@ slice-ansi@1.0.0:
   resolved "https://registry.yarnpkg.com/slice-ansi/-/slice-ansi-1.0.0.tgz#044f1a49d8842ff307aad6b505ed178bd950134d"
   dependencies:
     is-fullwidth-code-point "^2.0.0"
+
+slugify@^1.2.9:
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/slugify/-/slugify-1.2.9.tgz#c3d518f5136b3c69345d5d0bbbcde7412b5694aa"
 
 snapdragon-node@^2.0.1:
   version "2.1.1"

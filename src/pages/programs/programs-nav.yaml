@@ -1,7 +1,7 @@
 -
   items:
     - title: Getting Started
-      # path: /programs/getting-started
+      path: /programs/getting-started
 - title: Tips
   items:
     - title: Communicating with Hackers
@@ -43,30 +43,30 @@
     - title: Single Sign-On (SSO) via SAML
       path: /programs/single-sign-on-sso-via-saml
     - title: Two-Factor Authentication
-      # path: /programs/two-factor-authentication
+      path: /programs/two-factor-authentication
 - title: Navigation
   items:
     - title: Inbox
-      # path: /programs/inbox
+      path: /programs/inbox
     - title: Hacktivity
       path: /programs/hacktivity
     - title: Directory
-      # path: /programs/directory
+      path: /programs/directory
     - title: Dashboard
       path: /programs/dashboard
     - title: Settings
-      # path: /programs/settings
+      path: /programs/settings
 - title: Hackers
   items:
     - title: Signal
-      # path: /programs/signal
+      path: /programs/signal
     - title: Message Hackers
       path: /programs/message-hackers
 - title: Payments
   items:
     - title: Billing
-      # path: /programs/billing
+      path: /programs/billing
     - title: Credit Card
-      # path: /programs/credit-card
+      path: /programs/credit-card
     - title: Rewards
-      # path: /programs/rewards
+      path: /programs/rewards

@@ -1,18 +1,29 @@
 import React from 'react'
 import Link from 'gatsby-link'
-
+import classNames from 'classnames';
 import './sidebar.scss'
 
-const Section = props => (
-  <div className="sidebar__section">
-    <h3 className="sidebar__title">{props.title}</h3>
-    <SectionLinks {...props} title={props.title} />
-  </div>
-)
+const Section = props => {
+  return (
+    <div className="sidebar__section">
+      <h3
+        className="sidebar__title"
+        onClick={props.onSectionTitleClick}
+      >
+        {props.title}
+      </h3>
+      <SectionLinks {...props} title={props.title} />
+    </div>
+  );
+}
 
 const SectionLinks = props => {
+  const classes = classNames("sidebar__items", {
+    "sidebar__items--active": props.isActive
+  });
+
   return (
-    <ul className="sidebar__items">
+    <ul className={classes}>
       {props.items.map((item, index) => (
         <SectionLink node={item} children={item.items} key={index} />
       ))}
@@ -49,6 +60,20 @@ const SectionLink = props => {
 }
 
 class Sidebar extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      activeSection: props.defaultActiveSection,
+    }
+  }
+
+  toggleSection(section) {
+    this.setState(state => ({
+      activeSection: this.state.activeSection === section ? null : section,
+    }))
+  }
+  
   render() {
     const links = this.props.links
 
@@ -56,11 +81,20 @@ class Sidebar extends React.Component {
       <div className="sidebar">
         <div className="sidebar__wrapper">
           <div className="sidebar__body">
-            {links.map((section, index) => (
-              <div key={index}>
-                <Section {...section} title={section.title} index={index} />
-              </div>
-            ))}
+            {links.map((section, index) => {
+              console.log("aab", section, this.props.activeSection === section);
+              return (
+                <div key={index}>
+                  <Section
+                    {...section}
+                    onSectionTitleClick={() => this.toggleSection(section)}
+                    isActive={this.state.activeSection === section || section.items.length === 1}
+                    title={section.title}
+                    index={index} />
+                </div>
+              );
+            }
+          )}
           </div>
         </div>
       </div>
