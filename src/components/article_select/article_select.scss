@@ -1,0 +1,15 @@
+$desktop-width: 300px;
+$tablet-width: 200px;
+
+.article-select {
+  background: #fff;
+  border-radius: 4px;
+  width: 200px;
+  font-size: 16px;
+  padding: 8px 16px;
+  margin-bottom: 24px;
+
+  @media (min-width: 768px) {
+    display: none;
+  }
+}

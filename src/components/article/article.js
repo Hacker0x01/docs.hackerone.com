@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, withPrefix } from 'gatsby-link'
 
 import Sidebar from '../../components/sidebar/sidebar'
+import ArticleSelect from '../../components/article_select/article_select'
 import './article.scss'
 
 const findSectionByPath = (pathname, sections) => {
@@ -41,6 +42,8 @@ class IndexRoute extends React.Component {
         />
 
         <article className="article__inner">
+          <ArticleSelect links={links} />
+
           {this.props.children}
           {this.props.docOnGithub ? (
             <div className="footer__inner">

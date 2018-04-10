@@ -1,6 +1,18 @@
+$desktop-width: 300px;
+$tablet-width: 200px;
+
 .sidebar {
-  display: flex;
-  flex: 0 0 300px;
+  display: none;
+
+  @media (min-width: 768px) {
+    display: block;
+    flex: 0 0 $tablet-width;
+  }
+
+  @media (min-width: 900px) {
+    display: block;
+    flex: 0 0 $desktop-width;
+  }
 }
 
 .sidebar__wrapper {
@@ -16,8 +28,16 @@
 
 .sidebar__body {
   padding: 24px 48px 24px 0;
-  width: 300px;
   flex: 1;
+
+  @media (min-width: 768px) {
+    width: $tablet-width;
+  }
+
+  @media (min-width: 900px) {
+    width: $desktop-width;
+  }
+
 }
 
 .sidebar__section {

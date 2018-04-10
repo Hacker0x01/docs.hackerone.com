@@ -15,5 +15,9 @@
   flex-basis: auto;
   justify-content: flex-start;
   align-items: stretch;
-  padding: 24px 0 24px 48px;
+  padding: 24px 0;
+
+  @media (min-width: 768px) {
+    padding: 24px 0 24px 48px;
+  }
 }
