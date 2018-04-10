@@ -5,16 +5,20 @@ import slugify from 'slugify'
 import Sidebar from '../../components/sidebar/sidebar'
 import './article.scss'
 
+const replacePlace = (path) => {
+  path.replace("docs.hackerone.com/", "");
+}
+
 const findSectionByPath = (pathname, sections) => {
   let match
   let activeSection
-
+  
   sections.forEach(section => {
     const match = section.items.some(
       item =>
-        pathname.replace("docs.hackerone.com/", "") === item.path ||
+        replacePlace(pathname) === item.path ||
         (item.items &&
-          item.items.some(subitem => pathname === subitem.path))
+          item.items.some(subitem => replacePlace(pathname) === subitem.path))
     )
 
     if (match) {
