@@ -8,7 +8,7 @@ HackerOne is the #1 hacker-powered security platform that helps organizations fi
 HackerOne offers 3 different products that you can choose from: 
 * [HackerOne Response](###HackerOne-Response)
 * [HackerOne Challenge](###HackerOne-Challenge)
-* HackerOne Bounty
+* [HackerOne Bounty](###HackerOne-Bounty)
 
 ### HackerOne Response
 Organizations receive vulnerability reports discovered by third-party hackers, free of charge. Security reports are ensured to end up in front of infosec professionals while minimizing the chances that vulnerabilities are disclosed through unsuitable channels like social media.
