@@ -27,12 +27,14 @@ const findSectionByPath = (pathname, sections) => {
     }
   });
 
-  console.log(activeSection);
-
   return activeSection;
 };
 
 class IndexRoute extends React.Component {
+  componentWillMount() {
+    this.setState({ location: window.location.pathname });
+  }
+
   render() {
     const githubRepo =
       'https://github.com/hacker0x01/docs.hackerone.com/blob/master/docs'
@@ -40,7 +42,7 @@ class IndexRoute extends React.Component {
     return (
       <div className="article">
         <Sidebar
-          defaultActiveSection={findSectionByPath(window.location.pathname, this.props.links)}
+          defaultActiveSection={findSectionByPath(this.state.location, this.props.links)}
           links={this.props.links} />
         <article className="article__inner">
           {this.props.children}

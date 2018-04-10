@@ -73,7 +73,7 @@ class Sidebar extends React.Component {
       activeSection: this.state.activeSection === section ? null : section,
     }))
   }
-  
+
   render() {
     const links = this.props.links
 
@@ -81,19 +81,16 @@ class Sidebar extends React.Component {
       <div className="sidebar">
         <div className="sidebar__wrapper">
           <div className="sidebar__body">
-            {links.map((section, index) => {
-              console.log("aab", section, this.props.activeSection === section);
-              return (
-                <div key={index}>
-                  <Section
-                    {...section}
-                    onSectionTitleClick={() => this.toggleSection(section)}
-                    isActive={this.state.activeSection === section || section.items.length === 1}
-                    title={section.title}
-                    index={index} />
-                </div>
-              );
-            }
+            {links.map((section, index) => (
+              <div key={index}>
+                <Section
+                  {...section}
+                  onSectionTitleClick={() => this.toggleSection(section)}
+                  isActive={this.state.activeSection === section || section.items.length === 1}
+                  title={section.title}
+                  index={index} />
+              </div>
+            )
           )}
           </div>
         </div>
