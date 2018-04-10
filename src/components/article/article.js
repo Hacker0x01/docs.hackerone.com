@@ -1,24 +1,19 @@
 import React from 'react'
-import Link from 'gatsby-link'
-import slugify from 'slugify'
+import { Link, withPrefix } from 'gatsby-link'
 
 import Sidebar from '../../components/sidebar/sidebar'
 import './article.scss'
 
-const replacePlace = (path) => {
-  path.replace("docs.hackerone.com/", "");
-}
-
 const findSectionByPath = (pathname, sections) => {
   let match
   let activeSection
-  
+
   sections.forEach(section => {
     const match = section.items.some(
       item =>
-        replacePlace(pathname) === item.path ||
+        pathname === withPrefix(item.path) ||
         (item.items &&
-          item.items.some(subitem => replacePlace(pathname) === subitem.path))
+          item.items.some(subitem => pathname === withPrefix(subitem.path)))
     )
 
     if (match) {
@@ -44,9 +39,9 @@ class IndexRoute extends React.Component {
           defaultActiveSection={findSectionByPath(globalWindow, links)}
           links={links}
         />
+
         <article className="article__inner">
           {this.props.children}
-
           {this.props.docOnGithub ? (
             <div className="footer__inner">
               <a href={githubRepo + this.props.docOnGithub}>
