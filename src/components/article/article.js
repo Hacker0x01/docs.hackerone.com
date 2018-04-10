@@ -5,21 +5,18 @@ import slugify from 'slugify'
 import Sidebar from '../../components/sidebar/sidebar'
 import './article.scss'
 
-const removePrefix = path => {
-  return path.split('/').slice(-1)[0]
-}
-
 const findSectionByPath = (pathname, sections) => {
   let match
   let activeSection
-  const slugId = removePrefix(pathname)
+
+  console.log(pathname);
 
   sections.forEach(section => {
     const match = section.items.some(
       item =>
-        removePrefix(pathname) === removePrefix(item.path) ||
+        pathname === item.path ||
         (item.items &&
-          item.items.some(subitem => slugId === removePrefix(subitem.path)))
+          item.items.some(subitem => pathname === subitem.path))
     )
 
     if (match) {
