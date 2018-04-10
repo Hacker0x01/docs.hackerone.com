@@ -1,6 +1,6 @@
 ---
-title: "Response SLAs"
-path: "/programs/response-slas"
+title: "Response SLA"
+path: "/programs/response-sla"
 ---
 
 Response service level agreement (SLA) times refer to how quickly your security team will respond to a found vulnerability. The quicker your response time, the healthier and more attractive your program is. 
