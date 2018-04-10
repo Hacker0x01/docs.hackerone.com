@@ -9,12 +9,10 @@ const findSectionByPath = (pathname, sections) => {
   let match
   let activeSection
 
-  console.log(pathname);
-
   sections.forEach(section => {
     const match = section.items.some(
       item =>
-        pathname === item.path ||
+        pathname.replace("/docs.hackerone.com", "") === item.path ||
         (item.items &&
           item.items.some(subitem => pathname === subitem.path))
     )
@@ -32,8 +30,6 @@ class IndexRoute extends React.Component {
     const { links } = this.props
     const githubRepo =
       'https://github.com/hacker0x01/docs.hackerone.com/blob/master/docs'
-
-    const windowGlobal = typeof window !== 'undefined' && window
 
     const globalWindow =
       typeof window !== 'undefined' ? window.location.pathname : '/'
