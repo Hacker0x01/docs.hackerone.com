@@ -38,10 +38,12 @@ class IndexRoute extends React.Component {
 
     const windowGlobal = typeof window !== 'undefined' && window;
 
+    const globalWindow = typeof(window) !== 'undefined' ? window.location.pathname : "/";
+
     return (
       <div className="article">
         <Sidebar
-          defaultActiveSection={findSectionByPath(typeof window !== 'undefined' && window.location.pathname, links)}
+          defaultActiveSection={findSectionByPath(globalWindow, links)}
           links={links} />
         <article className="article__inner">
           {this.props.children}
