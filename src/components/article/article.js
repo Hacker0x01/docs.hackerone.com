@@ -12,7 +12,7 @@ const findSectionByPath = (pathname, sections) => {
   sections.forEach(section => {
     const match = section.items.some(
       item =>
-        pathname.replace("/docs.hackerone.com", "") === item.path ||
+        pathname.replace("docs.hackerone.com/", "") === item.path ||
         (item.items &&
           item.items.some(subitem => pathname === subitem.path))
     )
