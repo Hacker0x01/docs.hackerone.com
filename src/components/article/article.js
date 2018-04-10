@@ -1,18 +1,18 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import slugify from "slugify"
+import slugify from 'slugify'
 
 import Sidebar from '../../components/sidebar/sidebar'
 import './article.scss'
 
-const removePrefix = (path) => {
-  return path.split('/').slice(-1)[0];
+const removePrefix = path => {
+  return path.split('/').slice(-1)[0]
 }
 
 const findSectionByPath = (pathname, sections) => {
-  let match;
-  let activeSection;
-  const slugId = removePrefix(pathname);
+  let match
+  let activeSection
+  const slugId = removePrefix(pathname)
 
   sections.forEach(section => {
     const match = section.items.some(
@@ -20,31 +20,33 @@ const findSectionByPath = (pathname, sections) => {
         removePrefix(pathname) === removePrefix(item.path) ||
         (item.items &&
           item.items.some(subitem => slugId === removePrefix(subitem.path)))
-    );
+    )
 
     if (match) {
-      activeSection = section;
+      activeSection = section
     }
-  });
+  })
 
-  return activeSection;
-};
+  return activeSection
+}
 
 class IndexRoute extends React.Component {
   render() {
-    const { links } = this.props;
+    const { links } = this.props
     const githubRepo =
       'https://github.com/hacker0x01/docs.hackerone.com/blob/master/docs'
 
-    const windowGlobal = typeof window !== 'undefined' && window;
+    const windowGlobal = typeof window !== 'undefined' && window
 
-    const globalWindow = typeof(window) !== 'undefined' ? window.location.pathname : "/";
+    const globalWindow =
+      typeof window !== 'undefined' ? window.location.pathname : '/'
 
     return (
       <div className="article">
         <Sidebar
           defaultActiveSection={findSectionByPath(globalWindow, links)}
-          links={links} />
+          links={links}
+        />
         <article className="article__inner">
           {this.props.children}
 

@@ -1,26 +1,23 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import classNames from 'classnames';
+import classNames from 'classnames'
 import './sidebar.scss'
 
 const Section = props => {
   return (
     <div className="sidebar__section">
-      <h3
-        className="sidebar__title"
-        onClick={props.onSectionTitleClick}
-      >
+      <h3 className="sidebar__title" onClick={props.onSectionTitleClick}>
         {props.title}
       </h3>
       <SectionLinks {...props} title={props.title} />
     </div>
-  );
+  )
 }
 
 const SectionLinks = props => {
-  const classes = classNames("sidebar__items", {
-    "sidebar__items--active": props.isActive
-  });
+  const classes = classNames('sidebar__items', {
+    'sidebar__items--active': props.isActive,
+  })
 
   return (
     <ul className={classes}>
@@ -61,7 +58,7 @@ const SectionLink = props => {
 
 class Sidebar extends React.Component {
   constructor(props) {
-    super(props);
+    super(props)
 
     this.state = {
       activeSection: props.defaultActiveSection,
@@ -86,12 +83,15 @@ class Sidebar extends React.Component {
                 <Section
                   {...section}
                   onSectionTitleClick={() => this.toggleSection(section)}
-                  isActive={this.state.activeSection === section || section.items.length === 1}
+                  isActive={
+                    this.state.activeSection === section ||
+                    section.items.length === 1
+                  }
                   title={section.title}
-                  index={index} />
+                  index={index}
+                />
               </div>
-            )
-          )}
+            ))}
           </div>
         </div>
       </div>
