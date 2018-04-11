@@ -20,7 +20,7 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
    Group Management | Add and Edit various groups in your program. You can also add and remove users to these groups. 
    Billing | Enter your billing info in the **Overview, Credit Card**, and **Prepayment** tabs. 
    
-2. Under **Settings > Program** configure these program settings:
+2. Under **Settings > Program** configure these settings for your program:
 
    Option | Detail
    ------ | -------
@@ -42,4 +42,4 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
    
 Once your program settings have been configured and you exit the setup environment, your program will be live as a confidential, invitation-only program. 
 
-When your program is comfortable with the capacity to handle reports received from hackers, [contact HackerOne](support@hackerone.com) to launch your program publicly. 
+When your program is comfortable with the capacity to handle reports received from hackers reach out to customersuccess@hackerone.com to launch your program publicly. 
