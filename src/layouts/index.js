@@ -10,10 +10,9 @@ import '../css/main.scss'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="HackerOne Documentation"
+      title="Product Documentation"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'Get instant answers to the most common questions and learn how to use HackerOne.' }
       ]}
     />
     <Header />
