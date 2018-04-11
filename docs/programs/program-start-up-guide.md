@@ -1,12 +1,12 @@
 ---
-title: "Program Start-up Guide"
+title: "Program Start-Up Guide"
 path: "/programs/program-start-up-guide"
 ---
 
 Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:
 
 1. Go to hackerone.com.
-2. Click Sign Up.
+2. Click **Sign Up**.
 3. Fill out all fields on the form.
 4. Click **Create Program**.
 5. A confirmation email will be sent asking you to confirm your email address. Go to your email and click **Confirm email address**.
@@ -20,5 +20,5 @@ Congratulations on deciding to set up your hacker-powered security program on Ha
 ![getting-started-1](./images/getting-started-1.png)
 
 ### Next Steps
-* [Start H1 Response]("/programs/start-h1-response")
-* [Start H1 Bounty]("/programs/start-h1-bounty")
+* [Start H1 Response]("/programs/start-h1-response") or [Start H1 Bounty]("/programs/start-h1-bounty").
+* [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to work with one of our program managers to get guidance on setting up your program. 
