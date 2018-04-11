@@ -42,7 +42,7 @@ class IndexRoute extends React.Component {
         />
 
         <article className="article__inner">
-          <ArticleSelect links={links} />
+          <ArticleSelect links={links} currentPath={globalWindow} />
 
           {this.props.children}
           {this.props.docOnGithub ? (
