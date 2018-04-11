@@ -27,5 +27,5 @@ A program where trusted hackers are incentivized to continuously test for critic
 
 ### Next Steps
 If you've decided to:
-* Start a HackerOne Bounty or Response program, see: [Program Start-Up Guide]("/programs/program-start-up-guide")
+* Start a HackerOne Bounty or Response program, see: [Program Start-Up Guide]("/programs/program-start-up-guide").
 * Start a HackerOne Challege program, send a note to challenge@hackerone.com.
