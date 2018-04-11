@@ -5,7 +5,7 @@ path: "/programs/start-h1-response"
 
 If you elect to **Start H1 Response**, you'll be taken to the Setup Guide where you can walk through the product on how to set up your vulnerability disclosure policy and successfully launch a program. 
 
-![getting-started-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/getting-started-2.png?raw=true)
+![getting-started-2](./images/getting-started-2.png)
 
 1. Select **Edit** to edit your policy and scope. 
 2. Select **Edit** to edit your profile. 

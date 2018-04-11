@@ -17,4 +17,4 @@ To award a hacker with swag:
 
 Your program will receive the mailing address and is responsible for fulfillment and delivery to the hacker. 
 
-![swag](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/swag.png?raw=true)
+![swag](./images/swag.png)

@@ -17,6 +17,6 @@ To add the hacker to the original report:
 4) A check box stating **Add *hacker name* to the original report** will show under the **Search report** field. 
 5) Select the check box to add the hacker to the report. 
 
-![duplicate reports](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/duplicate-reports.png?raw=true)
+![duplicate reports](./images/duplicate-reports.png)
 
 It's up to your program to determine if you are comfortable with sharing the original report with the hacker that submitted the duplicate report. It's recommended to tie the second report to the original report to provide accountability and ri account for Reputation gain or loss for the hacker. 

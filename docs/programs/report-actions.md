@@ -10,7 +10,7 @@ There are 5 actions you can take on a report in your inbox:
 * Assign report
 * Set award
 
-![report-actions](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/report-actions-1.png?raw=true)
+![report-actions](./images/report-actions-1.png)
 
 ### Add Comment
 You can dialogue with hackers or team members or make notes about the report through adding comments. 
@@ -27,7 +27,7 @@ To add a comment:
 
 *Note: When you adding a comment to your internal team only, the comment box will turn red.*
 
-![report-actions-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/report-action-2.png?raw=true)
+![report-actions-2](./images/report-action-2.png)
 
 ### Close Report
 You can close a report to mark that it's either:
@@ -43,7 +43,7 @@ To close a report:
 3) Select the status of the report in the **Select status** action picker. 
 4) Click **Close report**. 
 
-![report-action-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/report-actions-3.png?raw=true)
+![report-action-3](./images/report-actions-3.png)
 
 ### Change State
 You can change the state of a report to be marked as either *triaged* or *new*. This'll help you keep track of what state your report is in. 
@@ -62,7 +62,7 @@ To change the state of a report:
    
 4) Click **Change state**. 
 
-![report-action-5](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/report-action-5.png?raw=true)
+![report-action-5](./images/report-action-5.png)
 
 ### Assign Report
 You can assign reports to individual members in your program or to groups to evaluate and take action on the report. 
@@ -73,7 +73,7 @@ To assign a report:
 3) Enter the username of the assignee or the group. 
 4) Click **Assign report**. 
 
-![assign report](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/assign-report.png?raw=true)
+![assign report](./images/assign-report.png)
 
 ### Set Award
 You can mark that you've rewarded a hacker with swag or a monetary amount through setting awards.
@@ -92,4 +92,4 @@ To set an award to a hacker for the report:
  
  4) Click **Set award**. 
  
- ![report-action-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/report-action-4.png?raw=true)
+ ![report-action-4](./images/report-action-4.png)

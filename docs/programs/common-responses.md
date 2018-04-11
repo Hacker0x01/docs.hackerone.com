@@ -4,7 +4,7 @@ path: "/programs/common-responses"
 ---
 Common responses provide consistent messaging across the platform and prevent you from having to write out the same message again and again. When you select an action for a report, you can have a common response pre-populate for that specific action. 
 
-![common-response-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/common-response-1.png?raw=true)
+![common-response-1](./images/common-response-1.png)
 
 ### Set Up a Default Common Response
 To set a default common response:
@@ -16,7 +16,7 @@ To set a default common response:
 
 The default common response will automatically populate when you select the action for the report. 
 
-![common-response-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/common-response-2.png?raw=true)
+![common-response-2](./images/common-response-2.png)
 
 ### Add Your Own Common Response
 You can write your own common response 
@@ -29,7 +29,7 @@ To add a new common response:
 
 Your common response will display in the list of common responses to choose from when you set up a default common response. 
 
-![common-response-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/common-response-3.png?raw=true)
+![common-response-3](./images/common-response-3.png)
 
 ### Edit a Common Response
 To edit a common response:

@@ -18,7 +18,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 After your MantisBT integration has been set up:
 1. Change the action picker to **Change state > Triaged** in your report. 
 
-![integrations](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/integrations.png?raw=true)
+![integrations](./images/integrations.png)
 
 2. Click **Escalate**.
 3. You’ll be taken to your MantisBT account where the report is pre-populated. Submit the issue to create the report in MantisBT.

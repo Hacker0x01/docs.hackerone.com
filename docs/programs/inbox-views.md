@@ -40,4 +40,4 @@ To show and hide Views:
 
 *Note: There is a *Preview* section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.* 
 
-![inbox-view](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/inbox-views.png?raw=true)
+![inbox-view](./images/inbox-views.png)

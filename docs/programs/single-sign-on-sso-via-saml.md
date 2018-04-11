@@ -54,6 +54,6 @@ What is your ACS URL? | Our ACS URL is https://hackerone.com/users/saml/auth
 ### Additional Information
 Here are some screenshots that provide additional details on Service Provider and Attribute mapping:
 
-![saml1](./images/saml_1.png?raw=true)
+![saml1](./images/saml-1.png)
 
-![saml_2](./images/saml_2.png?raw=true)
+![saml_2](./images/saml-2.png)

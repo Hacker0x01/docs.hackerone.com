@@ -15,8 +15,8 @@ You can only lock closed reports. Program members with report management permiss
 3) *(Optional)* Provide a comment stating the reason for why you are closing the report. 
 4) Click **Lock report**. 
 
-![lock-report](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/lock-report.png?raw=true)
+![lock-report](./images/lock-report.png)
 
 After a report has been locked, the hacker can no longer comment on the report, but can still request or agree to public disclosure or request mediation. Your program team members can still comment both publicly and privately on the report. 
 
-![lock-report-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/lock-report-2.png?raw=true)
+![lock-report-2](./images/lock-report-2.png)

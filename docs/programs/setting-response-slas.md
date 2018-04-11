@@ -21,4 +21,4 @@ Keep in mind that:
 * Modified targets will be applied to reports created after the modification. 
 * Reports created before modification will have previous SLA targets applied. 
 
-![response sla](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/response-sla.png?raw=true)
+![response sla](./images/response-sla.png)

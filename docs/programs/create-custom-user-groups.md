@@ -22,7 +22,7 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 
 5. Click **Create**.
 
-![user group](./images/user-group.png?raw=true)
+![user group](./images/user-group.png)
 
 To edit your group name and permissions, click **Edit** next to the group you want to edit in **Settings > General > Group Management**.
 

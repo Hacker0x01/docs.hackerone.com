@@ -30,4 +30,4 @@ To export reports as a .CSV file:
 1) Select the check box of the reports you'd like to export in your inbox. You can select as many reports as you'd like. 
 2) Click the **Download as CSV** link that appears to download the selected reports. 
 
-![export-reports](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/export-reports.png?raw=true)
+![export-reports](./images/export-reports.png)

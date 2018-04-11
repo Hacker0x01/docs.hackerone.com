@@ -10,7 +10,7 @@ Program metrics show how healthy a program is. They enable hackers to see variou
 
 The metrics are displayed on the right side of the program's security page. 
 
-![Program metrics](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/program-metrics.png?raw=true)
+![Program metrics](./images/program-metrics.png)
 
 ### Displaying Program Metrics
 To display program metrics on your security page:
@@ -18,7 +18,7 @@ To display program metrics on your security page:
 2. Select the statistics you want to display on your security page. 
 3. Click **Update**. 
 
-![Program metrics-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/program-metrics-2.png?raw=true)
+![Program metrics-2](./images/program-metrics-2.png)
 
 ### Response Efficiency Metrics
 Response efficiency metrics include: 

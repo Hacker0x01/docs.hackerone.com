@@ -5,22 +5,22 @@ path: "/programs/email-forwarding"
 
 You can set up emails to be forwarded to your HackerOne inbox to enable report management directly through HackerOne. Hackers that discover these specific email addresses will be able to submit reports directly to your program. Upon sending reports through the email, they'll also automatically get invited to your program.
 
-![email-forwarding-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-1.jpg?raw=true)
+![email-forwarding-1](./images/email-forwarding-1.jpg)
 
 ### How Does it Work?
 When a hacker discovers a vulnerability and sends their finding in an email to security@example.org:
 1. Their emails are forwarded to HackerOne's inbox and saved as report drafts.
 2. The hacker will receive an auto-response email notifying them that your program uses the HackerOne platform to coordinate vulnerabilities. They can click the **Submit Vulnerability Report** link. 
 
-![email-forwarding-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-2.png?raw=true)
+![email-forwarding-2](./images/email-forwarding-2.png)
 
 3. The link will prompt the hacker to create a HackerOne account if they don't already have one, or to log in to their existing account. 
 
-![email-forwarding-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-3.png?raw=true)
+![email-forwarding-3](./images/email-forwarding-3.png)
 
 4. After the hacker signs in to the account, the **Submit Vulnerability Report** button will be available for them to click. Upon clicking this button, the hacker is automatically invited into your program. The button will take them to the report submissions page, where they can claim the report draft and submit a valid HackerOne report to your program. 
 
-![email-forwarding-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-4.png?raw=true)
+![email-forwarding-4](./images/email-forwarding-4.png)
 
 5. You will then be notified of a new vulnerability submitted by the hacker in your inbox where you can use the platform tools to comment, triage, and pay bounties. 
 
@@ -29,16 +29,16 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 2. Click on **Add email address**. 
 3. Enter the email address the vulnerability reports should be sent to. A common example is: security@example.org. 
 
-![email-forwarding-5](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-5.png?raw=true)
+![email-forwarding-5](./images/email-forwarding-5.png)
 
 4. The inbox address that your email will be configured to will automatically generate. Upon configuration, emails sent to security@example.org will be forwarded to the inbox address given. 
 
-![email-forwarding-6](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-6.png?raw=true)
+![email-forwarding-6](./images/email-forwarding-6.png)
 
 5. Click **Run teset** to ensure that forwarding is set up correctly. 
 
-![email-forwarding-7](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-7.png?raw=true)
-![email-forwarding-8](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-8.png?raw=true)
+![email-forwarding-7](./images/email-forwarding-7.png)
+![email-forwarding-8](./images/email-forwarding-8.png)
 
 *Note: You can add multiple email addresses to forward to the same inbox.* 
-![email-forwarding-9](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/email-forwarding-9.png?raw=true)
+![email-forwarding-9](./images/email-forwarding-9.png)

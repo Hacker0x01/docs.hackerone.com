@@ -16,4 +16,4 @@ Top 20 hackers who have submitted a report to your program | The message is only
 Specific hacker(s) by username | You can message only certain hackers by entering their usernames. 
 Custom | Set your own custom group to message. E.g. hackers that have submitted 5+ reports
 
-![message hackers](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/message-hackers.png?raw=true)
+![message hackers](./images/message-hackers.png)

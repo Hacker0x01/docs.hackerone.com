@@ -5,7 +5,7 @@ path: "/programs/severity"
 
 Reports are marked with a severity rating to show how severe the vulnerability is in the report submission form. On HackerOne, severity is particularly useful for structuring bounty ranges and is used when offering bounty recommendations. The severity level can be marked as: 
 
-![severity-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/severity-1.png?raw=true)
+![severity-1](./images/severity-1.png)
 
 HackerOne utilizes the Common Vulnerability Scoring System (CVSS) - an industry standard calculator used to determine the severity of a bug. The CVSS enables there to be a common languange around the severity of bugs. Hackers can either choose a severity level based on their own judgment of the vulnerability, or they can use the CVSS calculator to give more information about the vulnerability and calculate an exact CVSS score. 
 
@@ -24,7 +24,7 @@ Confidentiality | The impact of the bug as it relates to confidential informatio
 Integrity | Whether the the data can be modified due to the vulnerability. 
 Availability | Whether data or functionality can be rendered inaccessible. The impact to the availability of the impacted component.  
 
-![severity-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/severity-2.png?raw=true)
+![severity-2](./images/severity-2.png)
 
 *Note: It's optional for the hacker to submit a severity rating.* 
 

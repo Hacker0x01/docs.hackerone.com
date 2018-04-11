@@ -14,7 +14,7 @@ To award a bounty:
 3. Select **Set award**.
 4. Enter the bounty amount you wish to award. You can select one of the pre-calculated median, competitive, and top bounty awards for severity level of the bug. 
 
-![awarding bounties](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/bountystats.png?raw=true)
+![awarding bounties](./images/bountystats.png)
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded. 
 
@@ -44,7 +44,7 @@ To start paying hackers:
 
 cURL | Ruby
 ---- | ----
-![cURL](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/bountiesforreportsoutsideofh1-1.png?raw=true) | ![Ruby](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/bountiesforreportsoutsideofh1-2.png?raw=true)
+![cURL](./images/bountiesforreportsoutsideofh1-1.png) | ![Ruby](./images/bountiesforreportsoutsideofh1-2.png)
 
 10. Award the bounty for the hacker. 
 
