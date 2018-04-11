@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "gatsby": "^1.9.206",
+    "gatsby": "^1.9.248",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-google-analytics": "^1.0.22",
     "gatsby-plugin-react-helmet": "^2.0.5",
