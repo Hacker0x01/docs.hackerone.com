@@ -6,12 +6,30 @@ import hackersNav from './hackers-nav.yaml'
 
 class IndexRoute extends React.Component {
   render() {
+    const { markdownRemark } = this.props.data
+
     return (
-      <Article links={hackersNav}>
-        <h1>Hackers</h1>
+      <Article
+        links={hackersNav}
+        docOnGithub={`${markdownRemark.frontmatter.path}.md`}
+      >
+        <h1>{markdownRemark.frontmatter.title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
       </Article>
     )
   }
 }
 
 export default IndexRoute
+
+export const pageQuery = graphql`
+  query hackersIndexQuery {
+    markdownRemark(frontmatter: { title: { eq: "Getting started" } }) {
+      html
+      frontmatter {
+        path
+        title
+      }
+    }
+  }
+`

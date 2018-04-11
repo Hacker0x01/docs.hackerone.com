@@ -1,7 +1,7 @@
 -
   items:
-    - title: Getting Started
-      path: /programs/getting-started/
+    - title: Program Start-up Guide
+      path: /programs/
 - title: Tips
   items:
     - title: Communicating with Hackers
