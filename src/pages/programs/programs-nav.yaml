@@ -1,72 +1,139 @@
--
+- title: Getting Started
   items:
+    - title: Overview
+      path: /programs/overview/
     - title: Program Start-up Guide
-      path: /programs/
-- title: Tips
-  items:
-    - title: Communicating with Hackers
-      path: /programs/communicating-with-hackers/
-    - title: Scope Best Practices
-      path: /programs/scope-best-practices/
-    - title: Good Policies
-      path: /programs/good-policies/
-    - title: Bounties for Reports Outside of HackerOne
-      path: /programs/bounties-for-reports-outside-of-hackerone/
-- title: Your program
-  items:
-    - title: Defining Scope
-      path: /programs/defining-scope/
-    - title: Submit Report Form
-      path: /programs/submit-report-form/
-    - title: Response SLA
-      path: /programs/response-slas/
-    - title: Email Forwarding
-      path: /programs/email-forwarding/
-    - title: Asset Types
-      path: /programs/asset-types/
-    - title: Create Custom User Groups
-      path: /programs/create-custom-user-groups/
-- title: Reports
-  items:
-    - title: Human-Augmented Signal
-      path: /programs/human-augmented-signal/
-    - title: Disclosure Assistance
-      path: /programs/disclosure-assistance/
-    - title: Common Responses
-      path: /programs/common-responses/
-    - title: Triggers
-      path: /programs/triggers/
-    - title: Supported Integrations
-      path: /programs/supported-integrations/
-- title: Security
-  items:
-    - title: Single Sign-On (SSO) via SAML
-      path: /programs/single-sign-on-sso-via-saml/
-    - title: Two-Factor Authentication
-      path: /programs/two-factor-authentication/
-- title: Navigation
+      path: /programs/program-start-up-guide/
+      items:
+        - title: Start H1 Response
+          path: /programs/start-h1-response/
+        - title: Start H1 Bounty
+          path: /programs/start-h1-bounty/
+    - title: Authentication
+      path: /programs/authentication/
+        - title: Single Sign-On via SAML
+          path: /programs/single-sign-on-via-saml/
+        - title: Two-Factor Authentication
+          path: /programs/two-factor-authentication/
+- title: The Basics
   items:
     - title: Inbox
       path: /programs/inbox/
+      items:
+        - title: Inbox Views
+          path: /programs/inbox-views/
     - title: Hacktivity
       path: /programs/hacktivity/
     - title: Directory
       path: /programs/directory/
-    - title: Dashboard
-      path: /programs/dashboard/
-    - title: Settings
-      path: /programs/settings/
-- title: Hackers
+      itmes:
+        - title: Disclosure Assistance
+          path: /programs/disclosure-assistance/
+- title: Your Program
   items:
-    - title: Signal
-      path: /programs/signal/
-    - title: Message Hackers
-      path: /programs/message-hackers/
+    - title: Policy and Scope
+      path: /programs/policy-and-scope/
+      items:
+        - title: Defining Scope
+          path: /programs/defining-scope/
+        - title: Scope Best Practices
+          path: /programs/scope-best-practices/
+        - title: Asset Types
+          path: /programs/asset-types/
+        - title: Good Policies
+          path: /programs/good-policies/
+    - title: Submit Report Form
+      path: /programs/submit-report-form/
+      items:
+       - title: Pausing Report Submissions
+         path: /programs/pausing-report-submissions/
+    - title: Response SLA
+      path: /programs/response-slas/
+      items:
+        - title: Response SLA Metrics
+          path: /programs/response-sla-metrics/
+        - title: Setting Response SLAs
+          path: /programs/setting-response-slas
+    - title: Email Forwarding
+      path: /programs/email-forwarding/
+    - title: Security Page
+      path: /programs/security-page/
+      items:
+        - title: Program Metrics
+          path: /programs/program-metrics/
+        - title: Response SLA Indicators
+          path: /programs/response-sla-indicators/
+    - title: Create Custom User Groups
+      path: /programs/create-custom-user-groups/
 - title: Payments
   items:
     - title: Billing
       path: /programs/billing/
-    - title: Credit Card
-      path: /programs/credit-card/
-    - title: Rewards
-      path: /programs/rewards/
+    - title: Bounties
+      path: /programs/bounties/
+    - title: Swag
+      path: /programs/swag/
+    - title: Bonuses
+      path: /programs/bonuses
+- title: Integrations
+  items:
+    - title: Supported Integrations
+      path: /programs/supported-integrations/
+    - title: Slack Integration
+      path: /programs/slack-integration/
+    - title: Assembla Integration
+      path: /programs/assembla-integration/
+    - title: Bugzilla Integration
+      path: /programs/bugzilla-integration/
+    - title: Freshdesk Integration
+      path: /programs/freshdesk-integration/
+    - title: GitHub Integration
+      path: /programs/github-integration/
+    - title: GitLab Integration
+      path: /programs/gitlab-integration/
+    - title: MantisBT Integration
+      path: /programs/mantisbt-integration/
+    - title: OTRS Integration
+      path: /programs/otrs-integration/
+    - title: ServiceNow Integration
+      path: /programs/servicenow-integration/
+    - title: Redmine Integration
+      path: /programs/redmine-integration/
+    - title: Trac Integration
+      path: /programs/trac-integration/
+    - title: Zendesk
+      path: /programs/zendesk-integration/
+- title: Reports
+  items:
+    - title: Report Actions
+      path: /programs/report-actions/
+    - title: Report States
+      path: /programs/report-states/
+    - title: Quality Reports
+      path: /programs/quality-reports/
+    - title: Public Disclosure
+      path: /programs/public-disclosure/
+    - title: Human-Augmented Signal
+      path: /programs/human-augmented-signal/
+    - title: Common Responses
+      path: /programs/common-responses/
+    - title: Triggers
+      path: /programs/triggers/
+    - title: Locking Reports
+      path: /programs/locking-reports/
+    - title: Duplicate Reports
+      path: /programs/duplicate-reports/
+    - title: Export Reports
+      path: /programs/export-reports/
+    - title: Response SLA Labels
+      path: /programs/response-sla-labels/   
+    - title: Keyboard Shortcuts
+      path: /programs/keyboard-shortcuts/
+- title: Hacker Engagement
+  items:
+    - title: Signal Requirements
+      path: /programs/signal-requirements/
+    - title: Message Hackers
+      path: /programs/message-hackers/
+    - title: Communicating with Hackers
+      path: /programs/communicating-with-hackers/
