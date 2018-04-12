@@ -1,23 +1,52 @@
--
+- title: Getting Started
   items:
+    - title: Overview
+      path: /programs/overview/
     - title: Program Start-up Guide
-      path: /programs/
-- title: Tips
+      path: /programs/program-start-up-guide/
+      items:
+        - title: Start H1 Response
+          path: /programs/start-h1-response/
+        - title: Start H1 Bounty
+          path: /programs/start-h1-bounty/
+    - title: Authentication
+      path: /programs/authentication/
+        - title: Single Sign-On via SAML
+          path: /programs/single-sign-on-via-saml/
+        - title: Two-Factor Authentication
+          path: /programs/two-factor-authentication/
+- title: The Basics
   items:
-    - title: Communicating with Hackers
-      path: /programs/communicating-with-hackers/
-    - title: Scope Best Practices
-      path: /programs/scope-best-practices/
-    - title: Good Policies
-      path: /programs/good-policies/
-    - title: Bounties for Reports Outside of HackerOne
-      path: /programs/bounties-for-reports-outside-of-hackerone/
-- title: Your program
+    - title: Inbox
+      path: /programs/inbox/
+      items:
+        - title: Inbox Views
+          path: /programs/inbox-views/
+    - title: Hacktivity
+      path: /programs/hacktivity/
+    - title: Directory
+      path: /programs/directory/
+      itmes:
+        - title: Disclosure Assistance
+          path: /programs/disclosure-assistance/
+- title: Your Program
   items:
-    - title: Defining Scope
-      path: /programs/defining-scope/
+    - title: Policy and Scope
+      path: /programs/policy-and-scope/
+      items:
+        - title: Defining Scope
+          path: /programs/defining-scope/
+        - title: Scope Best Practices
+          path: /programs/scope-best-practices/
+        - title: Asset Types
+          path: /programs/asset-types/
+        - title: Good Policies
+          path: /programs/good-policies/
     - title: Submit Report Form
       path: /programs/submit-report-form/
+      items:
+       - title: Pausing Report Submissions
+         path: /programs/pausing-report-submissions/
     - title: Response SLA
       path: /programs/response-slas/
     - title: Email Forwarding
