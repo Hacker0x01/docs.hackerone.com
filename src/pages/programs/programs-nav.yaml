@@ -49,53 +49,91 @@
          path: /programs/pausing-report-submissions/
     - title: Response SLA
       path: /programs/response-slas/
+      items:
+        - title: Response SLA Metrics
+          path: /programs/response-sla-metrics/
+        - title: Setting Response SLAs
+          path: /programs/setting-response-slas
     - title: Email Forwarding
       path: /programs/email-forwarding/
-    - title: Asset Types
-      path: /programs/asset-types/
+    - title: Security Page
+      path: /programs/security-page/
+      items:
+        - title: Program Metrics
+          path: /programs/program-metrics/
+        - title: Response SLA Indicators
+          path: /programs/response-sla-indicators/
     - title: Create Custom User Groups
       path: /programs/create-custom-user-groups/
-- title: Reports
-  items:
-    - title: Human-Augmented Signal
-      path: /programs/human-augmented-signal/
-    - title: Disclosure Assistance
-      path: /programs/disclosure-assistance/
-    - title: Common Responses
-      path: /programs/common-responses/
-    - title: Triggers
-      path: /programs/triggers/
-    - title: Supported Integrations
-      path: /programs/supported-integrations/
-- title: Security
-  items:
-    - title: Single Sign-On (SSO) via SAML
-      path: /programs/single-sign-on-sso-via-saml/
-    - title: Two-Factor Authentication
-      path: /programs/two-factor-authentication/
-- title: Navigation
-  items:
-    - title: Inbox
-      path: /programs/inbox/
-    - title: Hacktivity
-      path: /programs/hacktivity/
-    - title: Directory
-      path: /programs/directory/
-    - title: Dashboard
-      path: /programs/dashboard/
-    - title: Settings
-      path: /programs/settings/
-- title: Hackers
-  items:
-    - title: Signal
-      path: /programs/signal/
-    - title: Message Hackers
-      path: /programs/message-hackers/
 - title: Payments
   items:
     - title: Billing
       path: /programs/billing/
-    - title: Credit Card
-      path: /programs/credit-card/
-    - title: Rewards
-      path: /programs/rewards/
+    - title: Bounties
+      path: /programs/bounties/
+    - title: Swag
+      path: /programs/swag/
+    - title: Bonuses
+      path: /programs/bonuses
+- title: Integrations
+  items:
+    - title: Supported Integrations
+      path: /programs/supported-integrations/
+    - title: Slack Integration
+      path: /programs/slack-integration/
+    - title: Assembla Integration
+      path: /programs/assembla-integration/
+    - title: Bugzilla Integration
+      path: /programs/bugzilla-integration/
+    - title: Freshdesk Integration
+      path: /programs/freshdesk-integration/
+    - title: GitHub Integration
+      path: /programs/github-integration/
+    - title: GitLab Integration
+      path: /programs/gitlab-integration/
+    - title: MantisBT Integration
+      path: /programs/mantisbt-integration/
+    - title: OTRS Integration
+      path: /programs/otrs-integration/
+    - title: ServiceNow Integration
+      path: /programs/servicenow-integration/
+    - title: Redmine Integration
+      path: /programs/redmine-integration/
+    - title: Trac Integration
+      path: /programs/trac-integration/
+    - title: Zendesk
+      path: /programs/zendesk-integration/
+- title: Reports
+  items:
+    - title: Report Actions
+      path: /programs/report-actions/
+    - title: Report States
+      path: /programs/report-states/
+    - title: Quality Reports
+      path: /programs/quality-reports/
+    - title: Public Disclosure
+      path: /programs/public-disclosure/
+    - title: Human-Augmented Signal
+      path: /programs/human-augmented-signal/
+    - title: Common Responses
+      path: /programs/common-responses/
+    - title: Triggers
+      path: /programs/triggers/
+    - title: Locking Reports
+      path: /programs/locking-reports/
+    - title: Duplicate Reports
+      path: /programs/duplicate-reports/
+    - title: Export Reports
+      path: /programs/export-reports/
+    - title: Response SLA Labels
+      path: /programs/response-sla-labels/   
+    - title: Keyboard Shortcuts
+      path: /programs/keyboard-shortcuts/
+- title: Hacker Engagement
+  items:
+    - title: Signal Requirements
+      path: /programs/signal-requirements/
+    - title: Message Hackers
+      path: /programs/message-hackers/
+    - title: Communicating with Hackers
+      path: /programs/communicating-with-hackers/
