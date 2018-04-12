@@ -1,5 +1,5 @@
 ---
-title: "Policy and scope"
+title: "Policy and Scope"
 path: "/programs/policy-and-scope"
 ---
 
