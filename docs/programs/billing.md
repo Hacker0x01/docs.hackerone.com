@@ -1,6 +1,6 @@
 ---
-title: "Payments"
-path: "/programs/payments"
+title: "Billing"
+path: "/programs/billing"
 ---
 
 HackerOne makes it easy to pay hackers. You can choose from these 2 options to to pay a hacker:
