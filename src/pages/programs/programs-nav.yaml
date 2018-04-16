@@ -68,7 +68,7 @@
         - title: Export Reports
           path: /programs/export-reports/
         - title: Response SLA Labels
-          path: /programs/response-sla-labels/   
+          path: /programs/response-sla-labels/
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts/
     - title: Public Disclosure
@@ -83,7 +83,6 @@
           path: /programs/triggers/
     - title: Inbox Views
       path: /programs/inbox-views/
-- title: Analytics
 - title: Integrations
   items:
     - title: Supported Integrations
