@@ -1,6 +1,6 @@
 ---
 title: "Public Disclosure"
-path: "/programs/pulic-disclosure"
+path: "/programs/public-disclosure"
 ---
 
 Public disclosure enables you to be transparent about the security vulnerabilities found for your program. HackerOne's public disclosure process balances transparency with control over what information is shared with the public.  
