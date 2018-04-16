@@ -7,4 +7,4 @@ The policy section enables organizations to publish information about their prog
 
 The policy also inclues your program’s scope which is the list of items you'd like hackers to test and send reports in for. It is often defined by the domain name for web applications, or by the specific App Store / Play store mobile apps that your company builds. 
 
-![Policy Scope](./images/policy-and-scope-1.png?raw=true)
+![Policy Scope](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/policy-and-scope-1.png?raw=true)
