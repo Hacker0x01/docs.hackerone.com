@@ -30,7 +30,7 @@
        - title: Pausing Report Submissions
          path: /programs/pausing-report-submissions/
     - title: Response SLA
-      path: /programs/response-slas/
+      path: /programs/response-sla/
       items:
         - title: Response SLA Metrics
           path: /programs/response-sla-metrics/
@@ -48,7 +48,7 @@
     - title: Create Custom User Groups
       path: /programs/create-custom-user-groups/
     - title: Single Sign-On via SAML
-      path: /programs/single-sign-on-via-saml/
+      path: /programs/single-sign-on-sso-via-saml/
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication/
 - title: Inbox
