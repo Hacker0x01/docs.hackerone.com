@@ -1,6 +1,6 @@
 ---
 title: "Jira Server Integration"
-path: "/programs/start-h1-bounty"
+path: "/programs/jira-server-integration"
 ---
 
 HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue.
