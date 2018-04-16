@@ -20,7 +20,7 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
    Group Management | Add and Edit various groups in your program. You can also add and remove users to these groups. 
    Billing | Enter your billing info in the **Overview, Credit Card**, and **Prepayment** tabs. 
 
-   ![start-bounty-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/start-bounty-1.png?raw=true)
+   ![start-bounty-1](./images/start-bounty-1.png?raw=true)
 
 2. Under **Settings > Program** configure these settings for your program:
 
@@ -42,7 +42,7 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
    API | Create API tokens.
    Hackbot | Hackbot is HackerOne's free automated service that provides you with guidance regarding your reports by providing contextual advice and actionable items to improve your user experience. Configure which actions you want Hackbot to suggest. 
    
-   ![start-bounty-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/start-bounty-2.png?raw=true)
+   ![start-bounty-2](./images/start-bounty-2.png?raw=true)
    
 Once your program settings have been configured and you exit the setup environment, your program will be live as a confidential, invitation-only program. 
 
