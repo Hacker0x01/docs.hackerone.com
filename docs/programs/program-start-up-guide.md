@@ -21,4 +21,4 @@ Congratulations on deciding to set up your hacker-powered security program on Ha
 
 ### Next Steps
 * [Start H1 Response]("/programs/start-h1-response") or [Start H1 Bounty]("/programs/start-h1-bounty").
-* [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to work with one of our program managers to get guidance on setting up your program. 
+* [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to work with one of our program managers to get guidance on setting up your program.
