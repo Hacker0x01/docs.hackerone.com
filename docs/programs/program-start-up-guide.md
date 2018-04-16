@@ -13,7 +13,7 @@ Congratulations on deciding to set up your hacker-powered security program on Ha
 6. You'll be taken to a page where you can select the type of program you'd like to launch. You can choose from:
 
    Option | Detail
-   ------ | -------
+   ------ | ------
    [HackerOne Response]("/programs/start-h1-response") | A private vulnerability disclosure program for organizations to receive and resolve security vulnerability reports from external third parties.
    [HackerOne Bounty]("/programs/start-h1-bounty") | A continuous security program in which trusted hackers are incentivized to find critical vulnerabilities.
 
