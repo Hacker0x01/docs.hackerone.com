@@ -4,15 +4,16 @@
   "version": "1.0.0",
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
-    "gatsby": "^1.9.248",
-    "gatsby-link": "^1.6.37",
-    "gatsby-plugin-google-analytics": "^1.0.22",
-    "gatsby-plugin-react-helmet": "^2.0.5",
-    "gatsby-plugin-sass": "^1.0.17",
-    "gatsby-plugin-sharp": "^1.6.28",
-    "gatsby-remark-images": "^1.5.44",
-    "gatsby-source-filesystem": "^1.5.24",
-    "gatsby-transformer-remark": "^1.7.33",
+    "gatsby": "^1.9.250",
+    "gatsby-cli": "^1.1.50",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-google-analytics": "^1.0.29",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-sass": "^1.0.25",
+    "gatsby-plugin-sharp": "^1.6.42",
+    "gatsby-remark-images": "^1.5.61",
+    "gatsby-source-filesystem": "^1.5.32",
+    "gatsby-transformer-remark": "^1.7.40",
     "gatsby-transformer-sharp": "^1.6.21",
     "react-helmet": "^5.2.0"
   },
@@ -31,10 +32,10 @@
   },
   "devDependencies": {
     "classnames": "^2.2.5",
-    "eslint": "^4.18.2",
+    "eslint": "^4.19.1",
     "eslint-plugin-react": "^7.7.0",
     "gh-pages": "^1.1.0",
     "is_js": "^0.9.0",
-    "prettier": "^1.11.1"
+    "prettier": "^1.12.0"
   }
 }
