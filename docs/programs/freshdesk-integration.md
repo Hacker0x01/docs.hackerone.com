@@ -1,6 +1,6 @@
 ---
 title: "Freshdesk Integration"
-path: "/programs/bugzilla-integration"
+path: "/programs/freshdesk-integration"
 ---
 
 With Freshdesk integration, HackerOne makes it easy for you to track Freshdesk issues as references on HackerOne.
