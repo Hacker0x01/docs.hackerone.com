@@ -8,35 +8,12 @@ const Options = props => {
   let itemsToRender = [];
 
   props.items.map((item, index) => {
-    if (item.hasOwnProperty("items")) {
-      itemsToRender.push(
-        <option
-          value={item.path}
-          key={item.title}
-        >
-          {item.title}
-        </option>
-      )
+    itemsToRender.push(<Option {...item}>{item.title}</Option>)
 
+    if (item.hasOwnProperty("items")) {
       item.items.map((item, index) => {
-        itemsToRender.push(
-          <option
-            value={item.path}
-            key={item.title}
-          >
-            &nbsp;&nbsp; {item.title}
-          </option>
-        )
+        itemsToRender.push(<Option {...item}>&nbsp;&nbsp; {item.title}</Option>)
       })
-    } else {
-      itemsToRender.push(
-        <option
-          value={item.path}
-          key={item.title}
-        >
-          {item.title}
-        </option>
-      )
     }
   })
 
@@ -46,14 +23,12 @@ const Options = props => {
 }
 
 const Option = props => {
-  return (
-    <option
-      value={props.path}
-      key={props.title}
-    >
-      {props.title}
-    </option>
-  )
+  return <option
+    value={props.path}
+    key={props.title}
+  >
+    {props.children}
+  </option>
 }
 
 class ArticleSelect extends React.Component {
