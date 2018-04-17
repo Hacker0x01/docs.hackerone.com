@@ -6,7 +6,6 @@ import programsNav from './programs-nav.yaml'
 
 class IndexRoute extends React.Component {
   render() {
-    console.log(this.props.data);
     const { markdownRemark } = this.props.data
 
     return (
