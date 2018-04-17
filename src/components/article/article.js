@@ -5,7 +5,7 @@ import Sidebar from '../../components/sidebar/sidebar'
 import ArticleSelect from '../../components/article_select/article_select'
 import './article.scss'
 
-const findSectionByPath = (pathname, sections) => {
+const findActiveSectionByPath = (pathname, sections) => {
   let match
   let activeSection
 
@@ -25,6 +25,27 @@ const findSectionByPath = (pathname, sections) => {
   return activeSection
 }
 
+const findActiveChildByPath = (pathname, sections) => {
+  let match
+  let activeChild
+
+  sections.forEach(section => {
+    section.items.some(item => {
+      if (item.items) {
+        match = item.items.some(subitem => {
+          return pathname === withPrefix(subitem.path)
+        }) || pathname === withPrefix(item.path)
+
+        if (match) {
+          activeChild = item.items
+        }
+      }
+    })
+  })
+
+  return activeChild
+}
+
 class IndexRoute extends React.Component {
   render() {
     const { links } = this.props
@@ -37,7 +58,8 @@ class IndexRoute extends React.Component {
     return (
       <div className="article">
         <Sidebar
-          defaultActiveSection={findSectionByPath(globalWindow, links)}
+          activeSection={findActiveSectionByPath(globalWindow, links)}
+          activeChild={findActiveChildByPath(globalWindow, links)}
           links={links}
         />
 

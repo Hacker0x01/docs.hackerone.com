@@ -16,13 +16,17 @@ const Section = props => {
 
 const SectionLinks = props => {
   const classes = classNames('sidebar__items', {
-    'sidebar__items--active': props.isActive,
+    'sidebar__items--active': props.isSectionActive,
   })
 
   return (
     <ul className={classes}>
       {props.items.map((item, index) => (
-        <SectionLink node={item} children={item.items} key={index} />
+        <SectionLink
+          node={item}
+          children={item.items}
+          key={index}
+          isChildActive={props.activeChild === item.items} />
       ))}
     </ul>
   )
@@ -38,6 +42,10 @@ const SectionLink = props => {
 
   const item = props.node
 
+  const subItemsClasses = classNames("sidebar__sub-items", {
+    "sidebar__sub-items--active": props.isChildActive
+  });
+
   return (
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
@@ -52,7 +60,10 @@ const SectionLink = props => {
       ) : (
         <span className="sidebar__link--disabled">{item.title}</span>
       )}
-      {childnodes ? <ul className="sidebar__sub-items">{childnodes}</ul> : null}
+      {childnodes
+        ? <ul className={subItemsClasses}>{childnodes}</ul>
+        : null
+      }
     </li>
   )
 }
@@ -62,7 +73,8 @@ class Sidebar extends React.Component {
     super(props)
 
     this.state = {
-      activeSection: props.defaultActiveSection,
+      activeSection: props.activeSection,
+      activeChild: props.activeChild,
     }
   }
 
@@ -84,10 +96,11 @@ class Sidebar extends React.Component {
                 <Section
                   {...section}
                   onSectionTitleClick={() => this.toggleSection(section)}
-                  isActive={
+                  isSectionActive={
                     this.state.activeSection === section ||
                     section.items.length === 1
                   }
+                  activeChild={this.state.activeChild}
                   title={section.title}
                   index={index}
                 />
