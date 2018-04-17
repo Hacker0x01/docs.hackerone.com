@@ -12,7 +12,7 @@ To configure two-factor authentication:
 3. Click **Turn on**. *Note: You can only enable two-factor authentication if you're in a launched program.*
 4. Follow the steps in the **Enable Two-Factor Authentication** window.  
 
-![two-factor-authentication](./images/two-factor-authentication.png?raw=true)
+![two-factor-authentication](./images/two-factor-authentication.png)
 
 5. Click **Verify and save**.
 
