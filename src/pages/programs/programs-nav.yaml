@@ -40,6 +40,8 @@
           path: /programs/response-sla-metrics/
         - title: Setting Response SLAs
           path: /programs/setting-response-slas/
+    - title: Invitations
+      path: /programs/invitations/
     - title: Email Forwarding
       path: /programs/email-forwarding/
     - title: Security Page
