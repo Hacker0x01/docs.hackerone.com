@@ -4,18 +4,55 @@ import is from 'is_js'
 
 import './article_select.scss';
 
-const Section = props => {
-  return (
-    <optgroup label={props.title}>
-      {props.items.map((item, index) => (
+const Options = props => {
+  let itemsToRender = [];
+
+  props.items.map((item, index) => {
+    if (item.hasOwnProperty("items")) {
+      itemsToRender.push(
         <option
           value={item.path}
-          key={index}
+          key={item.title}
         >
           {item.title}
         </option>
-      ))}
-    </optgroup>
+      )
+
+      item.items.map((item, index) => {
+        itemsToRender.push(
+          <option
+            value={item.path}
+            key={item.title}
+          >
+            &nbsp;&nbsp; {item.title}
+          </option>
+        )
+      })
+    } else {
+      itemsToRender.push(
+        <option
+          value={item.path}
+          key={item.title}
+        >
+          {item.title}
+        </option>
+      )
+    }
+  })
+
+  return <optgroup label={props.title}>
+    {itemsToRender}
+  </optgroup>;
+}
+
+const Option = props => {
+  return (
+    <option
+      value={props.path}
+      key={props.title}
+    >
+      {props.title}
+    </option>
   )
 }
 
@@ -35,7 +72,7 @@ class ArticleSelect extends React.Component {
         value={this.props.currentPath}
       >
         {links.map((section, index) => (
-          <Section
+          <Options
             key={index}
             {...section}
             title={section.title} />
