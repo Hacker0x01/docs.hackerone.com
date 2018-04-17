@@ -565,10 +565,6 @@ th {
   font-weight: bold;
 }
 
-li {
-  margin-bottom: calc(1.45rem / 2);
-}
-
 ol li {
   padding-left: 0;
 }
@@ -579,15 +575,13 @@ ul li {
 
 li > ol {
   margin-left: 1.45rem;
-  margin-bottom: calc(1.45rem / 2);
   margin-top: calc(1.45rem / 2);
 }
 
 li > ul {
   margin-left: 1.45rem;
-  margin-bottom: calc(1.45rem / 2);
-  margin-top: calc(1.45rem / 2);
 }
+
 
 blockquote *:last-child {
   margin-bottom: 0;
@@ -601,13 +595,13 @@ p *:last-child {
   margin-bottom: 0;
 }
 
-li > p {
-  margin-bottom: calc(1.45rem / 2);
-}
-
 code {
   font-size: 0.85rem;
   line-height: 1.45rem;
+}
+
+li > p {
+  margin-bottom: 0;
 }
 
 kbd {
@@ -638,6 +632,7 @@ abbr[title] {
 
 thead {
   text-align: left;
+  background-color: #f5f5f5;
 }
 
 td,
@@ -654,45 +649,18 @@ th {
   padding-bottom: calc(0.725rem - 1px);
 }
 
-th:first-child,
-td:first-child {
-  padding-left: 0;
-}
-
-th:last-child,
-td:last-child {
-  padding-right: 0;
-}
-
 tt,
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color: hsla(0, 0%, 0%, 0.08);
   border-radius: 3px;
   font-family: "SFMono-Regular", Consolas, "Roboto Mono", "Droid Sans Mono",
     "Liberation Mono", Menlo, Courier, monospace;
-  padding: 0;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
+  padding: 0.2em 0.4em;
 }
 
 pre code {
   background: none;
   line-height: 1.42;
-}
-
-code:before,
-code:after,
-tt:before,
-tt:after {
-  letter-spacing: -0.2em;
-  content: " ";
-}
-
-pre code:before,
-pre code:after,
-pre tt:before,
-pre tt:after {
-  content: "";
 }
 
 @media only screen and (max-width: 480px) {

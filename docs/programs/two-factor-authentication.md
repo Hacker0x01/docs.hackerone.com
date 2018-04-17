@@ -11,7 +11,9 @@ To configure two-factor authentication:
 2. Go to **Settings > Authentication**.
 3. Click **Turn on**. *Note: You can only enable two-factor authentication if you're in a launched program.*
 4. Follow the steps in the **Enable Two-Factor Authentication** window.  
-   ![two-factor-authentication](./images/two-factor-authentication.png?raw=true)
+
+![two-factor-authentication](./images/two-factor-authentication.png?raw=true)
+
 5. Click **Verify and save**.
 
 Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6 digit verification code from your authentication application. You must enter the verification code in order to successfully log in to HackerOne.
