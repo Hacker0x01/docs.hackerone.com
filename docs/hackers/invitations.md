@@ -24,6 +24,9 @@ The program's report volume is set to 0. | No invitations will be sent.
 
 Sometimes programs will manually invite you to hack on their programs. Keep in mind that it's a violation of Disclosure Guidelines for you to reach out to a private program in request for an invitation. 
 
+### Invitation Expirations
+Invitations to hack a program expire in 1 week. You may want to reject an invitation for one reason or another. The sooner you let HackerOne know that you're not going to accept the invitation, the sooner the invite can be sent to another hacker. 
+
 ### Invitation Preferences
 Some hackers may want to get invites from any private program, while others only want invites from those offering bounties, and some may not want any invitations at all. 
 
