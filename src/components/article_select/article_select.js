@@ -7,12 +7,14 @@ import './article_select.scss';
 const Options = props => {
   let itemsToRender = [];
 
-  props.items.map((item, index) => {
-    itemsToRender.push(<Option {...item}>{item.title}</Option>)
+  props.items.map((item) => {
+    itemsToRender.push(<Option key={item.title} {...item}>{item.title}</Option>)
 
     if (item.hasOwnProperty("items")) {
-      item.items.map((item, index) => {
-        itemsToRender.push(<Option {...item}>&nbsp;&nbsp; {item.title}</Option>)
+      item.items.map((item) => {
+        itemsToRender.push(
+          <Option key={item.title} {...item}>&nbsp;&nbsp; {item.title}</Option>
+        )
       })
     }
   })
@@ -23,12 +25,7 @@ const Options = props => {
 }
 
 const Option = props => {
-  return <option
-    value={props.path}
-    key={props.title}
-  >
-    {props.children}
-  </option>
+  return <option value={props.path}>{props.children}</option>
 }
 
 class ArticleSelect extends React.Component {
