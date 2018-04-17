@@ -23,3 +23,18 @@ The program's report volume is met. | Invitations will pause until the volume dr
 The program's report volume is set to 0. | No invitations will be sent.
 
 Sometimes programs will manually invite you to hack on their programs. Keep in mind that it's a violation of Disclosure Guidelines for you to reach out to a private program in request for an invitation. 
+
+### Invitation Preferences
+Some hackers may want to get invites from any private program, while others only want invites from those offering bounties, and some may not want any invitations at all. 
+
+To choose when to receive invitations to private programs, you can navigat to **Settings > Invitation Preferences**.
+
+You can choose from these options:
+
+Option | Detail
+------ | ------
+Always | Receive invitations for every private program you're invited to.
+Only bug bounty programs | Only receive invitations for private programs that award bounties. 
+Never | Exclude yourself from receiving invitations from any private program. 
+
+![invitation-hackers-1](./images/invitations-hackers-1.png)
