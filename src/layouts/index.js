@@ -12,7 +12,11 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="Product Documentation"
       meta={[
-        { name: 'description', content: 'Get instant answers to the most common questions and learn how to use HackerOne.' }
+        {
+          name: 'description',
+          content:
+            'Get instant answers to the most common questions and learn how to use HackerOne.',
+        },
       ]}
     />
     <Header />

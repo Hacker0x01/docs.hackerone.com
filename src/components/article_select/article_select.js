@@ -2,26 +2,30 @@ import React from 'react'
 import { Link, withPrefix } from 'gatsby-link'
 import is from 'is_js'
 
-import './article_select.scss';
+import './article_select.scss'
 
 const Options = props => {
-  let itemsToRender = [];
+  let itemsToRender = []
 
-  props.items.map((item) => {
-    itemsToRender.push(<Option key={item.title} {...item}>{item.title}</Option>)
+  props.items.map(item => {
+    itemsToRender.push(
+      <Option key={item.title} {...item}>
+        {item.title}
+      </Option>
+    )
 
-    if (item.hasOwnProperty("items")) {
-      item.items.map((item) => {
+    if (item.hasOwnProperty('items')) {
+      item.items.map(item => {
         itemsToRender.push(
-          <Option key={item.title} {...item}>&nbsp;&nbsp; {item.title}</Option>
+          <Option key={item.title} {...item}>
+            &nbsp;&nbsp; {item.title}
+          </Option>
         )
       })
     }
   })
 
-  return <optgroup label={props.title}>
-    {itemsToRender}
-  </optgroup>;
+  return <optgroup label={props.title}>{itemsToRender}</optgroup>
 }
 
 const Option = props => {
@@ -30,8 +34,8 @@ const Option = props => {
 
 class ArticleSelect extends React.Component {
   handleChange(event) {
-    const newLocation = window.location.href = withPrefix(event.target.value);
-    return typeof window !== 'undefined' ? newLocation : "/";
+    const newLocation = (window.location.href = withPrefix(event.target.value))
+    return typeof window !== 'undefined' ? newLocation : '/'
   }
 
   render() {
@@ -44,10 +48,7 @@ class ArticleSelect extends React.Component {
         value={this.props.currentPath}
       >
         {links.map((section, index) => (
-          <Options
-            key={index}
-            {...section}
-            title={section.title} />
+          <Options key={index} {...section} title={section.title} />
         ))}
       </select>
     )

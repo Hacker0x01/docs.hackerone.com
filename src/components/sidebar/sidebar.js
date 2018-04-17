@@ -26,7 +26,8 @@ const SectionLinks = props => {
           node={item}
           children={item.items}
           key={index}
-          isChildActive={props.activeChild === item.items} />
+          isChildActive={props.activeChild === item.items}
+        />
       ))}
     </ul>
   )
@@ -42,9 +43,9 @@ const SectionLink = props => {
 
   const item = props.node
 
-  const subItemsClasses = classNames("sidebar__sub-items", {
-    "sidebar__sub-items--active": props.isChildActive
-  });
+  const subItemsClasses = classNames('sidebar__sub-items', {
+    'sidebar__sub-items--active': props.isChildActive,
+  })
 
   return (
     <li className="sidebar__item" key={item.title}>
@@ -60,10 +61,7 @@ const SectionLink = props => {
       ) : (
         <span className="sidebar__link--disabled">{item.title}</span>
       )}
-      {childnodes
-        ? <ul className={subItemsClasses}>{childnodes}</ul>
-        : null
-      }
+      {childnodes ? <ul className={subItemsClasses}>{childnodes}</ul> : null}
     </li>
   )
 }

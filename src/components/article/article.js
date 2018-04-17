@@ -32,9 +32,10 @@ const findActiveChildByPath = (pathname, sections) => {
   sections.forEach(section => {
     section.items.some(item => {
       if (item.items) {
-        match = item.items.some(subitem => {
-          return pathname === withPrefix(subitem.path)
-        }) || pathname === withPrefix(item.path)
+        match =
+          item.items.some(subitem => {
+            return pathname === withPrefix(subitem.path)
+          }) || pathname === withPrefix(item.path)
 
         if (match) {
           activeChild = item.items
