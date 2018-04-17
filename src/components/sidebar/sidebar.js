@@ -42,6 +42,7 @@ const SectionLink = props => {
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
         <Link
+          exact
           to={item.path}
           activeClassName="sidebar__link--active"
           className="sidebar__link"

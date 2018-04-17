@@ -24,11 +24,12 @@ export default IndexRoute
 
 export const pageQuery = graphql`
   query hackersIndexQuery {
-    markdownRemark(frontmatter: { title: { eq: "Getting started" } }) {
+    markdownRemark(frontmatter: { bookIndexFor: { eq: "hackers" } }) {
       html
       frontmatter {
         path
         title
+        bookIndexFor
       }
     }
   }

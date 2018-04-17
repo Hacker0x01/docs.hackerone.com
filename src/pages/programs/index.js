@@ -6,6 +6,7 @@ import programsNav from './programs-nav.yaml'
 
 class IndexRoute extends React.Component {
   render() {
+    console.log(this.props.data);
     const { markdownRemark } = this.props.data
 
     return (
@@ -24,11 +25,12 @@ export default IndexRoute
 
 export const pageQuery = graphql`
   query programsIndexQuery {
-    markdownRemark(frontmatter: { title: { eq: "Program Start-Up Guide" } }) {
+    markdownRemark(frontmatter: { bookIndexFor: { eq: "programs" } }) {
       html
       frontmatter {
         path
         title
+        bookIndexFor
       }
     }
   }
