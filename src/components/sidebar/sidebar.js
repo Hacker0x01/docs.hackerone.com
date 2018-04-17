@@ -83,26 +83,22 @@ class Sidebar extends React.Component {
   }
 
   render() {
-    const links = this.props.links
-
     return (
       <div className="sidebar">
         <div className="sidebar__wrapper">
           <div className="sidebar__body">
-            {links.map((section, index) => (
-              <div key={index}>
-                <Section
-                  {...section}
-                  onSectionTitleClick={() => this.toggleSection(section)}
-                  isSectionActive={
-                    this.state.activeSection === section ||
-                    section.items.length === 1
-                  }
-                  activeChild={this.state.activeChild}
-                  title={section.title}
-                  index={index}
-                />
-              </div>
+            {this.props.links.map((section, index) => (
+              <Section
+                key={index}
+                {...section}
+                title={section.title}
+                onSectionTitleClick={() => this.toggleSection(section)}
+                isSectionActive={
+                  this.state.activeSection === section ||
+                  section.items.length === 1
+                }
+                activeChild={this.state.activeChild}
+              />
             ))}
           </div>
         </div>
