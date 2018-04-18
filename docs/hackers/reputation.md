@@ -10,7 +10,7 @@ There are a number of privileges that are gained by maintaining a high reputatio
 It's critical to this community that security teams be afforded a high-signal environment so that they can focus on providing a quality response to hackers who submit the best reports. 
 
 ### Affects to Reputation
-A Hacker profile starts with a reputation score of 100. Reports gain or lose reputation based on the state in which they are closed:
+A Hacker profile starts with a reputation score of 100. Reports gain or lose reputation based on the state in which they are closed. Reputation can't decrease below 0. 
 
 Report State | Reputation Points
 ------------ | -----------------
@@ -23,3 +23,5 @@ Duplicate of a resolved report submitted after the report is made public | -5
 Duplicate of a N/A report | -5
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation.
+
+You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
