@@ -33,7 +33,19 @@ const Option = props => {
 }
 
 class ArticleSelect extends React.Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      currentPath: props.currentPath,
+    }
+
+    this.handleChange = this.handleChange.bind(this);
+  }
+
   handleChange(event) {
+    this.setState({ currentPath: event.target.value })
+
     const newLocation = (window.location.href = withPrefix(event.target.value))
     return typeof window !== 'undefined' ? newLocation : '/'
   }
@@ -45,7 +57,7 @@ class ArticleSelect extends React.Component {
       <select
         className="article-select"
         onChange={this.handleChange}
-        value={this.props.currentPath}
+        value={this.state.currentPath}
       >
         {links.map((section, index) => (
           <Options key={index} {...section} title={section.title} />
