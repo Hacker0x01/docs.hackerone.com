@@ -1,3 +1,5 @@
+@import '../../css/variables';
+
 .article {
   max-width: 1200px;
   padding-left: 20px;
@@ -17,7 +19,7 @@
   align-items: stretch;
   padding: 24px 0;
 
-  @media (min-width: 768px) {
+  @media (min-width: $tablet-breakpoint) {
     padding: 24px 0 24px 48px;
   }
 }
