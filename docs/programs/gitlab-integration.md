@@ -7,10 +7,10 @@ With GitLab integration, HackerOne makes it easy for you to track GitLab issues 
 
 In order to configure GitLab integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
-<li> Are you using gitlab.com or GitLab Community/Enterprise Edition?
-<li> The repository name
-<li> The organization name
-<li> The repository URL
+- Are you using gitlab.com or GitLab Community/Enterprise Edition?
+- The repository name
+- The organization name
+- The repository URL
 
 If you have various repositories under one organization, HackerOne can set your reference URL to be https://gitlab.com/:org/. This will enable you to set your references to be equal to :repo/issues/:id, and that would link you directly there.
 

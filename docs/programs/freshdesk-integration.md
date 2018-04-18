@@ -7,11 +7,11 @@ With Freshdesk integration, HackerOne makes it easy for you to track Freshdesk i
 
 In order to configure Freshdesk integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
-<li> Base URI of the Freshdesk instance (e.g. https://company.freshdesk.com/)
-<li> ID of the requester (requester_id) who should be listed as the requester of all tickets (an integer)
-<li> Status (“status”) you’d like tickets to default to (an integer)
-<li> Priority (“priority”) you’d like issues to default to (an integer)
-<li> Any other custom/specific fields you’d like pre-populated (e.g. ticket type, source, group, tags)
+- Base URI of the Freshdesk instance (e.g. https://company.freshdesk.com/)
+- ID of the requester (requester_id) who should be listed as the requester of all tickets (an integer)
+- Status (“status”) you’d like tickets to default to (an integer)
+- Priority (“priority”) you’d like issues to default to (an integer)
+- Any other custom/specific fields you’d like pre-populated (e.g. ticket type, source, group, tags)
 
 *Note: For most fields, HackerOne requires the actual numeric ID of the field value, not the label/string.*
 

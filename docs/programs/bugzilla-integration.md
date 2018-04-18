@@ -7,8 +7,8 @@ With Bugzilla integration, HackerOne makes it easy for you to track Bugzilla iss
 
 In order to configure Bugzilla integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
 
-  <li> The Base URL of your instance (e.g. https://company.bugzilla.com/)
-  <li> Product
+  - The Base URL of your instance (e.g. https://company.bugzilla.com/)
+  - Product
 
 HackerOne can pre-fill any fields you’d like including any custom fields you may have created. Just let HackerOne know what you’d like those fields to map from.
 

@@ -7,10 +7,10 @@ With GitHub integration, HackerOne makes it easy for you to track GitHub issues 
 
 In order to configure GitHub integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
-<li> Are you using github.com or GitHub Enterprise?
-<li> The repository name
-<li> The organization name
-<li> The repository URL
+- Are you using github.com or GitHub Enterprise?
+- The repository name
+- The organization name
+- The repository URL
 
 If you have various repositories under one organization, your reference URL can be set to be https://github.com/ and you could set your references to be equal to :rep/issues/:id, and that would link you directly there.
 

@@ -7,10 +7,10 @@ With Trac integration, HackerOne makes it easy for you to link Trac issues as re
 
 In order to configure Trac integration for your team, contact HackerOne with the following information:
 
-<li> The base URI of the Trac instance (e.g., "https://trac.company.com/")
-<li> The component you'd like issues to default to
-<li> The type you'd like issues to default to
-<li> Any other custom keywords/fields you'd like prepopulated. Options are described here: http://trac.edgewall.org/wiki/TracTickets#PresetValuesforNewTickets
+- The base URI of the Trac instance (e.g., "https://trac.company.com/")
+- The component you'd like issues to default to
+- The type you'd like issues to default to
+- Any other custom keywords/fields you'd like prepopulated. Options are described here: http://trac.edgewall.org/wiki/TracTickets#PresetValuesforNewTickets
 
 With all of the provided information, HackerOne will be able to set up your requested integration. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
 

@@ -7,10 +7,10 @@ With ServiceNow integration, HackerOne makes it easy for you to track ServiceNow
 
 In order to configure ServiceNow integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
-<li> The base URI of the ServiceNow instance (e.g. https://company.service-now.com/)
-<li> Whether you use “Description” or “Additional Comments” for more details
-<li> Category (the “choice value”) you’d like issues to default to
-<li> Any other custom/specific fields you’d like pre-populated such as: contact type, subcategory, priority, caller, assignment group
+- The base URI of the ServiceNow instance (e.g. https://company.service-now.com/)
+- Whether you use “Description” or “Additional Comments” for more details
+- Category (the “choice value”) you’d like issues to default to
+- Any other custom/specific fields you’d like pre-populated such as: contact type, subcategory, priority, caller, assignment group
 
 With all of the provided information, HackerOne will be able to set up your requested integration. As ServiceNow is highly customizable, HackerOne may need to set up a discussion to set your integration so it works best for your team. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
 
