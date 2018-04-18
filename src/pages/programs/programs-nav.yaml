@@ -1,9 +1,7 @@
-- title:
+- title: Getting Started
   items:
     - title: Welcome
       path: /programs/
-- title: Getting Started
-  items:
     - title: Overview
       path: /programs/overview/
     - title: Program Start-up Guide
