@@ -26,6 +26,7 @@ export default ({ pathname }) => {
       <ul className="navigation__list">
         <NavItem linkTo="/hackers" title="Hackers" />
         <NavItem linkTo="/programs" title="Programs" />
+        <NavItem linkTo="/changelog" title="Changelog" />
       </ul>
 
       <Search />

@@ -5,6 +5,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
   const programsTemplate = path.resolve('./src/templates/programs.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');
+  const changelogTemplate = path.resolve('./src/templates/changelog.js');
 
   return graphql(`
     {
@@ -34,6 +35,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         template = programsTemplate;
       } else if (node.frontmatter.path.includes("hackers/")) {
         template = hackersTemplate;
+      } else if (node.frontmatter.path.includes("changelog/")) {
+        template = changelogTemplate;
       }
 
       createPage({
