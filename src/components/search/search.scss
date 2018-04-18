@@ -1,11 +1,17 @@
+@import '../../css/variables';
+
 .search {
-  display: flex;
-  flex: 0 0 auto;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding-left: 0.5rem;
-  margin: 0;
+  display: none;
+
+  @media (min-width: $tablet-breakpoint) {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0.5rem;
+    margin: 0;
+  }
 }
 
 .search__input {

@@ -1,3 +1,5 @@
+@import '../../css/variables';
+
 .navigation__item {
   display: inline-block;
   margin: 0;
@@ -44,7 +46,10 @@
   line-height: 1;
   display: flex;
   align-items: center;
-  margin-right: 24px;
+
+  @media (min-width: $tablet-breakpoint) {
+    margin-right: 24px;
+  }
 }
 
 .navigation__logo-image {
@@ -54,9 +59,13 @@
 }
 
 .navigation__list {
-  display: flex;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  flex-grow: 1;
+  display: none;
+
+  @media (min-width: $tablet-breakpoint) {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    flex-grow: 1;
+  }
 }
