@@ -1,6 +1,7 @@
 import React from 'react'
 import Topic from '../components/topic/topic'
 import Footer from '../components/footer/footer'
+import { withPrefix } from 'gatsby-link'
 
 const IndexPage = () => {
   return (
@@ -26,7 +27,7 @@ const IndexPage = () => {
           </div>
 
           <div className="topics">
-            <Topic url="/hackers">
+            <Topic url={withPrefix("/hackers")}>
               <h2>Hackers</h2>
               <p>
                 A complete toolkit designed for hackers to answer any questions
@@ -34,7 +35,7 @@ const IndexPage = () => {
               </p>
             </Topic>
 
-            <Topic url="/programs">
+            <Topic url={withPrefix("/programs")}>
               <h2>Programs</h2>
               <p>
                 Anything you need to know about how our platform works and the
