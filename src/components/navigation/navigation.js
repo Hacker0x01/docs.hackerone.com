@@ -26,6 +26,15 @@ export default ({ pathname }) => {
       <ul className="navigation__list">
         <NavItem linkTo="/hackers" title="Hackers" />
         <NavItem linkTo="/programs" title="Programs" />
+        <li className="navigation__item">
+          <a
+            className="navigation__link"
+            href="https://api.hackerone.com"
+            target="_blank"
+          >
+            API
+          </a>
+        </li>
         <NavItem linkTo="/changelog" title="Changelog" />
       </ul>
 
