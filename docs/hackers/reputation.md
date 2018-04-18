@@ -25,3 +25,15 @@ Duplicate of a N/A report | -5
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation.
 
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
+
+### Bounty Affects to Reputation
+The rewarded bounty amount also impacts your reputation. Different bounty amounts grant you reputation based on the standard deviation from the program's mean bounty amount. Here's the breakdown for how many reputation points you can gain depending on your bounty:
+
+Reputation Points | Details
+----------------- | --------
++50 | Known as BOUNTY_SEVERE. <br>Received when Bounty Amount ≥ mean + 1 standard deviation
++25 | Known as BOUNTY_HIGH. <br>Received when Bounty Amount > mean
++15 | Known as BOUNTY_MEDIUM. <br>Received when Bounty Amount ≥ mean - 1 standard deviation
++10 | Known as BOUNTY_LOW. <br>Received when Bounty Amount < mean - 1 standard deviation
+
+Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation points. After 10 bounty bounties have been paid out, hackers will gain reputation through bounty according to the point system above.
