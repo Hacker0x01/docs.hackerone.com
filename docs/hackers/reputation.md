@@ -9,7 +9,7 @@ There are a number of privileges that are gained by maintaining a high reputatio
 
 It's critical to this community that security teams be afforded a high-signal environment so that they can focus on providing a quality response to hackers who submit the best reports. 
 
-### How It Works
+### Affects to Reputation
 A Hacker profile starts with a reputation score of 100. Reports gain or lose reputation based on the state in which they are closed:
 
 Report State | Reputation Points
