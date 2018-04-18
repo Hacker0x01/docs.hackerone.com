@@ -3,6 +3,7 @@ title: "Donating Bounty to Charity"
 path: "/programs/donating-bounty-to-charity"
 ---
 
+### Donating your Bounty to Charity
 You're able to donate your bounty to charity! If you want to donate a bounty:
 1. Sign into your HackerOne account and [submit a support ticket](https://support.hackerone.com/hc/en-us/requests/new). 
 2. Mention the following in your request: 
