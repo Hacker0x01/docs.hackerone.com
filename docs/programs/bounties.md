@@ -3,7 +3,7 @@ title: "Bounties"
 path: "/programs/bounties"
 ---
 
-Bounties are money you reward to hackers for reported and resolved bugs. They are used to attract the best hackers and to keep them incentivized to hack your programs. You can use bounties to encourage hackers to focus on particular assets by altering the reward amount for different vulernability types. You shouldn't feel obligated to award a bounty for every incoming report as it's best to only reward for useful, valid reports. 
+A bounty is money you reward to hackers for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack your programs. You can use bounties to encourage hackers to focus on particular assets by altering the reward amount for different vulernability types. You shouldn't feel obligated to award a bounty for every incoming report as it's best to only reward for useful, valid reports. 
 
 ### Awarding Bounties on Reports
 You can award a bounty through any report submitted to HackerOne. Some teams prefer to award a bounty once the issue has been confirmed as valid, while others wait until the issue is resolved. 
