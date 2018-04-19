@@ -10,8 +10,8 @@ const IndexPage = () => {
         <div className="hero__wrapper">
           <h1>Welcome to HackerOne's Product Documentation Center</h1>
           <p>
-            You'll find comprehensive guides and documentation to help you start
-            working with HackerOne as quickly as possible.
+            Get familiar with HackerOne and explore our product features. We 
+            provide some tooltips here that you might find useful. 
           </p>
         </div>
       </header>
@@ -19,10 +19,9 @@ const IndexPage = () => {
       <section className="homepage-content">
         <div className="homepage-content__wrapper">
           <div>
-            <h1>Getting started</h1>
+            <h1>Getting Started</h1>
             <p>
-              We can help make your workflow faster and eaier. Here are some
-              tooltips that you might find useful.
+              Are you a hacker or a program? Choose which book you'd like to browse. 
             </p>
           </div>
 
@@ -30,7 +29,7 @@ const IndexPage = () => {
             <Topic url={withPrefix("/hackers")}>
               <h2>Hackers</h2>
               <p>
-                A complete toolkit designed for hackers to answer any questions
+                COMING SOON! A complete toolkit designed for hackers to answer any questions
                 about our platform.
               </p>
             </Topic>
