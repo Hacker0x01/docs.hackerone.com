@@ -1,6 +1,6 @@
 ---
 title: "Rejecting and Leaving Programs"
-path: "/programs/rejecting-and-leaving-programs"
+path: "/hackers/rejecting-and-leaving-programs"
 ---
 
 There are times where you don't want to accept a program or even after accepting, you decide to leave. Upon leaving a program or declining an invitation, you'll be given an opportunity to fill out a questionnaire with your reasons about rejecting or leaving the program. 
