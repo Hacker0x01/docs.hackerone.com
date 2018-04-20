@@ -34,8 +34,8 @@
       path: /hackers/invitations/      
     - title: Rejecting and Leaving Programs
       path: /hackers/rejecting-and-leaving-programs/
-    - title: Access to Private Programs
-      path: /hackers/access-to-private-programs/
+    - title: Invitations Priority Queue
+      path: /hackers/invitations-priority-queue/
 - title: Reports
   items:
     - title: Report Definition
