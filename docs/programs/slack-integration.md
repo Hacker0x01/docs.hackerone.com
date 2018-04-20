@@ -7,6 +7,8 @@ With Slack integration, your team can stay up to date on HackerOne report activi
 
 *Note: Slack integration is only available to H1 Response and H1 Bounty Pro (and above) customers. For more details, see product editions. Existing users of the Slack integration will also need to navigate to **Settings > Program > Integrations > Slack** to enable the new settings.*
 
+Keep in mind that we currently only support integration with public channels. [Contact us](support@hackerone.com) if you want to send notifications to a private Slack channel.  
+
 ### Set Up Slack Integration
 To set up slack integration:
 1. Go to **Settings > Program > Integrations**.
