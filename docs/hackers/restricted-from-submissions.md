@@ -1,6 +1,6 @@
 ---
 title: "Restricted From Submissions"
-path: "/programs/restricted-from-submissions"
+path: "/hackers/restricted-from-submissions"
 ---
 
 You can be restricted from form submissions. There are 2 reasons as to why you might be restricted from submissions:
