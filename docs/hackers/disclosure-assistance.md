@@ -1,6 +1,6 @@
 ---
 title: "Disclosure Assistance"
-path: "/programs/disclosure-assistance"
+path: "/hackers/disclosure-assistance"
 ---
 
 ### Context
