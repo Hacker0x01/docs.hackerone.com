@@ -15,12 +15,13 @@ A Hacker profile starts with a reputation score of 100. Reports gain or lose rep
 Report State | Reputation Points
 ------------ | -----------------
 Resolved | +7
+Duplicate of a resolved report submitted prior to the report being made public | +2
+The original report is resolved before the duplicate was filed | 0
 Informative | 0
 Not Applicable | -5
-Spam | -10
-Duplicate of a resolved report submitted prior to the report being made public | +2
 Duplicate of a resolved report submitted after the report is made public | -5
 Duplicate of a N/A report | -5
+Spam | -10
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation.
 
