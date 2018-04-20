@@ -1,100 +1,56 @@
--
+- title: Getting Started
   items:
-    - title: Getting Started
+    - title: Welcome
       path: /hackers/
-- title: Navigation Overview
+    - title: Overview
+      path: /hackers/
+- title: Your Account
+    - title: Reputation
+      path: /hackers/reputation/
+    - title: Signal and Impact
+      path: /hackers/signal-and-impact/
+    - title: Creating Multiple Accounts
+      path: /hackers/creating-multiple-accounts/
+    - title: Payments
+      path: /hackers/payments/
+    - title: Manage Notifications
+      path: /hackers/manage-notifications/
+- title: Hacking
   items:
     - title: Hacktivity
       path: /hackers/hacktivity/
     - title: Directory
       path: /hackers/directory/
-      items:
+      items: 
         - title: Disclosure Assistance
-          path: /hackers/disclosure-assistance/
-        - title: HackerOne Directory
-          path: /hackers/hackerone-directory/
-        - title: Correcting Information
-          path: /hackers/correcting-information/
-    - title: Inbox
-      path: /hackers/inbox/
-    - title: Settings
-      path: /hackers/settings/
-- title: Settings
+         path: /hackers/disclosure-assistance/   
+    - title: Hacker 101
+      path: /hackers/hacker-101/
+    - title: Code of Conduct
+      path: /hackers/code-of-conduct/
+- title: Programs
   items:
-    - title: Authentication
-      path: /hackers/authentication/
-      items:
-        - title: Two-Factor Authentication
-          path: /hackers/two-factor-authentication/
-    - title: Skill Set
-      path: /hackers/skill-set/
-    - title: Invitation Preferences
-      path: /hackers/invitation-preferences/
-      items:
-        - title: Invitation Expirations
-          path: /hackers/invitation-expirations/
-        - title: Invitation Rejection Questionnaire
-          path: /hackers/invitation-rejection-questionnaire/
-        - title: Invitations Priority Queue
-          path: /hackers/invitations-priority-queue/
-    - title: Programs
-      path: /hackers/programs/
-      items:
-        - title: Choosing Program Invitations
-          path: /hackers/choosing-program-invitations/
-        - title: Manage Notifications
-          path: /hackers/manage-notifications/
-    - title: Payments
-      path: /hackers/payments/
-      items:
-        - title: Donating Bounty to Charity
-          path: /hackers/donating-bounty-to-charity/
-    - title: Payout Methods
-      path: /hackers/payout-methods/
-    - title: Swag
-      path: /hackers/swag/
-    - title: Reputation
-      path: /hackers/reputation/
-      items:
-        - title: What is Reputation?
-          path: /hackers/what-is-reputation?/
-        - title: Effects to Reputation
-          path: /hackers/effects-to-reputation/
-        - title: Signal and Impact
-          path: /hackers/signal-and-impact/
-        - title: Bounty Affect to Reputation
-          path: /hackers/bounty-affect-to-reputation/
-- title: Inbox - Reports
+    - title: Invitations
+      path: /hackers/invitations/      
+    - title: Rejecting and Leaving Programs
+      path: /hackers/rejecting-and-leaving-programs/
+    - title: Access to Private Programs
+      path: /hackers/access-to-private-programs/
+- title: Reports
   items:
     - title: Report Definition
       path: /hackers/report-definition/
-    - title: Using Markdown
-      path: /hackers/using-markdown/
+    - title: Report Actions
+      path: /hackers/report-actions/
+    - title: Report States
+      path: /hackers/report-states/
+    - title: Quality Reports
+      path: /hackers/quality-reports/
     - title: Report Templates
       path: /hackers/report-templates/
     - title: Weaknesses
       path: /hackers/weaknesses/
-    - title: Keyboard Shortcuts to Navigating Reports
-      path: /hackers/keyboard-shortcuts-to-navigating-reports/
     - title: Public Disclosure
       path: /hackers/public-disclosure/
-    - title: Quality Reports
-      path: /hackers/quality-reports/
-    - title: Severity
-      path: /hackers/severity/
-    - title: Report States
-      path: /hackers/report-states/
-- title: Misc
-  items:
-    - title: Creating Multiple Accounts
-      path: /hackers/creating-multiple-accounts/
-    - title: Hacker Reviews
-      path: /hackers/hacker-reviews/
-    - title: Hacker Mediation
-      path: /hackers/hacker-mediation/
-    - title: Examples of Bad Behavior
-      path: /hackers/examples-of-bad-behavior/
-    - title: Restricted from Submissions
-      path: /hackers/restricted-from-submissions/
-    - title: Access to Private Programs
-      path: /hackers/access-to-private-programs/
+    - title: Keyboard Shortcuts
+      path: /hackers/keyboard-shortcuts/
