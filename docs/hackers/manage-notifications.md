@@ -1,6 +1,6 @@
 ---
 title: "Manage Notifications"
-path: "/programs/manage-notifications"
+path: "/hackers/manage-notifications"
 ---
 
 You can manage email notifications you receive from programs you belong to in **Settings > Programs**. On the Programs page, you can view a list of programs you belong to along with the visibility of that program on your public profile as well as your notification settings. 
