@@ -5,8 +5,9 @@ path: "/hackers/invitations"
 
 In order to hack on private programs, you must receive invitations to them. You can receive invitations if you meet the following criteria:
 * Established reputation
-* Positive signal
 * Clear record with zero code of conduct violations
+
+When your Reputation, Signal, and Impact are high enough, you'll join the pool of hackers that receive access to private programs. Once you start receiving invitations to those programs, remember, the one universal rule is to not talk about the private programs you're a part of.
 
 HackerOne manages invitations for programs by:
 * Daily checking to see if the program has met their report volume target in the last 30 days
