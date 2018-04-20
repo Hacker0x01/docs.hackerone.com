@@ -1,6 +1,6 @@
 ---
 title: "Payments"
-path: "/programs/payments"
+path: "/hackers/payments"
 ---
 
 You can receive payments on HackerOne for finding and reporting valid vulnerabilities through:
