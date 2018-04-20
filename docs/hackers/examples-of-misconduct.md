@@ -1,4 +1,4 @@
 ---
 title: "Examples of Misconduct"
-path: "/programs/bonuses"
+path: "/hackers/exmaples-of-misconduct"
 ---
