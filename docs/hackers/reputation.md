@@ -1,6 +1,6 @@
 ---
 title: "Reputation"
-path: "/programs/reputation"
+path: "/hackers/reputation"
 ---
 
 As hackers submit vulnerability reports through the HackerOne platform, their reputation measures how likely their finding is to be immediately relevant and actionable. Reputation is based exclusively on your track record as a hacker. 
