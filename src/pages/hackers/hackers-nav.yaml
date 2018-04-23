@@ -28,6 +28,8 @@
       path: /hackers/hacker-101/
     - title: Code of Conduct
       path: /hackers/code-of-conduct/
+    - title: Hacker Mediation
+      path: /hackers/hacker-mediation/
 - title: Programs
   items:
     - title: Invitations
