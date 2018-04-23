@@ -1,6 +1,6 @@
 ---
 title: "Examples of Misconduct"
-path: "/hackers/exmaples-of-misconduct"
+path: "/hackers/examples-of-misconduct"
 ---
 
 As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate. 
