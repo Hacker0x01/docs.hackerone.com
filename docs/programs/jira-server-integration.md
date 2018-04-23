@@ -3,7 +3,9 @@ title: "Jira Server Integration"
 path: "/programs/jira-server-integration"
 ---
 
-HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue.
+HackerOne 
+
+HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue. You can choose to integrate with Jira Cloud or Jira Server. 
 
 To integrate with Jira Server:
 1. Go to **Settings > Program > Integrations**.
