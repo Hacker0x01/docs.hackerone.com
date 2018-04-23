@@ -34,15 +34,3 @@ HackerOne is mutually beneficial for both parties to collaborate within the plat
 Examples of harassment include repeated, direct contact with participants of a disclosure program ie: complaining to personal accounts on Twitter or repeatedly emailing executives) to complain or beg for a different result of a submission. This behavior discourages programs from opening disclosure programs and damages research opportunities in the community.
 
 Generally, it’s important to understand that security teams operating disclosure programs aren't representing a customer service function. Hackers are also not required to perform research for any program that they find themselves in disagreement with or aren't offering the incentives they would prefer.
-
-If you'd like to request mediation, each license level includes a specific number of mediation support requests as a Professional or Enterprise customer. 
-
-In order to request mediation:
-1. Open the report you'd like to request HackerOne mediation support for. 
-2. Scroll to the bottom of the report.
-3. Click **Report Abuse**. 
-4. Select **Request mediation**. 
-
-This will trigger a workflow for your HackerOne team to reach out to both your team and the relevant hacker. 
-
-![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
