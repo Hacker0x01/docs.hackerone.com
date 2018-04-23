@@ -12,6 +12,17 @@ Hacker mediation requests commonly occur when a program's behavior is clearly ou
 
 *Note: Please don't share any report details with HackerOne in the initial request without explicit mutual agreement from the program. If more information is required to address the problem, HackerOne will arrange it with the program's security team.
 
+### Requesting Hacker Mediation
+In order to request mediation:
+1. Open the report you'd like to request HackerOne mediation support for. 
+2. Scroll to the bottom of the report.
+3. Click **Report Abuse**. 
+4. Select **Request mediation**. 
+
+This will trigger a workflow to reach out to both the program and the relevant hacker. 
+
+![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
+
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following activities:
 1) An email is sent to the program's security team, requesting that they make a best effort to resolve the issue with the hacker within 3 business days. 
