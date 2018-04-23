@@ -12,7 +12,7 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 1. Their emails are forwarded to HackerOne's inbox and saved as report drafts.
 2. The hacker will receive an auto-response email notifying them that your program uses the HackerOne platform to coordinate vulnerabilities. They can click the **Submit Vulnerability Report** link. 
 
-![email-forwarding-2](./images/email-forwarding-2.png)
+![email-forwarding-2](./images/email-forwarding-2.jpg)
 
 3. The link will prompt the hacker to create a HackerOne account if they don't already have one, or to log in to their existing account. 
 
