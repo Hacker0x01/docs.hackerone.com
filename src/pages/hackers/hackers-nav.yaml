@@ -5,6 +5,7 @@
     - title: Overview
       path: /hackers/overview/
 - title: Your Account
+  items:
     - title: Reputation
       path: /hackers/reputation/
     - title: Signal and Impact
