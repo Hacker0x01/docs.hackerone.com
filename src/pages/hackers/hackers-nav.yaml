@@ -40,8 +40,8 @@
       path: /hackers/invitations-priority-queue/
 - title: Reports
   items:
-    - title: Report Definition
-      path: /hackers/report-definition/
+    - title: Submitting Reports
+      path: /hackers/submitting-reports/
     - title: Report Actions
       path: /hackers/report-actions/
     - title: Report States
