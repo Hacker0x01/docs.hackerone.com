@@ -4,6 +4,7 @@ module.exports = {
   },
   pathPrefix: '/docs.hackerone.com',
   plugins: [
+    'gatsby-plugin-netlify-cms',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',

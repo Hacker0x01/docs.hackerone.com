@@ -1,0 +1,15 @@
+backend:
+  name: github
+  repo: hacker0x01/docs.hackerone.com
+
+media_folder: static/assets
+
+collections:
+  - name: hackers
+    label: Hackers
+    folder: "docs/hackers"
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: title, label: Title }
+      - { name: html, label: Body, widget: "markdown"}

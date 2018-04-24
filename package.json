@@ -8,6 +8,7 @@
     "gatsby-cli": "^1.1.50",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-google-analytics": "^1.0.29",
+    "gatsby-plugin-netlify-cms": "^2.0.1",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-sharp": "^1.6.42",
@@ -15,6 +16,7 @@
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
     "gatsby-transformer-sharp": "^1.6.21",
+    "netlify-cms": "^1.6.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
