@@ -2,18 +2,29 @@
 @import 'variables';
 
 body {
-  background: #fff;
+  background: $daisy-white;
   font-family: "Effra", sans-serif;
   font-size: 16px;
   line-height: 24px;
+  color: $daisy-zambezi;
 }
 
 a {
   color: $daisy-blue;
+  transition: color .15s ease-in-out;
 
   &:hover {
     text-decoration: none;
   }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $daisy-eclipse;
 }
 
 .wrapper {
@@ -22,7 +33,7 @@ a {
 
 .hero {
   background-color: #676767;
-  color: #fff;
+  color: $daisy-white;
 }
 
 .hero__wrapper {

@@ -11,20 +11,20 @@
   margin-right: 24px;
   border-bottom: 3px solid transparent;
   line-height: 57px;
-  color: #fff;
+  color: $daisy-white;
   text-decoration: none;
 
   &:hover {
     text-decoration: none;
-    color: #ff5064;
+    color: $daisy-pink;
   }
 
   &--active {
     background-color: #676767;
-    border-bottom-color: #ff5064;
+    border-bottom-color: $daisy-pink;
 
     &:hover {
-      color: #fff;
+      color: $daisy-white;
     }
   }
 }

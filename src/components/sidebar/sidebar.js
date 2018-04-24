@@ -4,9 +4,13 @@ import classNames from 'classnames'
 import './sidebar.scss'
 
 const Section = props => {
+  const titleClasses = classNames("sidebar__title", {
+    "sidebar__title--active": props.isSectionActive
+  });
+
   return (
     <div className="sidebar__section">
-      <h3 className="sidebar__title" onClick={props.onSectionTitleClick}>
+      <h3 className={titleClasses} onClick={props.onSectionTitleClick}>
         {props.title}
       </h3>
       <SectionLinks {...props} title={props.title} />

@@ -20,7 +20,7 @@ $sidebar-tablet-width: 240px;
 .sidebar__wrapper {
   margin-left: -999px;
   padding-left: 999px;
-  background-color: #f9f9f9;
+  background-color: $daisy-snow;
   height: calc(100vh - 60px);
   overflow-y: auto;
   display: flex;
@@ -39,7 +39,6 @@ $sidebar-tablet-width: 240px;
   @media (min-width: $desktop-breakpoint) {
     width: $sidebar-desktop-width;
   }
-
 }
 
 .sidebar__section {
@@ -72,14 +71,14 @@ $sidebar-tablet-width: 240px;
 
 .sidebar__link {
   text-decoration: none;
-  color: #3e3e3e;
+  color: $daisy-eclipse;
 
   &:hover {
-    color: #2d68f4;
+    color: $daisy-blue;
   }
 
   &--active {
-    color: #2d68f4;
+    color: $daisy-blue;
   }
 
   &--disabled {
@@ -89,10 +88,16 @@ $sidebar-tablet-width: 240px;
 }
 
 .sidebar__title {
-  font-size: 16px;
-  color: #9e9e9e;
+  font-size: 14px;
+  color: $daisy-nobel;
   text-transform: uppercase;
   margin: 0 0 8px;
-  letter-spacing: 1px;
+  letter-spacing: 1.2px;
   cursor: pointer;
+  transition: color .15s ease-in-out;
+
+  &--active,
+  &:hover {
+    color: $daisy-eclipse;
+  }
 }
