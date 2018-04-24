@@ -58,6 +58,7 @@
 - title: Inbox
   items:
     - title: Report Management
+      path: /programs/report-management
       items:
         - title: Report Actions
           path: /programs/report-actions/
@@ -78,6 +79,7 @@
     - title: Public Disclosure
       path: /programs/public-disclosure/
     - title: Automation
+      path: /programs/automation
       items:
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal/
