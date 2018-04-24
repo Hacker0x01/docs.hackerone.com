@@ -1,9 +1,9 @@
 - title: Getting Started
   items:
     - title: Welcome
-      path: /hackers/
+      path: /hackers/welcome/
     - title: Overview
-      path: /hackers/
+      path: /hackers/overview/
 - title: Your Account
     - title: Reputation
       path: /hackers/reputation/
