@@ -28,7 +28,7 @@ Both you and program members can request public disclosure. To request public di
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure. 
 6) Click **Post**.    
 
-![public-disclosure-2](./images/public-disclosure-2.png)
+![public-disclosure-2](./images/public-disclosure-2.png?raw=true)
 
 After public disclosure has been requested, the admin of the of the program can choose to publicly disclose the report. They can select **Disclose publicly** to disclose the report. 
 
