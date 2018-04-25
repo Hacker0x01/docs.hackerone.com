@@ -29,6 +29,8 @@
     - title: Submit Report Form
       path: /programs/submit-report-form/
       items:
+       - title: Report Templates
+         path: /programs/report-templates/
        - title: Pausing Report Submissions
          path: /programs/pausing-report-submissions/
     - title: Response SLA
