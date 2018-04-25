@@ -64,6 +64,8 @@
           path: /programs/report-actions/
         - title: Report States
           path: /programs/report-states/
+        - title: Report Templates
+          path: /programs/report-templates/
         - title: Quality Reports
           path: /programs/quality-reports/
         - title: Locking Reports
