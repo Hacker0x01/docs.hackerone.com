@@ -28,11 +28,11 @@ Both you and program members can request public disclosure. To request public di
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure. 
 6) Click **Post**.    
 
-![public-disclosure-2](./images/public-disclosure-2.png?raw=true)
+![public-disclosure-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-2.png?raw=true)
 
 After public disclosure has been requested, the admin of the of the program can choose to publicly disclose the report. They can select **Disclose publicly** to disclose the report. 
 
-![public-disclosure-3](./images/public-disclosure-3.png)
+![public-disclosure-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-3.png?raw=true)
 
 ### Limiting Public Report Information
 
@@ -44,13 +44,13 @@ There are 2 ways a security team can limit the information shared:
 
 Option | Detail
 ------ | -------
-Redacting Sensitive Information | You can redact information in your report. In the **Visibility** field in your report, select **Redact**. This will enable you to provide the string of words you permanently want to redact from your report. <br>![public-disclosure-4](./images/public-discloure-4.png)
+Redacting Sensitive Information | You can redact information in your report. In the **Visibility** field in your report, select **Redact**. This will enable you to provide the string of words you permanently want to redact from your report. <br>![public-disclosure-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-discloure-4.png?raw=true)
 Limiting Visibility | Only the summary and timeline of the report are visible and all comments and attachments are hidden. You can limit visibility when requesting public disclosure. 
 
 Here's a good example of a summarized disclosure from the Shopify security team: https://hackerone.com/reports/64164.
 
 This diagram illustrates HackerOne's public disclosure process: 
 
-![public-disclosure](./images/public-disclosure.png)
+![public-disclosure](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure.png?raw=true)
 
 For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines).  There is a lengthier blog post on [Public Disclosure](https://hackerone.com/blog/public-disclosure-on-hackerone?utm_source=h1&utm_medium=help&utm_campaign=hdpdw) as well.  If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
