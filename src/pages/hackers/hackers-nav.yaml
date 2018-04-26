@@ -1,17 +1,13 @@
 - title: Getting Started
   items:
     - title: Welcome
-      path: /hackers/welcome/
-    - title: Overview
-      path: /hackers/overview/
+      path: /hackers/
 - title: Your Account
   items:
     - title: Reputation
       path: /hackers/reputation/
     - title: Signal and Impact
       path: /hackers/signal-and-impact/
-    - title: Creating Multiple Accounts
-      path: /hackers/creating-multiple-accounts/
     - title: Payments
       path: /hackers/payments/
     - title: Manage Notifications
@@ -24,7 +20,7 @@
       path: /hackers/directory/
       items:
         - title: Disclosure Assistance
-          path: /hackers/disclosure-assistance/   
+          path: /hackers/disclosure-assistance/
     - title: Hacker 101
       path: /hackers/hacker-101/
     - title: Examples of Misconduct
@@ -49,11 +45,7 @@
       path: /hackers/report-states/
     - title: Quality Reports
       path: /hackers/quality-reports/
-    - title: Report Templates
-      path: /hackers/report-templates/
     - title: Weaknesses
       path: /hackers/weaknesses/
     - title: Public Disclosure
       path: /hackers/public-disclosure/
-    - title: Keyboard Shortcuts
-      path: /hackers/keyboard-shortcuts/

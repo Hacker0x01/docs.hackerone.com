@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-path: "/hackers/welcome"
+path: "/hackers/"
 bookIndexFor: "hackers"
 ---
 
