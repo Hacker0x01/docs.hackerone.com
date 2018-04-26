@@ -18,20 +18,20 @@ To enable hacker reviews:
 ### How Reviews Work
 To give a hacker review:
 1. Close the report and mark as resolved. 
-2. Hackbot will prompt you to give a review. You can choose from:
+2. Hackbot will prompt you to give the hacker of the report a review. You can choose from:
    * Yes, it was great!
    * Could have been better.
    * No thanks!
-3. If you choose to give a:
-   * Positive review, your feedback form will look like:
-     ![
-   * Negative review, your feedback form will look like:
-     ![  
+![hacker-review-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-1.png?raw=true)
+
+If you choose to give a positive review, your form will look like:
+![hacker-review-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-2.png?raw=true)
+
+If you choose to give a negative review, your form will look like:
+![hacker-review-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-3.png?raw=true)
 
 Regardless of whether the review is positive or negative, the hacker will receive an email with the contents of the review.
-![
+![hacker-review-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-4.png?raw=true)
 
-When the review is positive, the reviewer also has the option to leave a public endorsement on the hacker's profile page. 
-![
-
-This serves as an opportunity to tell the world about just how awesome the hacker is.
+When the review is positive, the reviewer also has the option to leave a public endorsement on the hacker's profile page, which serves as an opportunity to tell the world about just how awesome the hacker is. 
+![hacker-review-5](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-5.png?raw=true)
