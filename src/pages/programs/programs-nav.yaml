@@ -97,8 +97,6 @@
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations/
-    - title: Slack Integration
-      path: /programs/slack-integration/
     - title: Assembla Integration
       path: /programs/assembla-integration/
     - title: Bugzilla Integration
@@ -109,12 +107,18 @@
       path: /programs/github-integration/
     - title: GitLab Integration
       path: /programs/gitlab-integration/
+    - title: Jira-Cloud Integration
+      path: /programs/jira-cloud-integration/
+    - title: Jira-Server Integration
+      path: /programs/jira-server-integration/
     - title: MantisBT Integration
       path: /programs/mantisbt-integration/
     - title: OTRS Integration
       path: /programs/otrs-integration/
     - title: ServiceNow Integration
       path: /programs/servicenow-integration/
+    - title: Slack Integration
+      path: /programs/slack-integration/
     - title: Redmine Integration
       path: /programs/redmine-integration/
     - title: Trac Integration
