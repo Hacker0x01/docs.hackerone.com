@@ -24,10 +24,10 @@ To give a hacker review:
    * No thanks!
 ![hacker-review-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-1.png?raw=true)
 
-If you choose to give a positive review, your form will look like:
+You'll fill out these forms if you choose to:
+* Give a positive review
 ![hacker-review-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-2.png?raw=true)
-
-If you choose to give a negative review, your form will look like:
+* Give a negative review
 ![hacker-review-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/hacker-review-3.png?raw=true)
 
 Regardless of whether the review is positive or negative, the hacker will receive an email with the contents of the review.
