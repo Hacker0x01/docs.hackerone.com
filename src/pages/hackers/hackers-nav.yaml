@@ -22,9 +22,9 @@
       path: /hackers/hacktivity/
     - title: Directory
       path: /hackers/directory/
-      items: 
+      items:
         - title: Disclosure Assistance
-         path: /hackers/disclosure-assistance/   
+          path: /hackers/disclosure-assistance/   
     - title: Hacker 101
       path: /hackers/hacker-101/
     - title: Examples of Misconduct
@@ -34,7 +34,7 @@
 - title: Programs
   items:
     - title: Invitations
-      path: /hackers/invitations/      
+      path: /hackers/invitations/
     - title: Rejecting and Leaving Programs
       path: /hackers/rejecting-and-leaving-programs/
     - title: Invitations Priority Queue
