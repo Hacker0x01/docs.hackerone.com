@@ -1,6 +1,6 @@
 ---
 title: "Report Actions"
-path: "/programs/program-a-report"
+path: "/programs/report-actions"
 ---
 
 There are 5 actions you can take on a report in your inbox:
