@@ -87,7 +87,7 @@ class Sidebar extends React.Component {
   }
 
   render() {
-    console.log(this.state.activeSection, section, this.state.activeSection === section);
+    console.log(this.state.activeSection, this.props.activeSection, this.props.activeChild);
     return (
       <div className="sidebar">
         <div className="sidebar__wrapper">
