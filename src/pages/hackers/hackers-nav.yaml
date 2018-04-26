@@ -45,7 +45,9 @@
       path: /hackers/report-states/
     - title: Quality Reports
       path: /hackers/quality-reports/
-    - title: Weaknesses
+    - title: Weakness
       path: /hackers/weakness/
+    - title: Severity
+      path: /hackers/severity/
     - title: Public Disclosure
       path: /hackers/public-disclosure/
