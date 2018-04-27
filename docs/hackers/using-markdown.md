@@ -178,7 +178,7 @@ When the link is clicked, the attachment is displayed in the modal.
 ### INLINE IMAGES AND VIDEOS
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}). Example: For the above attachment, the markdown
 ```
- Here is a inlined image of an apple {F1} 
+ Here is an inlined image of an apple {F1} 
 ```
 will render the following:
 ![markdown-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-4.png?raw=true)
