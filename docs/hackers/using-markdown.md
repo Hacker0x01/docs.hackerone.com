@@ -129,13 +129,13 @@ I start my morning with a cup of coffee and
 I start my morning with a cup of coffee and The New York Times.
 
 ### CODE
-In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code:
+In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code. 
 ```
 The text has sample `code`
 ```
 The text has sample code
 
-To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes. Just like with code spans, &, <, and > characters will be escaped automatically.
+To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes (```). Just like with code spans, &, <, and > characters will be escaped automatically. 
 ```
 This is a multiline code block. 
 ```
