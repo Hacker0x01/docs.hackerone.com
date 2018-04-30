@@ -7,7 +7,7 @@ With MantisBT integration, HackerOne makes it easy for you to track MantisBT iss
 
 In order to configure MantisBT integration for your team, contact HackerOne with the following information:   
 
-- The base URI of the MantisBT instance (e.g., "https://mantis.company.com/")
+- The base URI of the MantisBT instance (e.g. https://mantis.company.com/)
 - The project (project_id) you'd like issues to default to (an integer)
 - The category (category_id) you'd like issues to default to (an integer)
 - Any other custom/specific fields you'd like prepopulated. Options are described here: https://www.mantisbt.org/wiki/doku.php/mantisbt:customizing_columns_in_view_issues_page#column_names
