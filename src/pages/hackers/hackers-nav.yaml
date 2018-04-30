@@ -21,8 +21,8 @@
       items:
         - title: Disclosure Assistance
           path: /hackers/disclosure-assistance/
-    - title: Hacker 101
-      path: /hackers/hacker-101/
+    - title: Hacker101
+      path: /hackers/hacker101/
     - title: The 90 Day Leaderboard
       path: /hackers/the-90-day-leaderboard/
     - title: Examples of Misconduct
