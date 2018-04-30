@@ -55,3 +55,5 @@
       path: /hackers/severity/
     - title: Public Disclosure
       path: /hackers/public-disclosure/
+    - title: Keyboard Shortcuts
+      path: /hackers/keyboard-shortcuts/
