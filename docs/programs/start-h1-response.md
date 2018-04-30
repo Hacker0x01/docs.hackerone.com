@@ -14,4 +14,4 @@ If you elect to **Start H1 Response**, you'll be taken to the Setup Guide where 
 5. If your program is approved by HackerOne, your program will be placed in controlled launch where it'll remain private and visible to only a select number of hackers. To publicly launch your program, your program must:
    * Receive at least 10 reports and have invited 100 hackers
    * Meet the baseline responsiveness limits
-6. Once you've met the criteria, contact HackerOne to publicly launch your program. [CHECK WITH DAVID. DO YOU NEED TO CONTACT HACKERONE TO LAUNCH PUBLICLY, OR WILL THE **PUBLIC LAUNCH** BUTTON AUTOMATICALLY BECOME CLICKABLE??????]
+6. Once you've met the criteria, the **Public Launch** button will appear. You can publicly self-launch your program when you're ready to. 
