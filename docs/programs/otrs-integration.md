@@ -7,7 +7,7 @@ With OTRS integration, HackerOne makes it easy for you to track MantisBT issues 
 
 In order to configure MantisBT integration for your team, contact HackerOne with the following information:   
 
-- The base URI of the OTRS instance (e.g., "https://otrs.company.com/otrs/")
+- The base URI of the OTRS instance (e.g. https://otrs.company.com/otrs/)
 - The queue you'd like issues to default to. You must provide both the numeric queue ID and the queue name string.
 - The numeric user ID you'd like issues to be reported by default
 - Any other custom keywords/fields you'd like prepopulated. Some of the various options are described here: http://otrs-treff.de/en/otrs-preset-field-values-url-parameters-create-new-phone-tickets-cti-integration
