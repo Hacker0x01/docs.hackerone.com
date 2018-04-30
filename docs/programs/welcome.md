@@ -11,6 +11,7 @@ Are you launching a new program or wanting to learn more about a feature? These 
 ### Suggesting Edits for Articles
 Each article has an `Edit this page on GitHub` link at the bottom that enables you to put in suggestions for edits to articles. 
 
+To suggest edits: 
 1. Create a GitHub account if you don't have one. 
 2. Click the `Edit this page on GitHub` link to the article you want to suggest edits for.
 3. You'll be redirected to the article in Github where you can edit the text in Markdown. 
