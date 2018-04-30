@@ -1,0 +1,42 @@
+---
+title: "The 90 Day Leaderboard"
+path: "/hackers/the-90-day-leaderboard"
+---
+
+### What is it?
+The 90 day leaderboard shows the top 100 hackers based on their activity in the last 90 days.
+
+### How do I access it?
+Go to https://hackerone.com/leaderboard/ and make sure that the filter is set to 90 days.
+
+### How do I become eligible for the leaderboard?
+You’ll be eligible if within the last 90 days you have:
+* Positive reputation gain
+* Non-negative signal
+* Zero code of conduct violations
+
+### How do I move up in ranking?
+Hackers are ranked by their score from the calculation:
+**Reputation x Signal Percentile x Impact Percentile**
+
+* **Reputation** is based on your report validity.
+* **Signal** and **Impact Percentile** are calculated against all eligible hackers.
+Increasing your reputation, signal, or impact will move you up on the leaderboard. As the leaderboard updates every day at 8:30am UTC, you can see how you rank with other hackers on a daily basis.
+
+### Why should I care about my ranking?
+The higher your rank, the higher your chance of receiving invitations to private programs. 
+
+For instance, if this is the state of the 90 day leaderboard:
+
+Alice
+Bob
+Charlie
+David
+For each invitation that goes out, the chances for each hacker receiving the invite would be:
+
+Alice: 40%
+Bob: 30%
+Charlie: 20%
+David: 10%
+
+*Note: Hackers in the priority queue will still be first to receive invitations.*
