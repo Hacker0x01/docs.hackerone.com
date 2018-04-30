@@ -13,6 +13,8 @@
           path: /programs/start-h1-bounty/
     - title: Private vs. Public Programs
       path: /programs/private-vs-public/
+    - title: Using Markdown
+      path: /programs/using-markdown/
 - title: Your Program
   items:
     - title: Policy and Scope
