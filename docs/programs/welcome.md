@@ -4,12 +4,20 @@ path: "/programs/"
 bookIndexFor: "programs"
 ---
 
-Welcome to the documentation that'll help you understand the #1 hacker-powered security platform that helps organizations find and fix critical vulnerabilities before they're criminally exploited. All of your docs and projects are
+Welcome! You've come to the right place to learn more about using HackerOne. 
 
-Are you launching a new program or joining one for the firs time? These guides will help you to understand the product and the features.
+Are you launching a new program or wanting to learn more about a feature? These guides will help you to understand the product so that you can easily navigate through your hacker-powered security platform. 
 
-### How to add edit/comment to the articles on this site??
+### Suggesting Edits for Articles
+Each article has an `Edit this page on GitHub` link at the bottom that enables you to put in suggestions for edits to articles. 
 
-### Search functionality
+1. Create a GitHub account if you don't have one. 
+2. Click the `Edit this page on GitHub` link to the article you want to suggest edits for.
+3. You'll be redirected to the article in Github where you can edit the text in Markdown. 
+4. Click on the pencil icon in GitHub and put in your edits.
+![welcome-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/welcome-1.png?raw=true)
+5. *(Optional)* Summarize your changes in the **Propose file change** section. 
+6. Click **Propose file change**.
+![welcome-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/welcome-2.png?raw=true)
 
-### Left-hand side Navi on he left hand side of the world.
+Your edits and suggestions will be submitted as a pull request in which documentation administrators can accept or reject your changes. 
