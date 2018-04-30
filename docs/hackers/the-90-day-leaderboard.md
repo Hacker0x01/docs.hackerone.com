@@ -28,15 +28,16 @@ The higher your rank, the higher your chance of receiving invitations to private
 
 For instance, if this is the state of the 90 day leaderboard:
 
-Alice
-Bob
-Charlie
-David
+1. Alice
+2. Bob
+3. Charlie
+4. David
+
 For each invitation that goes out, the chances for each hacker receiving the invite would be:
 
-Alice: 40%
-Bob: 30%
-Charlie: 20%
-David: 10%
+1. Alice: 40%
+2. Bob: 30%
+3. Charlie: 20%
+4. David: 10%
 
 *Note: Hackers in the priority queue will still be first to receive invitations.*
