@@ -20,10 +20,10 @@ Both hackers and program members can request public disclosure. To request publi
 3) Select **Request public disclosure** in the action picker at the bottom of the report. 
 4) Select whether you want to disclose the **Full** report or **Limited**. 
    
-   Option | Details
-   ------ | -------
-   Full | Upon public disclosure, the full contents of the report are visible including:<ul>Vulnerability information</ul><ul>Summary</ul><ul>Timeline such as comments and attachment</ul><br>*Note: Internal comments are hidden.*  
-   Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. 
+Option | Details
+------ | -------
+Full | Upon public disclosure, the full contents of the report are visible including:<ul>Vulnerability information</ul><ul>Summary</ul><ul>Timeline such as comments and attachment</ul><br>*Note: Internal comments are hidden.*  
+Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. 
    
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure. 
 6) Click **Post**.    
