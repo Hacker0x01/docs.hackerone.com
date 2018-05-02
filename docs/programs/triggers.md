@@ -13,7 +13,7 @@ To set up triggers:
 5. Name your trigger and select whether it should be currently enabled or disabled.
 6. Click **Save**. 
 
-Once your trigger is set up, when new, incoming reports meet the criteria of your trigger, the apporpriate action will automatically be applied to the report. This will save you time from having to manually respond to every report that comes in. 
+Once your trigger is set up, when new, incoming reports meet the criteria of your trigger, the appropriate action will automatically be applied to the report. This will save you time from having to manually respond to every report that comes in. 
 
 ![trigger-1](./images/triggers-1.png)
 
