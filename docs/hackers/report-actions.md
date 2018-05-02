@@ -8,7 +8,7 @@ There are 4 actions you can take on a report that you've submitted:
 * Add comment
 * Self-close
 * Request mediation
-* Requestion Public Disclosure
+* Requesting Public Disclosure
 
 ### Commenting and Closing a Report
 You can dialogue with the program or triager and make notes about the report through adding comments. Additionally, you can self-close your own report and close it as N/A.
@@ -31,4 +31,4 @@ To request mediation, select the **Report abuse** option, and select **Report Me
 ### Request Public Disclosure
 You can also request public disclosure for your closed reports by selecting **Request public disclosure**. The option is available in your action picker once the report has been closed.
 
-If the program requests you for public disclosure, you'll have te option to **Disclose publicly** as well.
+If the program requests you for public disclosure, you'll have the option to **Disclose publicly** as well.
