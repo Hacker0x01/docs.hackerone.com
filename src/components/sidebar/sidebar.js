@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link, withPrefix} from 'gatsby-link'
+import Link from 'gatsby-link'
 import classNames from 'classnames'
 import './sidebar.scss'
 
@@ -58,7 +58,7 @@ const SectionLink = props => {
       {item.path ? (
         <Link
           exact
-          to={withPrefix(item.path)}
+          to={item.path}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
         >
