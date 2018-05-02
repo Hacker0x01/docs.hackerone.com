@@ -4,8 +4,6 @@ path: "/programs/jira-server-integration.html"
 id: "programs/jira-server-integration"
 ---
 
-HackerOne 
-
 HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue. You can choose to integrate with Jira Cloud or Jira Server. 
 
 To integrate with Jira Server:
