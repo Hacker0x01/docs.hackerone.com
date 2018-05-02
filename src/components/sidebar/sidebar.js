@@ -58,7 +58,7 @@ const SectionLink = props => {
       {item.path ? (
         <Link
           exact
-          to={item.path}
+          to={withPrefix(item.path)}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
         >
