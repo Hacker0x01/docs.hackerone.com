@@ -8,7 +8,7 @@ It's important to have good communication with hackers as it enables them to kno
 
 To use the Message Hackers feature:
 1. Go to your program's **Settings > Hacker Management > Message Hackers**. 
-2. Select the receipients of your message. You can select from these options: 
+2. Select the recipients of your message. You can select from these options: 
 
 Option | Details
 ------ | -------
