@@ -11,6 +11,7 @@ class IndexRoute extends React.Component {
     return (
       <Article
         links={hackersNav}
+        path={markdownRemark.frontmatter.path}
         docOnGithub={`${markdownRemark.frontmatter.id}.md`}
       >
         <h1>{markdownRemark.frontmatter.title}</h1>
