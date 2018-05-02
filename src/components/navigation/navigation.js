@@ -24,8 +24,8 @@ export default ({ pathname }) => {
         <img src={logo} className="navigation__logo-image" alt="" />
       </Link>
       <ul className="navigation__list">
-        <NavItem linkTo="/hackers/" title="Hackers" />
-        <NavItem linkTo="/programs/" title="Programs" />
+        <NavItem linkTo="/hackers" title="Hackers" />
+        <NavItem linkTo="/programs" title="Programs" />
         <li className="navigation__item">
           <a
             className="navigation__link"
