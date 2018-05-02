@@ -1,6 +1,6 @@
 ---
 title: "Freshdesk Integration"
-path: "/programs/freshdesk-integration"
+path: "/programs/freshdesk-integration.html"
 ---
 
 With Freshdesk integration, HackerOne makes it easy for you to track Freshdesk issues as references on HackerOne.

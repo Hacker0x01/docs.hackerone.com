@@ -1,9 +1,10 @@
 ---
 title: "Using Markdown"
-path: "/hackers/using-markdown"
+path: "/hackers/using-markdown.html"
+id: "hackers#using-markdown"
 ---
 
-HackerOne supports the following markdown syntax on Reports, profiles, and Security Pages. 
+HackerOne supports the following markdown syntax on Reports, profiles, and Security Pages.
 
 ### HEADERS
 ```
@@ -54,9 +55,9 @@ __This text is bold__
 ```
 this:
 ```
-+   Candy. 
++   Candy.
 +   Gum.
-+   Juice. 
++   Juice.
 ```
 and this:
 ```
@@ -65,7 +66,7 @@ and this:
 -   Juice.
 ```
 all produce the same output:
-* Candy. 
+* Candy.
 * Gume.
 * Juice.
 
@@ -84,13 +85,13 @@ If you put blank lines between items, you’ll get <p> tags for the list item te
 * A list item.
 
   With multiple paragraphs.
-  
+
 * Another item in the list.
 ```
 * A list item.
 
   With multiple paragraphs.
-  
+
 * Another item in the list.
 
 ### LINKS
@@ -129,15 +130,15 @@ I start my morning with a cup of coffee and
 I start my morning with a cup of coffee and The New York Times.
 
 ### CODE
-In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code. 
+In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 ```
 The text has sample `code`
 ```
 The text has sample code
 
-To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes (```). Just like with code spans, &, <, and > characters will be escaped automatically. 
+To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes (```). Just like with code spans, &, <, and > characters will be escaped automatically.
 ```
-This is a multiline code block. 
+This is a multiline code block.
 ```
 
 To use syntax highlighting, specify the content type after the three opening back tick quotes.
@@ -178,7 +179,7 @@ When the link is clicked, the attachment is displayed in the modal.
 ### INLINE IMAGES AND VIDEOS
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}). Example: For the above attachment, the markdown
 ```
- Here is an inlined image of an apple {F1} 
+ Here is an inlined image of an apple {F1}
 ```
 will render the following:
 ![markdown-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-4.png?raw=true)

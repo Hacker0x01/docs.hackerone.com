@@ -1,6 +1,6 @@
 ---
 title: "Keyboard Shortcuts"
-path: "/programs/keyboard-shortcuts"
+path: "/programs/keyboard-shortcuts.html"
 ---
 
 To improve the speed and efficiency of your workflow, these are several keyboard shortcuts for navigating reports. 

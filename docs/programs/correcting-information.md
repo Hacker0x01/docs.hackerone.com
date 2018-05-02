@@ -1,6 +1,6 @@
 ---
 title: "Correcting Information"
-path: "/programs/correcting-information"
+path: "/programs/correcting-information.html"
 ---
 
 Content.

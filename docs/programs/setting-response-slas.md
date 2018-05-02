@@ -1,6 +1,6 @@
 ---
 title: "Setting Response SLAs"
-path: "/programs/setting-response-slas"
+path: "/programs/setting-response-slas.html"
 ---
 
 You can customize your program's response SLA times by configuring the number of business days. To customize your program's response SLA time: 

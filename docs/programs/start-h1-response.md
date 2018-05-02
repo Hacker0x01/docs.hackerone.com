@@ -1,6 +1,6 @@
 ---
 title: "Start H1 Response"
-path: "/programs/start-h1-response"
+path: "/programs/start-h1-response.html"
 ---
 
 If you elect to **Start H1 Response**, you'll be taken to the Setup Guide where you can walk through the product on how to set up your vulnerability disclosure policy and successfully launch a program. 

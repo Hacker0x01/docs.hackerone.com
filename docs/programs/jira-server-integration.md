@@ -1,6 +1,6 @@
 ---
 title: "Jira Server Integration"
-path: "/programs/jira-server-integration"
+path: "/programs/jira-server-integration.html"
 ---
 
 HackerOne 

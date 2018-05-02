@@ -1,6 +1,6 @@
 ---
 title: "Bonuses"
-path: "/programs/bonuses"
+path: "/programs/bonuses.html"
 ---
 You can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable hackers to have more ways to earn rewards on HackerOne and for security teams to offer more flexible incentives without increasing the market rate for bounties.
 

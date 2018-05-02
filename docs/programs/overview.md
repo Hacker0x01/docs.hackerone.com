@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-path: "/programs/overview"
+path: "/programs/overview.html"
 ---
 
 HackerOne is the #1 hacker-powered security platform that helps organizations find and fix critical vulnerabilities before they're criminally exploited. 

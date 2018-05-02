@@ -1,6 +1,6 @@
 ---
 title: "Message Hackers"
-path: "/programs/message-hackers"
+path: "/programs/message-hackers.html"
 ---
 
 It's important to have good communication with hackers as it enables them to know what's going on with your program. In order to communicate any changes or announcements with your hackers, you can use the Message Hackers feature. 

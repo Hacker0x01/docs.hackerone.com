@@ -1,6 +1,6 @@
 ---
 title: "Completing your Security Page"
-path: "/programs/completing-your-security-page"
+path: "/programs/completing-your-security-page.html"
 ---
 
 Content.

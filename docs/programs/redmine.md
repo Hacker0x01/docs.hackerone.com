@@ -1,6 +1,6 @@
 ---
 title: "Redmine Integration"
-path: "/programs/redmine-integration"
+path: "/programs/redmine-integration.html"
 ---
 
 With Redmine integration, HackerOne makes it easy for you to track Redmine issues as references on HackerOne.

@@ -1,6 +1,6 @@
 ---
 title: "Inbox Views"
-path: "/programs/inbox-views"
+path: "/programs/inbox-views.html"
 ---
 
 The administrator of your security team can customize views in your inbox. The administrator can:

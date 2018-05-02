@@ -1,16 +1,17 @@
 ---
 title: "Reputation"
-path: "/hackers/reputation"
+path: "/hackers/reputation.html"
+id: "hackers#reputation"
 ---
 
-As hackers submit vulnerability reports through the HackerOne platform, their reputation measures how likely their finding is to be immediately relevant and actionable. Reputation is based exclusively on your track record as a hacker. 
+As hackers submit vulnerability reports through the HackerOne platform, their reputation measures how likely their finding is to be immediately relevant and actionable. Reputation is based exclusively on your track record as a hacker.
 
-There are a number of privileges that are gained by maintaining a high reputation such as, becoming eligible to receive invitations to private bug bounty programs. On the flip side, should your reputation decrease, the system will gradually reduce the number of report submissions allowed in a given time period. 
+There are a number of privileges that are gained by maintaining a high reputation such as, becoming eligible to receive invitations to private bug bounty programs. On the flip side, should your reputation decrease, the system will gradually reduce the number of report submissions allowed in a given time period.
 
-It's critical to this community that security teams be afforded a high-signal environment so that they can focus on providing a quality response to hackers who submit the best reports. 
+It's critical to this community that security teams be afforded a high-signal environment so that they can focus on providing a quality response to hackers who submit the best reports.
 
 ### Affects to Reputation
-A Hacker profile starts with a reputation score of 100. Reports gain or lose reputation based on the state in which they are closed. Reputation can't decrease below 0. 
+A Hacker profile starts with a reputation score of 100. Reports gain or lose reputation based on the state in which they are closed. Reputation can't decrease below 0.
 
 Report State | Reputation Points
 ------------ | -----------------

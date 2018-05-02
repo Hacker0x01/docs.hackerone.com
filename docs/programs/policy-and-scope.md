@@ -1,6 +1,6 @@
 ---
 title: "Policy and Scope"
-path: "/programs/policy-and-scope"
+path: "/programs/policy-and-scope.html"
 ---
 
 The policy section enables organizations to publish information about their program in order to communicate the specifics about their program to hackers. Organizations typically publish a vulnerability disclosure policy with guidance on how they want to receive information related to potential vulnerabilities in their products or online services. 

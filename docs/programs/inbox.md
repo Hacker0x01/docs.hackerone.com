@@ -1,6 +1,6 @@
 ---
 title: "Inbox"
-path: "/programs/inbox"
+path: "/programs/inbox.html"
 ---
 
 Article about inbox overview

@@ -1,6 +1,6 @@
 ---
 title: "Good Policies"
-path: "/programs/good-policies"
+path: "/programs/good-policies.html"
 ---
 
 Your policy will be read by participating security hackers and should clearly state what you're looking for in your vulnerability disclosure program. In order to help you write a good policy, HackerOne provides a baseline policy on your Security Page to help you get started.  We recommend including the following in your policy:

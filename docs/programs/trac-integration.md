@@ -1,6 +1,6 @@
 ---
 title: "Trac Integration"
-path: "/programs/trac-integration"
+path: "/programs/trac-integration.html"
 ---
 
 With Trac integration, HackerOne makes it easy for you to link Trac issues as references on the platform.

@@ -1,6 +1,6 @@
 ---
 title: "Jira Cloud Integration"
-path: "/programs/jira-cloud-integration"
+path: "/programs/jira-cloud-integration.html"
 ---
 
 To integrate with Jira Cloud: 

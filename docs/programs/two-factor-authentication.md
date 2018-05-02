@@ -1,6 +1,6 @@
 ---
 title: "Two Factor Authentication"
-path: "/programs/two-factor-authentication"
+path: "/programs/two-factor-authentication.html"
 ---
 
 As a team member of a program, you can set up two-factor authentication using any device capable of generating Time-based One-Time Password (TOTP) authentication codes (RFC-6238) to log in to HackerOne. You can use Google Authenticator or Duo Mobile or any other compatible application to generate the codes.

@@ -1,6 +1,6 @@
 ---
 title: "Supported Integrations"
-path: "/programs/supported-integrations"
+path: "/programs/supported-integrations.html"
 ---
 HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Asset Types"
-path: "/programs/asset-types"
+path: "/programs/asset-types.html"
 ---
 HackerOne provides functionality to allow you to define your program's scope by listing assets that are considered in or out of scope for your program.
 

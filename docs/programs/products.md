@@ -1,6 +1,6 @@
 ---
 title: "Products"
-path: "/programs/products"
+path: "/programs/products.html"
 ---
 
 HackerOne offers 3 different products:

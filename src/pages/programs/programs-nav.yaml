@@ -1,147 +1,147 @@
 - title: Getting Started
   items:
     - title: Welcome
-      path: /programs
+      path: /programs.html
     - title: Overview
-      path: /programs/overview
+      path: /programs/overview.html
     - title: Program Start-up Guide
-      path: /programs/program-start-up-guide
+      path: /programs/program-start-up-guide.html
       items:
         - title: Start H1 Response
-          path: /programs/start-h1-response
+          path: /programs/start-h1-response.html
         - title: Start H1 Bounty
-          path: /programs/start-h1-bounty
+          path: /programs/start-h1-bounty.html
     - title: Private vs. Public Programs
-      path: /programs/private-vs-public
+      path: /programs/private-vs-public.html
     - title: Using Markdown
-      path: /programs/using-markdown
+      path: /programs/using-markdown.html
 - title: Your Program
   items:
     - title: Policy and Scope
-      path: /programs/policy-and-scope
+      path: /programs/policy-and-scope.html
       items:
         - title: Defining Scope
-          path: /programs/defining-scope
+          path: /programs/defining-scope.html
         - title: Scope Best Practices
-          path: /programs/scope-best-practices
+          path: /programs/scope-best-practices.html
         - title: Asset Types
-          path: /programs/asset-types
+          path: /programs/asset-types.html
         - title: Good Policies
-          path: /programs/good-policies
+          path: /programs/good-policies.html
     - title: Submit Report Form
-      path: /programs/submit-report-form
+      path: /programs/submit-report-form.html
       items:
        - title: Report Templates
-         path: /programs/report-templates
+         path: /programs/report-templates.html
        - title: Pausing Report Submissions
-         path: /programs/pausing-report-submissions
+         path: /programs/pausing-report-submissions.html
     - title: Response SLA
-      path: /programs/response-sla
+      path: /programs/response-sla.html
       items:
         - title: Response SLA Metrics
-          path: /programs/response-sla-metrics
+          path: /programs/response-sla-metrics.html
         - title: Setting Response SLAs
-          path: /programs/setting-response-slas
+          path: /programs/setting-response-slas.html
     - title: Invitations
-      path: /programs/invitations
+      path: /programs/invitations.html
     - title: Email Forwarding
-      path: /programs/email-forwarding
+      path: /programs/email-forwarding.html
     - title: Security Page
-      path: /programs/security-page
+      path: /programs/security-page.html
       items:
         - title: Program Metrics
-          path: /programs/program-metrics
+          path: /programs/program-metrics.html
         - title: Response SLA Indicators
-          path: /programs/response-sla-indicators
+          path: /programs/response-sla-indicators.html
     - title: Create Custom User Groups
-      path: /programs/create-custom-user-groups
+      path: /programs/create-custom-user-groups.html
     - title: Single Sign-On via SAML
-      path: /programs/single-sign-on-sso-via-saml
+      path: /programs/single-sign-on-sso-via-saml.html
     - title: Two-Factor Authentication
-      path: /programs/two-factor-authentication
+      path: /programs/two-factor-authentication.html
 - title: Inbox
   items:
     - title: Report Management
-      path: /programs/report-management
+      path: /programs/report-management.html
       items:
         - title: Report Actions
-          path: /programs/report-actions
+          path: /programs/report-actions.html
         - title: Report States
-          path: /programs/report-states
+          path: /programs/report-states.html
         - title: Quality Reports
-          path: /programs/quality-reports
+          path: /programs/quality-reports.html
         - title: Locking Reports
-          path: /programs/locking-reports
+          path: /programs/locking-reports.html
         - title: Duplicate Reports
-          path: /programs/duplicate-reports
+          path: /programs/duplicate-reports.html
         - title: Export Reports
-          path: /programs/export-reports
+          path: /programs/export-reports.html
         - title: Response SLA Labels
-          path: /programs/response-sla-labels
+          path: /programs/response-sla-labels.html
         - title: Keyboard Shortcuts
-          path: /programs/keyboard-shortcuts
+          path: /programs/keyboard-shortcuts.html
     - title: Public Disclosure
-      path: /programs/public-disclosure
+      path: /programs/public-disclosure.html
     - title: Automation
-      path: /programs/automation
+      path: /programs/automation.html
       items:
         - title: Human-Augmented Signal
-          path: /programs/human-augmented-signal
+          path: /programs/human-augmented-signal.html
         - title: Common Responses
-          path: /programs/common-responses
+          path: /programs/common-responses.html
         - title: Triggers
-          path: /programs/triggers
+          path: /programs/triggers.html
     - title: Inbox Views
-      path: /programs/inbox-views
+      path: /programs/inbox-views.html
 - title: Integrations
   items:
     - title: Supported Integrations
-      path: /programs/supported-integrations
+      path: /programs/supported-integrations.html
     - title: Assembla Integration
-      path: /programs/assembla-integration
+      path: /programs/assembla-integration.html
     - title: Bugzilla Integration
-      path: /programs/bugzilla-integration
+      path: /programs/bugzilla-integration.html
     - title: Freshdesk Integration
-      path: /programs/freshdesk-integration
+      path: /programs/freshdesk-integration.html
     - title: GitHub Integration
-      path: /programs/github-integration
+      path: /programs/github-integration.html
     - title: GitLab Integration
-      path: /programs/gitlab-integration
+      path: /programs/gitlab-integration.html
     - title: Jira-Cloud Integration
-      path: /programs/jira-cloud-integration
+      path: /programs/jira-cloud-integration.html
     - title: Jira-Server Integration
-      path: /programs/jira-server-integration
+      path: /programs/jira-server-integration.html
     - title: MantisBT Integration
-      path: /programs/mantisbt-integration
+      path: /programs/mantisbt-integration.html
     - title: OTRS Integration
-      path: /programs/otrs-integration
+      path: /programs/otrs-integration.html
     - title: ServiceNow Integration
-      path: /programs/servicenow-integration
+      path: /programs/servicenow-integration.html
     - title: Slack Integration
-      path: /programs/slack-integration
+      path: /programs/slack-integration.html
     - title: Redmine Integration
-      path: /programs/redmine-integration
+      path: /programs/redmine-integration.html
     - title: Trac Integration
-      path: /programs/trac-integration
+      path: /programs/trac-integration.html
     - title: Zendesk
-      path: /programs/zendesk-integration
+      path: /programs/zendesk-integration.html
 - title: Payments
   items:
     - title: Billing
-      path: /programs/billing
+      path: /programs/billing.html
     - title: Bounties
-      path: /programs/bounties
+      path: /programs/bounties.html
     - title: Swag
-      path: /programs/swag
+      path: /programs/swag.html
     - title: Bonuses
-      path: /programs/bonuses
+      path: /programs/bonuses.html
 - title: Hacker Engagement
   items:
     - title: Signal Requirements
-      path: /programs/signal-requirements
+      path: /programs/signal-requirements.html
     - title: Message Hackers
-      path: /programs/message-hackers
+      path: /programs/message-hackers.html
     - title: Communicating with Hackers
-      path: /programs/communicating-with-hackers
+      path: /programs/communicating-with-hackers.html
     - title: Hacker Reviews
-      path: /programs/hacker-reviews
+      path: /programs/hacker-reviews.html

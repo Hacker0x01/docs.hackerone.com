@@ -1,6 +1,6 @@
 ---
 title: "Assembla Integration"
-path: "/programs/assembla-integration"
+path: "/programs/assembla-integration.html"
 ---
 
 With Assembla integration, HackerOne makes it easy for you to track Assembla issues as references on HackerOne.

@@ -1,6 +1,6 @@
 ---
 title: "Email Forwarding"
-path: "/programs/email-forwarding"
+path: "/programs/email-forwarding.html"
 ---
 
 You can set up emails to be forwarded to your HackerOne inbox to enable report management directly through HackerOne. Hackers that discover these specific email addresses will be able to submit reports directly to your program. Upon sending reports through the email, they'll also automatically get invited to your program.

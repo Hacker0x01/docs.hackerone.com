@@ -1,11 +1,12 @@
 ---
 title: "Quality Reports"
-path: "/hackers/quality-reports"
+path: "/hackers/quality-reports.html"
+id: "hackers#quality-reports"
 ---
 
 You notify programs of vulnerabilities by submitting reports to the program's inbox. Not all great vulnerability reports look the same, but many share these common features:
-* Detailed descriptions of your discovery with clear, concise, reproducible steps or a working proof-of-concept (POC). If you doesn't explain the vulnerability in detail, there may be significant delays in the disclosure process, which is undesirable for everyone. 
-* Screenshots and/or videos can assist your security teams to quickly reproduce the issue if your program accepts them. Make sure the program states their policy regarding screenshots and videos on their security page and scope as not all programs accept them. 
+* Detailed descriptions of your discovery with clear, concise, reproducible steps or a working proof-of-concept (POC). If you doesn't explain the vulnerability in detail, there may be significant delays in the disclosure process, which is undesirable for everyone.
+* Screenshots and/or videos can assist your security teams to quickly reproduce the issue if your program accepts them. Make sure the program states their policy regarding screenshots and videos on their security page and scope as not all programs accept them.
 
 ### Examples
 Here are some examples of publicly disclosed examples of good reports:

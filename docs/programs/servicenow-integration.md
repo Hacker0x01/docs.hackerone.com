@@ -1,6 +1,6 @@
 ---
 title: "ServiceNow Integration"
-path: "/programs/servicenow-integration"
+path: "/programs/servicenow-integration.html"
 ---
 
 With ServiceNow integration, HackerOne makes it easy for you to track ServiceNow issues as references on the platform.

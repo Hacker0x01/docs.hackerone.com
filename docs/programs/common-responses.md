@@ -1,6 +1,6 @@
 ---
 title: "Common Responses"
-path: "/programs/common-responses"
+path: "/programs/common-responses.html"
 ---
 Common responses provide consistent messaging across the platform and prevent you from having to write out the same message again and again. When you select an action for a report, you can have a common response pre-populate for that specific action. 
 

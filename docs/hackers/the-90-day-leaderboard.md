@@ -1,6 +1,7 @@
 ---
 title: "The 90 Day Leaderboard"
-path: "/hackers/the-90-day-leaderboard"
+path: "/hackers/the-90-day-leaderboard.html"
+id: "hackers#the-90-day-leaderboard"
 ---
 
 ### What is it?
@@ -24,7 +25,7 @@ Hackers are ranked by their score from the calculation:
 Increasing your reputation, signal, or impact will move you up on the leaderboard. As the leaderboard updates every day at 8:30am UTC, you can see how you rank with other hackers on a daily basis.
 
 ### Why should I care about my ranking?
-The higher your rank, the higher your chance of receiving invitations to private programs. 
+The higher your rank, the higher your chance of receiving invitations to private programs.
 
 For instance, if this is the state of the 90 day leaderboard:
 

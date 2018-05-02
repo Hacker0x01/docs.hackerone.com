@@ -1,6 +1,6 @@
 ---
 title: "Definition"
-path: "/programs/definition"
+path: "/programs/definition.html"
 ---
 
 Content.

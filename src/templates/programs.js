@@ -4,6 +4,7 @@ import Article from '../components/article/article'
 import programsNav from '../pages/programs/programs-nav.yaml'
 
 export default function Template({ data }) {
+  console.log(data);
   const { markdownRemark } = data
   return (
     <Article

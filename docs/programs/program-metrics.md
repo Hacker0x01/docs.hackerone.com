@@ -1,6 +1,6 @@
 ---
 title: "Program Metrics"
-path: "/programs/program-metrics"
+path: "/programs/program-metrics.html"
 ---
 
 Program metrics show how healthy a program is. They enable hackers to see various statistics regarding:
