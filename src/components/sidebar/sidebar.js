@@ -71,8 +71,8 @@ const SectionLink = props => {
 }
 
 class Sidebar extends React.Component {
-  constructor(props) {
-    super(props)
+  constructor(props, context) {
+    super(props, context)
 
     this.state = {
       activeSection: props.activeSection,
@@ -87,6 +87,7 @@ class Sidebar extends React.Component {
   }
 
   render() {
+    console.log()
     return (
       <div className="sidebar">
         <div className="sidebar__wrapper">
