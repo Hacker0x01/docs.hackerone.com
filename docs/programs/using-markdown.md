@@ -4,7 +4,7 @@ path: "/programs/using-markdown.html"
 id: "programs/using-markdown"
 ---
 
-HackerOne supports the following markdown syntax on Reports, profiles, and Security Pages. 
+HackerOne supports the following markdown syntax on reports, profiles, and security pages. 
 
 ### HEADERS
 ```
