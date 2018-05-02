@@ -39,6 +39,6 @@ To show and hide Views:
 2. When a View is hidden, select **Hidden** to show the View.
 
 
-*Note: There is a *Preview* section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.* 
+*Note: There is a Preview section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.* 
 
 ![inbox-view](./images/inbox-views.png)
