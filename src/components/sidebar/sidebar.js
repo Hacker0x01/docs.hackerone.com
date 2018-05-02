@@ -60,9 +60,9 @@ const SectionLink = props => {
       {item.path ? (
         <Link
           to={item.path}
+          exact={true}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
-          isActive={() => true}
         >
           {item.title}
         </Link>

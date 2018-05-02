@@ -11,6 +11,7 @@ const NavItem = ({ linkTo, title }) => {
   return (
     <li className="navigation__item">
       <Link
+        exact={true}
         to={linkTo}
         activeClassName="navigation__link--active"
         className="navigation__link"
