@@ -55,6 +55,8 @@ const SectionLink = props => {
 
   // console.log(this.context, this.context.router, this.context.router.isActive(item.path));
 
+  const isActive = to => (match,location) => location.pathname.includes(to);
+
   return (
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
@@ -63,6 +65,7 @@ const SectionLink = props => {
           exact={true}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
+          isActive={isActive(item.path)}
         >
           {item.title}
         </Link>
