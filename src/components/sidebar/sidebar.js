@@ -51,10 +51,6 @@ const SectionLink = props => {
     'sidebar__sub-items--active': props.isChildActive,
   })
 
-  const globalWindow = typeof window !== 'undefined' ? window.location.pathname : '/'
-
-  // console.log(this.context, this.context.router, this.context.router.isActive(item.path));
-
   const isActive = to => (match,location) => location.pathname.includes(to);
 
   return (

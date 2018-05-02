@@ -6,7 +6,7 @@ import logo from './logo.svg'
 import './navigation.scss'
 
 const NavItem = ({ linkTo, title }) => {
-  const globalWindow = typeof window !== 'undefined' ? window.location.pathname : '/'
+  const isActive = to => (match, location) => location.pathname.includes(to);
 
   return (
     <li className="navigation__item">
@@ -15,7 +15,7 @@ const NavItem = ({ linkTo, title }) => {
         to={linkTo}
         activeClassName="navigation__link--active"
         className="navigation__link"
-        isActive={() => globalWindow.includes(`/${title.toLowerCase()}`)}
+        isActive={isActive(`/${title.toLowerCase()}`)}
       >
         {title}
       </Link>
