@@ -2,7 +2,6 @@
 title: "Submitting Reports"
 path: "/hackers/submitting-reports.html"
 id: "hackers/submitting-reports"
-id: "hackers#submitting-reports"
 ---
 
 You can submit your found vulnerabilities to programs by submitting reports.

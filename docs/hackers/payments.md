@@ -2,7 +2,6 @@
 title: "Payments"
 path: "/hackers/payments.html"
 id: "hackers/payments"
-id: "hackers#payments"
 ---
 
 You can receive payments on HackerOne for finding and reporting valid vulnerabilities through:

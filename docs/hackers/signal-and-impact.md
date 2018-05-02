@@ -2,7 +2,6 @@
 title: "Signal and Impact"
 path: "/hackers/signal-and-impact.html"
 id: "hackers/signal-and-impact"
-id: "hackers#signal-and-impact"
 ---
 
 Signal is the average Reputation per report. Reputation is gained or lost each time a report is closed, making Signal an aggregate representation of report validity. Self closed reports and duplicate reports are not included in Signal calculations.

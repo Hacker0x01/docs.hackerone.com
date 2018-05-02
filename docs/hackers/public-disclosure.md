@@ -2,7 +2,6 @@
 title: "Public Disclosure"
 path: "/hackers/public-disclosure.html"
 id: "hackers/public-disclosure"
-id: "hackers#public-disclosure"
 ---
 
 Public disclosure enables programs to be transparent about the security vulnerabilities found for their program. HackerOne's public disclosure process balances transparency with control over what information is shared with the public.  

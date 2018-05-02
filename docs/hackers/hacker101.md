@@ -2,7 +2,6 @@
 title: "Hacker101"
 path: "/hackers/hacker101.html"
 id: "hackers/hacker101"
-id: "hackers#hacker101"
 ---
 
 Need to learn the basics of hacking? HackerOne offers Hacker101 - a free online course on the basics of hacking. The course is taught through video lessons. You don't have to go through the course in order, but you can simply watch the lessons on the topics that you want to learn about.

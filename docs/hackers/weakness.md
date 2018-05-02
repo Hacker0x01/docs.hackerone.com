@@ -2,7 +2,6 @@
 title: "Weakness"
 path: "/hackers/weakness.html"
 id: "hackers/weakness"
-id: "hackers#weakness"
 ---
 
 A weakness is a type of mistake in software that introduces vulnerabilities within that software. The term applies to mistakes regardless of whether they occur in implementation, design, or other phases of the software development life cycle.

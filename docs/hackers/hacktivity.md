@@ -2,7 +2,6 @@
 title: "Hacktivity"
 path: "/hackers/hacktivity.html"
 id: "hackers/hacktivity"
-id: "hackers#hacktivity"
 ---
 
 [Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. You can view:

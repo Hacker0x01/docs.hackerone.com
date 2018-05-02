@@ -2,7 +2,6 @@
 title: "Restricted From Submissions"
 path: "/hackers/restricted-from-submissions.html"
 id: "hackers/restricted-from-submissions"
-id: "hackers#restricted-from-submissions"
 ---
 
 You can be restricted from form submissions. There are 2 reasons as to why you might be restricted from submissions:

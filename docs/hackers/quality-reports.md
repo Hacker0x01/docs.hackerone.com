@@ -2,7 +2,6 @@
 title: "Quality Reports"
 path: "/hackers/quality-reports.html"
 id: "hackers/quality-reports"
-id: "hackers#quality-reports"
 ---
 
 You notify programs of vulnerabilities by submitting reports to the program's inbox. Not all great vulnerability reports look the same, but many share these common features:

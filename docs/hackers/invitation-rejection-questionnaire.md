@@ -2,7 +2,6 @@
 title: "Invitation Rejection Questionnaire"
 path: "/hackers/invitation-rejection-questionnaire.html"
 id: "hackers/invitation-rejection-questionnaire"
-id: "hackers#invitation-rejection-questionnaire"
 ---
 
 When you reject an invitation to a private program, you'll have the option to fill out a rejection questionnaire to share your feedback with HackerOne.

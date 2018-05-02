@@ -2,7 +2,6 @@
 title: "Invitations Priority Queue"
 path: "/hackers/invitations-priority-queue.html"
 id: "hackers/invitations-priority-queue"
-id: "hackers#invitations-priority-queue"
 ---
 
 When you decline an invitation to a private program or leave a private program, you'll be placed at the top of the queue for a new program invitation.

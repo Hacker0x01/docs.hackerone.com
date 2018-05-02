@@ -2,7 +2,6 @@
 title: "Hacker Mediation"
 path: "/hackers/hacker-mediation.html"
 id: "hackers/hacker-mediation"
-id: "hackers#hacker-mediation"
 ---
 
 In hacker mediation, hackers can request assistance from HackerOne in extreme cases when all normal discussions with the program have been attempted and there has been no satisfactory resolution.

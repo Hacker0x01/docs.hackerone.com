@@ -2,7 +2,6 @@
 title: "The 90 Day Leaderboard"
 path: "/hackers/the-90-day-leaderboard.html"
 id: "hackers/the-90-day-leaderboard"
-id: "hackers#the-90-day-leaderboard"
 ---
 
 ### What is it?
