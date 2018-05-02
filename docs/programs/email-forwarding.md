@@ -36,7 +36,7 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 
 ![email-forwarding-6](./images/email-forwarding-6.png)
 
-5. Click **Run teset** to ensure that forwarding is set up correctly. 
+5. Click **Run test** to ensure that forwarding is set up correctly. 
 
 ![email-forwarding-7](./images/email-forwarding-7.png)
 ![email-forwarding-8](./images/email-forwarding-8.png)
