@@ -35,10 +35,9 @@ class IndexRoute extends React.Component {
               <div className="changelog__wrapper">
                 <div
                   className="changelog__anchor"
-                  id={slugify(item.node.frontmatter.path)} />
-                <h2>
-                  {item.node.frontmatter.title}
-                </h2>
+                  id={slugify(item.node.frontmatter.path)}
+                />
+                <h2>{item.node.frontmatter.title}</h2>
                 <div dangerouslySetInnerHTML={{ __html: item.node.html }} />
               </div>
             )

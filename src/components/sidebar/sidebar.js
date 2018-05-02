@@ -4,9 +4,9 @@ import classNames from 'classnames'
 import './sidebar.scss'
 
 const Section = props => {
-  const titleClasses = classNames("sidebar__title", {
-    "sidebar__title--active": props.isSectionActive
-  });
+  const titleClasses = classNames('sidebar__title', {
+    'sidebar__title--active': props.isSectionActive,
+  })
 
   return (
     <div className="sidebar__section">
@@ -51,7 +51,7 @@ const SectionLink = props => {
     'sidebar__sub-items--active': props.isChildActive,
   })
 
-  const isActive = to => (match,location) => location.pathname.includes(to);
+  const isActive = to => (match, location) => location.pathname.includes(to)
 
   return (
     <li className="sidebar__item" key={item.title}>
@@ -85,7 +85,7 @@ class Sidebar extends React.Component {
 
   toggleSection(section) {
     return (event, state) => {
-      event.preventDefault();
+      event.preventDefault()
 
       this.setState({
         activeSection: this.state.activeSection === section ? null : section,
@@ -104,9 +104,7 @@ class Sidebar extends React.Component {
                 {...section}
                 title={section.title}
                 onSectionTitleClick={this.toggleSection(section)}
-                isSectionActive={
-                  this.state.activeSection === section
-                }
+                isSectionActive={this.state.activeSection === section}
                 activeChild={this.state.activeChild}
               />
             ))}

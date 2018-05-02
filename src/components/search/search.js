@@ -3,13 +3,13 @@ import React from 'react'
 import './search.scss'
 import './algolia.css'
 
-type State = {
-  enabled: boolean,
-}
-
 class Search extends React.Component {
-  state = {
-    enabled: true,
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      enabled: true,
+    }
   }
 
   componentDidMount() {

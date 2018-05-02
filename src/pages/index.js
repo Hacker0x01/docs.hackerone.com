@@ -21,12 +21,13 @@ const IndexPage = () => {
           <div>
             <h1>Getting Started</h1>
             <p>
-              Are you a hacker or a program? Choose which book you'd like to browse.
+              Are you a hacker or a program? Choose which book you'd like to
+              browse.
             </p>
           </div>
 
           <div className="topics">
-            <Topic url={withPrefix("/hackers.html")}>
+            <Topic url={withPrefix('/hackers.html')}>
               <h2>Hackers</h2>
               <p>
                 A complete toolkit designed for hackers to answer any questions
@@ -34,7 +35,7 @@ const IndexPage = () => {
               </p>
             </Topic>
 
-            <Topic url={withPrefix("/programs.html")}>
+            <Topic url={withPrefix('/programs.html')}>
               <h2>Programs</h2>
               <p>
                 Anything you need to know about how our platform works and the

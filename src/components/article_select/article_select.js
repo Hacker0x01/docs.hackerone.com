@@ -40,7 +40,7 @@ class ArticleSelect extends React.Component {
       currentPath: props.currentPath,
     }
 
-    this.handleChange = this.handleChange.bind(this);
+    this.handleChange = this.handleChange.bind(this)
   }
 
   handleChange(event) {

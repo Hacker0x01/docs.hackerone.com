@@ -6,7 +6,7 @@ import logo from './logo.svg'
 import './navigation.scss'
 
 const NavItem = ({ linkTo, title }) => {
-  const isActive = to => (match, location) => location.pathname.includes(to);
+  const isActive = to => (match, location) => location.pathname.includes(to)
 
   return (
     <li className="navigation__item">

@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Article from '../components/article/article'
 import hackersNav from '../pages/hackers/hackers-nav.yaml'
-import slugify from 'slugify';
+import slugify from 'slugify'
 
 export default function Template({ data }) {
   const { markdownRemark } = data
