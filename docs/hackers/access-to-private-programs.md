@@ -1,6 +1,7 @@
 ---
 title: "Access to Private Programs"
 path: "/hackers/access-to-private-programs.html"
+id: "hackers/access-to-private-programs"
 id: "hackers#access-to-private-programs"
 ---
 

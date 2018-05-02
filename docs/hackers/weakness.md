@@ -1,6 +1,7 @@
 ---
 title: "Weakness"
 path: "/hackers/weakness.html"
+id: "hackers/weakness"
 id: "hackers#weakness"
 ---
 

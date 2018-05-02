@@ -1,6 +1,7 @@
 ---
 title: "Disclosure Assistance"
 path: "/hackers/disclosure-assistance.html"
+id: "hackers/disclosure-assistance"
 id: "hackers#disclosure-assistance"
 ---
 

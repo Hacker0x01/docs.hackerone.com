@@ -1,6 +1,7 @@
 ---
 title: "Invitations Priority Queue"
 path: "/hackers/invitations-priority-queue.html"
+id: "hackers/invitations-priority-queue"
 id: "hackers#invitations-priority-queue"
 ---
 

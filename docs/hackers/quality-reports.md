@@ -1,6 +1,7 @@
 ---
 title: "Quality Reports"
 path: "/hackers/quality-reports.html"
+id: "hackers/quality-reports"
 id: "hackers#quality-reports"
 ---
 

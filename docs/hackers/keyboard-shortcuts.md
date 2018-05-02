@@ -1,6 +1,7 @@
 ---
 title: "Keyboard Shortcuts"
 path: "/hackers/keyboard-shortcuts.html"
+id: "hackers/keyboard-shortcuts"
 id: "hackers#keyboard-shortcuts"
 ---
 

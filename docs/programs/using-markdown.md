@@ -1,6 +1,7 @@
 ---
 title: "Using Markdown"
 path: "/programs/using-markdown.html"
+id: "programs/using-markdown"
 ---
 
 HackerOne supports the following markdown syntax on Reports, profiles, and Security Pages. 

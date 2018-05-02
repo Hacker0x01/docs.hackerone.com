@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 path: "/hackers.html"
-id: "hackers#welcome"
+id: "hackers/welcome"
 bookIndexFor: "hackers"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Payments"
 path: "/hackers/payments.html"
+id: "hackers/payments"
 id: "hackers#payments"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Restricted From Submissions"
 path: "/hackers/restricted-from-submissions.html"
+id: "hackers/restricted-from-submissions"
 id: "hackers#restricted-from-submissions"
 ---
 

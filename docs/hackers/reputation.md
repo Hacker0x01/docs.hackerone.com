@@ -1,6 +1,7 @@
 ---
 title: "Reputation"
 path: "/hackers/reputation.html"
+id: "hackers/reputation"
 id: "hackers#reputation"
 ---
 

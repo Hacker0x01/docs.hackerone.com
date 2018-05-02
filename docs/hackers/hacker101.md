@@ -1,6 +1,7 @@
 ---
 title: "Hacker101"
 path: "/hackers/hacker101.html"
+id: "hackers/hacker101"
 id: "hackers#hacker101"
 ---
 

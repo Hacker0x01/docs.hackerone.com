@@ -1,6 +1,7 @@
 ---
 title: "Signal and Impact"
 path: "/hackers/signal-and-impact.html"
+id: "hackers/signal-and-impact"
 id: "hackers#signal-and-impact"
 ---
 

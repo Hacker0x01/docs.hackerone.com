@@ -1,6 +1,7 @@
 ---
 title: "Report Templates"
 path: "/programs/report-templates.html"
+id: "programs/report-templates"
 ---
 
 One of the most important elements of running a successful bug bounty program, is ensuring you get high quality reports. Report templates help to ensure that hackers provide you with all of the information you need to verify and validate the report. 

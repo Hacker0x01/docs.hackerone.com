@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
 path: "/programs.html"
+id: "programs/welcome"
 bookIndexFor: "programs"
 ---
 

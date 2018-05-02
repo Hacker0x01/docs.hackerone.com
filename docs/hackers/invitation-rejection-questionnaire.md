@@ -1,6 +1,7 @@
 ---
 title: "Invitation Rejection Questionnaire"
 path: "/hackers/invitation-rejection-questionnaire.html"
+id: "hackers/invitation-rejection-questionnaire"
 id: "hackers#invitation-rejection-questionnaire"
 ---
 

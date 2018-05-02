@@ -1,6 +1,7 @@
 ---
 title: "Submitting Reports"
 path: "/hackers/submitting-reports.html"
+id: "hackers/submitting-reports"
 id: "hackers#submitting-reports"
 ---
 

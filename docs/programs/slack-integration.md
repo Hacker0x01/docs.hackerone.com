@@ -1,6 +1,7 @@
 ---
 title: "Slack Integration"
 path: "/programs/slack-integration.html"
+id: "programs/slack-integration"
 ---
 
 With Slack integration, your team can stay up to date on HackerOne report activities without needing to leave Slack. Activities such as report triaged, bounty paid, and new comments added will trigger notifications in your selected channel. You can customize which activities you want to be notified about in which channels so that teams can only see what’s relevant to them.

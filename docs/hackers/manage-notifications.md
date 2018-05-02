@@ -1,6 +1,7 @@
 ---
 title: "Manage Notifications"
 path: "/hackers/manage-notifications.html"
+id: "hackers/manage-notifications"
 id: "hackers#manage-notifications"
 ---
 

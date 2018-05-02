@@ -1,6 +1,7 @@
 ---
 title: "Report States"
 path: "/hackers/report-states.html"
+id: "hackers/report-states"
 id: "hackers#report-states"
 ---
 All reports are either Open or Closed and can be changed to a variety of different states.

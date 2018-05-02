@@ -1,6 +1,7 @@
 ---
 title: "Directory"
 path: "/hackers/directory.html"
+id: "hackers/directory"
 id: "hackers#directory"
 ---
 

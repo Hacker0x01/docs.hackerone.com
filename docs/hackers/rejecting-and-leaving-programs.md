@@ -1,6 +1,7 @@
 ---
 title: "Rejecting and Leaving Programs"
 path: "/hackers/rejecting-and-leaving-programs.html"
+id: "hackers/rejecting-and-leaving-programs"
 id: "hackers#rejecting-and-leaving-programs"
 ---
 

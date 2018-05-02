@@ -1,6 +1,7 @@
 ---
 title: "Severity"
 path: "/programs/severity.html"
+id: "programs/severity"
 ---
 
 Reports are marked with a severity rating to show how severe the vulnerability is in the report submission form. On HackerOne, severity is particularly useful for structuring bounty ranges and is used when offering bounty recommendations. The severity level can be marked as: 

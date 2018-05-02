@@ -1,6 +1,7 @@
 ---
 title: "OTRS Integration"
 path: "/programs/otrs-integration.html"
+id: "programs/otrs-integration"
 ---
 
 With OTRS integration, HackerOne makes it easy for you to track MantisBT issues as references on the platform.

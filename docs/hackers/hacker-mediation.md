@@ -1,6 +1,7 @@
 ---
 title: "Hacker Mediation"
 path: "/hackers/hacker-mediation.html"
+id: "hackers/hacker-mediation"
 id: "hackers#hacker-mediation"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Report Actions"
 path: "/hackers/report-actions.html"
+id: "hackers/report-actions"
 id: "hackers#report-actions"
 ---
 

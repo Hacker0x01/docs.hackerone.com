@@ -1,6 +1,7 @@
 ---
 title: "Public Disclosure"
 path: "/hackers/public-disclosure.html"
+id: "hackers/public-disclosure"
 id: "hackers#public-disclosure"
 ---
 

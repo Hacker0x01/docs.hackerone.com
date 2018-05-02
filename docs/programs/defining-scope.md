@@ -1,6 +1,7 @@
 ---
 title: "Defining Scope"
 path: "/programs/defining-scope.html"
+id: "programs/defining-scope"
 ---
 
 Your Scope is a collection of assets you want hackers to hack. When assets are listed, hackers are required to select the applicable asset for each report. Any special requirements will now be explicitly attached to the particular asset in question.

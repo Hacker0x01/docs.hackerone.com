@@ -1,6 +1,7 @@
 ---
 title: "Export Reports"
 path: "/programs/export-reports.html"
+id: "programs/export-reports"
 ---
 
 You can download reports as .CSV files to enable you to quickly generate a spreadsheet of selected reports with key details. The .CSV files don't include the comments. The downloaded file provides the:

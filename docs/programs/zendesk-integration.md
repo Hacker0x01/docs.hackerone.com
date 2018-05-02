@@ -1,6 +1,7 @@
 ---
 title: "Zendesk Integration"
 path: "/programs/zendesk-integration.html"
+id: "programs/zendesk-integration"
 ---
 
 With Zendesk integration, HackerOne makes it easy for you to track Zendesk issues as references on HackerOne.

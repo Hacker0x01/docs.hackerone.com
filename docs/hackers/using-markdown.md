@@ -1,6 +1,7 @@
 ---
 title: "Using Markdown"
 path: "/hackers/using-markdown.html"
+id: "hackers/using-markdown"
 id: "hackers#using-markdown"
 ---
 
