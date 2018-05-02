@@ -86,9 +86,9 @@ To set an award to a hacker for the report:
 
 Option | Detail
 ------ | ------
-Amount | Mark that you've rewarded the hacker with a specific dollar amount for the vulernability.
+Amount | Mark that you've rewarded the hacker with a specific dollar amount for the vulnerability.
 None ( ineligible) | The report is ineligible for a bounty. It's best to explain the reasons to hackers in the comments section, why the report is ineligible.
-Suggest amount | Sugest a bounty amount to award the hacker. Only internal members of your program will be able to view your bounty suggestion.
+Suggest amount | Suggest a bounty amount to award the hacker. Only internal members of your program will be able to view your bounty suggestion.
 Swag | Mark that you've rewarded the hacker with swag.
 
 4) Click **Set award**.
