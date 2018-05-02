@@ -8,8 +8,6 @@ const Section = props => {
     "sidebar__title--active": props.isSectionActive
   });
 
-  console.log(props.title, props.isSectionActive);
-
   return (
     <div className="sidebar__section">
       <h3 className={titleClasses} onClick={props.onSectionTitleClick}>
@@ -53,14 +51,16 @@ const SectionLink = props => {
     'sidebar__sub-items--active': props.isChildActive,
   })
 
+  const globalWindow = typeof window !== 'undefined' ? window.location.pathname : '/'
+
   return (
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
         <Link
-          exact
           to={item.path}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
+          isActive={() => globalWindow.includes(item.path)}
         >
           {item.title}
         </Link>
