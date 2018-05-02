@@ -14,7 +14,7 @@ const NavItem = ({ linkTo, title }) => {
         to={linkTo}
         activeClassName="navigation__link--active"
         className="navigation__link"
-        isActive={() => globalWindow.includes(title.toLowerCase())}
+        isActive={() => globalWindow.includes(`/${title.toLowerCase()}`)}
       >
         {title}
       </Link>
