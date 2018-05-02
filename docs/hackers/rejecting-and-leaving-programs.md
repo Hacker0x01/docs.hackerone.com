@@ -29,4 +29,4 @@ To access the questionnaire, decline the invitation or leave the program and the
 
 The questionnaire is completely voluntary, but if you fill it out, you'll get priority for another invitation so that you can find a program that is a better fit.
 
-If you've rejected an invitation to a program, you can manually be invited back into the program. [CHECK THIS INFO WITH SONYA]
+If you've rejected an invitation to a program, you can manually be invited back into the program. 
