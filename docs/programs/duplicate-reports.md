@@ -20,4 +20,4 @@ To add the hacker to the original report:
 
 ![duplicate reports](./images/duplicate-reports.png)
 
-It's up to your program to determine if you are comfortable with sharing the original report with the hacker that submitted the duplicate report. It's recommended to tie the second report to the original report to provide accountability and ri account for Reputation gain or loss for the hacker. 
+It's up to your program to determine if you are comfortable with sharing the original report with the hacker that submitted the duplicate report. It's recommended to tie the second report to the original report to provide accountability and to account for Reputation gain or loss for the hacker. 
