@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import {Link, withPrefix} from 'gatsby-link'
 import classNames from 'classnames'
 import './sidebar.scss'
 
