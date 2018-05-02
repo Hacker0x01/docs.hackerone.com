@@ -10,7 +10,7 @@ You can receive payments on HackerOne for finding and reporting valid vulnerabil
 * Bonuses
 
 ### Bounties
-A bounty is money you get rewarded with for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack their programs. Bounties are used to encourage you to focus on particular assets by altering the reward amount for different vulernability types. You won't get rewarded for every report you send in, but only for useful, valid reports.
+A bounty is money you get rewarded with for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack their programs. Bounties are used to encourage you to focus on particular assets by altering the reward amount for different vulnerability types. You won't get rewarded for every report you send in, but only for useful, valid reports.
 
 After a program has decided to award you a bounty and the bounty has been awarded, you'll receive an email to claim the bounty. HackerOne will ask to collect your tax form before processing the payout.
 
@@ -26,7 +26,7 @@ If you want to donate a bounty:
 
 Upon receiving your request, HackerOne will do a quick check to see if a donation can be made to your selected charity. If for some reason a donation can't be made, HackerOne will notify you so an alternative can be made.
 
-Generally, if the charity acceptions donations in USD through PayPal or Credit Card, HackerOne should be able to fulfill your request quickly. If the charity provides an electronic receipt, HackerOne will forward this to you as proof of payment.
+Generally, if the charity accepts donations in USD through PayPal or Credit Card, HackerOne should be able to fulfill your request quickly. If the charity provides an electronic receipt, HackerOne will forward this to you as proof of payment.
 
 At this time, we can only donate bounties in full as we can't do partial or split donations.
 
