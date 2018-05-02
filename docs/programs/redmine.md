@@ -8,7 +8,7 @@ With Redmine integration, HackerOne makes it easy for you to track Redmine issue
 
 In order to configure Redmine integration for you team, contact HackerOne with the following information:   
 
-- The base URI of the Redmine instance (e.g., "https://redmine.company.com/")
+- The base URI of the Redmine instance (e.g. https://redmine.company.com/)
 - The project (project_id) you’d like issues to default to (an integer)
 - The tracker (tracker_id) you’d like issues to default to (an integer)
 - Any other custom/specific fields you’d like prepopulated. Options are described here: http://www.redmine.org/projects/redmine/wiki/Rest_Issues#Creating-an-issue
