@@ -53,6 +53,8 @@ const SectionLink = props => {
 
   const globalWindow = typeof window !== 'undefined' ? window.location.pathname : '/'
 
+  // console.log(this.context, this.context.router, this.context.router.isActive(item.path));
+
   return (
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
@@ -60,10 +62,7 @@ const SectionLink = props => {
           to={item.path}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
-          isActive={() => {
-            console.log(`${item.title}:`, globalWindow, item.path, globalWindow.includes(item.path));
-            return globalWindow.includes(item.path);
-          }}
+          isActive={() => true}
         >
           {item.title}
         </Link>
