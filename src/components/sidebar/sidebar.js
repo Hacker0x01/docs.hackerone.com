@@ -61,7 +61,7 @@ const SectionLink = props => {
           activeClassName="sidebar__link--active"
           className="sidebar__link"
           isActive={() => {
-            console.log(globalWindow, item.path);
+            console.log(`${item.title}:`, globalWindow, item.path, globalWindow.includes(item.path));
             return globalWindow.includes(item.path);
           }}
         >
