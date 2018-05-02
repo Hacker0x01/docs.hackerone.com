@@ -31,11 +31,11 @@ To set up your notification configuration:
 3. Select the channel to post to in the **Post to Channel** field. 
 4. Select the specific activities you want to send to the channel. You can choose these options from these categories:
 
-   Category | Options
-   -------- | ---------
-   Awards | * Bounty suggested <br>* A bounty has been paid <br>* Not eligible for bounty <br>* Swag was awarded
-   Disclosure | * Agreed on going public <br>* Report became public <br>* Manually disclosed
-   Misc | * The assignee of the report has been changed <br>* An internal comment was added to the report <br>* A public comment was added to the report <br>* Report locked, hackers can't reply on the report anymore
+Category | Options
+-------- | ---------
+Awards | * Bounty suggested <br>* A bounty has been paid <br>* Not eligible for bounty <br>* Swag was awarded
+Disclosure | * Agreed on going public <br>* Report became public <br>* Manually disclosed
+Misc | * The assignee of the report has been changed <br>* An internal comment was added to the report <br>* A public comment was added to the report <br>* Report locked, hackers can't reply on the report anymore
 
 5. Click **Save**. 
 
