@@ -8,6 +8,8 @@ const Section = props => {
     "sidebar__title--active": props.isSectionActive
   });
 
+  console.log(props.title, props.isSectionActive);
+
   return (
     <div className="sidebar__section">
       <h3 className={titleClasses} onClick={props.onSectionTitleClick}>
@@ -81,9 +83,13 @@ class Sidebar extends React.Component {
   }
 
   toggleSection(section) {
-    this.setState(state => ({
-      activeSection: this.state.activeSection === section ? null : section,
-    }))
+    return event, state => {
+      event.preventDefault();
+
+      this.setState({
+        activeSection: this.state.activeSection === section ? null : section,
+      })
+    }
   }
 
   render() {
@@ -96,7 +102,7 @@ class Sidebar extends React.Component {
                 key={index}
                 {...section}
                 title={section.title}
-                onSectionTitleClick={() => this.toggleSection(section)}
+                onSectionTitleClick={this.toggleSection(section)}
                 isSectionActive={
                   this.state.activeSection === section
                 }
