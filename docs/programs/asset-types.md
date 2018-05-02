@@ -10,7 +10,7 @@ HackerOne supports the following types of assets:
 Type | Details
 ----- | ------
 CIDR | Any valid IPv4 or IPv6 CIDR range. <br>Examples: <ul><li>172.200.0.0/16</li><li>2001:db8::/48</li><li>fe80:0000:0000:0000:0204:61ff:fe9d:f156/3</li></ul>
-URL | A valid URI, per our uri_validator.rb (which mostly relies on the standard ruby libary “uri” and matches the official URI RFC spec) <br>Examples: <ul><li>*.hackerone.com</li><li>https://maps.google.com</li><li>mywebsite.com/cool</li></ul>
+URL | A valid URI, per our uri_validator.rb (which mostly relies on the standard ruby library “uri” and matches the official URI RFC spec) <br>Examples: <ul><li>*.hackerone.com</li><li>https://maps.google.com</li><li>mywebsite.com/cool</li></ul>
 Apple Store App ID | A standard apple identifier. <br>Example: <ul><li>com.domainname.appname</li></ul>
 Testflight | A standard apple identifier. <br>(https://developer.apple.com/testflight/) <br>Example: <ul><li>com.domainname.appme</li></ul>
 Other .ipa | A standard apple identifier. <br> Example: <ul><li>com.domainname.appme</li></ul>
