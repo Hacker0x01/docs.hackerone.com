@@ -83,7 +83,7 @@ class Sidebar extends React.Component {
   }
 
   toggleSection(section) {
-    return event, state => {
+    return (event, state) => {
       event.preventDefault();
 
       this.setState({
