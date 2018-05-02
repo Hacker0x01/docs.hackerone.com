@@ -32,7 +32,7 @@ Invitations to hack a program expire in 1 week. You may want to reject an invita
 ### Invitation Preferences
 Some hackers may want to get invites from any private program, while others only want invites from those offering bounties, and some may not want any invitations at all.
 
-To choose when to receive invitations to private programs, you can navigat to **Settings > Invitation Preferences**.
+To choose when to receive invitations to private programs, you can navigate to **Settings > Invitation Preferences**.
 
 You can choose from these options:
 
