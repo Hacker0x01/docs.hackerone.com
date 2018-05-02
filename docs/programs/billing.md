@@ -13,7 +13,7 @@ Prepayment | Make an advanced deposit which bounties can be paid out from. Whene
 
 *Note: You can set up both options. When both options are set up, the prepayment is automatically deducted first. Once the prepayment is depleted, the credit card is charged as the alternate form of payment. 
 
-The typical time to remit paymet to hackers is 2-7 days.
+The typical time to remit payment to hackers is 2-7 days.
 
 With HackerOne taking care of your payments, you don't have to worry about:
 * Compliance
@@ -27,4 +27,4 @@ You'll receive a single invoice at the beginning of each month with all bounty a
 
 To request an invoice go to **Settings > General > Billing > Prepayment**. 
 
-You can view deatils for each transaction by viewing or exporting reports in **Settings > General > Billing > Overview**. 
+You can view details for each transaction by viewing or exporting reports in **Settings > General > Billing > Overview**. 
