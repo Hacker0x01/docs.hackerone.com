@@ -5,17 +5,22 @@ import logo from './logo.svg'
 
 import './navigation.scss'
 
-const NavItem = ({ linkTo, title }) => (
-  <li className="navigation__item">
-    <Link
-      to={linkTo}
-      activeClassName="navigation__link--active"
-      className="navigation__link"
-    >
-      {title}
-    </Link>
-  </li>
-)
+const NavItem = ({ linkTo, title }) => {
+  const globalWindow = typeof window !== 'undefined' ? window.location.pathname : '/'
+
+  return (
+    <li className="navigation__item">
+      <Link
+        to={linkTo}
+        activeClassName="navigation__link--active"
+        className="navigation__link"
+        isActive={() => globalWindow.includes(title.toLowerCase())}
+      >
+        {title}
+      </Link>
+    </li>
+  )
+}
 
 export default ({ pathname }) => {
   return (
@@ -24,8 +29,8 @@ export default ({ pathname }) => {
         <img src={logo} className="navigation__logo-image" alt="" />
       </Link>
       <ul className="navigation__list">
-        <NavItem linkTo="/hackers" title="Hackers" />
-        <NavItem linkTo="/programs" title="Programs" />
+        <NavItem linkTo="/hackers.html" title="Hackers" />
+        <NavItem linkTo="/programs.html" title="Programs" />
         <li className="navigation__item">
           <a
             className="navigation__link"

@@ -1,6 +1,7 @@
 ---
 title: "Invitations"
-path: "/programs/invitations"
+path: "/programs/invitations.html"
+id: "programs/invitations"
 ---
 
 In order for hackers to hack on private programs, they must receive invitations. Hackers are able to receive invitations if they meet the following criteria:

@@ -1,6 +1,7 @@
 ---
 title: "Invitations"
-path: "/hackers/invitations"
+path: "/hackers/invitations.html"
+id: "hackers/invitations"
 ---
 
 In order to hack on private programs, you must receive invitations to them. You can receive invitations if you meet the following criteria:
@@ -23,13 +24,13 @@ The program is receiving more reports while still being under their report volum
 The program's report volume is met. | Invitations will pause until the volume drops below the target in the 30 day window.
 The program's report volume is set to 0. | No invitations will be sent.
 
-Sometimes programs will manually invite you to hack on their programs. Keep in mind that it's a violation of Disclosure Guidelines for you to reach out to a private program in request for an invitation. 
+Sometimes programs will manually invite you to hack on their programs. Keep in mind that it's a violation of Disclosure Guidelines for you to reach out to a private program in request for an invitation.
 
 ### Invitation Expirations
-Invitations to hack a program expire in 1 week. You may want to reject an invitation for one reason or another. The sooner you let HackerOne know that you're not going to accept the invitation, the sooner the invite can be sent to another hacker. 
+Invitations to hack a program expire in 1 week. You may want to reject an invitation for one reason or another. The sooner you let HackerOne know that you're not going to accept the invitation, the sooner the invite can be sent to another hacker.
 
 ### Invitation Preferences
-Some hackers may want to get invites from any private program, while others only want invites from those offering bounties, and some may not want any invitations at all. 
+Some hackers may want to get invites from any private program, while others only want invites from those offering bounties, and some may not want any invitations at all.
 
 To choose when to receive invitations to private programs, you can navigat to **Settings > Invitation Preferences**.
 
@@ -38,7 +39,7 @@ You can choose from these options:
 Option | Detail
 ------ | ------
 Always | Receive invitations for every private program you're invited to.
-Only bug bounty programs | Only receive invitations for private programs that award bounties. 
-Never | Exclude yourself from receiving invitations from any private program. 
+Only bug bounty programs | Only receive invitations for private programs that award bounties.
+Never | Exclude yourself from receiving invitations from any private program.
 
 ![invitation-hackers-1](./images/invitations-hackers-1.png)

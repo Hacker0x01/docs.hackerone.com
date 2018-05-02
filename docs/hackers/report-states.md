@@ -1,22 +1,23 @@
 ---
 title: "Report States"
-path: "/hackers/report-states"
+path: "/hackers/report-states.html"
+id: "hackers/report-states"
 ---
-All reports are either Open or Closed and can be changed to a variety of different states. 
+All reports are either Open or Closed and can be changed to a variety of different states.
 
 ### Open Report States
 
-When reports haven't been acted on or resolved, they are in an open state. 
+When reports haven't been acted on or resolved, they are in an open state.
 These are the Open report states:
 
 State | Detail
 ----- | ------
-Pre-submission | This report state is only applicable when Human-Augmented Signal is enabled for the program. The report starts in the pre-submission state when it has been flagged as potentially invalid. A HackerOne security analyst will first review the report before it's sent to the program. 
-New | The report is in an unread state. 
-Triaged | The report is evaluated but hasn't been resolved. It is in the state of being fixed. 
-Needs More Info | More information is needed from the hacker about the vulnerability. Reports that are in the *Needs More Info* state for more than 30 days will automatically close and won't have a negative impact on the hacker's reputation. 
+Pre-submission | This report state is only applicable when Human-Augmented Signal is enabled for the program. The report starts in the pre-submission state when it has been flagged as potentially invalid. A HackerOne security analyst will first review the report before it's sent to the program.
+New | The report is in an unread state.
+Triaged | The report is evaluated but hasn't been resolved. It is in the state of being fixed.
+Needs More Info | More information is needed from the hacker about the vulnerability. Reports that are in the *Needs More Info* state for more than 30 days will automatically close and won't have a negative impact on the hacker's reputation.
 
-There are impacts to hacker reputation when the program changes the report state. Reputation isn't impacted when the hacker changes the report state themselves. They can self-close a report until it's marked as triaged. 
+There are impacts to hacker reputation when the program changes the report state. Reputation isn't impacted when the hacker changes the report state themselves. They can self-close a report until it's marked as triaged.
 
 ### Closed Report States
 

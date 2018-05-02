@@ -1,6 +1,7 @@
 ---
 title: "GitHub Integration"
-path: "/programs/github-integration"
+path: "/programs/github-integration.html"
+id: "programs/github-integration"
 ---
 
 With GitHub integration, HackerOne makes it easy for you to track GitHub issues as references on the platform. GitHub only supports directly linking to the issue creation form on a per-repository basis, so if you use multiple repositories, there isn’t a good way of currently pre-filling data as a report could affect different repositories. If most of your reports only affect one repository, HackerOne can make issue creation much easier.

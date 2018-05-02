@@ -4,11 +4,12 @@ import Article from '../components/article/article'
 import programsNav from '../pages/programs/programs-nav.yaml'
 
 export default function Template({ data }) {
+  console.log(data);
   const { markdownRemark } = data
   return (
     <Article
       links={programsNav}
-      docOnGithub={`${markdownRemark.frontmatter.path}.md`}
+      docOnGithub={`${markdownRemark.frontmatter.id}.md`}
     >
       <h1>{markdownRemark.frontmatter.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
@@ -22,6 +23,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         path
+        id
         title
       }
     }

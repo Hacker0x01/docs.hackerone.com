@@ -1,9 +1,10 @@
 ---
 title: "Keyboard Shortcuts"
-path: "/hackers/keyboard-shortcuts"
+path: "/hackers/keyboard-shortcuts.html"
+id: "hackers/keyboard-shortcuts"
 ---
 
-To improve the speed and efficiency of your workflow, these are several keyboard shortcuts for navigating reports. 
+To improve the speed and efficiency of your workflow, these are several keyboard shortcuts for navigating reports.
 
 Keyboard Shortcut | Action
 ----------------- | ---------

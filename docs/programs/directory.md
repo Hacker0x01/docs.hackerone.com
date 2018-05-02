@@ -1,6 +1,7 @@
 ---
 title: "Directory"
-path: "/programs/directory"
+path: "/programs/directory.html"
+id: "programs/directory"
 ---
 
 The Directory is a community-curated resource for identifying the best way to contact an organization's security team to report potential vulnerabilities directly to the organizations that can resolve them. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs. 

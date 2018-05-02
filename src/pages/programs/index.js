@@ -11,7 +11,7 @@ class IndexRoute extends React.Component {
     return (
       <Article
         links={programsNav}
-        docOnGithub={`${markdownRemark.frontmatter.path}.md`}
+        docOnGithub={`${markdownRemark.frontmatter.id}.md`}
       >
         <h1>{markdownRemark.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
@@ -28,6 +28,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         path
+        id
         title
         bookIndexFor
       }

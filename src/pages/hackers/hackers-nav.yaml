@@ -1,59 +1,59 @@
 - title: Getting Started
   items:
     - title: Welcome
-      path: /hackers
+      path: /hackers.html
 - title: Your Account
   items:
     - title: Reputation
-      path: /hackers/reputation
+      path: /hackers/reputation.html
     - title: Signal and Impact
-      path: /hackers/signal-and-impact
+      path: /hackers/signal-and-impact.html
     - title: Payments
-      path: /hackers/payments
+      path: /hackers/payments.html
     - title: Manage Notifications
-      path: /hackers/manage-notifications
+      path: /hackers/manage-notifications.html
 - title: Hacking
   items:
     - title: Hacktivity
-      path: /hackers/hacktivity
+      path: /hackers/hacktivity.html
     - title: Directory
-      path: /hackers/directory
+      path: /hackers/directory.html
       items:
         - title: Disclosure Assistance
-          path: /hackers/disclosure-assistance
+          path: /hackers/disclosure-assistance.html
     - title: Hacker101
-      path: /hackers/hacker101
+      path: /hackers/hacker101.html
     - title: The 90 Day Leaderboard
-      path: /hackers/the-90-day-leaderboard
+      path: /hackers/the-90-day-leaderboard.html
     - title: Examples of Misconduct
-      path: /hackers/examples-of-misconduct
+      path: /hackers/examples-of-misconduct.html
     - title: Hacker Mediation
-      path: /hackers/hacker-mediation
+      path: /hackers/hacker-mediation.html
 - title: Programs
   items:
     - title: Invitations
-      path: /hackers/invitations
+      path: /hackers/invitations.html
     - title: Rejecting and Leaving Programs
-      path: /hackers/rejecting-and-leaving-programs
+      path: /hackers/rejecting-and-leaving-programs.html
     - title: Invitations Priority Queue
-      path: /hackers/invitations-priority-queue
+      path: /hackers/invitations-priority-queue.html
 - title: Reports
   items:
     - title: Submitting Reports
-      path: /hackers/submitting-reports
+      path: /hackers/submitting-reports.html
     - title: Report Actions
-      path: /hackers/report-actions
+      path: /hackers/report-actions.html
     - title: Report States
-      path: /hackers/report-states
+      path: /hackers/report-states.html
     - title: Quality Reports
-      path: /hackers/quality-reports
+      path: /hackers/quality-reports.html
     - title: Using Markdown
-      path: /hackers/using-markdown
+      path: /hackers/using-markdown.html
     - title: Weakness
-      path: /hackers/weakness
+      path: /hackers/weakness.html
     - title: Severity
-      path: /hackers/severity
+      path: /hackers/severity.html
     - title: Public Disclosure
-      path: /hackers/public-disclosure
+      path: /hackers/public-disclosure.html
     - title: Keyboard Shortcuts
-      path: /hackers/keyboard-shortcuts
+      path: /hackers/keyboard-shortcuts.html

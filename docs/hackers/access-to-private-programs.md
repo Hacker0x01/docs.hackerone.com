@@ -1,6 +1,7 @@
 ---
 title: "Access to Private Programs"
-path: "/hackers/access-to-private-programs"
+path: "/hackers/access-to-private-programs.html"
+id: "hackers/access-to-private-programs"
 ---
 
 To get access to private programs, you must submit great vulnerability reports to participating Security@ programs and increase your Reputation. Invites to private programs are generally only sent to hackers at the top by:

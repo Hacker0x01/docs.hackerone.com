@@ -1,6 +1,7 @@
 ---
 title: "Response SLA Indicators"
-path: "/programs/response-sla-indicators"
+path: "/programs/response-sla-indicators.html"
+id: "programs/response-sla-indicators"
 ---
 
 Topic sentence:NEED TO WRITE THIS

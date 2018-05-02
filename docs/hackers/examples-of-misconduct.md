@@ -1,9 +1,10 @@
 ---
 title: "Examples of Misconduct"
-path: "/hackers/examples-of-misconduct"
+path: "/hackers/examples-of-misconduct.html"
+id: "hackers/examples-of-misconduct"
 ---
 
-As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate. 
+As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate.
 
 HackerOne doesn't tolerate the following and will ban hackers who violate them:
 
@@ -15,9 +16,9 @@ HackerOne doesn't tolerate any communication that manipulates a developer by wit
 
 These sorts of tactics put a program member in an uncomfortable position. It also severely damages the respect and reputation of the hard working hacker community, and promotes conflict that puts other well meaning hackers at risk.
 
-Generally, the majority of hackers on the platform are motivated by their own curiosity, their own will to increase their hacking skills and their ranking on the platform, or are interested in building recognition and community with other hackers. 
+Generally, the majority of hackers on the platform are motivated by their own curiosity, their own will to increase their hacking skills and their ranking on the platform, or are interested in building recognition and community with other hackers.
 
-Because HackerOne involves all of these positive motivations, extortion tactics are disrespectful to other hackers who operated before bug bounties existed and before there was precedent to protect many forms of hacking. Engaging in extortion tactics could regress the industry to facing legal threats, criminal prosecution, and vindictive responses. 
+Because HackerOne involves all of these positive motivations, extortion tactics are disrespectful to other hackers who operated before bug bounties existed and before there was precedent to protect many forms of hacking. Engaging in extortion tactics could regress the industry to facing legal threats, criminal prosecution, and vindictive responses.
 
 ### Spamming
 HackerOne also doesn't tolerate any sort of automated delivery of reports from scanners, scripts, browser automation frameworks, etc. They're low signal and a waste of everyone’s time.
@@ -26,7 +27,7 @@ Programs look to hackers for their technical prowess. When they see automated, t
 
 HackerOne designs itself to encourage a high signal from the community that uses it. This creates a very healthy place for hackers and programs to meet, but spamming damages the trust for both HackerOne and the community in general.
 
-### Harassment 
+### Harassment
 HackerOne doesn't tolerate harassment of programs or hackers on the platform.
 
 HackerOne is mutually beneficial for both parties to collaborate within the platform where features like public disclosure and mediation exist. In the event of a conflict or disagreement, HackerOne will not support either party that begins harassment as a means to their desired outcome.

@@ -1,6 +1,7 @@
 ---
 title: "Response SLA Metrics"
-path: "/programs/response-sla-metrics"
+path: "/programs/response-sla-metrics.html"
+id: "programs/response-sla-metrics"
 ---
 
 HackerOne tracks and enables you to define SLA targets for these 4 response SLA times:

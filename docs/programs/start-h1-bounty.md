@@ -1,6 +1,7 @@
 ---
 title: "Start H1 Bounty"
-path: "/programs/start-h1-bounty"
+path: "/programs/start-h1-bounty.html"
+id: "programs/start-h1-bounty"
 ---
 
 Bounty programs incentivize hackers to test for critical vulnerabilities. You can choose between 2 types of programs:

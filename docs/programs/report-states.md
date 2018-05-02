@@ -1,6 +1,7 @@
 ---
 title: "Report States"
-path: "/programs/report-states"
+path: "/programs/report-states.html"
+id: "programs/report-states"
 ---
 All reports are either Open or Closed and can be changed to a variety of different states. 
 

@@ -87,7 +87,6 @@ class Sidebar extends React.Component {
   }
 
   render() {
-    console.log(this.state.activeSection, this.props.activeSection, this.props.activeChild);
     return (
       <div className="sidebar">
         <div className="sidebar__wrapper">
@@ -99,8 +98,7 @@ class Sidebar extends React.Component {
                 title={section.title}
                 onSectionTitleClick={() => this.toggleSection(section)}
                 isSectionActive={
-                  this.state.activeSection === section ||
-                  section.items.length === 1
+                  this.state.activeSection === section
                 }
                 activeChild={this.state.activeChild}
               />

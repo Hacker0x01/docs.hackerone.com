@@ -1,6 +1,7 @@
 ---
 title: "Hacker Mediation"
-path: "/hackers/hacker-mediation"
+path: "/hackers/hacker-mediation.html"
+id: "hackers/hacker-mediation"
 ---
 
 In hacker mediation, hackers can request assistance from HackerOne in extreme cases when all normal discussions with the program have been attempted and there has been no satisfactory resolution.
@@ -14,23 +15,23 @@ Hacker mediation requests commonly occur when a program's behavior is clearly ou
 
 ### Requesting Hacker Mediation
 In order to request mediation:
-1. Open the report you'd like to request HackerOne mediation support for. 
+1. Open the report you'd like to request HackerOne mediation support for.
 2. Scroll to the bottom of the report.
-3. Click **Report Abuse**. 
-4. Select **Request mediation**. 
+3. Click **Report Abuse**.
+4. Select **Request mediation**.
 
-This will trigger a workflow to reach out to both the program and the relevant hacker. 
+This will trigger a workflow to reach out to both the program and the relevant hacker.
 
 ![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
 
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following activities:
-1) An email is sent to the program's security team, requesting that they make a best effort to resolve the issue with the hacker within 3 business days. 
+1) An email is sent to the program's security team, requesting that they make a best effort to resolve the issue with the hacker within 3 business days.
 
-2) If the security team doesn't respond to the hacker or if the situation isn't resolved, HackerOne will evaluate all available information about the vulnerability report, the hacker who requested mediation, and the organization to determine the appropriate level of escalation. 
+2) If the security team doesn't respond to the hacker or if the situation isn't resolved, HackerOne will evaluate all available information about the vulnerability report, the hacker who requested mediation, and the organization to determine the appropriate level of escalation.
 
 3) If, in HackerOne's judgment, the hacker's case warrants bringing to the company's attention out of band, HackerOne's Customer Success team will do so.
 
 While HackerOne can't guarantee resolution or override a security team's assessment, hacker mediation has been used to successfully bring items to the security teams' attention, resulting in a more favorable outcome for everyone involved.
- 
-As a reminder, hacker mediation is a privilege that is reserved for hackers with Signal ≥ 1 and 200 reputation points. In most cases, HackerOne will not be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary. Abuse of the hacker mediation process will result in this privilege being revoked from your account. 
+
+As a reminder, hacker mediation is a privilege that is reserved for hackers with Signal ≥ 1 and 200 reputation points. In most cases, HackerOne will not be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary. Abuse of the hacker mediation process will result in this privilege being revoked from your account.

@@ -1,6 +1,7 @@
 ---
 title: "Triggers"
-path: "/programs/triggers"
+path: "/programs/triggers.html"
+id: "programs/triggers"
 ---
 Triggers are simple, but power tools for executing automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with a given trigger word. 
 

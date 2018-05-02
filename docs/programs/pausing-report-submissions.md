@@ -1,6 +1,7 @@
 ---
 title: "Pausing Report Submissions"
-path: "/programs/pausing-report-submissions"
+path: "/programs/pausing-report-submissions.html"
+id: "programs/pausing-report-submissions"
 ---
 
 HackerOne enables you to temporarily pause new report submissions for your program to give you time to address existing reports. If your program has alerts that are failing response SLAs, automated alerts will suggest pausing report submissions. 

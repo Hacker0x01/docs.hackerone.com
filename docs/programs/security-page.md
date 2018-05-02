@@ -1,6 +1,7 @@
 ---
 title: "Security Page"
-path: "/programs/security-page"
+path: "/programs/security-page.html"
+id: "programs/security-page"
 ---
 The Security Page contains key information about your program and your security disclosure policy. The Security Page sets expectations of hackers you invite to your bounty program and it also outlines your:
 * Disclosure policy

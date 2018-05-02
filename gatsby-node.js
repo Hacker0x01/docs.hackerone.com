@@ -17,8 +17,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           node {
             html
             frontmatter {
-              path
               title
+              id
+              path
             }
           }
         }
@@ -31,11 +32,11 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       let template;
-      if (node.frontmatter.path.includes("programs/")) {
+      if (node.frontmatter.path.includes("/programs")) {
         template = programsTemplate;
-      } else if (node.frontmatter.path.includes("hackers/")) {
+      } else if (node.frontmatter.path.includes("/hackers")) {
         template = hackersTemplate;
-      } else if (node.frontmatter.path.includes("changelog/")) {
+      } else if (node.frontmatter.path.includes("/changelog")) {
         template = changelogTemplate;
       }
 

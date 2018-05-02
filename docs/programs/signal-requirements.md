@@ -1,6 +1,7 @@
 ---
 title: "Signal Requirements"
-path: "/programs/signal-requirements"
+path: "/programs/signal-requirements.html"
+id: "programs/signal-requirements"
 ---
 
 A hacker's reputation measures how likely their finding is to be immediately relevant and actionable. Signal is the average reputation hackers receive per report. The higher a hacker's signal is, the more reputable their report will be. 

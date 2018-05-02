@@ -1,6 +1,7 @@
 ---
 title: "Response SLA Labels"
-path: "/programs/response-sla-labels"
+path: "/programs/response-sla-labels.html"
+id: "programs/response-sla-labels"
 ---
 
 Inbox reports are marked with response SLA labels to help you monitor your program's health and to see which reports need to be taken action on. 

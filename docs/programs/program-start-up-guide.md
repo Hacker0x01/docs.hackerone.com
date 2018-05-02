@@ -1,6 +1,7 @@
 ---
 title: "Program Start-Up Guide"
-path: "/programs/program-start-up-guide"
+path: "/programs/program-start-up-guide.html"
+id: "programs/program-start-up-guide"
 ---
 
 Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:
