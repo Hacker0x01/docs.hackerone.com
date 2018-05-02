@@ -53,9 +53,7 @@ class IndexRoute extends React.Component {
     const githubRepo =
       'https://github.com/hacker0x01/docs.hackerone.com/blob/master/docs/'
 
-    const globalWindow = typeof window !== 'undefined' ? window.location.pathname : path;
-
-    console.log(globalWindow);
+    const globalWindow = typeof window !== 'undefined' ? window.location.pathname : withPrefix(path);
 
     return (
       <div className="article">
