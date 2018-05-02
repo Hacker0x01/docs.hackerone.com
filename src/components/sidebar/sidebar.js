@@ -60,7 +60,10 @@ const SectionLink = props => {
           to={item.path}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
-          isActive={() => globalWindow.includes(item.path)}
+          isActive={() => {
+            console.log(globalWindow, item.path);
+            return globalWindow.includes(item.path);
+          }}
         >
           {item.title}
         </Link>
