@@ -15,11 +15,11 @@ Congratulations on deciding to set up your hacker-powered security program on Ha
 
 Option | Detail
 ------ | ------
-[HackerOne Response](https://hacker0x01.github.io/docs.hackerone.com/programs/start-h1-response/) | A private vulnerability disclosure program for organizations to receive and resolve security vulnerability reports from external third parties.
-[HackerOne Bounty](https://hacker0x01.github.io/docs.hackerone.com/programs/start-h1-bounty/) | A continuous security program in which trusted hackers are incentivized to find critical vulnerabilities.
+HackerOne Response | A private vulnerability disclosure program for organizations to receive and resolve security vulnerability reports from external third parties.
+HackerOne Bounty | A continuous security program in which trusted hackers are incentivized to find critical vulnerabilities.
 
 ![getting-started-1](./images/getting-started-1.png)
 
 ### Next Steps
-* [Start H1 Response]("/programs/start-h1-response") or [Start H1 Bounty]("/programs/start-h1-bounty").
+* Start H1 Response or Start H1 Bounty.
 * [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to work with one of our program managers to get guidance on setting up your program.
