@@ -42,7 +42,7 @@ __This text is bold__
 ```
 *This text is italicized*
 
-_This text is underlined_
+-This text is underlined-
 
 **This text is bold**
 
