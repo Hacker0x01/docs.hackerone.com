@@ -8,10 +8,9 @@ const IndexPage = () => {
     <div>
       <header className="hero">
         <div className="hero__wrapper">
-          <h1>Welcome to HackerOne's Product Documentation Center</h1>
+          <h1>HackerOne Product Documentation</h1>
           <p>
-            Get familiar with HackerOne and explore our product features. We
-            provide some tooltips here that you might find useful.
+            Welcome to HackerOne's Product Documentation Center! This is where you can get familiar with HackerOne and explore our product features. We provide some tooltips here that you might find useful. This site is open to all, and we welcome your feedback! 
           </p>
         </div>
       </header>
@@ -21,7 +20,7 @@ const IndexPage = () => {
           <div>
             <h1>Getting Started</h1>
             <p>
-              Are you a hacker or a program? Choose which book you'd like to
+              Are you a hacker or do you run a program? Choose which book you'd like to
               browse.
             </p>
           </div>
