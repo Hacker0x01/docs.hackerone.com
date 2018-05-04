@@ -32,8 +32,8 @@ const IndexPage = () => {
             <Topic url={withPrefix('/hackers.html')}>
               <h2>Hackers</h2>
               <p>
-                Learn about the features that'll help you navigate 
-                the platform in submitting vulnerabilities.
+                Improve your hacker profile and learn how to submit
+                vulnerabilities. 
               </p>
             </Topic>
 
