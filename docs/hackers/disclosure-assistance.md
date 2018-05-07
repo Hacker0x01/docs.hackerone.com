@@ -37,7 +37,7 @@ To request Disclosure Assistance:
 
 At the end of this process, HackerOne will inquire about the organization's preferred vulnerability disclosure process (based on ISO 29147) to avoid the need for Disclosure Assistance in the future.
 
-*Note: As Disclosure Assistance is a best effort service, HackerOne prioritizes which bugs to assist with based on impact and may be unable to assist with low impact bugs. Please be aware that we cannot guarantee success, so we recommend familiarizing yourself with the EFF's Vulnerability Reporting FAQ and encourage you to perform other contact attempts in parallel to our effort.
+*Note: As Disclosure Assistance is a best effort service, HackerOne prioritizes which bugs to assist with based on impact and may be unable to assist with low impact bugs. Please be aware that we cannot guarantee success, so we recommend familiarizing yourself with the EFF's Vulnerability Reporting FAQ and encourage you to perform other contact attempts in parallel to our effort.*
 
 ### Questions?
 Questions specific to a particular report should be asked on the report itself. If you need support or have questions on the Disclosure Assistance process, please contact da@hackerone.com.
