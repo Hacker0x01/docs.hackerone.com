@@ -24,13 +24,13 @@ Bounty amounts can be increased at any point by setting another award on the rep
 * Award a bounty for a significant found vulnerability that is out of scope 
 * Clearly communicate to hackers your reasons for awarding or declining a bounty
 
-*Note: Professional, Enterprise, and Fully Managed programs have access to a HackerOne representative who can provide insight and consult them through the bounty awarding process. 
+*Note: Professional, Enterprise, and Fully Managed programs have access to a HackerOne representative who can provide insight and consult them through the bounty awarding process.* 
 
 ### Bounties for Reports Received Outside of HackerOne
 
 When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. This option is only available in HackerOne Professional, HackerOne Enterprise, and HackerOne Community Edition. This API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 
-*Note: This option is only available for HackerOne Professional, Enterprise, and Community editions. 
+*Note: This option is only available for HackerOne Professional, Enterprise, and Community editions.* 
 
 To start paying hackers:
 1. Go to **Settings > Program > Automation > API**. 
