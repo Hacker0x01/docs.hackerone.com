@@ -5,8 +5,8 @@ id: "programs/start-h1-bounty"
 ---
 
 Bounty programs incentivize hackers to test for critical vulnerabilities. You can choose between 2 types of programs:
-* A fully-managed program enables HackerOne to design, manage, and support your program from end to end.
-* A self-managed program enables you to run and manage your own program.
+* A managed program enables HackerOne to design, manage, and support your program from end to end.
+* A hosted program enables you to run and manage your own program.
 
 If you elect to **Start H1 Bounty**, to get your bounty program up and running, follow these steps:
 
@@ -46,5 +46,3 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
  ![start-bounty-2](./images/start-bounty-2.png)
 
 Once your program settings have been configured and you exit the setup environment, your program will be live as a confidential, invitation-only program.
-
-When your program is comfortable with the capacity to handle reports received from hackers reach out to customersuccess@hackerone.com to launch your program publicly.
