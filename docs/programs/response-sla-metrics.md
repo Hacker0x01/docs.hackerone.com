@@ -31,7 +31,7 @@ Recommended | The default setting for all new programs and HackerOne's suggested
 ### Healthy Response SLA Times
 HackerOne recommends your program to follow the following response SLA times to ensure a healthy program:
 
-Criteria | Recommended | Response Standard | Target 
+Response Efficiency Metric | Recommended | Response Standard | Target 
 -------- | ----------- | ----------------- | -------
 Time to first response | 1 day | 5 days | Customized
 Time to triage | 2 days | 10 days | Customized
