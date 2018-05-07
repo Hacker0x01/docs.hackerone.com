@@ -4,9 +4,9 @@ path: "/programs/response-sla-metrics.html"
 id: "programs/response-sla-metrics"
 ---
 
-HackerOne tracks and enables you to define SLA targets for these 4 response SLA times:
+HackerOne tracks and enables you to define targets for these 4 response metrics:
 
-Time | Details
+Response Efficiency Metric | Details
 ---- | -------
 Time to first response | The elapsed time from report creation to the first public activity on a report. The first public activity includes adding a public comment, changing the report state, or changing the report severity.
 Time to triage | The elapsed time from when a report is created to when a report is changed to a triaged state. A report can skip the triaged state and move directly to a closed state (e.g. resolved).
@@ -18,28 +18,30 @@ All response SLA times are tracked and reported in business days. Business days 
 * 24 hours
 * Including holidays (hackers never sleep!)
 
+### Response Standards and Targets
+
 Some response SLA definitions to keep in mind when configuring your program's target response SLAs are:
 
 Term | Detail
 ----- | ------
-Recommended | The default setting for all new programs. HackerOne's suggested setting for best practice. 
-Limit | The maximum acceptable response time as defined by HackerOne. For programs that don't meet HackerOne’s limits, HackerOne may temporarily pause new report submissions. When these programs address their SLA failing reports, report submissions will automatically resume. 
-Target | The target responsiveness set by an individual program. Reports are individually denoted if the SLA "missed" or "failed." Program targets can’t be set to exceed the limit.
+Response Standard | The maximum acceptable response times as defined by HackerOne. These standards only apply for time to first response and time to triage. HackerOne may temporarily pause new report submissions for programs with reports that don't meet the response standards. When these programs address the reports violating the response standards, report submissions will automatically resume.  
+Target | Goal response times set by an individual program. Performance against targets are displayed internally in the Inbox and Program Health dashboard. Program targets can't be set to exceed the response standards. 
+Recommended | The default setting for all new programs and HackerOne's suggested setting for best practice. 
 
 ### Healthy Response SLA Times
 HackerOne recommends your program to follow the following response SLA times to ensure a healthy program:
 
-Time | Recommended | Limit 
--------- | ----------- | -----
-Time to first response | 1 day | 5 days 
-Time to triage | 2 days | 10 days 
-Time to bounty | 1 day (after triage) | N/A 
-Time to resolution | 30 days | N/A 
+Criteria | Recommended | Response Standard | Target 
+-------- | ----------- | ----------------- | -------
+Time to first response | 1 day | 5 days | Customized
+Time to triage | 2 days | 10 days | Customized
+Time to bounty | 1 day (after triage) | N/A | Customized
+Time to resolution | 30 days | N/A | Customized
 
-*Note: All times above are in business days
+*Note: All times above are in business days*
 
 ### Pausing Timers
-HackerOne will automatically pause response SLA times when you're waiting on a response from a hacker so that your team isn’t disadvantaged during the wait period. When you change the report state to *Needs more info*, the timer will pause while waiting on a response from a hacker. The timer will start again when a hacker replies and comments on the report.
+HackerOne will automatically pause these timers when you're waiting on a response from a hacker so that your team isn’t disadvantaged during the wait period. When you change the report state to *Needs more info*, the timer will pause while waiting on a response from a hacker. The timer will start again when a hacker replies and comments on the report.
 
 ### FAQs
 
