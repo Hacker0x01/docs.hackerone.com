@@ -17,17 +17,24 @@
       path: /programs/using-markdown.html
 - title: Your Program
   items:
+    - title: Security Page
+      path: /programs/security-page.html
+      items:
+        - title: Program Metrics
+          path: /programs/program-metrics.html
+        - title: Response SLA Indicators
+          path: /programs/response-sla-indicators.html
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
+        - title: Good Policies
+          path: /programs/good-policies.html
         - title: Defining Scope
           path: /programs/defining-scope.html
         - title: Scope Best Practices
           path: /programs/scope-best-practices.html
         - title: Asset Types
           path: /programs/asset-types.html
-        - title: Good Policies
-          path: /programs/good-policies.html
     - title: Submit Report Form
       path: /programs/submit-report-form.html
       items:
@@ -46,13 +53,6 @@
       path: /programs/invitations.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
-    - title: Security Page
-      path: /programs/security-page.html
-      items:
-        - title: Program Metrics
-          path: /programs/program-metrics.html
-        - title: Response SLA Indicators
-          path: /programs/response-sla-indicators.html
     - title: Create Custom User Groups
       path: /programs/create-custom-user-groups.html
     - title: Single Sign-On via SAML
