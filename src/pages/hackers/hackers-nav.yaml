@@ -33,8 +33,8 @@
   items:
     - title: Invitations
       path: /hackers/invitations.html
-    - title: Rejecting and Leaving Programs
-      path: /hackers/rejecting-and-leaving-programs.html
+    - title: Declining Invites and Leaving Programs
+      path: /hackers/declining-invites-and-leaving-programs.html
     - title: Invitations Priority Queue
       path: /hackers/invitations-priority-queue.html
 - title: Reports
