@@ -12,7 +12,7 @@ HackerOne offers 3 different products that you can choose from:
 * HackerOne Bounty
 
 ### HackerOne Response
-Organizations receive vulnerability reports discovered by third-party hackers, free of charge. Security reports are ensured to end up in front of infosec professionals while minimizing the chances that vulnerabilities are disclosed through unsuitable channels like social media.
+Establish an ISO 29147 compliant disclosure policy to safely receive and act on vulnerabilities discovered by external third-parties. This welcomes a "See Something, Say Something" process that helps ensure that security reports end up with your security team instead of unreliable channels like social media.
 
 ![overview-2](./images/overview-2.png)
 
