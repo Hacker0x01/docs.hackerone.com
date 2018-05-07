@@ -37,6 +37,7 @@ Add Comment: all participants | A public comment will be posted on the report
 Change State: Request more information | The report state will be changed to needs more info
 
 ![triggers-4](./images/triggers-4.png)
+
 8. Type the message you want to give to the hacker when the trigger goes off.
 9. Click **Save trigger**.
 
