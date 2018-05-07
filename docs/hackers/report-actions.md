@@ -31,4 +31,6 @@ To request mediation, select the **Report abuse** option, and select **Report Me
 ### Request Public Disclosure
 You can also request public disclosure for your closed reports by selecting **Request public disclosure**. The option is available in your action picker once the report has been closed.
 
-If the program requests you for public disclosure, you'll have the option to **Disclose publicly** as well.
+If the program requests for public disclosure, you'll have the option to **Disclose publicly** as well.
+
+*Note: Public Disclosure is **Not** available for private programs.* 
