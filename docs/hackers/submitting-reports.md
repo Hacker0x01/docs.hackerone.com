@@ -7,7 +7,7 @@ id: "hackers/submitting-reports"
 You can submit your found vulnerabilities to programs by submitting reports.
 
 In order to submit reports:
-1. Go to your program's security page.
+1. Go to a program's security page.
    ![report-submissions-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/report-submissions-1.png?raw=true)
 2. Click the green **Submit Report** button.
 3. Select the asset type of the vulnerability on the **Submit Vulnerability Report** form.
@@ -21,4 +21,4 @@ In order to submit reports:
 7. *(Optional)* Attach screenshots, demo videos, or any other helpful material.
 8. Click **Submit Report**.
 
-After you've submitted your report, you must wait for programs to respond to your submissions.
+After you've submitted your report, you must wait for programs to respond to your submission.
