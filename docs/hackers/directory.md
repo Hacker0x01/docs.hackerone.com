@@ -16,7 +16,7 @@ The Directory enables Hackers to:
 *Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).*
 
 The Directory enables programs to:
-* Publish contact information for receiving information about potential vulnerabilities in your products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](support@hackerone.com).
+* Publish contact information for receiving information about potential vulnerabilities in your products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com).
 * [Search the Directory](https://hackerone.com/directory) for your organization to ensure that your security team's contact information and disclosure policy is accurate.
 
 ### Correcting Information on the Directory
