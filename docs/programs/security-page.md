@@ -33,11 +33,12 @@ You don't have to be a HackerOne customer in order to claim a Security Page, tho
 
 To claim a security page:
 1. Find an unclaimed security page in the directory. 
-    *Note: Unclaimed pages have the **Claim this page** and the **Suggest edits** link.* 
+   
+*Note: Unclaimed pages have the **Claim this page** and the **Suggest edits** link.* 
     
     ![security-page-1](./images/security-page-1.png)
     
-    *Claimed pages don't have the link available.* 
+*Claimed pages don't have the link available.* 
     
     ![security page-2](./images/security-page-2.png)
 
