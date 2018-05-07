@@ -12,13 +12,13 @@ Private programs are programs that are not published to the public. This means t
 
 ### Public Programs
 
-When programs become public, they open themselves up to submissions from the entire hacker community. This means that all hackers on HackerOne are enabled to hack your program. Moving into a public program prematurely can be an overwhelming experience given the large influx of new report submissions and new hackers participating. When programs become public, they open themselves up to submissions from the entire hacker community.
+When programs become public, they open themselves up to submissions from the entire hacker community. This means that all hackers on HackerOne are enabled to hack your program. Moving into a public program prematurely can be an overwhelming experience given the large influx of new report submissions and new hackers participating. 
 
 Report volumes can spike up to 5x-10x, which highlights the importance of ensuring that your Security team is prepared before launching publicly. 
 
 The success criteria to see if your program is ready to go public is:
 * Invited more than 100 hackers
 * You've received 10 vulnerability reports
-* Your program meets all responsiveness limits
+* Your program meets HackerOne response standards
 
 When your program is ready to go public, contact your Customer Success Manager to do so. If you're a Response program and in controlled launch, you can publicly launch your own program once you meet all of the success criteria.  
