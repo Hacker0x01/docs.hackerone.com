@@ -16,7 +16,7 @@ Sometimes after looking into a program, you realize it’s not a program you’r
 
 ![leaving-programs-1](./images/leaving-programs-1.png)
 
-After selecting to leave the program, you'll get the option to fill out a questionnaire on why you've decided to leave the program. Filling out the questionnaire will put you as a priority for future invites. See: [Invitations Priority Queue](/hackers/invitations-priority-queue.html)
+After selecting to leave the program, you'll get the option to fill out a questionnaire on why you've decided to leave the program. Filling out the questionnaire will put you as a priority for future invites. See: [Invitations Priority Queue]("/hackers/invitations-priority-queue.html")
 
 ### The Questionnaire
 To access the questionnaire, decline the invitation or leave the program and the questionnaire will directly appear on your screen.
