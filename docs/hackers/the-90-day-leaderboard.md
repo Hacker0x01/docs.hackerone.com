@@ -8,7 +8,7 @@ id: "hackers/the-90-day-leaderboard"
 The 90 day leaderboard shows the top 100 hackers based on their activity in the last 90 days.
 
 ### How do I access it?
-Go to https://hackerone.com/leaderboard/ and make sure that the filter is set to 90 days.
+Go to https://hackerone.com/leaderboard/invites.
 
 ### How do I become eligible for the leaderboard?
 You’ll be eligible if within the last 90 days you have:
