@@ -5,7 +5,7 @@ id: "hackers/welcome-to-hackerone-docs"
 bookIndexFor: "hackers"
 ---
 
-Welcome! You've come to the right place to learn more about using HackerOne.
+Looking to learn how to use HackerOne? You're in the right place. 
 
 Have you just started hacking on HackerOne or want to learn more about a feature? These guides will help you to understand the product so that you can easily navigate through the platform in submitting vulnerabilities.
 
