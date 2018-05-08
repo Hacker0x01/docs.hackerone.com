@@ -41,10 +41,10 @@ __This text is bold__
 --This text is deleted--
 ```
 *This text is italicized*
-_This text is underlined_
+__This text is underlined__
 **This text is bold**
 __This text is bold__
---This text is deleted--
+~~This text is deleted~~
 
 ### LISTS
 #### Unordered Lists
