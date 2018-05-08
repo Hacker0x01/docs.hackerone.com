@@ -54,25 +54,25 @@ __This text is bold__
 ### LISTS
 #### Unordered Lists
 ```
-*   Candy.
-*   Gum.
-*   Juice.
+* Candy.
+* Gum.
+* Juice.
 ```
 this:
 ```
-+   Candy.
-+   Gum.
-+   Juice.
++ Candy.
++ Gum.
++ Juice.
 ```
 and this:
 ```
--   Candy
--   Gum.
--   Juice.
+- Candy
+- Gum.
+- Juice.
 ```
 all produce the same output:
 * Candy.
-* Gume.
+* Gum.
 * Juice.
 
 #### Numbered Lists
