@@ -1,11 +1,11 @@
 ---
-title: "Welcome"
+title: "Welcome to HackerOne Docs"
 path: "/programs.html"
 id: "programs/welcome"
 bookIndexFor: "programs"
 ---
 
-Welcome! You've come to the right place to learn more about using HackerOne.
+Looking to learn how to use HackerOne? You're in the right place.
 
 Are you launching a new program or wanting to learn more about a feature? These guides will help you to understand the product so that you can easily navigate through your hacker-powered security platform.
 
