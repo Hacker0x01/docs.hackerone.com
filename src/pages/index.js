@@ -23,8 +23,7 @@ const IndexPage = () => {
           <div>
             <h1>Getting Started</h1>
             <p>
-              Are you a hacker or do you run a program? Choose which book you'd like to
-              browse.
+              Are you a hacker or do you run a program? We’ve broken up the docs into different sections based on what’s right               for you. Choose which book you'd like to browse.
             </p>
           </div>
 
