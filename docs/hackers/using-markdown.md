@@ -30,6 +30,7 @@ A Second Level Header
 >more text in blockquote
 ```
 >text in blockquote
+
 >more text in blockquote
 
 ### TEXT EMPHASIS
