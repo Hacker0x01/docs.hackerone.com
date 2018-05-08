@@ -8,7 +8,7 @@ id: "programs/triggers"
 Triggers are simple, but powerful tools for executing automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with or without a given trigger word. Triggers aid in reducing noise as they can flag certain reports.
 
 ### Default Triggers
-When you go to Settings > Program > Automation > Triggers, you'll notice a list of default triggers that have already been made for your program. These triggers show up for all programs. You can choose to edit or delete these triggers. 
+When you go to Settings > Program > Automation > Triggers, you'll notice a list of default triggers that have already been made for your program. You can choose to edit or delete these triggers. 
 
 ![triggers-5](./images/triggers-5.png)
 
