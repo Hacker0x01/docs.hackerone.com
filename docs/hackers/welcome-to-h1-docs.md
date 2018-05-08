@@ -1,7 +1,7 @@
 ---
-title: "Welcome to h1 Docs"
+title: "Welcome to HackerOne Docs"
 path: "/hackers.html"
-id: "hackers/welcome-to-h1-docs"
+id: "hackers/welcome-to-hackerone-docs"
 bookIndexFor: "hackers"
 ---
 
