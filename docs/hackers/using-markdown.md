@@ -41,9 +41,13 @@ __This text is bold__
 --This text is deleted--
 ```
 *This text is italicized*
-__This text is underlined__
+
+<u>This text is underlined</u>
+
 **This text is bold**
+
 __This text is bold__
+
 ~~This text is deleted~~
 
 ### LISTS
