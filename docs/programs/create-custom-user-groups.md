@@ -1,7 +1,7 @@
 ---
-title: "Create Custom User Groups"
-path: "/programs/create-custom-user-groups.html"
-id: "programs/create-custom-user-groups"
+title: "Groups and Permissions"
+path: "/programs/groups-and-permissions.html"
+id: "programs/groups-and-permissions"
 ---
 
 You can have customized groups with different access rights on your program. HackerOne program administrators can set these access rights for groups on your team. All security teams start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.
