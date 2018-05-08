@@ -85,7 +85,7 @@ all produce the same output:
 2. Green
 3. Blue
 
-If you put blank lines between items, you’ll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:
+If you put blank lines between items, you’ll get `<p>` tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:
 ```
 * A list item.
 
@@ -167,7 +167,7 @@ You can reference a report by prefixing report id with '#' symbol
 ```
 #105887 is a publicly disclosed bug
 ```
-#105887 is a publicly disclosed bug
+[#105887](https://hackerone.com/reports/105887) is a publicly disclosed bug
 
 ### ATTACHMENT REFERENCES
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
