@@ -123,7 +123,7 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
 ```
-I get 10 times more traffic from Google than from Yahoo or MSN.
+I get 10 times more traffic from [Google](http://google.com/) than from [Yahoo](http://search.yahoo.com/) or [MSN](http://search.msn.com/).
 
 The title attribute is optional. Link names may contain letters, numbers and spaces, but are not case sensitive:
 ```
@@ -132,7 +132,7 @@ I start my morning with a cup of coffee and
 
 [ny times]: http://www.nytimes.com/
 ```
-I start my morning with a cup of coffee and The New York Times.
+I start my morning with a cup of coffee and [The New York Times](http://www.nytimes.com/).
 
 ### CODE
 In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
