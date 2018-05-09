@@ -4,7 +4,7 @@ path: "/hackers/payments.html"
 id: "hackers/payments"
 ---
 
-You can receive payments on HackerOne for finding and reporting valid vulnerabilities through:
+You can receive payments on HackerOne for finding and reporting valid vulnerabilities in the form of:
 * Bounties
 * Swag
 * Bonuses
