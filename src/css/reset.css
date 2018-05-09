@@ -661,6 +661,7 @@ code {
 pre code {
   background: none;
   line-height: 1.42;
+  padding: 0;
 }
 
 @media only screen and (max-width: 480px) {
