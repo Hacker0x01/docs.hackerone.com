@@ -4,12 +4,12 @@ path: "/programs/setting-response-targets.html"
 id: "programs/setting-response-targets"
 ---
 
-You can customize your program's response SLA times by configuring the number of business days. To customize your program's response SLA time: 
-1. Go to **Settings > Program > Response SLA**. 
-2. Input the target response SLA time in days for your program under the **Target** column. 
+You can customize your program's response targets by configuring the number of business days. To customize your program's response target: 
+1. Go to **Settings > Program > Response Target**. 
+2. Input the response target in days for your program under the **Target** column. 
 
 Keep in mind that:
-* It's recommended that you're targets fall within the Recommended and Limit times. 
+* It's recommended that your targets fall within the Recommended and Response Standard times. 
     
 Time | Recommended | Limit 
 -------- | ----------- | -----
