@@ -40,7 +40,7 @@ module.exports = class HTML extends React.Component {
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
           {this.props.postBodyComponents}
-          <script src="//unpkg.com/docsearch.js@2.5.2/dist/cdn/docsearch.min.js" />
+          <script src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js" />
         </body>
       </html>
     )
