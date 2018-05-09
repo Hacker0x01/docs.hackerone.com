@@ -173,13 +173,13 @@ You can reference a report by prefixing report id with '#' symbol
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
 
 Example: Consider a user is creating a report and uploads an attachment. Once the attachment is uploaded successfully, you will see see the reference id with the attachment name.
-![markdown-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-1.png?raw=true)
+![markdown-1](./images/markdown-1.png)
 
 Now you can reference the attachment in the report by writing 'F1' and the attachment is referenced in the report as shown below.
-![markdown-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-2.png?raw=true)
+![markdown-2](./images/markdown-2.png)
 
 When the link is clicked, the attachment is displayed in the modal.
-![markdown-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-3.png?raw=true)
+![markdown-3](./images/markdown-3.png)
 
 ### INLINE IMAGES AND VIDEOS
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}). Example: For the above attachment, the markdown
@@ -187,4 +187,4 @@ You can inline images and videos in the report description, comments and report 
  Here is an inlined image of an apple {F1}
 ```
 will render the following:
-![markdown-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-4.png?raw=true)
+![markdown-4](./images/markdown-4.png)

@@ -29,11 +29,11 @@ Limited | Only the summary and timeline of the activity are visible. All comment
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure.
 6) Click **Post**.    
 
-![public-disclosure-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-2.png?raw=true)
+![public-disclosure-2](./images/public-disclosure-2.png)
 
 After public disclosure has been requested, the admin of the of the program can choose to publicly disclose the report. They can select **Disclose publicly** to disclose the report.
 
-![public-disclosure-3](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/public-disclosure-3.png?raw=true)
+![public-disclosure-3](./images/public-disclosure-3.png)
 
 When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communication between the hacker and the security team from first report to resolution. 
 

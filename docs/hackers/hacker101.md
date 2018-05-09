@@ -12,4 +12,4 @@ Go to https://www.hacker101.com/ to access all the course material.
 
 You can view the FAQ list at https://www.hackerone.com/hacker101 or email hacker101@hackerone.com with questions or comments.
 
-![hacker101](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/hacker101.png?raw=true)
+![hacker101](./images/hacker101.png)

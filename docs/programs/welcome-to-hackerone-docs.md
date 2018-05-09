@@ -17,9 +17,9 @@ To suggest edits:
 2. Click the `Edit this page on GitHub` link to the article you want to suggest edits for.
 3. You'll be redirected to the article in Github where you can edit the text in Markdown.
 4. Click on the pencil icon in GitHub and put in your edits.
-![welcome-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/welcome-1.png?raw=true)
+![welcome-1](./images/welcome-1.png)
 5. *(Optional)* Summarize your changes in the **Propose file change** section.
 6. Click **Propose file change**.
-![welcome-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/images/welcome-2.png?raw=true)
+![welcome-2](./images/welcome-2.png)
 
 Your edits and suggestions will be submitted as a pull request in which documentation administrators can accept or reject your changes.

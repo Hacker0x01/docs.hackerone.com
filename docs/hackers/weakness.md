@@ -13,6 +13,6 @@ Each vulnerability report can be labeled with a weakness, either by the hacker a
 Programs can enable, disable, or hide each weakness for their program's submissions. Disabling or hiding certain weaknesses can prevent you from submitting vulnerability reports that exploit a weakness that is out of scope by setting weaknesses to different states.
 
 When you submit a report, you must select the type of weakness for the vulnerability you've found.
-![weakness-1](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/weakness-1.png?raw=true)
+![weakness-1](./images/weakness-1.png)
 You can filter the options by various clusters.
-![weakness-2](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/weakness-1.png?raw=true)
+![weakness-2](./images/weakness-1.png)
