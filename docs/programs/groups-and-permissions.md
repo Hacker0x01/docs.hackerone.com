@@ -4,8 +4,9 @@ path: "/programs/groups-and-permissions.html"
 id: "programs/groups-and-permissions"
 ---
 
-You can have customized groups with different access rights on your program. HackerOne program administrators can set these access rights for groups on your team. All security teams start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.
+You can have customized groups with different access rights on your program. HackerOne program administrators can set these access rights for groups on your team. All security programs start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.
 
+### Adding a New Group
 To add a new group and set access rights:
 1. Go to your program's **Settings > General > Group Management**.
 2. Click **Add Group**.
@@ -27,7 +28,8 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 
 To edit your group name and permissions, click **Edit** next to the group you want to edit in **Settings > General > Group Management**.
 
-To add or remove users to the group:
+### Adding or Removing Users 
+To add or remove users:
 1. Click **Add/Remove users**.
 2. Select the check box of the users you want to add to the group.
 3. Deselect the check boxes of the users you want to remove from the group.
