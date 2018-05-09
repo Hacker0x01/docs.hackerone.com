@@ -18,9 +18,6 @@
       path: /hackers/hacktivity.html
     - title: Directory
       path: /hackers/directory.html
-      items:
-        - title: Disclosure Assistance
-          path: /hackers/disclosure-assistance.html
     - title: Hacker101
       path: /hackers/hacker101.html
     - title: The 90 Day Leaderboard
@@ -29,6 +26,8 @@
       path: /hackers/examples-of-misconduct.html
     - title: Hacker Mediation
       path: /hackers/hacker-mediation.html
+    - title: Disclosure Assistance
+      path: /hackers/disclosure-assistance.html
 - title: Programs
   items:
     - title: Invitations
