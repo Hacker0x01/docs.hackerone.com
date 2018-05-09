@@ -17,7 +17,7 @@ To change your notification preferences for a program:
    If you want to enable notifications, the **Enable Notifications** screen will show where you can subscribe to reports.
    ![manage-notifications-2](./images/manage-notifications-2.png)
 
-If you disable your notifications, you'll start receiving notifications when you:
+If you disable your notifications, you'll start receiving notifications again when you:
 * Interact with a report
 * Are assigned a report
 * Are mentioned in a report
