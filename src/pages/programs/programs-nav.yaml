@@ -42,13 +42,13 @@
          path: /programs/report-templates.html
        - title: Pausing Report Submissions
          path: /programs/pausing-report-submissions.html
-    - title: Response SLA
-      path: /programs/response-sla.html
+    - title: Response Targets
+      path: /programs/response-targets.html
       items:
-        - title: Response SLA Metrics
-          path: /programs/response-sla-metrics.html
-        - title: Setting Response SLAs
-          path: /programs/setting-response-slas.html
+        - title: Response Target Metrics
+          path: /programs/response-target-metrics.html
+        - title: Setting Response Targetes
+          path: /programs/setting-response-targets.html
     - title: Invitations
       path: /programs/invitations.html
     - title: Email Forwarding
