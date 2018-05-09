@@ -4,7 +4,7 @@ path: "/programs/using-markdown.html"
 id: "programs/using-markdown"
 ---
 
-HackerOne supports the following markdown syntax on reports, profiles, and security pages. 
+HackerOne supports the following markdown syntax on reports, profiles, and security pages.
 
 ### HEADERS
 ```
@@ -30,6 +30,7 @@ A Second Level Header
 >more text in blockquote
 ```
 >text in blockquote
+
 >more text in blockquote
 
 ### TEXT EMPHASIS
@@ -42,36 +43,36 @@ __This text is bold__
 ```
 *This text is italicized*
 
--This text is underlined-
+<u>This text is underlined</u>
 
 **This text is bold**
 
 __This text is bold__
 
---This text is deleted--
+~~This text is deleted~~
 
 ### LISTS
 #### Unordered Lists
 ```
-*   Candy.
-*   Gum.
-*   Juice.
+* Candy.
+* Gum.
+* Juice.
 ```
 this:
 ```
-+   Candy. 
-+   Gum.
-+   Juice. 
++ Candy.
++ Gum.
++ Juice.
 ```
 and this:
 ```
--   Candy
--   Gum.
--   Juice.
+- Candy
+- Gum.
+- Juice.
 ```
 all produce the same output:
-* Candy. 
-* Gume.
+* Candy.
+* Gum.
 * Juice.
 
 #### Numbered Lists
@@ -84,18 +85,18 @@ all produce the same output:
 2. Green
 3. Blue
 
-If you put blank lines between items, you’ll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:
+If you put blank lines between items, you’ll get `<p>` tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:
 ```
 * A list item.
 
   With multiple paragraphs.
-  
+
 * Another item in the list.
 ```
 * A list item.
 
   With multiple paragraphs.
-  
+
 * Another item in the list.
 
 ### LINKS
@@ -122,7 +123,7 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
 ```
-I get 10 times more traffic from Google than from Yahoo or MSN.
+I get 10 times more traffic from [Google](http://google.com/) than from [Yahoo](http://search.yahoo.com/) or [MSN](http://search.msn.com/).
 
 The title attribute is optional. Link names may contain letters, numbers and spaces, but are not case sensitive:
 ```
@@ -131,18 +132,18 @@ I start my morning with a cup of coffee and
 
 [ny times]: http://www.nytimes.com/
 ```
-I start my morning with a cup of coffee and The New York Times.
+I start my morning with a cup of coffee and [The New York Times](http://www.nytimes.com/).
 
 ### CODE
-In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code. 
+In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 ```
 The text has sample `code`
 ```
 The text has sample code
 
-To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes (```). Just like with code spans, &, <, and > characters will be escaped automatically. 
+To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes \`\`\`. Just like with code spans, &, <, and > characters will be escaped automatically.
 ```
-This is a multiline code block. 
+This is a multiline code block.
 ```
 
 To use syntax highlighting, specify the content type after the three opening back tick quotes.
@@ -166,7 +167,7 @@ You can reference a report by prefixing report id with '#' symbol
 ```
 #105887 is a publicly disclosed bug
 ```
-#105887 is a publicly disclosed bug
+[#105887](https://hackerone.com/reports/105887) is a publicly disclosed bug
 
 ### ATTACHMENT REFERENCES
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
@@ -183,7 +184,7 @@ When the link is clicked, the attachment is displayed in the modal.
 ### INLINE IMAGES AND VIDEOS
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}). Example: For the above attachment, the markdown
 ```
- Here is an inlined image of an apple {F1} 
+ Here is an inlined image of an apple {F1}
 ```
 will render the following:
 ![markdown-4](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/hackers/images/markdown-4.png?raw=true)
