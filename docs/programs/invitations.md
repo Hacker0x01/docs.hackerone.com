@@ -23,7 +23,7 @@ You're receiving more reports while still being under your report volume.	| Hack
 Your report volume is met. | Invitations will pause until the volume drops below the target in the 30 day window.
 Your report volume is set to 0. | No invitations will be sent.
 
-*Note: HackerOne will be sure to prevent you from being overwhelmed with reports.
+*Note: HackerOne will be sure to prevent you from being overwhelmed with reports.*
 
 ### Setting Invitations
 To set your invitations:
