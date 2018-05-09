@@ -36,4 +36,4 @@ Your program can elect to award you with various swag in addition to or instead 
 The program is responsible for fulfillment and delivery of swag to you.
 
 ### Bonuses
-You can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable hackers to have more ways to earn rewards on HackerOne and for security teams to offer more flexible incentives without increasing the market rate for bounties.
+Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties. 
