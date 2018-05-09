@@ -6,6 +6,7 @@ id: "hackers/invitations"
 
 In order to hack on private programs, you must receive invitations to them. You can receive invitations if you meet the following criteria:
 * Established reputation
+* Non-negative signal
 * Clear record with zero code of conduct violations
 
 When your Reputation, Signal, and Impact are high enough, you'll join the pool of hackers that receive access to private programs. Once you start receiving invitations to those programs, remember, the one universal rule is to not talk about the private programs you're a part of.
