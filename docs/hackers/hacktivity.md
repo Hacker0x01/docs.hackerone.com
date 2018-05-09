@@ -40,6 +40,6 @@ On the **Popular** page, vulnerabilities are ranked primarily by their aggregate
 
 On the **New** page, activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
 
-On the **Top** page, activities are listed by the overall top vulnerabilities.
+On the **Top** page, activities are listed by the overall top vulnerabilities by number of upvotes.
 
 If you want to see downvoting, a commenting feature, or a new feature request, send [HackerOne a feature request](mailto:feedback@hackerone.com).
