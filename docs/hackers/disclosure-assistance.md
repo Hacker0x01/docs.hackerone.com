@@ -9,7 +9,7 @@ When a vulnerability is found, it needs to get into the right hands quickly to e
 
 In the absence of a vulnerability disclosure policy, attempts to report security vulnerabilities often carry considerable legal risk for the hacker, causing many to simply withhold vulnerable information or publish anonymously. In these cases, it's impossible to achieve an optimal outcome that ensures security vulnerabilities are safely resolved, and it causes the internet to be less safe than it could be.
 
-HackerOne provides Disclosure Assistance to help friendly hackers be able to disclose vulnerabilities to any organization and to help create better security for the internet.
+HackerOne provides Disclosure Assistance to help friendly hackers disclose vulnerabilities to any organization and to help create better security for the internet.
 
 ### What is Disclosure Assistance?
 When hackers discover a vulnerability and the organization doesn't have a vulnerability disclosure policy, with Disclosure Assistance, HackerOne will work with friendly hackers on a best effort basis to:
