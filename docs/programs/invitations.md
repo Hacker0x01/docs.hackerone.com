@@ -6,7 +6,7 @@ id: "programs/invitations"
 
 In order for hackers to hack on private programs, they must receive invitations. Hackers are able to receive invitations if they meet the following criteria:
 * Established reputation
-* Positive signal
+* Non-negative signal
 * Clear record with zero code of conduct violations
 
 HackerOne manages your invitations by:
