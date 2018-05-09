@@ -29,7 +29,7 @@ Duplicates of your own reports don't influence your reputation. This enables pro
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
 
 ### Bounty Affects to Reputation
-The rewarded bounty amount also impacts your reputation. Different bounty amounts grant you reputation based on the standard deviation from the program's mean bounty amount. Here's the breakdown for how much reputation you can gain depending on your bounty:
+The bounty amount you receive also impacts your reputation. Different bounty amounts grant you reputation based on the standard deviation from the program's mean bounty amount. Here's the breakdown for how much reputation you can gain depending on your bounty:
 
 Reputation | Details
 ---------- | --------
