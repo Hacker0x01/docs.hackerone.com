@@ -47,7 +47,7 @@
       items:
         - title: Response Target Metrics
           path: /programs/response-target-metrics.html
-        - title: Setting Response Targetes
+        - title: Setting Response Targets
           path: /programs/setting-response-targets.html
     - title: Invitations
       path: /programs/invitations.html
