@@ -11,7 +11,7 @@ The Invite Hackers tab under Settings > Program > Hacker Management has been ren
 
 The Invitations page includes the new Report Volume field where you can enter the number of reports you'd like to receive in 30 days.
 
-[Read more about Invitations](https://support.hackerone.com/hc/en-us/articles/360000406106-Invitations).
+[Read more about Invitations](https://hacker0x01.github.io/docs.hackerone.com/hackers/invitations.html).
 
 #### Needs More Info
 Reports in the Needs More Info state that haven’t been responded to within 30 days automatically get closed with no negative impact to the hacker’s reputation.
