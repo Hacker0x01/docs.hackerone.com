@@ -1,7 +1,7 @@
 ---
-title: "Response SLA Metrics"
-path: "/programs/response-sla-metrics.html"
-id: "programs/response-sla-metrics"
+title: "Response Target Metrics"
+path: "/programs/response-target-metrics.html"
+id: "programs/response-target-metrics"
 ---
 
 HackerOne tracks and enables you to define targets for these 4 response metrics:
