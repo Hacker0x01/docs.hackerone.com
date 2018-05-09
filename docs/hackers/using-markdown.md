@@ -141,7 +141,12 @@ The text has sample `code`
 ```
 The text has sample code
 
-To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes [```]. Just like with code spans, &, <, and > characters will be escaped automatically.
+To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes \`\`\`. Just like with code spans, &, <, and > characters will be escaped automatically.
+```
+\`\`\`
+This is a multiline code block.
+\`\`\`
+```
 ```
 This is a multiline code block.
 ```
