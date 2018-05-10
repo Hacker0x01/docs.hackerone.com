@@ -4,22 +4,23 @@ path: "/programs/setting-response-targets.html"
 id: "programs/setting-response-targets"
 ---
 
-You can customize your program's response targets by configuring the number of business days. To customize your program's response target: 
+You can customize your program's response targets by configuring the number of business days. 
+
+To customize your program's response target: 
 1. Go to **Settings > Program > Response Target**. 
 2. Input the response target in days for your program under the **Target** column. 
 
-Keep in mind that:
-* It's recommended that your targets fall within the Recommended and Response Standard times. 
+*Keep in mind that it's recommended that your targets fall within the Recommended and Response Standard times.* 
     
-Time | Recommended | Limit 
--------- | ----------- | -----
+Time | Recommended | Response Standard 
+---- | -------- | -----
 Time to first response | 1 day | 5 days 
 Time to triage | 2 days | 10 days 
 Time to bounty | 1 day (after triage) | N/A 
 Time to resolution | 30 days | N/A 
     
-* To edit your program's response SLA settings, you need to have program permissions. 
+* To edit your program's response targets, you need to have program permissions. 
 * Modified targets will be applied to reports created after the modification. 
-* Reports created before modification will have previous SLA targets applied. 
+* Reports created before modification will have previous response targets applied. 
 
 ![response sla](./images/response-sla.png)
