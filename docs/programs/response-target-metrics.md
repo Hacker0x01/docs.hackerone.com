@@ -13,7 +13,7 @@ Time to triage | The elapsed time from when a report is created to when a report
 Time to bounty | *(Bounty programs only)* The elapsed time from when a report is triaged to when a bounty is paid. Only reports that are eligible for a bounty will be tracked as part of this metric. The time to bounty timer will run until the report is either marked as ineligible or closed as a state where it’s not normal to award a bounty (e.g. spam). 
 Time to resolution | The elapsed time between report triaged and report closed. These  five closed report states will stop the timer: resolved, informative, not applicable, duplicate, and spam.
 
-All response efficiency metrics are tracked and reported in business days. Business days are defined to be:
+All response target times are tracked and reported in business days. Business days are defined to be:
 * Monday - Friday
 * 24 hours
 * Including holidays (hackers never sleep!)
