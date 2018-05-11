@@ -29,7 +29,7 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
  ------ | -------
  [Policy & Scope](https://hacker0x01.github.io/docs.hackerone.com/programs/policy-and-scope.html) | Customize your program's policy and scope that you want to communicate to hackers.
  [Submit Report Form](https://hacker0x01.github.io/docs.hackerone.com/programs/submit-report-form.html) | Customize your report form that hackers will use to send vulnerabilities about your program.
- [Response Target]https://hacker0x01.github.io/docs.hackerone.com/programs/response-targets.html) | Set your program's Response Service Level Agreements (SLA) by configuring your target business days.
+ [Response Target](https://hacker0x01.github.io/docs.hackerone.com/programs/response-targets.html) | Set your program's Response Service Level Agreements (SLA) by configuring your target business days.
  Metrics Display | Select the metrics you want to display on your program's page to communicate to hackers the statistics about your program.
  Email Notifications | Every report activity triggers email notifications sent to members in your program. Select what content you want to include.
  [Inbox Views](https://hacker0x01.github.io/docs.hackerone.com/programs/inbox-views.html) | Configure what tabs you want showing in your inbox.
