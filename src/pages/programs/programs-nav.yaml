@@ -2,6 +2,8 @@
   items:
     - title: Welcome 
       path: /programs.html
+    - title: Edit the Doc Site
+      path: /programs/edit-the-doc-site.html
     - title: Overview
       path: /programs/overview.html
     - title: Program Start-up Guide
