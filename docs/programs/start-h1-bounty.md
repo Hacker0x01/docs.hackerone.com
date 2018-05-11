@@ -27,19 +27,19 @@ If you elect to **Start H1 Bounty**, to get your bounty program up and running, 
 
  Option | Detail
  ------ | -------
- Policy & Scope | Customize your program's policy and scope that you want to communicate to hackers.
- Submit Report Form | Customize your report form that hackers will use to send vulnerabilities about your program.
- Response SLA | Set your program's Response Service Level Agreements (SLA) by configuring your target business days.
+ [Policy & Scope](https://hacker0x01.github.io/docs.hackerone.com/programs/policy-and-scope.html) | Customize your program's policy and scope that you want to communicate to hackers.
+ [Submit Report Form](https://hacker0x01.github.io/docs.hackerone.com/programs/submit-report-form.html) | Customize your report form that hackers will use to send vulnerabilities about your program.
+ [Response Target]https://hacker0x01.github.io/docs.hackerone.com/programs/response-targets.html) | Set your program's Response Service Level Agreements (SLA) by configuring your target business days.
  Metrics Display | Select the metrics you want to display on your program's page to communicate to hackers the statistics about your program.
  Email Notifications | Every report activity triggers email notifications sent to members in your program. Select what content you want to include.
- Inbox Views | Configure what tabs you want showing in your inbox.
- Invitations | Set how you want your hacker invitations managed.
- Signal | Configure your Signal Requirement and Human-Augmented Signal settings.
- Bounties | Configure bounty and reward settings.
- Swag | Select whether your program would like to give swag as a reward.
- Common Responses | Set default common responses to reply in your reports.
- Triggers | Set triggers to execute automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with a given trigger word.
- Integrations | Configure your integrations with other services to streamline your workflow.
+ [Inbox Views](https://hacker0x01.github.io/docs.hackerone.com/programs/inbox-views.html) | Configure what tabs you want showing in your inbox.
+ [Invitations](https://hacker0x01.github.io/docs.hackerone.com/programs/invitations.html) | Set how you want your hacker invitations managed.
+ [Signal](https://hacker0x01.github.io/docs.hackerone.com/programs/signal-requirements.html) | Configure your Signal Requirement and [Human-Augmented Signal](https://hacker0x01.github.io/docs.hackerone.com/programs/human-augmented-signal.html) settings.
+ [Bounties](https://hacker0x01.github.io/docs.hackerone.com/programs/bounties.html) | Configure bounty and reward settings.
+ [Swag](https://hacker0x01.github.io/docs.hackerone.com/programs/swag.html) | Select whether your program would like to give swag as a reward.
+ [Common Responses](https://hacker0x01.github.io/docs.hackerone.com/programs/common-responses.html#___gatsby) | Set default common responses to reply in your reports.
+ [Triggers](https://hacker0x01.github.io/docs.hackerone.com/programs/triggers.html) | Set triggers to execute automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with a given trigger word.
+ [Integrations](https://hacker0x01.github.io/docs.hackerone.com/programs/supported-integrations.html) | Configure your integrations with other services to streamline your workflow.
  API | Create API tokens.
  Hackbot | Hackbot is HackerOne's free automated service that provides you with guidance regarding your reports by providing contextual advice and actionable items to improve your user experience. Configure which actions you want Hackbot to suggest.
 
