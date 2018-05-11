@@ -9,7 +9,6 @@ Looking to learn how to use HackerOne? You're in the right place.
 
 Are you launching a new program or wanting to learn more about a feature? These guides will help you to understand the product so that you can easily navigate through your hacker-powered security platform. You can check out the sections on the left to learn more.
 
-### Getting Started with HackerOne
 To help you get started, check out these sections:
 * [Choosing the right product](https://hacker0x01.github.io/docs.hackerone.com/programs/overview.html)
   HackerOne offers 3 different products. Choose which one best fits your needs. 
