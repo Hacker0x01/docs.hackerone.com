@@ -8,7 +8,7 @@ Programs on HackerOne can elect to either be a public or a private program.
 
 ### Private Programs
 
-Private programs are programs that are not published to the public. This means that hackers can only see these programs when they receive specific invitations to hack on them. Your reports also remain confidential as a private program. All programs begin as private, and are free to remain private for as long as you want. We understand that opening access to the public is an explicit step and not for everyone.
+Private programs are programs that are not published to the public. This means that hackers can only see these programs when they receive specific invitations to hack on them. Reports also remain confidential as a private program. All programs begin as private, and are free to remain private for as long as they want. We understand that opening access to the public is an explicit step and not for everyone.
 
 We recommend that you start out as private because it prevents you from getting bombarded with report submissions from the many hackers within the HackerOne community. As private programs limit the number of hackers invited to the program, report submissions are limited, enabling your program to get the hang of receiving and triaging vulnerability reports. 
 As your private program becomes more proficient in handling reports, you can choose to go public if desired.
