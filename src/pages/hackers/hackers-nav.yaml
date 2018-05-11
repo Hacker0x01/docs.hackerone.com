@@ -2,12 +2,17 @@
   items:
     - title: Welcome
       path: /hackers.html
+    - title: Edit the Doc Site
+      path: /hackers/edit-the-doc-site.html
+    - title: Private vs Public Programs
+      path: /hackers/private-vs-public-programs.html
 - title: Your Account
   items:
     - title: Reputation
       path: /hackers/reputation.html
-    - title: Signal and Impact
-      path: /hackers/signal-and-impact.html
+      items:
+        - title: Signal and Impact
+          path: /hackers/signal-and-impact.html
     - title: Payments
       path: /hackers/payments.html
     - title: Manage Notifications
