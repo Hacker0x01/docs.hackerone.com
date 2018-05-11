@@ -10,7 +10,7 @@ const Footer = () => (
       <a href="mailto:support@hackerone.com">contact support</a>,{' '}
       <a href="mailto:sales@hackerone.com">connect with our sales team</a>, or{' '}
       <a href="https://www.hackerone.com" target="_blank">
-        checkout our website
+        check out our website
       </a>.
     </div>
   </div>
