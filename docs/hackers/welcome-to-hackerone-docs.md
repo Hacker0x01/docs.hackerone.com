@@ -12,4 +12,4 @@ To help you get started, check out these docs:
 * [Private vs. Public Programs](/hackers/private-vs-public-programs.html)<br>Know the difference between private and public programs on HackerOne.</br>
 * [Submit a report](/hackers/submitting-reports.html)<br>Submit your found vulnerability to a program.</br> 
 
-See something that can be improved on the doc site? [Make a suggestion](https://hacker0x01.github.io/docs.hackerone.com/programs/edit-the-doc-site.html)!
+See something that can be improved on the doc site? [Make a suggestion](/programs/edit-the-doc-site.html)!
