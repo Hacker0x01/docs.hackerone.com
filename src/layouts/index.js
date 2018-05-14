@@ -10,7 +10,7 @@ import '../css/main.scss'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title={"Product Documentation"}
+      defaultTitle={"Product Documentation"}
       titleTemplate={`%s | HackerOne`}
       meta={[
         {
