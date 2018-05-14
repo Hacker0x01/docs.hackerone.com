@@ -19,6 +19,20 @@
   text-decoration: none;
   display: block;
   flex: 1;
+  display: block;
+
+  @media (min-width: $tablet-breakpoint) {
+    display: flex;
+  }
+
+  &__image {
+    margin-right: 24px;
+    margin-bottom: 16px;
+  }
+
+  h2 {
+    margin: 8px 0 16px;
+  }
 
   p:last-child {
     margin-bottom: 0;
