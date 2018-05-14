@@ -51,7 +51,7 @@ class IndexRoute extends React.Component {
   render() {
     const { links, path } = this.props
     const githubRepo =
-      'https://github.com/hacker0x01/docs.hackerone.com/blob/master/docs/'
+      'https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/'
 
     const globalWindow =
       typeof window !== 'undefined'

@@ -16,4 +16,4 @@ The advantage of hacking on a private program verses a public one, is that the p
 
 ### Public Programs
 
-When programs become public, they open themselves up to report submissions from the entire hacker community. This means that all hackers on HackerOne are given rights to hack the program. If you're a hacker that's just getting started on HackerOne and haven't received any private invitations yet, hacking on public programs are a great way to build up your hacker profile of [reputation](https://hacker0x01.github.io/docs.hackerone.com/hackers/reputation.html), [signal, and impact](https://hacker0x01.github.io/docs.hackerone.com/hackers/signal-and-impact.html). 
+When programs become public, they open themselves up to report submissions from the entire hacker community. This means that all hackers on HackerOne are given rights to hack the program. If you're a hacker that's just getting started on HackerOne and haven't received any private invitations yet, hacking on public programs are a great way to build up your hacker profile of [reputation](reputation.html), [signal, and impact](signal-and-impact.html). 

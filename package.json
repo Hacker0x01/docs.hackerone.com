@@ -24,7 +24,7 @@
   "main": "n/a",
   "scripts": {
     "build": "rm -rf .cache/* && gatsby build",
-    "deploy": "rm -rf .cache/* && gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "rm -rf .cache/* && gatsby build && gh-pages -d public",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",

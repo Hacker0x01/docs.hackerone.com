@@ -25,6 +25,6 @@ Swag | Provide your mailing address in order to be able to receive swag.
 Reputation | View how much reputation you have. 
 Disable | Enter your current password to disable your account. 
 
-4. Explore [Hacktivity](https://hacker0x01.github.io/docs.hackerone.com/hackers/hacktivity.html) to see what hacker activity is trending. 
-5. Get to know the [Directory](https://hacker0x01.github.io/docs.hackerone.com/hackers/directory.html). 
-6. [Submit a vulnerability report](https://hacker0x01.github.io/docs.hackerone.com/hackers/submitting-reports.html). 
+4. Explore [Hacktivity](hacktivity.html) to see what hacker activity is trending. 
+5. Get to know the [Directory](directory.html). 
+6. [Submit a vulnerability report](submitting-reports.html). 

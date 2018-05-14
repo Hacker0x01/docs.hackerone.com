@@ -10,7 +10,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 1. Node: install version 8.4 or greater
 1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
 1. A fork of the repo (for any contributions)
-1. A clone of the [docs.hackerone.com repo](https://github.com/hacker0x01/docs.hackerone.com) on your local machine
+1. A clone of the [docs.hackerone.com repo](https://github.com/Hacker0x01/docs.hackerone.com) on your local machine
 
 ### Installation
 
@@ -26,7 +26,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 1. `cd docs.hackerone.com` to go into the project root
 1. `yarn deploy`
-1. wait a minute and open `https://hacker0x01.github.io/docs.hackerone.com/`
+1. wait a minute and open `https://docs.hackerone.com/`
 
 ## Contributing
 
@@ -56,7 +56,7 @@ The documentation is divided into several sections with a different tone and pur
 
 1. `git add -A && git commit -m "My message"` (replacing `My message` with a commit message, such as `Fixed header logo on Android`) to stage and commit your changes
 1. `git push my-fork-name the-name-of-my-branch`
-1. Go to the [docs.hackerone.com repo](https://github.com/hacker0x01/docs.hackerone.com) and you should see recently pushed branches.
+1. Go to the [docs.hackerone.com repo](https://github.com/Hacker0x01/docs.hackerone.com) and you should see recently pushed branches.
 1. Follow GitHub's instructions.
 1. If possible, include screenshots of visual changes.
 
