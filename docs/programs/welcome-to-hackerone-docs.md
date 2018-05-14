@@ -7,7 +7,7 @@ bookIndexFor: "programs"
 
 Are you launching a new program or wanting to learn more about a feature on HackerOne? You're in the right place. These guides will help you to understand the product so that you can easily navigate through your hacker-powered security program. Check out the sections on the left to learn more.
 
-To help you get started, check out these docs:
+To help you get started, take a look at these docs:
 * [Choosing the right product](/programs/overview.html)<br>HackerOne offers 3 different products. Choose which one best fits your needs.</br>
 * [Starting a Program](/programs/program-start-up-guide.html)<br>Learn how to start-up your program.</br> 
 * [Configure your bounty program settings](/programs/start-h1-bounty.html)<br>Set up all of your settings so that your program can be up and running.</br>
