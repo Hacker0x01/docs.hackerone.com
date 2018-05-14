@@ -11,6 +11,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-sharp": "^1.6.42",
+    "gatsby-plugin-sitemap": "^1.2.23",
     "gatsby-remark-images": "^1.5.61",
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
@@ -20,7 +21,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
+  "license": "CC-BY-NC-SA",
   "main": "n/a",
   "scripts": {
     "build": "rm -rf .cache/* && gatsby build",
