@@ -21,7 +21,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "CC-BY-NC-SA",
+  "license": "CC-BY-NC-SA-4.0",
   "main": "n/a",
   "scripts": {
     "build": "rm -rf .cache/* && gatsby build",
