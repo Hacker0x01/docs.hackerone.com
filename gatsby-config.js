@@ -1,11 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: 'HackerOne Platform Documentation',
+    siteUrl: 'https://docs.hackerone.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
+    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
