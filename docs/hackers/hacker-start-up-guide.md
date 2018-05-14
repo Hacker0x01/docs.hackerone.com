@@ -17,12 +17,12 @@ Authentication | HackerOne doesn't support two-factor authentication for hackers
 Email | Change your email associated with your account. You must provide your password in order to change your email. 
 Password | Change your password. 
 Skill Set | Specify your skill set. 
-Invitation Preferences | Set when you want to receive invitations for private programs. You can choose from:<li>*Always*</li><li>*Only bug bounty programs*</li><li>*Never*</li>
+[Invitation Preferences](/hackers/invitations.html) | Set when you want to receive invitations for private programs. You can choose from:<li>*Always*</li><li>*Only bug bounty programs*</li><li>*Never*</li>
 Programs | Manage the programs you're a member of. You can choose to leave programs and change your notification settings for each program. 
-Payments | Review the bounty you've received and also check on the status of your bounty. You can also sign and fill out your tax form and request a csv file of your bounties overview. 
+[Payments](/hackers/payments.html) | Review the bounty you've received and also check on the status of your bounty. You can also sign and fill out your tax form and request a csv file of your bounties overview. 
 Payout Methods | You can set up and add different payout methods for how you'd like to receive your payments. You can choose from: <li>PayPal</li><li>Bitcoin via Coinbase</li><li>Bank Transfer</li>
 Swag | Provide your mailing address in order to be able to receive swag. 
-Reputation | View how much reputation you have. 
+[Reputation](/hackers/reputation.html) | View the status of your reputation. 
 Disable | Enter your current password to disable your account. 
 
 4. Explore [Hacktivity](hacktivity.html) to see what hacker activity is trending. 
