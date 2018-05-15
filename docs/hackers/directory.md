@@ -8,15 +8,29 @@ The Directory is a community-curated resource for contacting security teams. It 
 
 As HackerOne believes that all organizations who build technology should provide a safe process for vulnerability disclosure, the HackerOne Directory aids in providing a safer internet as it provides hackers with the ability to contact an organization with their found vulnerabilities.
 
+![directory-6](./images/directory-6.png)
+
+### Directory Services
+The Directory enables Hackers to:
+* Share their disclosure experiences and add security team contact information to the Directory so others can benefit from their work.
+* [Search the Directory](https://hackerone.com/directory) to get the contact information for an organization's security team.
+* Find programs they're interested to hack on.
+
+*Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).*
+
+The Directory enables programs to:
+* Publish contact information for receiving information about potential vulnerabilities in your products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com).
+* [Search the Directory](https://hackerone.com/directory) for your organization to ensure that your security team's contact information and disclosure policy is accurate. 
+
 ### What's on the Directory
-The directory contains various icons and information. You can find this information on the directory:
+You can find this information associated with an organization on the directory:
 
 Option | Detail
 ------ | ------
 Bugs Resolved | The total number of vulnerabilities the organization has resolved. If the field is marked with a `-` this means that there are no resolved reports.
 Minimum Bounty | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty.
 
-Refer to this table to understand the different tags and icons associated with an organization:
+As the directory contains various icons, refer to this table to understand the different icons associated with an organization:
 
 Icon | Detail
 ---- | ------
@@ -26,16 +40,13 @@ Not accepting submissions <br>![directory-5](./images/directory-5.png)| A progra
 Pink thunderbolt <br>![directory-2](./images/directory-2.png)</br> | The program responds quickly to report submissions. There's a <48 hour first response time. 
 Purple and pink thunderbolt <br>![directory-1](./images/directory-1.png)</br> | The program responds quickly to report submissions and is also quick in awarding bounties. There's a <48 hour first response time and a <14 day time in awarding a bounties. 
 
-### Directory Services
-The Directory enables Hackers to:
-* Share their disclosure experiences and add security team contact information to the Directory so others can benefit from their work.
-* [Search the Directory](https://hackerone.com/directory) to get the contact information for an organizations' security team.
-
-*Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).*
-
-The Directory enables programs to:
-* Publish contact information for receiving information about potential vulnerabilities in your products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com).
-* [Search the Directory](https://hackerone.com/directory) for your organization to ensure that your security team's contact information and disclosure policy is accurate. 
+### Using the Directory
+You can search for organizations in the directory by searching for them in the search bar. You can also filter organizations by asset type and sort them by: 
+* Newest
+* Oldest
+* Bounty Amount
+* Number of bugs resolved
+* Alphabetized name
 
 ### Correcting Information on the Directory
-As the directory is community-curated, hackers who maintain sufficient reputation can update information, or you can reach a moderator at directory@hackerone.com
+As the directory is community-curated, hackers who maintain sufficient reputation have edit rights and can update information about an organization, or you can reach a moderator at directory@hackerone.com with any changes. 
