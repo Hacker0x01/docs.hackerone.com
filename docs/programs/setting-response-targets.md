@@ -11,7 +11,8 @@ To customize your program's response target:
 2. Input the response target in days for your program under the **Target** column. 
 
 *Keep in mind that it's recommended that your targets fall within the Recommended and Response Standard times.* 
-    
+
+<br>
 
 Time | Recommended | Response Standard 
 ---- | ----------- | ------------------
@@ -20,6 +21,7 @@ Time to triage | 2 days | 10 days
 Time to bounty | 1 day (after triage) | N/A 
 Time to resolution | 30 days | N/A 
 
+</br>
 
 * To edit your program's response targets, you need to have program permissions. 
 * Modified targets will be applied to reports created after the modification. 
