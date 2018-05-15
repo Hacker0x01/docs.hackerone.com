@@ -20,7 +20,7 @@ The Directory enables Hackers to:
 
 The Directory enables programs to:
 * Publish contact information for receiving information about potential vulnerabilities in your products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com).
-* [Search the Directory](https://hackerone.com/directory) for your organization to ensure that your security team's contact information and disclosure policy is accurate. 
+* [Search the Directory](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate. 
 
 ### What's on the Directory
 You can find this information associated with an organization on the directory:
