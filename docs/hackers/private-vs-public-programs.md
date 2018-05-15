@@ -4,7 +4,7 @@ path: "/hackers/private-vs-public-programs.html"
 id: "hackers/private-vs-public-programs"
 ---
 
-There are 2 types of programs you can hack on: private or public programs.  
+There are 2 types of programs you can hack on: private and public programs.  
 
 ### Private Programs
 
