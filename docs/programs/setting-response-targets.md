@@ -13,7 +13,7 @@ To customize your program's response target:
 *Keep in mind that it's recommended that your targets fall within the Recommended and Response Standard times.* 
     
 Time | Recommended | Response Standard 
----- | -------- | -----
+---- | ----------- | ------------------
 Time to first response | 1 day | 5 days 
 Time to triage | 2 days | 10 days 
 Time to bounty | 1 day (after triage) | N/A 
