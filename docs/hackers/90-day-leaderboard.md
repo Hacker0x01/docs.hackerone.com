@@ -44,4 +44,4 @@ For each invitation that goes out, the chances for each hacker receiving the inv
 *Note: Hackers in the priority queue will still be first to receive invitations.*
 
 #### Related Resources
-See: [Invitations](/hackers/invitations.html)
+See: [Invitations](invitations.html)
