@@ -1,7 +1,7 @@
 ---
-title: "The 90 Day Leaderboard"
-path: "/hackers/the-90-day-leaderboard.html"
-id: "hackers/the-90-day-leaderboard"
+title: "90 Day Leaderboard"
+path: "/hackers/90-day-leaderboard.html"
+id: "hackers/90-day-leaderboard"
 ---
 
 ### What is it?
