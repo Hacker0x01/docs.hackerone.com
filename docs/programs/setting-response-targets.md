@@ -24,12 +24,8 @@ Time to resolution | 30 days | N/A
 
 </br>
 
-
-
 * To edit your program's response targets, you need to have program permissions. 
 * Modified targets will be applied to reports created after the modification. 
 * Reports created before modification will have previous response targets applied. 
-
-
 
 ![response sla](./images/response-sla.png)
