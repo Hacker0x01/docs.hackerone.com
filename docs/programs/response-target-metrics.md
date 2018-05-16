@@ -36,7 +36,7 @@ Response Efficiency Metric | Recommended | Response Standard | Target
 Time to first response | 1 day | 5 days | Customized
 Time to triage | 2 days | 10 days | Customized
 Time to bounty | 1 day (after triage) | N/A | Customized
-Time to resolution | 30 days | N/A | Customized
+Time to resolution | 30 days | N/A | Customized <br>Targets can be broken up and set by severity</br>
 
 *Note: All times above are in business days*
 
