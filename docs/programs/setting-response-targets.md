@@ -9,8 +9,9 @@ You can customize your program's response targets by configuring the number of b
 To customize your program's response target: 
 1. Go to **Settings > Program > Response Target**. 
 2. Input the response target in days for your program under the **Target** column. 
+3. *(Optional)* Set targets for time to resolution by severity. To set targets by severity:<br><ul>a) Select the check box for **Advanced: Set target by severity**.</ul><ul>b) Input the target in days for each severity level.</ul></br>
 
-*Keep in mind that it's recommended that your targets fall within the Recommended and Response Standard times.* 
+*Keep in mind that: it's recommended that your targets fall within the Recommended and Response Standard times.* 
 
 <br>
 
@@ -23,8 +24,12 @@ Time to resolution | 30 days | N/A
 
 </br>
 
+
+
 * To edit your program's response targets, you need to have program permissions. 
 * Modified targets will be applied to reports created after the modification. 
 * Reports created before modification will have previous response targets applied. 
+
+
 
 ![response sla](./images/response-sla.png)
