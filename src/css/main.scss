@@ -32,12 +32,12 @@ h6 {
 }
 
 .hero {
-  background-color: #676767;
+  background: url("../images/pattern.png") $daisy-blue;
   color: $daisy-white;
 }
 
 .hero__wrapper {
-  max-width: 1200px;
+  max-width: 1000px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
@@ -48,6 +48,16 @@ h6 {
 
   h1 {
     color: $daisy-white;
+    font-weight: 300;
+
+    @media (min-width: $mobile-breakpoint) {
+      font-size: 60px;
+    }
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.5;
   }
 }
 
