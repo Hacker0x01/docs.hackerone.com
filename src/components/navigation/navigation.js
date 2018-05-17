@@ -43,8 +43,6 @@ export default ({ pathname }) => {
         </li>
         <NavItem linkTo="/changelog" title="Changelog" />
       </ul>
-
-      <Search />
     </div>
   )
 }
