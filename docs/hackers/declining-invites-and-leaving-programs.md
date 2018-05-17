@@ -18,7 +18,7 @@ Sometimes after looking into a program, you realize it’s not a program you’r
 
 After selecting to leave the program, you'll get the option to fill out a questionnaire on why you've decided to leave the program. Filling out the questionnaire will put you as a priority for future invites. See: [Invitations Priority Queue]("/hackers/invitations-priority-queue.html")
 
-### The Questionnaire
+### The Feedback Questionnaire
 To access the questionnaire, decline the invitation or leave the program and the questionnaire will directly appear on your screen.
 
 *Note: You must fill out the questionnaire immediately. You can't save and come back to it later.*
@@ -29,4 +29,4 @@ To access the questionnaire, decline the invitation or leave the program and the
 
 The questionnaire is completely voluntary, but if you fill it out, you'll get priority for another invitation so that you can find a program that is a better fit.
 
-If you've rejected an invitation to a program, you can manually be invited back into the program. 
+If you've rejected an invitation to a program, you can manually be invited back into the program by a program manager. 
