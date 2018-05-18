@@ -5,32 +5,34 @@ $orange: #e67e22;
 $yellow: #f1c40f;
 $green: #2ecc71;
 
-.status__color-dot {
+.status__dot {
   border-radius: 99px;
   display: inline-block;
   width: 10px;
   height: 10px;
   margin-right: 5px;
-  &.critical {
+
+  &--critical {
     background-color: $red;
   }
-  &.major {
+
+  &--major {
     background-color: $orange;
   }
-  &.minor {
+
+  &--minor {
     background-color: $yellow;
   }
-  &.none {
+
+  &--none {
     background-color: $green;
   }
 }
 
-.status__color-description {
+.status__description {
   display: inline-block;
-  padding: 0 16px;
   margin-right: 24px;
-  border-bottom: 3px solid transparent;
-  line-height: 57px;
+  line-height: 60px;
   color: $daisy-white;
   text-decoration: none;
 

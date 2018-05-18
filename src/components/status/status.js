@@ -33,8 +33,8 @@ class Status extends React.Component {
 
     return enabled ? (
       <a href="https://www.hackeronestatus.com" target="_blank">
-        <span className={`status__color-dot ${status.indicator}`}></span>
-        <span className="status__color-description">{status.description}</span>
+        <span className={`status__dot status__dot--${status.indicator}`}></span>
+        <span className="status__description">{status.description}</span>
       </a>
     ) : null
   }
