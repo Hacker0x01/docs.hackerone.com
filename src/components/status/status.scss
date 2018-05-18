@@ -1,0 +1,50 @@
+@import '../../css/variables';
+
+$red: #e74c3c;
+$orange: #e67e22;
+$yellow: #f1c40f;
+$green: #2ecc71;
+
+.status__color-dot {
+  border-radius: 99px;
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  &.critical {
+    background-color: $red;
+  }
+  &.major {
+    background-color: $orange;
+  }
+  &.minor {
+    background-color: $yellow;
+  }
+  &.none {
+    background-color: $green;
+  }
+}
+
+.status__color-description {
+  display: inline-block;
+  padding: 0 16px;
+  margin-right: 24px;
+  border-bottom: 3px solid transparent;
+  line-height: 57px;
+  color: $daisy-white;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+    color: $daisy-pink;
+  }
+
+  &--active {
+    background-color: #676767;
+    border-bottom-color: $daisy-pink;
+
+    &:hover {
+      color: $daisy-white;
+    }
+  }
+}

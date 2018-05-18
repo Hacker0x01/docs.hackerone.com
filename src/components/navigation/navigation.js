@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Search from '../search/search'
+import Status from '../status/status'
 import logo from './logo.svg'
 
 import './navigation.scss'
@@ -43,6 +44,8 @@ export default ({ pathname }) => {
         </li>
         <NavItem linkTo="/changelog" title="Changelog" />
       </ul>
+
+      <Status />
 
       <Search />
     </div>
