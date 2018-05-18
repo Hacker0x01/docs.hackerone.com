@@ -2,6 +2,7 @@
 
 .search {
   display: none;
+  margin: 0;
 
   @media (min-width: $tablet-breakpoint) {
     display: flex;
@@ -9,7 +10,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin: 0;
   }
 }
 
@@ -18,7 +18,7 @@
   background: $daisy-white;
   border: 0;
   border-radius: 4px;
-  width: 200px;
+  width: 160px;
   font-size: 16px;
   font-weight: 400;
   font-family: inherit;
@@ -27,6 +27,6 @@
   transition: width 0.2s ease-in-out;
 
   &:focus {
-    width: 300px;
+    width: 220px;
   }
 }
