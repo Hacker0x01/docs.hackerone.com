@@ -17,6 +17,11 @@ $sidebar-tablet-width: 240px;
   }
 }
 
+.sidebar__toggler {
+  color: $daisy-nobel;
+  float: right;
+}
+
 .sidebar__wrapper {
   margin-left: -999px;
   padding-left: 999px;
@@ -79,6 +84,23 @@ $sidebar-tablet-width: 240px;
 
   &--active {
     color: $daisy-blue;
+    position: relative;
+
+    &::before {
+      content: "";
+      background: #2d68f4;
+      left: -12px;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      height: 19px;
+      display: block;
+      position: absolute;
+
+      .sidebar__sub-items & {
+        height: 17px;
+      }
+    }
   }
 
   &--disabled {
