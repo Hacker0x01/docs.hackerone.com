@@ -25,5 +25,5 @@ To create Jira issues from your HackerOne report:
 1. In the comments section of your report, change **Add comment** to **Change state > Triaged**. 
 2. Click the **Create JIRA issue** button to create the issue in Jira. 
 
-Every time an action occurs on the Jira issue, Hackbot will automatically create an internal comment on the hackerOne report. 
+Every time an action occurs on the Jira issue, Hackbot will automatically create an internal comment on the HackerOne report. 
 ![jira-cloud-4](./images/jira-cloud-4.png)
