@@ -221,7 +221,6 @@ textarea {
 
 html {
   box-sizing: border-box;
-  overflow-y: scroll;
 }
 
 * {

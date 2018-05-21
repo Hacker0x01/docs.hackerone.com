@@ -66,7 +66,15 @@ class MobileNavigation extends React.Component {
   }
 
   handleClick() {
-    return () => this.setState({ isMenuVisible: !this.state.isMenuVisible })
+    return () => {
+      if (this.state.isMenuVisible) {
+        document.body.style.overflowY = "auto";
+      } else {
+        document.body.style.overflowY = "hidden";
+      }
+
+      this.setState({ isMenuVisible: !this.state.isMenuVisible })
+    }
   }
 
   render() {
@@ -76,9 +84,7 @@ class MobileNavigation extends React.Component {
 
     return (
       <div role="navigation" className={classes}>
-        <Link to="/" className="mobile-navigation__logo">
-          <img src={logo} className="mobile-navigation__logo-image" alt="" />
-        </Link>
+        <img src={logo} className="mobile-navigation__logo" alt="" />
 
         <img
           src={this.state.isMenuVisible ? clearIcon : hamburgerIcon}

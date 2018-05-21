@@ -3,19 +3,10 @@
 .mobile-navigation__logo {
   color: white;
   text-decoration: none;
-  line-height: 1;
-  display: flex;
-  align-items: center;
-  flex-grow: 1;
-  flex-shrink: 0;
-  flex-direction: column;
-  margin: 0;
-}
-
-.mobile-navigation__logo-image {
+  display: block;
+  margin: 0 auto;
   height: 28px;
   width: auto;
-  margin: 0;
 }
 
 .mobile-navigation__item {
@@ -33,7 +24,8 @@
   color: $daisy-white;
   text-decoration: none;
   margin: 0 -20px;
-  padding: 10px 20px;
+  padding: 10px 20px 10px 17px;
+  border-left: 3px solid transparent;
 
   &:hover {
     text-decoration: none;
@@ -51,9 +43,6 @@
 }
 
 .mobile-navigation__wrapper {
-  flex-direction: column;
-  overflow: hidden;
-
   &--active {
     height: 100%;
     position: fixed;
@@ -77,10 +66,10 @@
 }
 
 .mobile-navigation__menu {
-  width: 24px;
-  height: 24px;
   margin: 0;
+  padding: 10px;
   position: absolute;
-  top: 18px;
+  top: 8px;
   right: 20px;
+  cursor: pointer;
 }
