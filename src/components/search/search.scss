@@ -2,9 +2,9 @@
 
 .search {
   display: none;
-  margin: 0;
 
-  @media (min-width: $tablet-breakpoint) {
+  @media (min-width: $desktop-breakpoint) {
+    margin: 0 0 0 24px;
     display: flex;
     flex: 0 0 auto;
     flex-direction: row;
@@ -18,15 +18,10 @@
   background: $daisy-white;
   border: 0;
   border-radius: 4px;
-  width: 160px;
   font-size: 16px;
   font-weight: 400;
   font-family: inherit;
   position: relative;
   padding: 8px 16px;
-  transition: width 0.2s ease-in-out;
-
-  &:focus {
-    width: 220px;
-  }
+  width: 160px;
 }

@@ -5,6 +5,18 @@ $orange: #e67e22;
 $yellow: #f1c40f;
 $green: #2ecc71;
 
+.status {
+  margin-bottom: 16px;
+
+  @media (min-width: $desktop-breakpoint) {
+    margin: 0;
+  }
+
+  @media (max-width: $tablet-breakpoint) {
+    display: block;
+  }
+}
+
 .status__dot {
   border-radius: 99px;
   display: inline-block;
@@ -31,10 +43,13 @@ $green: #2ecc71;
 
 .status__description {
   display: inline-block;
-  margin-right: 24px;
-  line-height: 60px;
   color: $daisy-white;
   text-decoration: none;
+
+  &:active {
+    color: $daisy-white;
+    text-decoration: none;
+  }
 
   &:hover {
     text-decoration: none;
