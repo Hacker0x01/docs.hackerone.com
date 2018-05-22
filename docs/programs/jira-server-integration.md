@@ -15,13 +15,44 @@ To integrate with Jira Server:
    ![jira-server-3](./images/jira-server-3.png)
 
    ![jira-server-2](./images/jira-server-2.png)
+   
+4. Navigate to the Application Links console of JIRA by going to **JIRA Administration > Applications > Application Links**. 
+   ![jira-server-7](./images/jira-server-7.png)
+5. Enter `https://hackerone.com` and click **Create new link**. 
+   ![jira-server-8](./images/jira-server-8.png)
+6. Enter `https://hackerone.com` in the New URL field in the Configure Application URL window. 
+   ![jira-server-9](./images/jira-server-9.png)
+7. Enter HackerOne for the Application Name and select Generic Application in the Link applications window and click **Continue**. 
+   ![jira-server-10](./images/jira-server-10.png)
+8.  Select the pencil icon for HackerOne on the Configure Application Links page. 
+   ![jira-server-11](./images/jira-server-11.png)
+9. Enter the following information on the Application Details section of the Configure HackerOne window:
 
-4. Enter the URL of the Jira instance you want to authenticate with in the **Instance base URL** field in the **Configure an Application Link** step.
-5. Click the **Authenticate with JIRA** button to finalize the set up between HackerOne and your Jira instance.  
-6. *(Optional)* Configure which HackerOne reports you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
+Field | Details
+----- | ---------
+Application Name | HackerOne
+Display URL | https://hackerone.com
+
+![jira-server-12](./images/jira-server-12.png)
+
+10. Enter the following information on the Incoming Authentication section of the Configure HackerOne window:
+
+Field | Details
+----- | --------
+Consumer Key | HackerOne JIRA Client
+Consumer Name | HackerOne
+Public Key | Copy and paste from the key given. 
+
+![jira-server-13](./images/jira-server-13.png)
+
+11. Click **Save**. 
+12. Navigate back to HackerOne and enter the URL of the Jira instance you want to authenticate with in the **Instance base URL** field in the **Configure an Application Link** step. 
+   ![jira-server-14](./images/jira-server-14.png)
+13. Click the **Authenticate with JIRA** button to finalize the setup between HackerOne and your Jira instance. 
+14. *(Optional)* Configure which HackerOne reports you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
    ![jira-server-4](./images/jira-server-4.png)
 
-7. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select JIRA to HackerOne events** window. You can choose from:
+15. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select JIRA to HackerOne events** window. You can choose from:
 
 Option | Detail
 ------ | -------
