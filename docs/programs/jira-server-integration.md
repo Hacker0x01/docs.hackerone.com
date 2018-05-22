@@ -22,7 +22,7 @@ To integrate with Jira Server:
    ![jira-server-8](./images/jira-server-8.png)
 6. Enter `https://hackerone.com` in the New URL field in the Configure Application URL window. 
    ![jira-server-9](./images/jira-server-9.png)
-7. Enter HackerOne for the Application Name and select Generic Application in the Link applications window and click **Continue**. 
+7. Enter `HackerOne` for the Application Name and select `Generic Application` in the Link applications window and click **Continue**. 
    ![jira-server-10](./images/jira-server-10.png)
 8.  Select the pencil icon for HackerOne on the Configure Application Links page. 
    ![jira-server-11](./images/jira-server-11.png)
