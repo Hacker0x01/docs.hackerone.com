@@ -26,4 +26,4 @@ Time to resolution | 30 days | N/A
 * Modified targets will be applied to reports created after the modification.
 * Reports created before modification will have previous response targets applied.
 
-![response sla](./images/response-sla.png)
+![response targets](./images/response-targets.png)
