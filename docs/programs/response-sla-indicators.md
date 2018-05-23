@@ -1,13 +1,13 @@
 ---
-title: "Response SLA Indicators"
-path: "/programs/response-sla-indicators.html"
-id: "programs/response-sla-indicators"
+title: "Response Target Indicators"
+path: "/programs/response-target-indicators.html"
+id: "programs/response-target-indicators"
 ---
 
 HackerOne utilizes average metrics and colored indicators to show how your program is doing in meeting healthy success criteria. 
 
 ### Average Response Efficiency Metrics
-HackerOne displays a program's average response efficiency metrics on the security page, to enable hackers to see how responsive your program is in:
+HackerOne displays a program's average response efficiency metrics on the security page to enable hackers to see how responsive your program is in:
 * giving a first response
 * paying out a bounty
 * resolving a vulnerability
