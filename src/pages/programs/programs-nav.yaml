@@ -24,8 +24,8 @@
       items:
         - title: Program Metrics
           path: /programs/program-metrics.html
-        - title: Response SLA Indicators
-          path: /programs/response-sla-indicators.html
+        - title: Response Target Indicators
+          path: /programs/response-target-indicators.html
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
