@@ -78,8 +78,8 @@
           path: /programs/duplicate-reports.html
         - title: Export Reports
           path: /programs/export-reports.html
-        - title: Response Target Labels
-          path: /programs/response-target-labels.html
+        - title: Response Labels
+          path: /programs/response-labels.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
     - title: Public Disclosure
