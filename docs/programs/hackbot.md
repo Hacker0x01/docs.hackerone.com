@@ -10,6 +10,6 @@ For example, HackBot identifies potential duplicates and related reports to help
 
 ![hackbot](./images/hackbot.png)
 
-HackBot only offers suggestions and these are visible only to your security team as internal comments. It will not take any action on your behalf.
+HackBot offers suggestions that are visible only to your security team as internal comments. It will not take any action on your behalf.
 
-We love adding new functionality to HackBot to make your life easier and more efficient, so let us know if you have any suggestions on how it can be more useful.
+We love adding new functionality to HackBot to make your life easier and more efficient, so [let us know](https://support.hackerone.com/hc/en-us/requests/new) if you have any suggestions on how it can be more useful.
