@@ -137,6 +137,10 @@
       path: /programs/swag.html
     - title: Bonuses
       path: /programs/bonuses.html
+- title: Analytics
+  items:
+    - title: Hacker Feedback Dashboard
+      path: /programs/hacker-feedback-dashboard.html
 - title: Hacker Engagement
   items:
     - title: Signal Requirements
