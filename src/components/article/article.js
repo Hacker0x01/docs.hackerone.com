@@ -1,5 +1,7 @@
 import React from 'react'
+import Helmet from 'react-helmet'
 import { Link, withPrefix } from 'gatsby-link'
+import GatsbyConfig from '../../../gatsby-config'
 
 import Sidebar from '../../components/sidebar/sidebar'
 import ArticleSelect from '../../components/article_select/article_select'
@@ -49,7 +51,7 @@ const findActiveChildByPath = (pathname, sections) => {
 
 class IndexRoute extends React.Component {
   render() {
-    const { links, path } = this.props
+    const { links, path, title, children, description } = this.props
     const githubRepo =
       'https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/'
 
@@ -60,6 +62,15 @@ class IndexRoute extends React.Component {
 
     return (
       <div className="article">
+        <Helmet
+          title={`${title} | ${GatsbyConfig.siteMetadata.title}`}
+          meta={[
+            description ? {
+              name: 'description',
+              content: description
+            } : {}
+          ]}
+        />
         <Sidebar
           activeSection={findActiveSectionByPath(globalWindow, links)}
           activeChild={findActiveChildByPath(globalWindow, links)}

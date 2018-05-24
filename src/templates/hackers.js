@@ -11,6 +11,8 @@ export default function Template({ data }) {
     <Article
       links={hackersNav}
       path={markdownRemark.frontmatter.path}
+      title={markdownRemark.frontmatter.title}
+      description={markdownRemark.frontmatter.description}
       docOnGithub={`${markdownRemark.frontmatter.id}.md`}
     >
       <h1>{markdownRemark.frontmatter.title}</h1>
@@ -27,6 +29,7 @@ export const pageQuery = graphql`
         title
         id
         path
+        description
       }
     }
   }

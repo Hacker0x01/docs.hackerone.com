@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import GatsbyConfig from '../../gatsby-config'
 
 import Header from '../components/header/header'
 
@@ -10,8 +11,7 @@ import '../css/main.scss'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      defaultTitle={"Product Documentation"}
-      titleTemplate={`%s | HackerOne`}
+      defaultTitle={GatsbyConfig.siteMetadata.title}
       meta={[
         {
           name: 'description',
@@ -24,7 +24,7 @@ const TemplateWrapper = ({ children }) => (
         },
         {
           name: 'og:site_name',
-          content: 'HackerOne Product Documentation',
+          content: GatsbyConfig.siteMetadata.title,
         },
         {
           name: 'twitter:card',

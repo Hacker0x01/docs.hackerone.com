@@ -1,6 +1,8 @@
 import React from 'react'
+import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import slugify from 'slugify'
+import GatsbyConfig from '../../../gatsby-config'
 
 import './changelog.scss'
 
@@ -10,6 +12,7 @@ class IndexRoute extends React.Component {
 
     return (
       <div className="changelog article">
+        <Helmet title={`Changelog | ${GatsbyConfig.siteMetadata.title}`} />
         <div className="sidebar">
           <div className="sidebar__wrapper">
             <div className="sidebar__body">

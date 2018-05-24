@@ -2,6 +2,7 @@ import React from 'react'
 import Topic from '../components/topic/topic'
 import Footer from '../components/footer/footer'
 import { withPrefix } from 'gatsby-link'
+import GatsbyConfig from '../../gatsby-config'
 
 import hackers from '../images/hackers.png'
 import programs from '../images/programs.png'
@@ -11,7 +12,7 @@ const IndexPage = () => {
     <div>
       <header className="hero">
         <div className="hero__wrapper">
-          <h1>HackerOne Product Documentation</h1>
+          <h1>{GatsbyConfig.siteMetadata.title}</h1>
           <p>
             Welcome to HackerOne's Product Documentation Center!<br />This is where you can get familiar with HackerOne and explore our product features. We provide some tips here that you might find useful. This site is open to all and we welcome your feedback!
           </p>
