@@ -4,6 +4,8 @@ path: "/programs/jira-cloud-integration.html"
 id: "programs/jira-cloud-integration"
 ---
 
+You can integrate HackerOne with Jira Cloud. 
+
 To integrate with Jira Cloud: 
 1. Go to **Settings > Program > Integrations**. 
 2. Click the **Connect with JIRA** link.
@@ -27,3 +29,4 @@ To create Jira issues from your HackerOne report:
 
 Every time an action occurs on the Jira issue, Hackbot will automatically create an internal comment on the HackerOne report. 
 ![jira-cloud-4](./images/jira-cloud-4.png)
+
