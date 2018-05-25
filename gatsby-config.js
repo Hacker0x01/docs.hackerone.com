@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'HackerOne Platform Documentation',
     siteUrl: 'https://docs.hackerone.com',
+    description: 'Get instant answers to the most common questions and learn how to use HackerOne.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -15,8 +15,7 @@ const TemplateWrapper = ({ children }) => (
       meta={[
         {
           name: 'description',
-          content:
-            'Get instant answers to the most common questions and learn how to use HackerOne.',
+          content: GatsbyConfig.siteMetadata.description,
         },
         {
           name: 'og:type',
