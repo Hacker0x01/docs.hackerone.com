@@ -93,6 +93,8 @@
           path: /programs/common-responses.html
         - title: Triggers
           path: /programs/triggers.html
+        - title: Hackbot
+          path: /programs/hackbot.html
     - title: Inbox Views
       path: /programs/inbox-views.html
 - title: Integrations
