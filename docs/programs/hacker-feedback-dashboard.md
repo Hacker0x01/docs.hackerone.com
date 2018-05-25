@@ -9,8 +9,6 @@ When hackers see an invitation to your program, they can choose whether they'll 
 
 The Feedback Dashboard shows the total feedback your program has received from hackers, with the reasons they’ve declined to participate in your program. You can view this feedback for your program under **Dashboard > Feedback**.  
 
-<i>Note: This feature is currently only available for beta customers.</i>
-
 ### Why don't I have any data yet?
 If you don't see any data in your feedback dashboard, it’s possible that no hackers have:
 * Declined invitations to your program
