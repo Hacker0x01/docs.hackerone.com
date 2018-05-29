@@ -10,7 +10,7 @@ There are a number of privileges that are gained by maintaining a high reputatio
 
 It's critical to this community that security teams be afforded a high-signal environment so that they can focus on providing a quality response to hackers who submit the best reports.
 
-### Affects to Reputation
+### Effects of Report State on Reputation
 A Hacker profile starts with a reputation of 100. Reports gain or lose reputation based on the state in which they are closed. Reputation can't decrease below 0.
 
 Report State | Reputation
@@ -28,7 +28,7 @@ Duplicates of your own reports don't influence your reputation. This enables pro
 
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
 
-### Bounty Affects to Reputation
+### Effects of Bounties on Reputation
 The bounty amount you receive also impacts your reputation. Different bounty amounts grant you reputation based on the standard deviation from the program's mean bounty amount. Here's the breakdown for how much reputation you can gain depending on your bounty:
 
 Reputation | Details
@@ -38,4 +38,4 @@ Reputation | Details
 +15 | Known as BOUNTY_MEDIUM. <br>Received when Bounty Amount ≥ mean - 1 standard deviation
 +10 | Known as BOUNTY_LOW. <br>Received when Bounty Amount < mean - 1 standard deviation
 
-Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation. After 10 bounty bounties have been paid out, hackers will gain reputation through bounty according to the system above.
+Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation. After 10 bounties have been paid out, hackers will gain reputation through bounty according to the system above.
