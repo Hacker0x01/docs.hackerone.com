@@ -18,3 +18,4 @@ Some great resources for vulnerability report best practices are:
 * [Dropbox Bug Bounty Program: Best Practices](https://blogs.dropbox.com/tech/2015/08/dropbox-bug-bounty-program-best-practices-2/)
 * [Google Bug Hunter University](https://sites.google.com/site/bughunteruniversity/)
 * [A Bounty Hunter’s Guide to Facebook](https://www.facebook.com/notes/facebook-bug-bounty/a-bounty-hunters-guide-to-facebook/946955115318715)
+* [Writing a good and detailed vulnerability report](https://medium.com/@tolo7010/writing-a-good-and-detailed-vulnerability-report-bdb86cedcff)
