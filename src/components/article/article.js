@@ -83,9 +83,15 @@ class IndexRoute extends React.Component {
           {this.props.children}
           {this.props.docOnGithub ? (
             <div className="footer__inner">
-              <a href={githubRepo + this.props.docOnGithub}>
+              <a href={githubRepo + this.props.docOnGithub} className="pull-left">
                 Edit this page on GitHub
               </a>
+
+              <a href="https://www.hackerone.com" target="_blank" className="pull-right">
+                Back to HackerOne
+              </a>
+
+              <div className="clearfix" />
             </div>
           ) : null}
         </article>
