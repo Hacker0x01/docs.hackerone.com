@@ -225,8 +225,8 @@
   z-index: 999;
   max-width: 600px;
   min-width: 500px;
-  -webkit-box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2), 0 2px 3px 0 rgba(0, 0, 0, 0.1);
-          box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2), 0 2px 3px 0 rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 6px 0 rgba(158, 158, 158, 0.7);
+          box-shadow: 0 0 6px 0 rgba(158, 158, 158, 0.7);
 }
 
 .algolia-autocomplete .ds-dropdown-menu:before {
@@ -238,8 +238,8 @@
   background: #fff;
   z-index: 1000;
   top: -7px;
-  border-top: 1px solid #d9d9d9;
-  border-right: 1px solid #d9d9d9;
+  border-top: 1px solid #e9e9e9;
+  border-right: 1px solid #e9e9e9;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
   border-radius: 2px;
@@ -265,7 +265,7 @@
 
 .algolia-autocomplete .ds-dropdown-menu [class^="ds-dataset-"] {
   position: relative;
-  border: solid 1px #d9d9d9;
+  border: solid 1px #e9e9e9;
   background: #fff;
   border-radius: 4px;
   overflow: auto;
@@ -281,7 +281,7 @@
   position: relative;
   padding: 0 8px;
   background: #fff;
-  color: #02060C;
+  color: #3e3e3e;
   overflow: hidden;
 }
 
@@ -321,18 +321,19 @@
   top: 0;
   height: 100%;
   width: 1px;
-  background: #ddd;
+  background: #e9e9e9;
   left: -1px;
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--category-header {
   position: relative;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #e9e9e9;
   display: none;
-  margin-top: 8px;
+  /* margin-top: 8px; */
   padding: 4px 0;
   font-size: 1em;
-  color: #33363D;
+  color: #3e3e3e;
+  font-weight: bold;
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--wrapper {
@@ -348,8 +349,7 @@
   text-align: right;
   position: relative;
   padding: 5.33333px 10.66667px;
-  color: #A4A7AE;
-  font-size: 0.9em;
+  color: #9e9e9e;
   word-wrap: break-word;
 }
 
@@ -360,7 +360,7 @@
   top: 0;
   height: 100%;
   width: 1px;
-  background: #ddd;
+  background: #e9e9e9;
   right: 0;
 }
 
@@ -374,9 +374,6 @@
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--title {
-  margin-bottom: 4px;
-  color: #02060C;
-  font-size: 0.9em;
   font-weight: bold;
 }
 
@@ -384,14 +381,14 @@
   display: block;
   line-height: 1.2em;
   font-size: 0.85em;
-  color: #63676D;
+  color: #9e9e9e;
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--no-results {
   width: 100%;
-  padding: 8px 0;
+  padding: 20px 0;
+  font-size: 1.25em;
   text-align: center;
-  font-size: 1.2em;
 }
 
 .algolia-autocomplete .algolia-docsearch-suggestion--no-results::before {
@@ -402,7 +399,7 @@
   padding: 1px 5px;
   font-size: 90%;
   border: none;
-  color: #222222;
+  color: #3e3e3e;
   background-color: #EBEBEB;
   border-radius: 3px;
   font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
@@ -433,7 +430,7 @@
     text-align: left;
     float: left;
     padding: 0;
-    color: #02060C;
+    color: #3e3e3e;
     font-size: 0.9em;
     font-weight: bold;
     text-align: left;
