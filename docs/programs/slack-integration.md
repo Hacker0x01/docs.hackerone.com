@@ -8,8 +8,6 @@ With Slack integration, your team can stay up to date on HackerOne report activi
 
 *Note: Slack integration is only available to H1 Response and H1 Bounty Pro (and above) customers. For more details, see product editions. Existing users of the Slack integration will also need to navigate to **Settings > Program > Integrations > Slack** to enable the new settings.*
 
-Keep in mind that we currently only support integration with public channels. [Contact us](support@hackerone.com) if you want to send notifications to a private Slack channel.  
-
 ### Set Up Slack Integration
 To set up slack integration:
 1. Go to **Settings > Program > Integrations**.
@@ -41,6 +39,12 @@ Misc | * The assignee of the report has been changed <br>* An internal comment w
 
 All of your selected notifications now be posted to your selected channel on Slack. To configure posting notifications to other channels, click **Add Notification Configuration** and follow steps 3-5 again. 
 
+### Posting Notifications to a Private Slack Channel
+If you want to post Slack notifications to a private channel, you can click the **use private channel** link during the set up of the integration. Instead of the drop-down with channel names, you will have the ability to enter your private channel name manually.
+  ![slack-integration-3](./images/slack-integration-3.png)
+After entering the channel name, click **Save** to store your settings.
+
+
 ### Mapping Usernames
 After configuring channel notifications, you have the option to map HackerOne usernames to Slack usernames. It's important to establish a link between these two usernames because when someone mentions your username in HackerOne, you’ll be notified just as if someone mentioned your username natively in Slack. This'll ensure that you are appropriately notified in Slack to pay attention to the most critical HackerOne notifications when your username is mentioned specifically for a follow-up comment or action.
 
@@ -53,5 +57,6 @@ To map usernames in your Slack settings:
 ![slack-integration-1](./images/slack-integration-1.png)
 
 ### Disconnecting Slack Integration
+You can
 
 To disconnect your slack integration, go to **Settings > Program > Integrations > Slack** and click **Disconnect** in your Slack settings. 
