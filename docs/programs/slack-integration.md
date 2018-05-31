@@ -56,6 +56,4 @@ To map usernames in your Slack settings:
 ![slack-integration-1](./images/slack-integration-1.png)
 
 ### Disconnecting Slack Integration
-You can
-
 To disconnect your slack integration, go to **Settings > Program > Integrations > Slack** and click **Disconnect** in your Slack settings. 
