@@ -44,7 +44,6 @@ If you want to post Slack notifications to a private channel, you can click the 
   ![slack-integration-3](./images/slack-integration-3.png)
 After entering the channel name, click **Save** to store your settings.
 
-
 ### Mapping Usernames
 After configuring channel notifications, you have the option to map HackerOne usernames to Slack usernames. It's important to establish a link between these two usernames because when someone mentions your username in HackerOne, you’ll be notified just as if someone mentioned your username natively in Slack. This'll ensure that you are appropriately notified in Slack to pay attention to the most critical HackerOne notifications when your username is mentioned specifically for a follow-up comment or action.
 
