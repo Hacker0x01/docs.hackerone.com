@@ -5,8 +5,9 @@ id: "hackers/quality-reports"
 ---
 
 You notify programs of vulnerabilities by submitting reports to the program's inbox. Not all great vulnerability reports look the same, but many share these common features:
-* Detailed descriptions of your discovery with clear, concise, reproducible steps or a working proof-of-concept (POC). If you doesn't explain the vulnerability in detail, there may be significant delays in the disclosure process, which is undesirable for everyone.
-* Screenshots and/or videos can assist your security teams to quickly reproduce the issue if your program accepts them. Make sure the program states their policy regarding screenshots and videos on their security page and scope as not all programs accept them.
+* Detailed descriptions of your discovery with clear, concise, reproducible steps or a working proof-of-concept (POC). If you do not explain the vulnerability in detail, there may be significant delays in the process, which is undesirable for everyone.
+* Screenshots and/or videos can sometimes assist security teams in reproducing your issue. Most teams prefer written reproduction steps, but screenshots and videos can be used to augment your report and make it easier for security teams to quickly understand the issue you're reporting.
+* The impact of the vulnerability; if this bug were exploited, what could happen? Security teams need to file bugs internally and get resources to fix these issues. Describing why the issue is important can assist in quickly understanding the impact of the issue, and help prioritize response and remediation.
 
 ### Examples
 Here are some examples of publicly disclosed examples of good reports:
