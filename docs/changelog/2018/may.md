@@ -7,6 +7,15 @@ date: "2018-05"
 #### Hacker Feedback Dashboard
 We introduce the new Hacker Feedback Dashboard where private programs can see the total feedback their program has received from hackers along with the reasons they’ve declined to participate in their program. The feedback can be viewed at <b>Dashboard > Feedback</b>. [Learn more about the feedback dashboard](/programs/hacker-feedback-dashboard.html). 
 
+#### Triggers
+We've revamped our triggers functionality so that you can: 
+* Preview matches for a new trigger
+* Add <i>And/Or</i> conditionals to make the trigger more flexible
+* Edit or build off of default triggers
+
+We've also updated the design so that you'll have a better user experience.
+[Learn more about triggers](/programs/triggers.html).
+
 #### Response Targets 
 We’ve deprecated the term, <i>Response SLA</i> and replaced it with Response Targets and Response Standards. [Learn more about these new terms](/programs/response-targets.html). 
 
