@@ -27,9 +27,10 @@ Availability | Whether data or functionality can be rendered inaccessible. The i
 
 ![severity-2](./images/severity-2.png)
 
+Instead of using the CVSS calculator, hackers can simply choose an estimated severity for the report.    
+
+If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
+
 *Note: It's optional for the hacker to submit a severity rating.* 
 
-If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
-
 You can read more details about CVSS [here](https://www.first.org/cvss/user-guide) or check out our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss).  
-If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
