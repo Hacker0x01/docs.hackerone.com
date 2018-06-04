@@ -29,6 +29,7 @@ Availability | Whether data or functionality can be rendered inaccessible. The i
 
 *Note: It's optional for the hacker to submit a severity rating.* 
 
-You can read more details about CVSS [here](https://www.first.org/cvss/user-guide). 
+If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
 
+You can read more details about CVSS [here](https://www.first.org/cvss/user-guide) or check out our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss).  
 If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
