@@ -16,7 +16,10 @@ In order to submit reports:
    ![report-submissions-3](./images/report-submissions-3.png)
 5. *(Optional)* Select the severity of the vulnerability. You can use the CVSS calculator to determine the severity.
   ![report-submissions-4](./images/report-submissions-4.png)
-6. Write up your proof of concept. State: <br><ul> What the vulnerability is.</ul><ul>The steps to reproduce the vulnerability.</ul><ul>What kind of impact an attacker can make if they were to exploit the vulnerability.</ul>  
+6. Write up your proof of concept. State:
+     * What the vulnerability is.
+     * The steps to reproduce the vulnerability.
+     * What kind of impact an attacker can make if they were to exploit the vulnerability. 
    ![report-submissions-5](./images/report-submissions-5.png)
 7. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed. 
    ![report-submissions-6](./images/report-submissions-6.png)
