@@ -18,7 +18,8 @@ In order to submit reports:
   ![report-submissions-4](./images/report-submissions-4.png)
 6. Write up your proof of concept. State: <br>* What the vulnerability is <br>* The steps to reproduce the vulnerability <br>* What kind of impact an attacker can make if they were to exploit the vulnerability  
    ![report-submissions-5](./images/report-submissions-5.png)
-7. *(Optional)* Attach screenshots, demo videos, or any other helpful material.
+7. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed. 
+   ![report-submissions-6](./images/report-submissions-6.png)
 8. Click **Submit Report**.
 
 After you've submitted your report, you must wait for programs to respond to your submission.
