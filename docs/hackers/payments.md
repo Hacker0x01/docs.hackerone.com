@@ -37,3 +37,30 @@ The program is responsible for fulfillment and delivery of swag to you.
 
 ### Bonuses
 Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties. 
+
+### Payout Methods
+You can receive monetary rewards through these payout methods:
+
+Payout Method | Processing time
+------------- | ----------------
+PayPal | 1-2 days
+Bitcoin via Coinbase | 1-2 days
+Bank Transfer | 1-7 days
+
+Go to your profile's <b>Settings > Payout Methods</b> to add or remove payout methods. 
+
+### Tax Form
+You must sign a tax form in order to receive payments. 
+
+To sign your tax form:
+1. Go to your profile's <b>Settings > Payments</b>.
+2. Select <b>click here</b> on the green banner.
+
+![tax-form-4](./images/tax-form-4.png)
+
+3. Fill out the fields on the <b>Sign tax form</b> window that pops open. 
+![tax-form-1](./images/tax-form-1.png)
+4. Click next. 
+5. You'll be redirected to the Payments homepage were you can click the link in the yellow banner to sign your tax forms. 
+![tax-form-2](./images/tax-form-2.png)
+![tax-form-3](./images/tax-form-3.png)
