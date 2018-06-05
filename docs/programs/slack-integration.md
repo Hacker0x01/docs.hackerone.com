@@ -35,9 +35,9 @@ To set up your notification configuration:
 Category | Options
 -------- | ---------
 Report life cycle | You can select to receive notifications for various report actions such as: Report was submitted and Report was triaged.
-Awards | * Bounty suggested <br>* A bounty has been paid <br>* Not eligible for bounty <br>* Swag was awarded
-Disclosure | * Agreed on going public <br>* Report became public <br>* Manually disclosed
-Misc | * The assignee of the report has been changed <br>* An internal comment was added to the report <br>* A public comment was added to the report <br>* Report locked, hackers can't reply on the report anymore
+Awards | <ul><li>Bounty suggested</li><li>A bounty has been paid</li><li>Not eligible for bounty</li><li>Swag was awarded</li>
+Disclosure | <ul><li>Agreed on going public</li><li>Report became public</li><li>Manually disclosed</li>
+Misc | <ul><li>The assignee of the report has been changed</li><li>An internal comment was added to the report</li><li>A public comment was added to the report</li><li>Report locked, hackers can't reply on the report anymore
 
 5. Click **Save**. 
 
