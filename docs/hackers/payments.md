@@ -61,6 +61,6 @@ To sign your tax form:
 3. Fill out the fields on the <b>Sign tax form</b> window that pops open. 
 ![tax-form-1](./images/tax-form-1.png)
 4. Click <b>Save</b>. 
-5. You'll be redirected to the Payments homepage were you can click the link in the yellow banner to sign your tax forms. 
+5. You'll be redirected to the Payments homepage where you can click the link in the yellow banner to sign your tax forms. 
 ![tax-form-2](./images/tax-form-2.png)
 ![tax-form-3](./images/tax-form-3.png)
