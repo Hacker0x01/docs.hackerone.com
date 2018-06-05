@@ -36,4 +36,4 @@ To add or remove users:
 3. Click **Update**.  
 
 ### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="198" height="112" src="https://www.youtube-nocookie.com/embed/4yQnKcBWIjI?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/4yQnKcBWIjI?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
