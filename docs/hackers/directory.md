@@ -38,7 +38,7 @@ IBB <br>![directory-3](./images/directory-3.png) | Indicates Internet Bug Bounty
 Managed <br>![directory-4](./images/directory-4.png)</br> | A program that is managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team. 
 Not accepting submissions <br>![directory-5](./images/directory-5.png)| A program that isn't accepting any report submissions on HackerOne. 
 Pink thunderbolt <br>![directory-2](./images/directory-2.png)</br> | The program responds quickly to report submissions. There's a <48 hour first response time. 
-Purple and pink thunderbolt <br>![directory-1](./images/directory-1.png)</br> | The program responds quickly to report submissions and is also quick in awarding bounties. There's a <48 hour first response time and a <14 day time in awarding a bounties. 
+Purple and pink thunderbolt <br>![directory-1](./images/directory-1.png)</br> | The program responds quickly to report submissions and is also quick in awarding bounties. There's a <48 hour first response time and a <14 day time in awarding a bounty. 
 
 ### Using the Directory
 You can search for organizations in the directory by searching for them in the search bar. You can also filter organizations by asset type and sort them by: 
