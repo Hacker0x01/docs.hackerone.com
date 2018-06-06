@@ -9,7 +9,7 @@ Each article has an `Edit this page on GitHub` link at the bottom that enables y
 To suggest edits:
 1. Create a GitHub account if you don't have one.
 2. Click the `Edit this page on GitHub` link to the article you want to suggest edits for.
-3. You'll be redirected to the article in Github where you can edit the text in Markdown.
+3. You'll be redirected to the article in GitHub where you can edit the text in Markdown.
 4. Click on the pencil icon in GitHub and put in your edits.
 
 ![welcome-1](./images/welcome-1.png)
