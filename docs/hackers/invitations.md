@@ -12,11 +12,11 @@ In order to hack on private programs, you must receive invitations to them. You 
 When your Reputation, Signal, and Impact are high enough, you'll join the pool of hackers that receive access to private programs. Once you start receiving invitations to those programs, remember, the one universal rule is to not talk about the private programs you're a part of.
 
 HackerOne manages invitations for programs by:
-* Daily checking to see if the program has met their report volume target in the last 30 days
+* Daily checking to see if the program has met their report volume target in the last 30-days
 * Inviting hackers for the program if they're not reaching their report volume target
 
 ### How Invitations Work
-The number of invitations HackerOne sends is based on the program's report volume on a rolling 30 day basis. These are the use cases as to how HackerOne sends invitations:
+The number of invitations HackerOne sends is based on the program's report volume on a rolling 30-day basis. These are the use cases as to how HackerOne sends invitations:
 
 Case | Action
 ---- | ------
