@@ -20,7 +20,7 @@ Your Scope is a collection of assets you want hackers to hack. When assets are l
 To view and edit your existing scope:
 1. Go to the Scope section in your program's **Settings** > **Program** > **Scope**.
 
-![Scope image 1](./images/Scope1.png)
+![Scope image 1](./images/scope-1.png)
 
 2. Click on **Add asset**. It will bring you to this page:
 
