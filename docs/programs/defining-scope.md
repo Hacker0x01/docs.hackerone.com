@@ -18,7 +18,7 @@ Your Scope is a collection of assets you want hackers to hack. When assets are l
 
 ### To Create and Edit your Existing Scope
 To view and edit your existing scope:
-1. Go to the Scope section in your program's **Settings** > **Program** > **Policy & Scope**.
+1. Go to the Scope section in your program's **Settings** > **Program** > **Scope**.
 
 ![Scope image 1](./images/Scope1.png)
 
