@@ -4,13 +4,13 @@ path: "/programs/severity.html"
 id: "programs/severity"
 ---
 
-Reports are marked with a severity rating to show how severe the vulnerability is in the report submission form. On HackerOne, severity is particularly useful for structuring bounty ranges and is used when offering bounty recommendations. The severity level can be marked as: 
+Reports are marked with a severity rating to show how severe the vulnerability is in the report submission form. The severity rating can be seen on reports, hacktivity, and in the inbox. On HackerOne, severity is particularly useful for structuring bounty ranges and is used when offering bounty recommendations. The severity level can be marked as: 
 
 ![severity-1](./images/severity-1.png)
 
-HackerOne utilizes the Common Vulnerability Scoring System (CVSS) - an industry standard calculator used to determine the severity of a bug. The CVSS enables there to be a common languange around the severity of bugs. Hackers can either choose a severity level based on their own judgment of the vulnerability, or they can use the CVSS calculator to give more information about the vulnerability and calculate an exact CVSS score. 
+HackerOne utilizes the Common Vulnerability Scoring System (CVSS) - an industry standard calculator used to determine the severity of a bug. CVSS enables a common language around the severity of bugs. Hackers can either choose a severity level based on their own judgment of the vulnerability, or they can use the CVSS calculator to give more information about the vulnerability and calculate an exact CVSS score. 
 
-The CVSS Calculator provides a way to capture the principal characteristics of a vulnerability and produces a numerical score reflecting its severity. The numerical score can then be translated into a qualitative representation to help properly assess and prioritize inbound vulnerabilities. 
+The CVSS Calculator provides a way to capture the principal characteristics of a vulnerability and produces a numerical score reflecting its severity. The numerical score is directly mapped to one of these descriptors: None, Low, Medium, High, Critical. These descriptors can then help you assess and prioritize your inbound vulnerabilities. 
 
 There are 8 metrics defined for CVSS v3. The first 5 are about the attack method itself, while the latter three are dependent on how your program assesses impact - the direct consequence of a successful exploit. These are the different components to the CVSS Calculator:
 
