@@ -27,8 +27,8 @@ You can find this information associated with an organization on the directory:
 
 Option | Detail
 ------ | ------
-Bugs Resolved | The total number of vulnerabilities the organization has resolved. If the field is marked with a `-` this means that there are no resolved reports.
-Minimum Bounty | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty.
+Bugs Resolved | The total number of vulnerabilities the organization has resolved. If the field is marked with a `-` this means that there are no resolved reports or the program choose not to display this information on their metric display settings.
+Minimum Bounty | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty or the program choose not to display this information on their metric display settings.
 
 As the directory contains various icons, refer to this table to understand the different icons associated with an organization:
 
