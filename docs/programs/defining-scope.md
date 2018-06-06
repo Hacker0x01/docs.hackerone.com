@@ -39,4 +39,4 @@ Instruction | If you have any detail descriptions or comments on the Asset, thi
 4. Click **Add Asset**.
 
 ### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/9l1yZJAk1Fg?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" align="middle" src="https://www.youtube-nocookie.com/embed/9l1yZJAk1Fg?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
