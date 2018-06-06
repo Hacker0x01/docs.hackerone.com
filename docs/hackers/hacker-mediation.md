@@ -7,7 +7,7 @@ id: "hackers/hacker-mediation"
 In hacker mediation, hackers can request assistance from HackerOne in extreme cases when all normal discussions with the program have been attempted and there has been no satisfactory resolution.
 
 Hacker mediation requests commonly occur when a program's behavior is clearly out of sync with what is outlined on their Security Page. Examples include:
-* A program promises to reply within a certain time period on their Security Page, but fails to do so.
+* A program promises to reply within a certain time period on their Security Page but fails to do so.
 * A program claims a domain is in scope on their Security Page, then makes a last minute change to pull it out of scope based on your report
 * A program clearly outlines a vulnerability in a particular domain as being worth a minimum bounty, but then awards less than that amount or no bounty at all without providing an explanation
 
