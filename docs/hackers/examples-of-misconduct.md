@@ -14,7 +14,7 @@ HackerOne doesn't tolerate any communication that manipulates a developer by wit
 * Media threats to disclose an unresolved vulnerability if no bounty is offered
 * Insinuating that you have other vulnerabilities waiting until a bounty is received
 
-These sorts of tactics put a program member in an uncomfortable position. It also severely damages the respect and reputation of the hard working hacker community, and promotes conflict that puts other well meaning hackers at risk.
+These sorts of tactics put a program member in an uncomfortable position. It also severely damages the respect and reputation of the hardworking hacker community and promotes conflict that puts other well-meaning hackers at risk.
 
 Generally, the majority of hackers on the platform are motivated by their own curiosity, their own will to increase their hacking skills and their ranking on the platform, or are interested in building recognition and community with other hackers.
 
