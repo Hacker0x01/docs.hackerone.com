@@ -8,7 +8,7 @@ Your Scope is a collection of assets you want hackers to hack. When assets are l
 
 ### Why Should I Define My Scope?
 * **Defining assets clearly helps you communicate with hackers easily.**
-  * e.g. For an asset you do not want reports to, list it as out of scope. Hackers cannot submit to that asset, and will see a red warning when they select this asset.
+  * e.g. For an asset you don't want reports to, list it as out of scope. Hackers can't submit to that asset and will see a red warning when they select this asset.
   * e.g. For an asset that you will not pay bounties for, communicate this up front by setting bounty eligibility to false. When hackers are submitting, they will receive warning that this is not a paid asset. [Only applicable to Bug Bounty Programs]
 * **Setting asset importance will help you set better priorities via better report severity.**
   * When you set the "Environmental Score" of your asset, we automatically limit the severity of the report based on the risk profile of the asset. For example, it might be impossible for you to have a "Critical" vulnerability in a static marketing asset.
@@ -30,9 +30,9 @@ To view and edit your existing scope:
 
 Option | Detail
 ----- | -----
-Types | The asset type. <br>You an choose from these options: CIDR, Domain, iOS: App Store, iOS: Testflight, iOS: .ipa, Android: Play Store, Android: .apk, Windows: Microsoft Store, Source Code, Executable, Hardware/loT, Other.
+Types | The asset type. <br>You can choose from these options: CIDR, Domain, iOS: App Store, iOS: Testflight, iOS: .ipa, Android: Play Store, Android: .apk, Windows: Microsoft Store, Source Code, Executable, Hardware/loT, Other.
 Identifier | How hackers will know that they are at the correct asset that you specified.
-Eligibility for Submission | Whether you want hackers to submit to reports about this asset. If "no", hackers will see the asset on a report form with a red warning, and will not be able to submit reports marked for this asset.
+Eligibility for Submission | Whether you want hackers to submit to reports about this asset. If "no", hackers will see the asset on a report form with a red warning and won't be able to submit reports marked for this asset.
 Eligibility for Bounty | Whether you intend on providing bounties for this Asset or not. If you have a mixed Bug Bounty - Vulnerability Disclosure program, you will want to explicitly mark the assets you will or will not pay for. This is also surfaced to hackers on both your team profile and the report submission form.
 Environmental Score | Adjust the severity of each vulnerability submission based on the Environment by specifying the maximum impact to Confidentiality, Integrity, or Availability of that Asset's data. You can read more about our CVSS implementation here: How does HackerOne recommend determining Severity?
 Instruction | If you have any detail descriptions or comments on the Asset, this field will surface that on both your program profile page and your report submission form.
