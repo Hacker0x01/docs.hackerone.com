@@ -17,7 +17,7 @@ Here are some practical guidelines to help you define and set up your scope:
   * It is a common best practice to only offer bug bounties in specific assets, and to slowly expand that list over time. Set proper expectations with hackers by explicitly white-listing those assets that are eligible for bounties.
   * If possible, explain why in the instructions field. Over communication helps prevent future disagreements. 
 * **Set the Environmental Score for the Asset**.
-  * Confidentiality: Whether the data being obtained is actually confidential to their business, i.e, if there is a business risk when the data is leaked.
+  * Confidentiality: Whether the data being obtained is actually confidential to their business, i.e., if there is a business risk when the data is leaked.
   * Integrity: What the business risk is if the data is modified
   * Availability: Business risk depending on if the component is on or offline
   * Not all of your Assets are created equal. You should take the time to assess potential business impact and configure these fields in order to:
