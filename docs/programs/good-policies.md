@@ -18,5 +18,5 @@ Some successful security pages you can refer to as examples are: [Twitter](https
 Other best practices to keep in mind are:
 * **Keep your policy succinct.** Longer policies may lose leadership toward the end. 
 * **Set clear expectations with hackers.** If your response time or fix time is much longer than recommended, state it in your policy. It's good practice to respond to researchers within 3-5 days and to have complete fixes within 45 days. 
-* **Give responses updating a hacker that you're still reviewing a report.** Such actions lets hackers know that their work hasn't gone into a black hole.
+* **Give responses updating a hacker that you're still reviewing a report.** Such actions let hackers know that their work hasn't gone into a black hole.
 * **Re-evaluate your policy on a recurring basis.** Your policy will and should change as your bug bounty program matures. 
