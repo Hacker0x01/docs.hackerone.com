@@ -17,6 +17,6 @@ To configure two-factor authentication:
 
 5. Click **Verify and save**.
 
-Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6 digit verification code from your authentication application. You must enter the verification code in order to successfully log in to HackerOne.
+Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6-digit verification code from your authentication application. You must enter the verification code in order to successfully log in to HackerOne.
 
 *Note: Two-factor Authentication is on a per-user basis. You can’t have single-source sign-on (SSO) and 2FA simultaneously.*
