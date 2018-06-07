@@ -12,7 +12,7 @@ You can lock closed reports in order to prevent further discussion or action on 
 You can only lock closed reports. Program members with report management permissions are able to lock reports. To lock a closed report:
 
 1) Make sure that the report is closed. If the report isn't closed, close the report. 
-2) Go to the action picker at the bottom of the report, and select **Lock report**. 
+2) Go to the action picker at the bottom of the report and select **Lock report**. 
 3) *(Optional)* Provide a comment stating the reason for why you are closing the report. 
 4) Click **Lock report**. 
 
