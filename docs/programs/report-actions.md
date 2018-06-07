@@ -26,7 +26,7 @@ Option | Detail
 Team only | Only the members of your program will be able to view the comment.
 All participants | All participants of the report will be able to view the comment.
 
-*Note: When you adding a comment to your internal team only, the comment box will turn red.*
+*Note: When you're adding a comment to your internal team only, the comment box will turn red.*
 
 ![report-actions-2](./images/report-action-2.png)
 
@@ -52,7 +52,7 @@ You can change the state of a report to be marked as either *triaged* or *new*. 
 To change the state of a report:
 1) Go to the bottom of the report above the comment box.
 2) Change the action picker from **Add comment** to **Change state** from the drop-down.  
-3) Select the state of the report. You can chose from:
+3) Select the state of the report. You can choose from:
 
 Option | Detail
 ------ | -------
