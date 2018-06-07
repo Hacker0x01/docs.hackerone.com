@@ -9,7 +9,7 @@ The Security Page contains key information about your program and your security 
 * Policy for in-scope eligibility
 
 ### Completing the Security Page
-To edit your Security Page go to **Settings > General > Information**. 
+To edit your Security Page, go to **Settings > General > Information**. 
 
 A complete security page includes the following:
 * Logo
