@@ -1,7 +1,7 @@
 ---
 title: "Private vs Public Programs"
 path: "/programs/private-vs-public-programs.html"
-id: "programs/private-vs-public-programs"
+id: "programs/private-vs-public"
 ---
 
 Programs on HackerOne can elect to either be a public or a private program. 
