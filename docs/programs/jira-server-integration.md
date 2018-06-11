@@ -58,7 +58,7 @@ Option | Detail
 ------ | -------
 Status changed | Post an internal comment when an issue changes status.
 Resolution changed | Post an internal comment when an issues changes resolution.
-Priority changed | Post an internal comment when an issues changes priority.
+Priority changed | Post an internal comment when an issue changes priority.
 Assignee changed | Post an internal comment when an issue changes assignee.
 Comment added | Post an internal comment when someone comments on an issue. 
 
