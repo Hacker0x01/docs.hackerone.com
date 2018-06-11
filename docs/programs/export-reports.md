@@ -11,7 +11,7 @@ You can download reports as .CSV files to enable you to quickly generate a sprea
 * Severity rating
 * Severity score
 * State
-* Substate
+* Sub-state
 * Weakness
 * Time the report was reported
 * Time of first response
