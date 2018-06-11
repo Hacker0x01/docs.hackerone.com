@@ -69,7 +69,7 @@ Comment added | Post an internal comment when someone comments on an issue.
 Option | Detail
 ------ | -------
 Comments | When someone comments on a report, post an update on the associated Jira issue.
-State Chagnes | When someone changes the state of a report, post an update on the associated Jira issue.
+State Changes | When someone changes the state of a report, post an update on the associated Jira issue.
 Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
 Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
 Public Disclosure | When public disclosure is requested or a report becomes public, post an update on the associated Jira issue. 
