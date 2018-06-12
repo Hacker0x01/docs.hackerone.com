@@ -4,7 +4,7 @@ path: "/programs/billing.html"
 id: "programs/billing"
 ---
 
-HackerOne makes it easy to pay hackers. You can choose from these 2 options to to pay a hacker:
+HackerOne makes it easy to pay hackers. You can choose from these 2 options to pay a hacker:
 
 Option | Detail
 ------ | ------
@@ -25,6 +25,6 @@ HackerOne also collects the appropriate tax forms to remove the operational head
 ### Invoices
 You'll receive a single invoice at the beginning of each month with all bounty activity and service fees from the previous month. The invoice amount will be deducted each month from the advanced deposit, and when funds are running low, another advanced deposit will be requested. 
 
-To request an invoice go to **Settings > General > Billing > Prepayment**. 
+To request an invoice, go to **Settings > General > Billing > Prepayment**. 
 
 You can view details for each transaction by viewing or exporting reports in **Settings > General > Billing > Overview**. 
