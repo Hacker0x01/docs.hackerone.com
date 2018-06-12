@@ -12,7 +12,7 @@ To use the Message Hackers feature:
 
 Option | Details
 ------ | -------
-All hackers who have submitted a report to your program | The message automatically posts to the **Updates** section of your of your security page. 
+All hackers who have submitted a report to your program | The message automatically posts to the **Updates** section of your security page. 
 Top 20 hackers who have submitted a report to your program | The message is only sent to the top 20 hackers of your program. 
 Specific hacker(s) by username | You can message only certain hackers by entering their usernames. 
 Custom | Set your own custom group to message. E.g. hackers that have submitted 5+ reports
