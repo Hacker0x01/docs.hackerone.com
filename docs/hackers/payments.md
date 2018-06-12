@@ -49,6 +49,12 @@ Bank Transfer | 1-7 days
 
 Go to your profile's <b>Settings > Payout Methods</b> to add or remove payout methods. 
 
+<i>Note: When receiving a payout through a bank transfer, the payout must meet the minimum amount for the type of payment before it'll be sent: 
+* Swift payment minimum: 100
+* Local payment minimum: 50
+
+The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.</i>
+
 ### Tax Form
 You must sign a tax form in order to receive payments. 
 
