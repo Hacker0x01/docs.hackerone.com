@@ -38,7 +38,7 @@ If you want to reach a larger group of hackers with a one-way announcement, you 
   - All hackers who have submitted a report to your program
   - The top 20 hackers who have submitted a report to your program
   - Specific hackers by username
-  - Custom grouping of hackers. You can use the **Custom** recipients field to describe a uniq group that you want to message like <br /> *All hackers on the HackerOne platform who have submitted 5+ reports*
+  - Custom grouping of hackers. You can use the **Custom** recipients field to describe a unique group that you want to message like <br /> *All hackers on the HackerOne platform who have submitted 5+ reports*
   - All invited hackers <br />  *Note: This option is only available for private programs*
 3. Write your message in the **Message** box.
 4. Click **Submit**.
