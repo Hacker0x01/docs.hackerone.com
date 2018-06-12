@@ -54,7 +54,7 @@ Keep in mind that:
      * Swift payment minimum: 100
      * Local payment minimum: 50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.</i>
-* If you’re looking to receive a payout in the form of a bank transfer, make sure that your bank isn’t on the sanctions list. Go to https://sanctionssearch.ofac.treas.gov/ to check to see if your bank is on the list. Banks on the list don’t qualify for bank transfers. Examples include VTB and SBERBANK. 
+* If you’re looking to receive a payout in the form of a bank transfer, make sure your bank isn’t on the sanctions list. Go to https://sanctionssearch.ofac.treas.gov/ to check to see if your bank is on the list. Banks on this list don’t qualify for bank transfers. Examples include VTB and SBERBANK. 
 
 ### Tax Form
 You must sign a tax form in order to receive payments. 
