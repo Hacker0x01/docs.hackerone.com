@@ -21,4 +21,4 @@ Did you receive a report from a hacker that was exceptionally useful? In additio
 Did a hacker help you verify that an issue was resolved appropriately? Did the hacker format the report according to your instructions? Awarding a bonus is a great way to positively reinforce the kind of behavior you find most helpful from hackers.
 
 #### Promotions
-The bonus feature makes it easy for programs to run a promotion during a specific time frame, or add extra incentives for issues found within a desired product or feature. Use bonuses to offer additional incentives to focus hackers on the scope you care most about.
+The bonus feature makes it easy for programs to run a promotion during a specific time frame or to add extra incentives for issues found within a desired product or feature. Use bonuses to offer additional incentives to focus hackers on the scope you care most about.
