@@ -38,4 +38,4 @@ Feedback | Action for Programs
 ### Questions
 Have any questions or need assistance with more specific recommendations on how to act on hacker feedback? Please check in with your primary point of contact from our Program Operations team.
 
-Don't have a point of contact? Contact [sales@hackerone.com](mailto:sales@hackerone.com) for more information on our managed services offerings, including a dedicated Program Manager to assist you with your program.
+Don't have a point of contact? [Contact us](https://www.hackerone.com/contact) for more information on our managed services offerings, including a dedicated Program Manager to assist you with your program.
