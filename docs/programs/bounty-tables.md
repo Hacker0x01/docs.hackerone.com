@@ -13,10 +13,10 @@ To set up and publish your bounty table on your security page:
      * Note: Critical vulnerabilities should have the highest bounty amount whereas a severity rating of Low should have the lowest amount. 
 3. Click <b>Save this bounty table!</b>
 
-![bounty-tables-1](./programs/images/bounty-tables-1.png)
+![bounty-tables-1](./images/bounty-tables-1.png)
 
 Your security page will now have a Rewards section that showcases your bounty table.
 
-![bounty-tables-2](./programs/images/bounty-tables-2.png)
+![bounty-tables-2](./images/bounty-tables-2.png)
 
 Setting up a bounty table for your program will help provide more granular data and analytics for your program, which will in turn, help your program become more successful. 
