@@ -19,6 +19,8 @@ To set up slack integration:
      * **Access information about your public channels** is needed to allow the admin configuring the integration to see all your current Slack channels which they can assign notifications towards.
      * **View email addresses of people on your team** is needed in order to set up username mapping between H1 and Slack for proper mentions.
      * **Access your team's profile information** is a standard permission for all Slack integrations. At this time, we don't have a way to reduce permissions if customers don't want to use all of these features.
+     
+Check out the FAQ section at the bottom of this page to understand why HackerOne needs access to so many permissions. 
 
 ### Add Notification Configuration for Slack
 You can configure specific HackerOne activities you'd like to receive Slack notifications for.
@@ -44,7 +46,7 @@ Misc | <ul><li>The assignee of the report has been changed</li><li>An internal c
 All of your selected notifications now be posted to your selected channel on Slack. To configure posting notifications to other channels, click **Add Notification Configuration** and follow steps 3-5 again. 
 
 ### Mapping Usernames
-After configuring channel notifications, you have the option to map HackerOne usernames to Slack usernames. It's important to establish a link between these two usernames because when someone mentions your username in HackerOne, you’ll be notified just as if someone mentioned your username natively in Slack. This'll ensure that you are appropriately notified in Slack to pay attention to the most critical HackerOne notifications when your username is mentioned specifically for a follow-up comment or action.
+After configuring channel notifications, you have the option to map HackerOne usernames to Slack usernames. It's important to establish a link between these two usernames because when someone mentions your username in HackerOne, you’ll be notified just as if someone mentioned your username natively in Slack. This'll ensure that you're appropriately notified in Slack to pay attention to the most critical HackerOne notifications when your username is mentioned specifically for a follow-up comment or action.
 
 To map usernames in your Slack settings: 
 1. Go to the **Slack Usernames** section. 
@@ -56,3 +58,24 @@ To map usernames in your Slack settings:
 
 ### Disconnecting Slack Integration
 To disconnect your slack integration, go to **Settings > Program > Integrations > Slack** and click **Disconnect** in your Slack settings. 
+
+### FAQs
+#### Q: Why must I authorize HackerOne access to so many permissions for my Slack integration?
+
+A: We know it’s concerning that you have to give HackerOne access to information about your public channels, the email addresses of people on your team, and access to your team’s profile information. Keep in mind that we require these permissions because we’re using the following Slack methods for integration:  
+
+Method | Description 
+------ | ------------
+https://api.slack.com/methods/users.list | mapping Slack users with HackerOne users
+https://api.slack.com/methods/channels.list | autocompleting channel chooser during setup and getting current status of the channel (if it's still valid)
+https://api.slack.com/methods/chat.postMessage | posting notifications to the chosen Slack channel
+
+Using these methods, we're able to request the following scopes:
+
+Scope | Description
+----- | -----------
+https://api.slack.com/scopes/channels:read | for channels.list
+https://api.slack.com/scopes/chat:write:bot | for chat.postMessage
+https://api.slack.com/scopes/users:read | for users.list
+
+Due to limitations with the API, we can’t filter information from the scopes, and so it’s necessary that access to all permissions are given in order to successfully integrate with Slack. 
