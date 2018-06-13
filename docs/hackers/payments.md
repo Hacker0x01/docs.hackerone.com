@@ -22,13 +22,13 @@ If you want to donate a bounty:
 2. Mention the following in your request:
    * The ID of the report you want to donate the bounty of. You can get the report ID from the URL (e.g. https://hackerone.com/reports/123, where 123 is the ID).
    * The name and website of the charity you want to donate to.
-   * Whether or not you want to be named as the person donating or prefer to remain anonymous. Note that we can only attribute the donation to you if the charity allows us to put a name in.
+   * Whether or not you want to be named as the person donating or prefer to remain anonymous. Keep in mind that we can only attribute the donation to you if the charity allows us to give a name. 
 
-Upon receiving your request, HackerOne will do a quick check to see if a donation can be made to your selected charity. If for some reason a donation can't be made, HackerOne will notify you so an alternative can be made.
+Upon receiving your request, HackerOne will do a quick check to see if a donation can be made to your selected charity. If for some reason a donation can't be made, HackerOne will notify you so an alternative can be made. 
 
 Generally, if the charity accepts donations in USD through PayPal or Credit Card, HackerOne should be able to fulfill your request quickly. If the charity provides an electronic receipt, HackerOne will forward this to you as proof of payment.
 
-At this time, we can only donate bounties in full as we can't do partial or split donations.
+Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. At this time, we can only donate bounties in full as we can't do partial or split donations.
 
 ### Swag
 Your program can elect to award you with various swag in addition to or instead of bounties. Swag includes merchandise as well as free coupons or vouchers for the services or products the program offers. Some programs also offer to host hackers near their office or cover admissions fees to conferences you're invited to attend.
@@ -71,3 +71,7 @@ To sign your tax form:
 5. You'll be redirected to the Payments homepage where you can click the link in the yellow banner to sign your tax forms. 
 ![tax-form-2](./images/tax-form-2.png)
 ![tax-form-3](./images/tax-form-3.png)
+
+You can refer to these links for instructions on how to fill out your respective tax form: 
+* W-8BEN: https://www.irs.gov/pub/irs-pdf/iw8ben.pdf
+* W-9: https://www.irs.gov/pub/irs-pdf/iw8ben.pdf
