@@ -37,6 +37,8 @@
           path: /programs/scope-best-practices.html
         - title: Asset Types
           path: /programs/asset-types.html
+    - title: Bounty Tables
+      path: /programs/bounty-tables.html
     - title: Submit Report Form
       path: /programs/submit-report-form.html
       items:
