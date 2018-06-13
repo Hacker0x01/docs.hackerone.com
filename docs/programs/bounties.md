@@ -35,7 +35,7 @@ When hackers submit vulnerabilities to your organization outside of HackerOne, y
 To start paying hackers:
 1. Go to **Settings > Program > Automation > API**. 
 2. Click **Create API Token** to create an API token. 
-3. Enter the unique identifier to authenticate the token in the **New API Token* window. 
+3. Enter the unique identifier to authenticate the token in the **New API Token** window. 
 4. Click **Create**. 
 5. The API token will be generated and presented to you. This is the only time the API token is shown to you. 
 6. Click **Manage groups** next to the API identifier to grant reward permissions to various groups.
