@@ -17,6 +17,9 @@
           path: /hackers/signal-and-impact.html
     - title: Payments
       path: /hackers/payments.html
+      items:
+        - title: Payments FAQs
+          path: /hackers/payments-faqs.html
     - title: Manage Notifications
       path: /hackers/manage-notifications.html
 - title: Hacking
