@@ -28,7 +28,7 @@ Bounty amounts can be increased at any point by setting another award on the rep
 
 ### Bounties for Reports Received Outside of HackerOne
 
-When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. This option is only available in HackerOne Professional, HackerOne Enterprise, and HackerOne Community Edition. This API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
+When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. Keep in mind that this API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 
 *Note: This option is only available for HackerOne Professional, Enterprise, and Community editions.* 
 
