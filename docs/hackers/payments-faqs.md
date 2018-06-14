@@ -11,7 +11,7 @@ You’re unable to use normal payment options because your bank doesn’t suppor
 
 ### Supported Currencies
 #### Why can’t I receive payments in my currency?
-Our 3 main payout providers are PayPal, Coinbase, and Currency Cloud. You can only receive payments in the currencies these 3 options provide. If they don’t support your specified currency, then you unfortunately can’t receive payments in that currency. A work around for this is to receive your payment in US dollars and then have the funds converted to the currency you desire. 
+Our 3 main payout providers are PayPal, Coinbase, and Currencycloud. You can only receive payments in the currencies these 3 options provide. If they don’t support your specified currency, then you unfortunately can’t receive payments in that currency. A work around for this is to receive your payment in US dollars and then have the funds converted to the currency you desire. 
 
 ### Payment Tracking
 #### Where is my payment?
