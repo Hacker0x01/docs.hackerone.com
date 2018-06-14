@@ -18,6 +18,8 @@
     - title: Payments
       path: /hackers/payments.html
       items:
+        - title: Payout Methods
+          path: /hackers/payout-methods.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
     - title: Manage Notifications
