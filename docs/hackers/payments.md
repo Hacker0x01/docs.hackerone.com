@@ -51,8 +51,8 @@ Go to your profile's <b>Settings > Payout Methods</b> to add or remove payout me
 
 Keep in mind that:
 * When receiving a payout through a bank transfer, the payout must meet the minimum amount for the type of payment before it'll be sent: 
-     * Swift payment minimum: 100
-     * Local payment minimum: 50
+     * Swift payment minimum: $100
+     * Local payment minimum: $50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.</i>
 * If you’re looking to receive a payout in the form of a bank transfer, make sure your bank isn’t on the sanctions list. Go to https://sanctionssearch.ofac.treas.gov/ to check to see if your bank is on the list. Banks on this list don’t qualify for bank transfers. Examples include VTB and SBERBANK. 
 
