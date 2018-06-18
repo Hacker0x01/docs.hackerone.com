@@ -18,9 +18,14 @@ Rewards | Resolution changes
 Asignee changes | Asignee changes
 Public disclosure | Priority changes
 
-You can choose to integrate from 2 different types of Jira integration:
-* Jira Server
-* Jira Cloud
+You can choose to integrate from 2 different types of Jira integrations:
+
+Option | Details
+------ | -------
+Jira Cloud | You can access Jira from anywhere in the world. 
+Jira Server | Jira is self-hosted and can be behind a firewall or VPN. 
+
+<i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
 ### How it Works
 A HackerOne report gets triaged and escalated into Jira. 
