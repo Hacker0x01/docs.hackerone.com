@@ -22,8 +22,8 @@ You can choose to integrate from 2 different types of Jira integrations:
 
 Option | Details
 ------ | -------
-Jira Cloud | You can access Jira from anywhere in the world. 
-Jira Server | Jira is self-hosted and can be behind a firewall or VPN. 
+[Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world. 
+[Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN. 
 
 <i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
