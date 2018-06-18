@@ -113,10 +113,13 @@
       path: /programs/github-integration.html
     - title: GitLab Integration
       path: /programs/gitlab-integration.html
-    - title: Jira-Cloud Integration
-      path: /programs/jira-cloud-integration.html
-    - title: Jira-Server Integration
-      path: /programs/jira-server-integration.html
+    - title: Jira Integration
+      path: /programs/jira-integration.html
+      items:
+        - title: Jira-Cloud Integration
+          path: /programs/jira-cloud-integration.html
+        - title: Jira-Server Integration
+          path: /programs/jira-server-integration.html
     - title: MantisBT Integration
       path: /programs/mantisbt-integration.html
     - title: OTRS Integration
