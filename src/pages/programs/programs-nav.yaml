@@ -120,6 +120,8 @@
           path: /programs/jira-cloud-integration.html
         - title: Jira-Server Integration
           path: /programs/jira-server-integration.html
+        - title: Jira FAQs
+          path: /programs/jira-faqs.html
     - title: MantisBT Integration
       path: /programs/mantisbt-integration.html
     - title: OTRS Integration
