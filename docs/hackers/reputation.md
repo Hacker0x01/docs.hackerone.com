@@ -15,7 +15,7 @@ A Hacker profile starts with a reputation of 100. Reports gain or lose reputatio
 
 Report State | Reputation
 ------------ | ------------
-Triaged | +7 <br><i>If the report is marked as Spam or Not Applicable, the +7 awarded at Triaged will be deducted.</i></b>
+Triaged | +7 <br><i>The +7 reputation will be deducted if the report is closed with a state other than Resolved.</i></b>
 Duplicate of a resolved report submitted prior to the report being made public | +2
 The original report is resolved before the duplicate was filed | 0
 Informative | 0
