@@ -19,7 +19,7 @@ Signal provides a means of identifying hackers who've had consistently valid rep
 * HackerOne displays a hacker's percentile rank for their Signal and Impact relative to other hackers on the platform.
 
 ### Calculation Example
-![signal-impact-1](./images/signal-impact-1.png)
+![signal-impact-2](./images/signal-impact-2.png)
 
 Alice and Bob have the exact same amount of Reputation (241 points). But Alice has a higher Signal (4.12 > 1.35), which indicates having a better track record of submitting valid reports. Alice also has a higher Impact (15.83 > 9.50) and therefore, a higher chance of submitting an important report.
 
