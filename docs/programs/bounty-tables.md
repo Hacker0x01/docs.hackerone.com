@@ -21,6 +21,6 @@ Your security page will now have a Rewards section that showcases your bounty ta
 
 ![bounty-tables-2](./images/bounty-tables-2.png)
 
-To remove the bounty table from your policy, select **Remove bounty table** under **Settings > Rewards > Bounties**.
+To remove the bounty table from your security page, select **Remove bounty table** under **Settings > Rewards > Bounties**.
 
 Setting up a bounty table will help provide more granular data and analytics for your program, which will in turn, help your program become more successful. 
