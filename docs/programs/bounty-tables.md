@@ -12,7 +12,7 @@ To set up and publish your bounty table on your security page:
 2. <i>(Optional)</i> Edit the column names of the bounty table that best fit the reward structure of your program under the **Bounty Table** section. 
 3. Input your bounty amounts under each column. 
      * Note: Critical vulnerabilities should have the highest bounty amount whereas a severity rating of Low should have the lowest amount. 
-4. <i>(Optional)</i> Add a description about how severity is determined or examples of what types of bugs fall into which category.
+4. <i>(Optional)</i> Add a description about how severity is determined or examples of what types of bugs fall into which category in the **Optional description** field.
 5. Click <b>Save this bounty table!</b>
 
 ![bounty-tables-1](./images/bounty-tables-1.png)
