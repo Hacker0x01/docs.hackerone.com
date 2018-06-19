@@ -64,7 +64,7 @@ Comment added | Post an internal comment when someone comments on an issue.
 
    ![jira-server-5](./images/jira-server-5.png)
    
-8. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to JIRA events** window. You can choose from:
+16. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to JIRA events** window. You can choose from:
 
 Option | Detail
 ------ | -------
