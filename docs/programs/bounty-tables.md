@@ -8,10 +8,12 @@ A bounty table shows how much your program is willing to pay for various bugs yo
 
 To set up and publish your bounty table on your security page:
 
-1. Go to your program’s Settings > Rewards > Bounties. 
-2. Input your bounty amounts for each severity rating under the Bounty Table section. 
+1. Go to your program’s **Settings > Rewards > Bounties**. 
+2. <i>Optional</i> Edit the column names of the bounty table that best fit the reward structure of your program under the **Bounty Table** section. 
+3. Input your bounty amounts under each column. 
      * Note: Critical vulnerabilities should have the highest bounty amount whereas a severity rating of Low should have the lowest amount. 
-3. Click <b>Save this bounty table!</b>
+4. <i>(Optional)</i> Add a description about how severity is determined or examples of what types of bugs fall into which category.
+5. Click <b>Save this bounty table!</b>
 
 ![bounty-tables-1](./images/bounty-tables-1.png)
 
@@ -19,4 +21,6 @@ Your security page will now have a Rewards section that showcases your bounty ta
 
 ![bounty-tables-2](./images/bounty-tables-2.png)
 
-Setting up a bounty table for your program will help provide more granular data and analytics for your program, which will in turn, help your program become more successful. 
+To remove the bounty table from your policy, select **Remove bounty table** under **Settings > Rewards > Bounties**.
+
+Setting up a bounty table will help provide more granular data and analytics for your program, which will in turn, help your program become more successful. 
