@@ -8,6 +8,8 @@ You can set up emails to be forwarded to your HackerOne inbox to enable report m
 
 ![email-forwarding-1](./images/email-forwarding-1.jpg)
 
+<i>Note: This feature isn't available until your program is launched and not in sandbox mode."
+
 ### How Does it Work?
 When a hacker discovers a vulnerability and sends their finding in an email to security@example.org:
 1. Their emails are forwarded to HackerOne's inbox and saved as report drafts.
