@@ -16,7 +16,7 @@ We've revamped our [triggers](/programs/triggers.html) functionality so that you
 We've also updated the design so that you'll have a better user experience.
 
 ### Response Targets 
-We’ve deprecated the term, <i>Response SLA</i> and replaced it with Response Targets and Response Standards. [Learn more about these new terms](/programs/response-targets.html). 
+We’ve deprecated the threatening term, <i>Response SLA</i> and replaced it with the more friendly terms, <i>Response Targets</i> and <i>Response Standards</i>. [Learn more about these new terms](/programs/response-targets.html). 
 
 We’ve deprecated the <i>SLA Violations</i> inbox view and changed the name to <b>Missed targets</b>. The inbox filters are also now <b>Missed response targets</b> and <b>Missed response standards</b> instead of <i>SLA violation reports</i> and <i>SLA Fail reports</i>. 
 
