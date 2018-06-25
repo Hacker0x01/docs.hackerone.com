@@ -8,13 +8,15 @@
       path: /hackers/hacker-start-up-guide.html
     - title: Private vs Public Programs
       path: /hackers/private-vs-public-programs.html
-- title: Your Account
+- title: Your Profile
   items:
     - title: Reputation
       path: /hackers/reputation.html
       items:
         - title: Signal and Impact
           path: /hackers/signal-and-impact.html
+    - title: Badges
+      path: /hackers/badges.html
     - title: Payments
       path: /hackers/payments.html
       items:
