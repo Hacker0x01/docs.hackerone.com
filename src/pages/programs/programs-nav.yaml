@@ -63,7 +63,7 @@
       path: /programs/single-sign-on-sso-via-saml.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
-- title: Inbox
+- title: Reports
   items:
     - title: Report Management
       path: /programs/report-management.html
