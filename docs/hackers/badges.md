@@ -8,10 +8,14 @@ Badges are emblematic awards you can receive when you meet certain criteria or a
 
 All badges are represented by different images of bugs. Some badges have many levels depending on different criteria. These levels are represented by stars on the badge.
 
+![badges-1](./images/badges-1.png)
+
 When you receive a badge for your profile page, each badge is composed of: 
 * The name of the badge
 * A short description of what the badge is about
 * The date you achieved the badge
+
+![badges-2](./images/badges-2.png) ![badges-3](./images/badges-3.png)
 
 The following lists all of the current badges with a description of how to receive them: 
 
