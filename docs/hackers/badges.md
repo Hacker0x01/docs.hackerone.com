@@ -15,7 +15,10 @@ When you receive a badge for your profile page, each badge is composed of:
 * A short description of what the badge is about
 * The date you achieved the badge
 
-![badges-2](./images/badges-2.png)![badges-3](./images/badges-3.png)
+---
+![badges-2](./images/badges-2.png)
+![badges-3](./images/badges-3.png)
+---
 
 The following lists all of the current badges with a description of how to receive them: 
 
