@@ -12,6 +12,7 @@ You can download reports as .CSV files to enable you to quickly generate a sprea
 * Severity score
 * State
 * Sub-state
+* Asset
 * Weakness
 * Time the report was reported
 * Time of first response
@@ -25,7 +26,6 @@ You can download reports as .CSV files to enable you to quickly generate a sprea
 * Whether the report is public or private
 * Reference
 * Reference URL
-* Structured scope
 
 To export reports as a .CSV file:
 1) Select the check box of the reports you'd like to export in your inbox. You can select as many reports as you'd like. 
