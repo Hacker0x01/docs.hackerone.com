@@ -19,10 +19,10 @@ Triaged | +7 <br><i>The +7 reputation will be deducted if the report is closed w
 Duplicate of a resolved report submitted prior to the report being made public | +2
 The original report is resolved before the duplicate was filed | 0
 Informative | 0
+Duplicate of a Duplicate | 0
 Not Applicable | -5
 Duplicate of a resolved report submitted after the report is made public | -5
 Duplicate of a N/A report | -5
-Duplicate of a Duplicate | 0
 Spam | -10
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation. 
