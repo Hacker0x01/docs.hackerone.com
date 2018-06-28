@@ -16,7 +16,7 @@ The Invitations page includes the new Report Volume field where you can enter th
 ### Needs More Info
 Reports in the Needs More Info state that haven’t been responded to within 30 days automatically get closed with no negative impact to the hacker’s reputation.
 
-### Controlled Launch
+### Self-Controlled Launch
 Response Programs in Controlled Launch that meet all of the success criteria are now prompted to publicly launch their own program through following the Setup Guide or through email notification.
 
 ### Response SLA Settings
