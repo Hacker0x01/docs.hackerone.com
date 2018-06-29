@@ -26,4 +26,3 @@ Read our [blog post](https://www.hackerone.com/blog/slack-integration-update-2) 
 
 ### Bounty Splitting
 We now enable programs to have this feature that enables hackers to split bounties with other hackers that helped them find the vulnerability. 
-![aug_2017](./images/aug_2017.gif)
