@@ -15,6 +15,7 @@ We now display a colored indicator on a program's security page to show hackers 
 
 ### SLA Inbox Labels
 If you forget which reports aren't meeting your response SLAs, we now have <i>SLA Miss</i> and <i>SLA Fail</i> labels as well as a new SLA Violations view in your inbox to show which reports need action. 
+![jan_2018](./images/jan_2018.png)
 
 ### Pausing Report Submissions
 Want to take a break or need time to catch up on existing reports? Programs can now pause from accepting new report submissions.
