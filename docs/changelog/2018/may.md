@@ -5,7 +5,8 @@ date: "2018-05"
 ---
 
 ### Hacker Feedback Dashboard
-We introduce the new Hacker Feedback Dashboard where private programs can see the total feedback their program has received from hackers along with the reasons they’ve declined to participate in their program. The feedback can be viewed at <b>Dashboard > Feedback</b>. Learn more about the [feedback dashboard](/programs/hacker-feedback-dashboard.html). 
+We introduce the new Hacker Feedback Dashboard where private programs can see the total feedback their program has received from hackers along with the reasons they’ve declined to participate in their program. The feedback can be viewed at <b>Dashboard > Feedback</b>. Learn more about the [feedback dashboard](/programs/hacker-feedback-dashboard.html).
+![may_2018](./images/may_2018.png)
 
 ### Triggers
 We've revamped our [triggers](/programs/triggers.html) functionality so that you can: 
