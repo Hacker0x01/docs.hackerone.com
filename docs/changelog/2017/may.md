@@ -20,4 +20,4 @@ We've implemented a hacker VPN that:
 * Pauses individual hacker access without interruption to the overall program
 * Integrates with a program's monitoring tools to have full visibility into program activity 
 
-Contact support@hackerone.com to participate in this beta. 
+Contact [HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to participate in this beta. 
