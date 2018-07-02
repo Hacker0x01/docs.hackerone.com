@@ -19,3 +19,5 @@ We've implemented a hacker VPN that:
 * Enforces granular access controls with a 1:1 mapping between an individual hacker and a static IP
 * Pauses individual hacker access without interruption to the overall program
 * Integrates with a program's monitoring tools to have full visibility into program activity 
+
+Contact support@hackerone.com to participate in this beta. 
