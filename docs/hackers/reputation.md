@@ -27,6 +27,8 @@ Spam | -10
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation. 
 
+Note: There are situations where duplicates can be "chained" together. For example: report #911 is a duplicate of report #888 which is a duplicate of report #311 which is N/A. In this example, report #911 would get -5 reputation because it was the duplicate of a N/A report. However, we end the chain at the third duplicate. After this, the report will automatically get 0 reputation no matter the state of the report for which it is a duplicate.
+
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
 
 ### Effects of Bounties on Reputation
