@@ -12,3 +12,10 @@ Organizations running multiple programs are now able to transfer reports between
 
 ### Filter Reports by Weakness
 You can now filter your reports by specific weaknesses in your inbox. 
+
+### Beta Hacker VPN
+We've implemented a hacker VPN that:
+* Controls traffic to in scope program assets
+* Enforces granular access controls with a 1:1 mapping between an individual hacker and a static IP
+* Pauses individual hacker access without interruption to the overall program
+* Integrates with a program's monitoring tools to have full visibility into program activity 
