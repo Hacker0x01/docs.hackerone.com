@@ -1,7 +1,7 @@
 ---
 title: "Decline Invites and Leave Programs"
-path: "/hackers/decline-invites-and-leave-programs.html"
-id: "hackers/decline-invites-and-leave-programs"
+path: "/hackers/declining-invites-and-leaving-programs.html"
+id: "hackers/declining-invites-and-leaving-programs"
 ---
 
 There are times where you don't want to accept a program or even after accepting, you decide to leave. Upon leaving a program or declining an invitation, you'll be given an opportunity to fill out a questionnaire with your reasons about declining an invitation or leaving the program.
@@ -16,7 +16,7 @@ Sometimes after looking into a program, you realize it’s not a program you’r
 
 ![leaving-programs-1](./images/leaving-programs-1.png)
 
-After selecting to leave the program, you'll get the option to fill out a questionnaire on why you've decided to leave the program. Filling out the questionnaire will put you as a priority for future invites. See: [Invitations Priority Queue]("/hackers/invitations-priority-queue.html")
+After selecting to leave the program, you'll get the option to fill out a questionnaire on why you've decided to leave the program. Filling out the questionnaire will put you as a priority for future invites. See: [Invitations Priority Queue](/hackers/invitations-priority-queue.html)
 
 ### The Feedback Questionnaire
 To access the questionnaire, decline the invitation or leave the program and the questionnaire will directly appear on your screen.
