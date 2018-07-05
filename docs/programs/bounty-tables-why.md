@@ -8,6 +8,7 @@ id: "programs/why-are-bounty-tables-important"
 
 Bug bounty programs benefit from transparency by building trust between you and your hackers. Having a clear policy page, friendly language, clear engagement rules and benefits (like visible bounty table) are some of the simple methods you can use to break down walls and start building a trusting relationship.
 
+
 ### Engagement
 
 A clear bounty structure is something hackers call out when looking for programs to participate in. They want to know what they'll be rewarded fairly if they spend their time and effort helping a program. Programs with clear rewards structures tend to generate more positive engagement.
