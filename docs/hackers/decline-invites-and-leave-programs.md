@@ -1,7 +1,7 @@
 ---
 title: "Decline Invites and Leave Programs"
-path: "/hackers/declining-invites-and-leaving-programs.html"
-id: "hackers/declining-invites-and-leaving-programs"
+path: "/hackers/decline-invites-and-leave-programs.html"
+id: "hackers/decline-invites-and-leave-programs"
 ---
 
 There are times where you don't want to accept a program or even after accepting, you decide to leave. Upon leaving a program or declining an invitation, you'll be given an opportunity to fill out a questionnaire with your reasons about declining an invitation or leaving the program.
