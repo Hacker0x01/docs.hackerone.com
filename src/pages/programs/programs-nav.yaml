@@ -39,6 +39,9 @@
           path: /programs/asset-types.html
     - title: Bounty Tables
       path: /programs/bounty-tables.html
+      items:
+      - title: Why are Bounty Tables important
+        path: /programs/why-are-bounty-tables-important.html
     - title: Submit Report Form
       path: /programs/submit-report-form.html
       items:
