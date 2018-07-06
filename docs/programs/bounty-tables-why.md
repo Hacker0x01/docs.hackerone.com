@@ -21,13 +21,13 @@ Having a defined amount per severity award means your teams can make faster deci
 
 ### Expectation Setting
 
-This one's important and probably the primary reason we encourage a clearly defined bounty structure. History has taught us that if expectations are misaligned someone is going to get frustrated. Case in point, an offers ranging from $1000 - $3000 for a critical vulnerability sets the expectation that I may get  $1000, $2000 or even $3000! In reality, the expectation is based on the severity of the vulnerability, which can be an objective international standard (see CVSS Classification) or unique calculation based on the risk appetite of a business and how they define impact severity. In both cases, a subjective review is required, and this is where the expectation mismatch happens.
+This one's important and probably the primary reason we encourage a clearly defined bounty structure. History has taught us that if expectations are misaligned someone is going to get frustrated. Case in point, a bounty ranging from $1000 - $3000 for a critical vulnerability sets the expectation that I may get $1000, $2000 or even $3000! In reality, the expectation is based on the severity of the vulnerability, which can be an objective international standard (see [CVSS Classification](https://docs.hackerone.com/programs/severity.html)) or unique calculation based on the risk appetite of a business and how they define impact severity. In both cases, a subjective review is required, and this is where the expectation mismatch happens.
 Hackers already have three obstacles to overcome each with its expectation barrier before getting an award. These include:
     
 1. Is the report valid? 
-2. Is the report a critical severity (or the same severity I class it)? 
+2. Is the report a critical severity vulnerability (or the same severity I class it)? 
 3. Am I the first to find this bug?
-4. Will I get $$1000, $2000 or 3000? 
+4. Will I get $1000, $2000 or $3000? 
 
 If one of these barriers is misaligned (they often are) it sparks frustration, debate, negotiation and in some cases public outbursts leading to mediation and increasing hacker disengagement and workload on your teams and HackerOne. 
 
