@@ -34,12 +34,7 @@ You can add comments to multiple reports simultaneously. To add comments to mult
 If you want to reach a larger group of hackers with a one-way announcement, you can use the Message Hackers feature.
 
 1. Go to your Program's **Settings > Program > Message Hackers**.
-2. Select the recipients of the message. You can select to send a message to:
-  - All hackers who have submitted a report to your program
-  - The top 20 hackers who have submitted a report to your program
-  - Specific hackers by username
-  - Custom grouping of hackers. You can use the **Custom** recipients field to describe a unique group that you want to message like <br /> *All hackers on the HackerOne platform who have submitted 5+ reports*
-  - All invited hackers <br />  *Note: This option is only available for private programs*
+2. Select the recipients of the message. You can select to send a message to:<br><ul><li>All hackers who have submitted a report to your program</li><li>The top 20 hackers who have submitted a report to your program</li><li>Specific hackers by username</li><li>Custom grouping of hackers. You can use the **Custom** recipients field to describe a unique group that you want to message. For example: <i>All hackers on the HackerOne platform who have submitted 5+ reports</i></li><li>All invited hackers<br>*Note: This option is only available for private programs*</br></li></ul></br>
 3. Write your message in the **Message** box.
 4. Click **Submit**.
 
