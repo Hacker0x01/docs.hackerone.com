@@ -26,6 +26,8 @@
           path: /hackers/payments-faqs.html
     - title: Manage Notifications
       path: /hackers/manage-notifications.html
+    - title: Hacker Email Alias
+      path: /hackers/hacker-email-alias.html
 - title: Hacking
   items:
     - title: Hacktivity
