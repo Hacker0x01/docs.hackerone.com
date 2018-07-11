@@ -12,7 +12,7 @@ All hackers have an email alias on HackerOne that forwards any emails received o
 2. Programs will email you using your email alias in order to share special credentials or to communicate with you. 
 3. The email will automatically be forwarded to your actual email address.
 
-<i>Note: Don’t try to email yourself through using your HackerOne email alias to send an email to your hacker email, as we don’t support this. Additionally, you won’t be able to receive emails when you send messages from your original email address.</i>
+<i>Note: We only allow you to receive emails with your alias. You can also only receive emails in your alias if it’s from an email address that’s not associated with your HackerOne account.</i>
 
 ### FAQs
 
