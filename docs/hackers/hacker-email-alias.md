@@ -16,7 +16,7 @@ All hackers have an email alias on HackerOne that forwards any emails received o
 
 ### Working with multiple accounts
 
-Often when working on a program, you want to create multiple accounts to test different attack vectors on various account levels. Let's assume you want to test with a user account and an admin account, with the email alias feature, you can create one account with your default email alias, and the second account by using `username+admin@wearehackerone.com`. You can put anything you want behind the `+` sign to accommodate your needs.
+Often when working on a program, you want to create multiple accounts to test different attack vectors on various account levels. Let's assume you want to test with a user account and an admin account, with the email alias feature, you can create one account with your default email alias, and the second account by using `username+admin@wearehackerone.com`. You can put anything you want behind the `+` sign to accommodate your needs. All emails will be delivered to your email address registered with HackerOne.
 
 ### FAQs
 
