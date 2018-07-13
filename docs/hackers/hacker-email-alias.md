@@ -14,6 +14,10 @@ All hackers have an email alias on HackerOne that forwards any emails received o
 
 <i>Note: We only allow you to receive emails with your alias. You can also only receive emails in your alias if it’s from an email address that’s not associated with your HackerOne account.</i>
 
+### Working with multiple accounts
+
+Often when working on a program, you want to create multiple accounts to test different attack vectors on various account levels. Let's assume you want to test with a user account and an admin account, with the email alias feature, you can create one account with your default email alias, and the second account by using `username+admin@wearehackerone.com`. You can put anything you want behind the `+` sign to accommodate your needs.
+
 ### FAQs
 
 Question | Answer
@@ -21,3 +25,4 @@ Question | Answer
 What happens if I change my username? | The email alias will automatically update with the new username. 
 What happens if I change my email address on HackerOne? | The emails will be forwarded to your new, correct email.
 How do I disable my alias? | To disable your alias, you must disable your account.
+
