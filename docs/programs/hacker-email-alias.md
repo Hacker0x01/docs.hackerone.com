@@ -13,7 +13,7 @@ All hackers have an email alias on HackerOne that forwards any emails received o
 3. The email will automatically be forwarded to the hacker’s actual email address.
 
 ### Multiple Aliases
-A Hacker can have multiple email aliases tied to your HackerOne account. This enables hackers to create multiple test accounts on your program to be able to test different attack vectors on different account levels without having to create multiple HackerOne profile accounts. Hackers can use multiple email aliases through using **`[username]+[any_identifier]@wearehackerone.com`**.
+A Hacker can have multiple email aliases tied to their HackerOne account. This enables hackers to create multiple test accounts on your program to be able to test different attack vectors on different account levels without having to create multiple HackerOne profile accounts. Hackers can use multiple email aliases through using **`[username]+[any_identifier]@wearehackerone.com`**.
 
 ### FAQ
 
