@@ -15,6 +15,7 @@ We've revamped our [triggers](/programs/triggers.html) functionality so that you
 * Edit or build off of default triggers
 
 We've also updated the design so that you'll have a better user experience.
+![may_2018_triggers](./images/may_2018_triggers.png)
 
 ### Response Targets 
 We’ve deprecated the threatening term, <i>Response SLA</i> and replaced it with the more friendly terms, <i>Response Targets</i> and <i>Response Standards</i>. [Learn more about these new terms](/programs/response-targets.html). 
@@ -22,6 +23,7 @@ We’ve deprecated the threatening term, <i>Response SLA</i> and replaced it wit
 We’ve deprecated the <i>SLA Violations</i> inbox view and changed the name to <b>Missed targets</b>. The inbox filters are also now <b>Missed response targets</b> and <b>Missed response standards</b> instead of <i>SLA violation reports</i> and <i>SLA Fail reports</i>. 
 
 We introduce 4 new inbox labels for reports that don’t meet response standards or targets. The labels are: Response, Triage, Bounty, and Resolve. These labels replace the previous <i>SLA Fail</i> and <i>SLA Miss</i> labels. 
+![may_2018_label](./images/may_2018_responselabel.png)
 
 The fields on the Reponse Target performance section of the Program Health dashboard have changed to <b>On target</b>, <b>Missed target</b>, and <b>Missed standard</b>. The missed target line is also taken off of the Average Time to Resolution graph on the dashboard.
 
@@ -31,9 +33,11 @@ We’ve modified response efficiency indicators so that:
 * The indicator and metrics are visible even when a member of the program is signed out. 
 * The orange response efficiency indicator is now changed to yellow.
 * The indicator now occurs at the bottom of the metrics chart instead of at the top.
+![may_2018_indicator](./images/may_2018_efficiencyindicator.png)
 
 ### Time to Resolution by Severity
 We now enable you to set your Time to Resolution response standards by severity. Learn more [here](/programs/setting-response-targets.html). 
+![may_2018_severity](./images/may_2018_resbyseverity.png)
 
 ### Invitations Toggle
 Programs no longer have the ability to toggle invitations on or off with the On/Off button. The equivalent action to turn invitations off is to set the report volume to 0 if they no longer wish to engage with new hackers. To turn invitations on, just increase the report volume to be greater than 0. 
