@@ -12,12 +12,14 @@ The Invite Hackers tab under Settings > Program > Hacker Management has been ren
 The Invitations page includes the new Report Volume field where you can enter the number of reports you'd like to receive in 30 days.
 
 [Read more about Invitations](/hackers/invitations.html).
+![march_2018_invitations](./images/march_2018_invitations.png)
 
 ### Needs More Info
 Reports in the Needs More Info state that haven’t been responded to within 30 days automatically get closed with no negative impact to the hacker’s reputation.
 
 ### Self-Controlled Launch
 Response Programs in Controlled Launch that meet all of the success criteria are now prompted to publicly launch their own program through following the Setup Guide or through email notification.
+![march_2018_controlled_launch](./images/march_2018_controlled%20launch.png)
 
 ### Response SLA Settings
 Response SLA settings are now applied to all reports and not just reports created after modification to SLA settings.
@@ -26,6 +28,7 @@ Response SLA settings are also now incorporated into Controlled Launch for Respo
 
 ### Program Health Dashboard
 The new Program Health Dashboard helps programs track their Response Efficiency Metrics and Response SLA performance. Go to Dashboard > Program Health to view your metrics.
+![march_2018_dashboard](./images/march_2018_dashboard.png)
 
 ### Response Efficiency Indicator
 Programs can now see their response efficiency indicator in their program dropdown. This enables them to see their response efficiency status without having to visit their security page.
