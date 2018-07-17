@@ -6,6 +6,7 @@ date: "2017-05"
 
 ### Bi-Directional Jira Integration
 We now provide a bi-directional Jira Integration where Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. 
+![may_2017_jira](./images/may_2017_jira.gif)
 
 ### Move Report Between Programs 
 Organizations running multiple programs are now able to transfer reports between programs to make sure the vulnerability is associated with the correct program. 
