@@ -13,6 +13,7 @@ Organizations running multiple programs are now able to transfer reports between
 
 ### Filter Reports by Weakness
 You can now filter your reports by specific weaknesses in your inbox. 
+![may_2017](./images/may_2017.png)
 
 ### Beta Hacker VPN
 We've implemented a hacker VPN that:
