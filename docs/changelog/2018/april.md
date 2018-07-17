@@ -6,9 +6,11 @@ date: "2018-04"
 
 ### The 90 Day Leaderboard
 The new rolling 90 day leaderboard ranks hackers based on their score from this calculation: **Reputation x Signal Percentile x Impact Percentile**. 
+![april_2018_leaderboard](./images/april_2018_leaderboard.png)
 
 ### Needs More Info 
 When a program member adds a comment to an open report with a question mark, Hackbot will prompt them asking if they want to change the state of the report to Needs more info. 
+![april_2018_nmi](./images/april_2018_nmi.png)
 
 ### Response Efficiency Timers
 Response efficiency timers no longer trigger for reports submitted by internal members of the program. 
