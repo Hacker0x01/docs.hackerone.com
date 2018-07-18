@@ -15,19 +15,19 @@ A bounty is money you get rewarded with for reported and resolved bugs. They're 
 After a program has decided to award you a bounty and the bounty has been awarded, you'll receive an email to claim the bounty. HackerOne will ask to collect your tax form before processing the payout.
 
 #### Bounty Splitting
-HackerOne enables you to split bounties with other hackers that helped you find the vulnerability. This allows all hackers to receive contributions and awards for their efforts. 
+HackerOne enables you to split bounties with other hackers that helped you find the vulnerability. This allows all hackers to receive contributions and awards for their efforts.
 
 To split a bounty with collaborating hackers:
 1. Navigate to the report you'd like to split the bounty with in your HackerOne Inbox.
 2. Select <b>Add collaborator</b>.
 3. Enter the email or username of the collaborating hacker.
 4. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>.
-   ![bounty_split](./images/bounty_split.png)
    * Bounties are split using this equation: (Total Bounty/Total Bounty Weight)x Hacker Bounty Weight
-   * In the example above, the equation would be as follows:<br>snappyboy: ($1000/3)x1 = $333.33<br>jared@hooli.corp: ($1000/3)x2 = $666.67</br>
-5. Click <b>Invite</b>. 
+   * In the example below, the calculation would be as follows:<br>snappyboy: ($1000/3)x1 = $333.33<br>jared@hooli.corp: ($1000/3)x2 = $666.67</br>
+   ![bounty_split](./images/bounty_split.png)
+5. Click <b>Invite</b>.
 
-The calculated bounty amounts will show for each hacker. When the bounty is awarded, the bounty will be split according to the weights assigned. Additionally, all collaborators can now view and comment on the report. 
+The calculated bounty amounts will show for each hacker. When the bounty is awarded, the bounty will be split according to the weights assigned. Additionally, all collaborators can now view and comment on the report.
 
 Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
@@ -43,9 +43,9 @@ If you want to donate a bounty:
 2. Mention the following in your request:
    * The ID of the report you want to donate the bounty of. You can get the report ID from the URL (e.g. https://hackerone.com/reports/123, where 123 is the ID).
    * The name and website of the charity you want to donate to.
-   * Whether or not you want to be named as the person donating or prefer to remain anonymous. Keep in mind that we can only attribute the donation to you if the charity allows us to give a name. 
+   * Whether or not you want to be named as the person donating or prefer to remain anonymous. Keep in mind that we can only attribute the donation to you if the charity allows us to give a name.
 
-Upon receiving your request, HackerOne will do a quick check to see if a donation can be made to your selected charity. If for some reason a donation can't be made, HackerOne will notify you so an alternative can be made. 
+Upon receiving your request, HackerOne will do a quick check to see if a donation can be made to your selected charity. If for some reason a donation can't be made, HackerOne will notify you so an alternative can be made.
 
 Generally, if the charity accepts donations in USD through PayPal or Credit Card, HackerOne should be able to fulfill your request quickly. If the charity provides an electronic receipt, HackerOne will forward this to you as proof of payment.
 
@@ -57,4 +57,4 @@ Your program can elect to award you with various swag in addition to or instead 
 The program is responsible for fulfillment and delivery of swag to you.
 
 ### Bonuses
-Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties. 
+Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties.
