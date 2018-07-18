@@ -54,4 +54,4 @@ This diagram illustrates HackerOne's public disclosure process:
 
 ![public-disclosure](./images/public-disclosure.png)
 
-For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines).  There is a lengthier blog post on [Public Disclosure](https://hackerone.com/blog/public-disclosure-on-hackerone?utm_source=h1&utm_medium=help&utm_campaign=hdpdw) as well.  If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
+For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines).  There is a lengthier blog post on [Public Disclosure](https://www.hackerone.com/blog/public-disclosure-on-hackerone?utm_source=h1&utm_medium=help&utm_campaign=hdpdw) as well.  If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).

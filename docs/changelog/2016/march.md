@@ -16,7 +16,7 @@ Users can now filter the directory by programs offering bounties. Type `bounties
 We now support message threading for notification emails so that similar emails are grouped together. 
 
 ### Award Bonus
-We introduce the ability for programs to award a structured bonus in addition to the standard bounty for a vulnerability. Read about it in our [blog](https://hackerone.com/blog/uber-launches-first-of-its-kind-hacker-loyalty-program-with-hackerone-bonuses). 
+We introduce the ability for programs to award a structured bonus in addition to the standard bounty for a vulnerability. Read about it in our [blog](https://www.hackerone.com/blog/uber-launches-first-of-its-kind-hacker-loyalty-program-with-hackerone-bonuses). 
 
 ### Improved Rate Limiter & Signal Requirements
 We give programs the ability to tune the Rate Limiter by specifying minimum Signal Requirements for hacker participation. We’ve also updated the Rate Limiter to incorporate additional intelligent inputs. 

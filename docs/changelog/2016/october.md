@@ -11,7 +11,7 @@ We’ve improved HackBot to suggest single-click actions, such as:
 * Creating a trigger
 
 ### CVSS for Severity
-We introduce the ability for both hackers and security teams to set severity via CVSS. Read our [blog post](https://hackerone.com/blog/introducing-severity-cvss) or [docs article](https://docs.hackerone.com/programs/severity.html) to learn more. 
+We introduce the ability for both hackers and security teams to set severity via CVSS. Read our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss) or [docs article](https://docs.hackerone.com/programs/severity.html) to learn more. 
 
 ### No Attachment Warning
 We now display a warning message if your report references an attachment but no attachments are found. 
