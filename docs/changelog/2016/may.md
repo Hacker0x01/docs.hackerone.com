@@ -12,6 +12,7 @@ Programs now have the ability to publicly share Time Metrics and Reward Metrics.
 * Mean Bounty Amount
 * Median Bounty Amount
 * Total Bounties Paid
+![may_2016_sec_page_metrics](./images/may_2016_sec_page_metrics.png)
 
 ### Credit Card Payments - Stripe Integration
-We now enable programs to make payments using their credit card through our Stripe Integration. 
+We now enable programs to make payments using their credit card through our Stripe Integration.
