@@ -26,8 +26,8 @@
   "license": "CC-BY-NC-SA-4.0",
   "main": "n/a",
   "scripts": {
-    "build": "rm -rf .cache/* && gatsby build",
-    "deploy": "rm -rf .cache/* && gatsby build && gh-pages -d public",
+    "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
