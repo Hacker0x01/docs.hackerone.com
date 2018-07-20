@@ -1,6 +1,6 @@
 - title: Getting Started
   items:
-    - title: Welcome 
+    - title: Welcome
       path: /programs.html
     - title: Edit the Doc Site
       path: /programs/edit-the-doc-site.html
@@ -58,6 +58,8 @@
           path: /programs/setting-response-targets.html
     - title: Invitations
       path: /programs/invitations.html
+    - title: CVE Requests
+      path: /programs/cve-requests.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Groups and Permissions
@@ -164,4 +166,4 @@
     - title: Hacker Email Alias
       path: /programs/hacker-email-alias.html
     - title: Hacker Reviews
-      path: /programs/hacker-reviews.html 
+      path: /programs/hacker-reviews.html
