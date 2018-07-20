@@ -9,7 +9,7 @@ We now enable private programs to configure a minimum threshold for their report
 
 ### Hacktivity Redesign
 We’ve redesigned Hacktivity so that we surface educational reports from interesting hackers.
-![april_2016_hacktivity_redesign](./images/april_2016_hacktivity_redesign.png)
+![april_2016_hacktivity_redesign2](./images/april_2016_hacktivity_redesign2.png)
 
 ### Hacker Header on Reports
 All reports now include a header with summarized stats on the hacker who submitted the report. The new header fields include:
