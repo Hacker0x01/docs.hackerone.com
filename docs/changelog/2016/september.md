@@ -13,6 +13,7 @@ Programs can now assign reports to team members using the API. See the API docum
 
 ### Notifications Page
 We’ve created a notifications page so that you can have a clear overview of your notifications. Go to https://hackerone.com/notifications to see your notifications.
+![sep_2016_notifications_page](./images/sep_2016_notifications_page.png)
 
 ### Filter Inbox by Program
 Hackers can now filter reports in their inbox by program using the <b>Reported to</b> field so that they don't have to filter through reports with their own eyes.
