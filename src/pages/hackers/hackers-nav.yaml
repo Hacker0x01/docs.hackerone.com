@@ -22,6 +22,8 @@
       items:
         - title: Payout Methods
           path: /hackers/payout-methods.html
+        - title: Tax Forms
+          path: /hackers/tax-forms.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
     - title: Manage Notifications

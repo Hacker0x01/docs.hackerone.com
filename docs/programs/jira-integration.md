@@ -6,11 +6,11 @@ id: "programs/jira-integration"
 
 HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. There's no need to go back and forth between Jira and HackerOne. With this integration, valid bug reports become task assignments in JIRA with a single click, and fixed bugs automatically come back as being marked as resolved. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities.
 
-These events and directions are currently supported through the bi-directional Jira integration: 
+These events and directions are currently supported through the bi-directional Jira integration:
 
 HackerOne to Jira | Jira to HackerOne
 ----------------- | -------------------
-Comments | Coments
+Comments | Comments
 State changes | State changes
 Rewards | Resolution changes
 Asignee changes | Asignee changes
@@ -20,14 +20,14 @@ You can choose to integrate from 2 different types of Jira integrations:
 
 Option | Details
 ------ | -------
-[Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world. 
-[Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN. 
+[Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world.
+[Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN.
 
 <i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
 ### How it Works
-A HackerOne report gets triaged and escalated into Jira. 
+A HackerOne report gets triaged and escalated into Jira.
 ![jira-integration-1](./images/jira-integration.png)
 
-Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report. 
+Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
 ![jira-integration-2](./images/jira-cloud-4.png)
