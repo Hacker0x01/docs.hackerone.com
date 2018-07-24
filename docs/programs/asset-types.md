@@ -19,4 +19,4 @@ Windows Store App | Either a store ID like '9WZDNCRFHVJL' or an identifier name 
 
 Source Code, Downloadable Executables and Hardware identifiers are not validated. You are free to use this in whatever suits your naming conventions. 
 
-You can edit your scopes in your settings under program's **Settings > Program > Policy & Scope**. 
+You can edit your scopes in your settings under program's **Settings > Program > Scope**. 
