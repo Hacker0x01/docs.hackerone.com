@@ -22,7 +22,7 @@ You adhere to our Code of Conduct and other HackerOne policies. | Find our hacke
 
 By publishing vulnerabilities to HackerOne, you acknowledge that you’ve met all of the above requirements.  
 
-### Publishing a Vulnerability on Hackerone
+### Publishing a Vulnerability on HackerOne
 Once you’ve met all of the requirements above, you’re ready to publish your vulnerability. To publish an external vulnerability on HackerOne:
 1. Go to the Directory.
 2. Find the organization you want to publish a vulnerability for. You can refine your search results by entering `type:external [name of organization]`.
