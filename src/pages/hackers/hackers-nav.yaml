@@ -40,6 +40,8 @@
       path: /hackers/hacker101.html
     - title: 90 Day Leaderboard
       path: /hackers/90-day-leaderboard.html
+    - title: Publishing External Vulnerabilities
+      path: /hackers/publishing-external-vulnerabilties.html
     - title: Examples of Misconduct
       path: /hackers/examples-of-misconduct.html
     - title: Hacker Mediation
