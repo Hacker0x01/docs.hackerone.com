@@ -31,8 +31,8 @@ Once you’ve met all of the requirements above, you’re ready to publish your 
 5. Fill out the <b>Publish a Vulnerability</b> report form.
 6. Click <b>Publish Vulnerability</b>.
 7. <i>(Optional)</i> Add a summary to your report. You can always come back and edit the summary.
-8. <i>(Optional) Add a severity rating for the vulnerability. 
+8. <i>(Optional)<i> Add a severity rating for the vulnerability.
 
 The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Published</b> icon on it to distinguish it from other reports. Users can upvote your report in Hacktivity, and the report will also display on your hacker profile.
 
-<i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing. <br><br>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/hackers/reputation.html) or your eligibility for any bounties.
+<i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing. <br><br>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/>hackers/reputation.html) or your eligibility for any bounties.</i>
