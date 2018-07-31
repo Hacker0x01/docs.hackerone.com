@@ -27,10 +27,11 @@ Once you’ve met all of the requirements above, you’re ready to publish your 
 1. Go to the Directory.
 2. Find the organization you want to publish a vulnerability for. You can refine your search results by entering `type:external [name of organization]`.
 3. Select the organization.   
-4. Click the green <b>Publish vulnerability</b> button.
-5. Fill out the Publish vulnerability report form.
-6. Click <b>Publish vulnerability</b>.
+4. Click the green <b>Publish a Vulnerability</b> button.
+5. Fill out the <b>Publish a Vulnerability</b> report form.
+6. Click <b>Publish Vulnerability</b>.
 7. <i>(Optional)</i> Add a summary to your report. You can always come back and edit the summary.
+8. <i>(Optional) Add a severity rating for the vulnerability. 
 
 The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Published</b> icon on it to distinguish it from other reports. Users can upvote your report in Hacktivity, and the report will also display on your hacker profile.
 
