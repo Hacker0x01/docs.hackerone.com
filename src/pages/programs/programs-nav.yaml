@@ -37,6 +37,8 @@
           path: /programs/scope-best-practices.html
         - title: Asset Types
           path: /programs/asset-types.html
+        - title: Environmental Score
+          path: /programs/environmental-score.html 
     - title: Bounty Tables
       path: /programs/bounty-tables.html
       items:
@@ -87,6 +89,8 @@
           path: /programs/export-reports.html
         - title: Response Labels
           path: /programs/response-labels.html
+        - title: Severity
+          path: /programs/severity.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
     - title: Public Disclosure
