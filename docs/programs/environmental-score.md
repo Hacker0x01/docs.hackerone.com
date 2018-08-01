@@ -9,7 +9,7 @@ The environmental score enables you to set the maximum [severity](severity.html)
 * Integrity
 * Availability
 
-<i>You can read more on these components in the section below on <b>Environmental Score Components<b>.</i>
+<i>You can read more on these components in the section below on <b>Environmental Score Components</b>.</i>
 
 To set the environmental score for an asset:
 1. Go to <b>Settings > Program > Scope</b>.
