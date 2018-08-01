@@ -10,10 +10,9 @@ id: "hackers/hacktivity"
 * The associated program
 * The awarded bounty amount
 
-There are 3 pages to Hacktivity:
+There are 2 pages to Hacktivity:
 * Popular - the activity that is currently trending
 * New - the latest activity
-* Top - the activity with the most number of upvotes
 
 ![hacktivity-1](./images/hacktivity-1.png)
 
@@ -39,7 +38,5 @@ Activities on each page are ranked differently.
 On the **Popular** page, vulnerabilities are ranked primarily by their aggregated upvotes. The vote is weighted slightly more if it comes from a hacker with high Signal. Additionally, each activity gets an initial boost if it is resolved and/or receives an above average bounty.
 
 On the **New** page, activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
-
-On the **Top** page, activities are listed by the overall top vulnerabilities by number of upvotes.
 
 If you want to see downvoting, a commenting feature, or a new feature request, send [HackerOne a feature request](mailto:feedback@hackerone.com).
