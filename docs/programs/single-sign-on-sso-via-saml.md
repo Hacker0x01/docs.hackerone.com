@@ -41,7 +41,7 @@ X509 Certificate | The certificate from your SAML provider to verify the single 
 
 Question | Answer
 -------- | -------
-What is your metadata endpoint? | https://hackerone.com/users/saml/metadata
+What is your metadata endpoint? | https://hackerone.com/users/saml/metadata?format=saml_metadata_xml
 Do you support Just In Time (JIT) provisioning? | Yes, a new account will be created, but that account won't have access to any teams by default as a team admin will need to invite the user. If you'd like users to auto join your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) for more information.
 What happens to my existing 2FA and password? | Your 2FA and password settings will be deleted, and you'll only be able to login with SSO when you're migrated. The SSO provider is expected to handle 2FA.
 Do you support SAML and password login? | No, once a user is SAML enabled, they won't be able to login with their password.
