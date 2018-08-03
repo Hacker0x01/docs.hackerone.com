@@ -8,6 +8,7 @@ The environmental score customizes the [severity](severity.html) of a vulnerabil
 * Confidentiality
 * Integrity
 * Availability
+
 <i>You can read more on these metrics in the section below on <b>Environmental Score Components</b>.</i>
 
 To set the environmental score for an asset:
