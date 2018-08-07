@@ -13,7 +13,7 @@ Congratulations on deciding to use HackerOne as your platform in submitting vuln
 Option | Detail
 ------ | -------
 Profile | Add a picture to your profile, change your username, add a website, your location, and a personal blurb about yourself. 
-Authentication | HackerOne support two-factor authentication for hackers. 
+Authentication | Set up two-factor authentication for your account.
 Email | Change your email associated with your account. You must provide your password in order to change your email. 
 Password | Change your password. 
 Skill Set | Specify your skill set. 
