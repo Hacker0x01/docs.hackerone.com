@@ -7,9 +7,10 @@ date: "2015-09"
 ### Vulnerability Coordination Maturity Model
 We introduce the Vulnerability Coordination Maturity Model which helps programs increase their dependence on internet-connected software. Learn more about this model in our [blog post](https://hackerone.com/blog/vulnerability-coordination-maturity-model
 ).
+![sep_2015_maturity_model](./images/sep_2015_maturity_model.png)
 
 ### New Integrations
-We’ve added 2 more integrations for ServiceNow and Assembla.
+We’ve added integrations for ServiceNow and Assembla.
 
 ### Tax Forms
 We’ve integrated tax forms into our product so that hackers can quickly sign them to get paid. 

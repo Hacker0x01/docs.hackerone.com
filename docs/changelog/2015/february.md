@@ -9,3 +9,4 @@ We now provide the ability to close out a report due to it being spam or inappro
 
 ### Merge Duplicates
 Programs can now merge duplicate reports and add hackers to the original report.
+![feb_2015_merge_duplicates](./images/feb_2015_merge_duplicates.png)
