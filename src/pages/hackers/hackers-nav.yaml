@@ -30,6 +30,8 @@
       path: /hackers/manage-notifications.html
     - title: Hacker Email Alias
       path: /hackers/hacker-email-alias.html
+    - title: Two-Factor Authentication
+      path: /hackers/two-factor-authentication.html 
 - title: Hacking
   items:
     - title: Hacktivity
