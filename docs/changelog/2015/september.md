@@ -9,8 +9,8 @@ We introduce the Vulnerability Coordination Maturity Model which helps programs 
 ).
 ![sep_2015_maturity_model](./images/sep_2015_maturity_model.png)
 
-### New Integrations
+### Integrations
 We’ve added integrations for ServiceNow and Assembla.
 
 ### Tax Forms
-We’ve integrated tax forms into our product so that hackers can quickly sign them to get paid. 
+We’ve integrated tax forms into our product so that hackers can quickly sign them to get paid.

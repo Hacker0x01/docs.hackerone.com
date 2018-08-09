@@ -9,7 +9,7 @@ All hackers now have an [email alias](/hackers/hacker-email-alias.html) that for
 
 ### Sort Notifications
 You can now sort notifications from oldest to newest and vice versa.
-!![july_2018_sort_notifications](./images/july_2018_notifications_sort.jpg)
+![july_2018_sort_notifications](./images/july_2018_notifications_sort.jpg)
 
 
 ### Hacktivity Redesign

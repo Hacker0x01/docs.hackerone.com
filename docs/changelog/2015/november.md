@@ -38,7 +38,7 @@ The group assignments feature enables programs to assign reports to a team rathe
 We’ve updated the styling between the report meta data and the summary/timeline so that the report meta data is now collapsible.
 ![nov_2015_report_meta_data](./images/nov_2015_Report_Meta_Data.png)   
 
-### New Integrations
+### Integrations
 We’ve added integrations with:
 * Slack
 * Redmine

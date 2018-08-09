@@ -4,7 +4,7 @@ path: "/changelog/2014/april"
 date: "2014-04"
 ---
 
-### Support Bitcoin
+### Bitcoin
 We now support hackers to receive payouts through Bitcoin.
 
 ### Data Export JSON

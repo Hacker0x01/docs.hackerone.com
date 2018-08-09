@@ -22,5 +22,5 @@ We introduce keyboard shortcuts to make the workflow more efficient with a faste
 ### Search
 Our new inbox filtering search functionality enables programs and hackers to quickly target the bug they're looking for without having to scroll through their inbox.
 
-### New Integrations
+### Integrations
 We introduce these new integrations with HackerOne: <li>MantisBT</li><li>Bugzilla</li><li>Jira</li><li>Phabricator</li>
