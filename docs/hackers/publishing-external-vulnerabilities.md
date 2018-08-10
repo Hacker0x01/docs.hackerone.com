@@ -35,4 +35,15 @@ Once you’ve met all of the requirements above, you’re ready to publish your 
 
 The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Published</b> icon on it to distinguish it from other reports. Users can upvote your report in Hacktivity, and the report will also display on your hacker profile.
 
-<i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing. <br><br>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/>hackers/reputation.html) or your eligibility for any bounties.</i>
+<i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing.</i> 
+
+### Publishing Without Disclosing the Organization
+It may take some time for external organizations to get back to you about publishing the vulnerability you found, or they may not get back to you at all. In these cases, we enable you to publish your vulnerability to hacktivity without naming the organization. 
+
+To publish without disclosing the organization: 
+1. Go to https://hackerone.com/redact.
+2. Follow steps 4-8 in the section above. 
+
+All mentions of the organization and assets will be redacted when it’s published onto the <b>New</b> page of Hacktivity.
+
+<br><i>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/>hackers/reputation.html) or your eligibility for any bounties.</i>
