@@ -31,13 +31,4 @@ You can add comments to multiple reports simultaneously. To add comments to mult
 ![Communicate with hackers2](./images/communicate-with-hackers3.png)
 
 ### Broadcast Messaging
-If you want to reach a larger group of hackers with a one-way announcement, you can use the Message Hackers feature.
-
-1. Go to your Program's **Settings > Program > Message Hackers**.
-2. Select the recipients of the message. You can select to send a message to:<br><ul><li>All hackers who have submitted a report to your program</li><li>The top 20 hackers who have submitted a report to your program</li><li>Specific hackers by username</li><li>Custom grouping of hackers. You can use the **Custom** recipients field to describe a unique group that you want to message. For example: <i>All hackers on the HackerOne platform who have submitted 5+ reports</i></li><li>All invited hackers<br>*Note: This option is only available for private programs*</br></li></ul></br>
-3. Write your message in the **Message** box.
-4. Click **Submit**.
-
-Your message will first go to HackerOne support who will verify the content of the message. After verification, your message will be sent to the selected recipients within 1 business day. The message will appear from *Your Team (via HackerOne)* and will be no-reply.
-
-![Communicate with hackers3](./images/communicate-with-hackers2.png)
+If you want to reach a larger group of hackers with a one-way announcement, you can use the [Message Hackers](message-hackers.html) feature.
