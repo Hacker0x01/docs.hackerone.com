@@ -38,7 +38,7 @@ The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Pub
 <i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing.</i> 
 
 ### Publishing Without Disclosing the Organization
-It may take some time for external organizations to get back to you about publishing the vulnerability you found, or they may not get back to you at all. In these cases, we enable you to publish your vulnerability to hacktivity without naming the organization. 
+It may take some time for external organizations to get back to you about publishing the vulnerability you found, or they may not get back to you at all. In these cases, we enable you to publish your vulnerability to Hacktivity without naming the organization. 
 
 To publish without disclosing the organization: 
 1. Go to https://hackerone.com/redact.
