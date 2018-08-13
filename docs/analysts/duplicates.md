@@ -4,52 +4,56 @@ path: "/analysts/duplicates.html"
 id: "analysts/duplicates"
 ---
 
-A duplicate report occurs when a hacker reports a vulnerability that has already been reported. There are two main steps of determining if the report is considered a duplicate: finding which one is the first submission and determining if the reports are the same vulnerability.
+A duplicate report is a report about a vulnerability that another hacker has reported. There are 2 main steps in determining if the report is considered a duplicate:
+1. Find the first report submission for the vulnerability.
+2. Determine if the reports are about the same vulnerability. 
 
-## 1. Finding the first submission
+### Finding the First Submission
 
-### 1.1. Compare with the submission dates and times
+#### Compare the submission dates and times
 
-Two reports can be ordered by comparing with their submission dates and times, in which the earlier is considered the first one.
+You can order reports by comparing their submission dates and times.
 
-#### Example 1:
+##### Example 1:
 ```
 Report A – submitted on Jun 20, 2018 (First submission)
 Report B – submitted on Jun 22, 2018 
 ```
-#### Example 2:
+##### Example 2:
 ```
 Report A – submitted on Jun 20, 2018. 07:00 (First submission)
 Report B – submitted on Jun 20, 2018. 07:15
 ```
-### 1.2. Compare with the report IDs
+#### Compare the report ID numbers
 
-They can also be ordered by comparing with their report IDs, in which the lower number is considered the first submission, for example:
+You can also order reports by comparing the associated report ID numbers, in which the ID number that comes first is the first submission. For example:
 ```
 Report A – ID: #1234 (First submission)
 Report B –ID: #1300
 ```
-## 2. Same Vulnerability
+### Determining if the Reports are About the Same Vulnerability
 
-There are many ways to determine if the reports are of a single vulnerability:
+To determine if multiple reports are about a single vulnerability, you can check whether the vulnerabilities:
+* Are fixed with the same vulnerable code change
+* Have the same root cause or component
 
-### 2.1. Duplication based on the vulnerable code location
+#### Same Vulnerable Code Change
 
-Reports are duplicated if they will be fixed with a single or the same vulnerable code change. The code may occur on the same or on the different endpoints. The following list some of the example cases:
+Reports are considered duplicates if they're fixed with the same vulnerable code change. The code may occur on the same or on  different endpoints. The following lists some of the example cases:
 
-#### Example – Reports of the same vulnerability type on the same endpoint:
+##### Example – Reports of the same vulnerability type on the same endpoint:
 ```
 Report A:	XSS on http://example.com/vuln1
 Report B:	XSS on http://example.com/vuln1
 ```
--	The report A is a duplicate of B if the vulnerability resides in the single source code location of the endpoint, for example:
+-	Report A is a duplicate of B if the vulnerability resides in the single source code location of the endpoint. For example:
 ```
 [http://example.com/vuln1]
 <?php
   echo $xss1;		// Report A & Report B – Fix 1
 ?>
 ```
--	Otherwise, the report A is not a duplicate if there are different fix locations in the source code, for example:
+-	Report A isn't a duplicate if there are different locations to fix in the source code. For example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -58,13 +62,13 @@ Report B:	XSS on http://example.com/vuln1
 	echo $xss2;		// Report B – fix 2
 ?>
 ```
-#### Example – Reports of the same vulnerability type on the different endpoints:
+##### Example – Reports of the same vulnerability type on different endpoints:
 
 ```
 Report A: XSS on http://example.com/vuln1
 Report B: XSS on http://example.com/vuln2
 ```
-There are times when two or more endpoints use the same code base from another endpoint. They will be considered as a duplicate if the fixing requires a single source code location (usually on the root endpoint), for example:
+There are times when 2 or more endpoints use the same code base from another endpoint. They'll be considered duplicates if the fix requires a single source code location (usually on the root endpoint), for example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -82,7 +86,7 @@ There are times when two or more endpoints use the same code base from another e
 	echo $xss;		// Fix 1
 ?>
 ```
-In the most cases, reports of a single vulnerability that occurs on many endpoints are not duplicates as each one needs its own fix, for example:
+In most cases, reports of a single vulnerability that occur on many endpoints aren't duplicates as each one needs its own fix. For example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -94,14 +98,14 @@ In the most cases, reports of a single vulnerability that occurs on many endpoin
 	echo $xss2;		// Report B – fix 2
 ?>
 ```
-However, sometimes the programs may decide otherwise, see section 2.2. “Duplication based on the root cause or component”.
+However, sometimes the programs may decide otherwise, see the section on "Root cause or Component”.
 
-#### Example – Reports of the different vulnerability types on the same endpoint:
+##### Example – Reports of different vulnerability types on the same endpoint:
 ```
 Report A: XSS on http://example.com/vuln1
 Report B: SQL Injection on http://example.com/vuln1
 ```
-Generally, two vulnerability types are not duplicates even if they live in the same endpoint because fixing requires a separated fix for each bug, for example:
+Generally, having 2 different vulnerability types aren't considered duplicates even if they live in the same endpoint because separate fixes are required for each bug. For example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -110,12 +114,12 @@ Generally, two vulnerability types are not duplicates even if they live in the s
 	sqli_query();		// Report B – fix 2
 ?>
 ```
-#### Example – Reports of the different vulnerability types on the different endpoints:
+##### Example – Reports of different vulnerability types on different endpoints:
 ```
 Report A: XSS on http://example.com/vuln1
 Report B: SQL Injection on http://example.com/vuln2
 ```
-Usually, two vulnerability types on the different endpoints are not duplicates, because they require a separate fixe for each bug, for example:
+Generally, 2 different vulnerability types on different endpoints aren't duplicates because each bug requires a separate fix. For example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -127,7 +131,7 @@ Usually, two vulnerability types on the different endpoints are not duplicates, 
 	sqli_query();		// Report B – fix 2
 ?>
 ```
-Even if the endpoints use the same code base, they still require distinct fixes, for example:
+Even if the endpoints use the same code base, they still require distinct fixes. For example:
 ```
 [http://example.com/vuln1]
 <?php
@@ -148,11 +152,11 @@ Even if the endpoints use the same code base, they still require distinct fixes,
 	sqli_query();		// Fix 2
 ?>
 ```
-### 2.2. Duplication based on the root cause or component
+### Root cause or Component
 
-Some programs decide the duplication based on the root cause or component. Though they require separate fixes, the reported vulnerability may already be aware by the programs. In that case, some programs treat them as duplicates, and some awards a smaller bounty than the original report. For example:
+Some programs decide that the reports are duplicates based on the root cause or component. Though they require separate fixes, the reported vulnerability may already be aware by the programs. In these cases, some programs may treat them as duplicates, while others may award a smaller bounty than the original report. For example:
 
-#### Example – Two vulnerable endpoints use the same copy of code base:
+##### Example – Two vulnerable endpoints using the same copy of the code base:
 ```
 [http://example.com/vuln1]
 <?php
@@ -168,7 +172,7 @@ Some programs decide the duplication based on the root cause or component. Thoug
 	}	
 ?>
 ```
-#### Example – Two vulnerable endpoints use a single component, library, or framework:
+##### Example – Two vulnerable endpoints use a single component, library, or framework:
 ```
 [http://example.com/vuln1]
 <?php
@@ -183,7 +187,3 @@ Some programs decide the duplication based on the root cause or component. Thoug
 ?>
 ```
 In the last example, the program may fix the two bugs at once by upgrading or changing to a new framework.
-
-## Related Articles:
-
-Report Management – Duplicate Reports https://docs.hackerone.com/programs/duplicate-reports.html
