@@ -98,7 +98,7 @@ In most cases, reports of a single vulnerability that occur on many endpoints ar
 	echo $xss2;		// Report B – fix 2
 ?>
 ```
-However, sometimes the programs may decide otherwise, see the section on "Root cause or Component”.
+However, sometimes the programs may decide otherwise, see section titled **Root Cause or Component** below.
 
 ##### Example – Reports of different vulnerability types on the same endpoint:
 ```
@@ -152,7 +152,7 @@ Even if the endpoints use the same code base, they still require distinct fixes.
 	sqli_query();		// Fix 2
 ?>
 ```
-### Root cause or Component
+### Root Cause or Component
 
 Some programs decide that the reports are duplicates based on the root cause or component. Though they require separate fixes, the reported vulnerability may already be aware by the programs. In these cases, some programs may treat them as duplicates, while others may award a smaller bounty than the original report. For example:
 
