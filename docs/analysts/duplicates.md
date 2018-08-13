@@ -1,7 +1,7 @@
 ---
 title: "Determining Duplicate Reports"
-path: "/analysts/duplicates.html"
-id: "analysts/duplicates"
+path: "Program Book TBD"
+id: "TBD"
 ---
 
 A duplicate report is a report about a vulnerability that another hacker has reported. There are 2 main steps in determining if the report is considered a duplicate:
