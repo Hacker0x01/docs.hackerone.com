@@ -33,7 +33,7 @@ Report B –ID: #1300
 ```
 ### Determining if the Reports are About the Same Vulnerability
 
-To determine if multiple reports are about a single vulnerability, you can check whether the vulnerabilities:
+To determine if multiple reports are about the same vulnerability, you can check whether the vulnerabilities:
 * Are fixed with the same vulnerable code change
 * Have the same root cause or component
 
