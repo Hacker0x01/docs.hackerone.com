@@ -12,6 +12,14 @@ We now enable select hackers to publish their findings from external sources tha
 Hackers now have the ability to set up [two-factor authentication](/hackers/two-factor-authentication.html) to add an extra layer of protection to their accounts.
 ![aug-2018-2fa](./images/aug-2018-2fa.png)
 
+### Inbox Filters
+Programs can now filter reports with these new inbox filters:
+* No weakness
+* No asset
+* With references
+* Without references
+![aug-2018-inbox-filters](./images/aug-2018-inbox-filters.png)
+
 ### Insights (beta)
 We introduce the insights page to provide hackers with helpful statistics about programs they're contemplating to hack on. The  information is provided to help hackers focus their efforts on the right assets for the right programs. Categories of insights include:
 * Bounties
