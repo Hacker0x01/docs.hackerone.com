@@ -21,3 +21,4 @@ Question | Answer
 -------- | -------
 What happens if a hacker changes their username? | The email alias will automatically update with the new username.
 What happens if a hacker changes their email address on HackerOne? | The emails will be forwarded to their new, correct email.
+How can I share credentials with all hackers in my program? | Go to your Invitation settings (Settings > Program > Invitations) to see the list of hackers in your program. You can email each hacker at [username]@wearehackerone.com.
