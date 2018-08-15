@@ -26,7 +26,7 @@ To redact information from a report:
 
 If you have multiple strings that you want to redact, repeat steps 2-6.
 
-### Limiting Disclosure
+### Limited Disclosure
 In addition to redacting reports, you can limit the visibility of reports by selecting to have Limited disclosure. When you select to have limited instead of full public disclosure, only the summary and timeline of the report are visible and all comments and attachments are hidden.
 ![limiting-disclosed-information-2](./images/limiting-disclosed-info-2.png)
 
