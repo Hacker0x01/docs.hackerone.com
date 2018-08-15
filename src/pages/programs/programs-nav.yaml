@@ -95,6 +95,9 @@
           path: /programs/keyboard-shortcuts.html
     - title: Public Disclosure
       path: /programs/public-disclosure.html
+      items:
+        - title: Limiting Disclosed Information
+          path: /programs/limiting-disclosed-information.html
     - title: Automation
       path: /programs/automation.html
       items:
