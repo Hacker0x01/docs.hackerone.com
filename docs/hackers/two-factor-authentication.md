@@ -23,5 +23,5 @@ To set up two-factor authentication for your account:
 Once your two-factor authentication is successfully enabled, you’ll be prompted to enter a 6-digit verification code from your authenticator app to log in to your HackerOne account.
 ![2fa-8](./images/2fa-8.png)
 
-You can choose to change your account recovery phone number, turn off two-factor authentication or regenerate your backup codes. 
-![ffa-9](./images/2fa-9.png)
+You can choose to change your account recovery phone number, turn off two-factor authentication or regenerate your backup codes.
+![2fa-9](./images/2fa-9.png)

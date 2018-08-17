@@ -15,6 +15,8 @@
           path: /programs/start-h1-bounty.html
     - title: Private vs Public Programs
       path: /programs/private-vs-public-programs.html
+    - title: Parent/Child Programs
+      path: /programs/parent-child-programs.html
     - title: Using Markdown
       path: /programs/using-markdown.html
 - title: Your Program
