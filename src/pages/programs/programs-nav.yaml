@@ -111,8 +111,11 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
-    - title: Inbox Views
-      path: /programs/inbox-views.html
+    - title: Inbox
+      path: /programs/inbox.html
+      items:
+        - title: Inbox Views
+          path: /programs/inbox-views.html
 - title: Integrations
   items:
     - title: Supported Integrations
