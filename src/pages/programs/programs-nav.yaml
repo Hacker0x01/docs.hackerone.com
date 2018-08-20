@@ -166,6 +166,8 @@
       path: /programs/hacker-feedback-dashboard.html
 - title: Hacker Engagement
   items:
+    - title: Hacktivity
+      path: /programs/hacktivity.html
     - title: Signal Requirements
       path: /programs/signal-requirements.html
     - title: Communicating with Hackers
