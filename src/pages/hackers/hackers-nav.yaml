@@ -31,13 +31,16 @@
     - title: Hacker Email Alias
       path: /hackers/hacker-email-alias.html
     - title: Two-Factor Authentication
-      path: /hackers/two-factor-authentication.html 
+      path: /hackers/two-factor-authentication.html
 - title: Hacking
   items:
     - title: Hacktivity
       path: /hackers/hacktivity.html
     - title: Directory
       path: /hackers/directory.html
+      items:
+        - title: Create a Directory Page
+          path: /hackers/create-a-directory-page.html
     - title: Hacker101
       path: /hackers/hacker101.html
     - title: 90 Day Leaderboard
