@@ -76,6 +76,11 @@
       path: /programs/two-factor-authentication.html
 - title: Reports
   items:
+    - title: Inbox
+      path: /programs/inbox.html
+      items:
+        - title: Inbox Views
+          path: /programs/inbox-views.html
     - title: Report Management
       path: /programs/report-management.html
       items:
@@ -111,26 +116,21 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
-    - title: Inbox
-      path: /programs/inbox.html
-      items:
-        - title: Inbox Views
-          path: /programs/inbox-views.html
 - title: Integrations
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
-    - title: Assembla Integration
+    - title: Assembla
       path: /programs/assembla-integration.html
-    - title: Bugzilla Integration
+    - title: Bugzilla
       path: /programs/bugzilla-integration.html
-    - title: Freshdesk Integration
+    - title: Freshdesk
       path: /programs/freshdesk-integration.html
-    - title: GitHub Integration
+    - title: GitHub
       path: /programs/github-integration.html
-    - title: GitLab Integration
+    - title: GitLab
       path: /programs/gitlab-integration.html
-    - title: Jira Integration
+    - title: Jira
       path: /programs/jira-integration.html
       items:
         - title: Jira-Cloud Integration
@@ -139,17 +139,17 @@
           path: /programs/jira-server-integration.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
-    - title: MantisBT Integration
+    - title: MantisBT
       path: /programs/mantisbt-integration.html
-    - title: OTRS Integration
+    - title: OTRS
       path: /programs/otrs-integration.html
-    - title: ServiceNow Integration
+    - title: ServiceNow
       path: /programs/servicenow-integration.html
-    - title: Slack Integration
+    - title: Slack
       path: /programs/slack-integration.html
-    - title: Redmine Integration
+    - title: Redmine
       path: /programs/redmine-integration.html
-    - title: Trac Integration
+    - title: Trac 
       path: /programs/trac-integration.html
     - title: Zendesk
       path: /programs/zendesk-integration.html
