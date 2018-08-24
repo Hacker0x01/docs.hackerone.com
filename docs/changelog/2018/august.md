@@ -4,8 +4,8 @@ path: "/changelog/2018/august"
 date: "2018-08"
 ---
 
-### Publishing External Vulnerabilities (beta)
-We now enable select hackers to publish their findings from external sources that don't have HackerOne programs. Want to learn more or join the waitlist? Click [here](/hackers/publishing-external-vulnerabilities.html) to learn more.
+### Publishing External Vulnerabilities
+We now enable hackers to publish their findings from external sources that don't have HackerOne programs. Click [here](/hackers/publishing-external-vulnerabilities.html) to learn more.
 ![aug-2018-publishing](./images/aug-2018-hacktivity++.png)
 
 ### Two-Factor Authentication
