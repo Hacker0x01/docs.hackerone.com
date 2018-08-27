@@ -40,6 +40,7 @@ _This text is underlined_
 **This text is bold**
 __This text is bold__
 --This text is deleted--
+==This text is highlighted==
 ```
 *This text is italicized*
 
@@ -50,6 +51,8 @@ __This text is bold__
 __This text is bold__
 
 ~~This text is deleted~~
+
+![markdown-0](./images/markdown-0.png)
 
 ### LISTS
 #### Unordered Lists
