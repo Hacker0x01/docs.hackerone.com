@@ -52,8 +52,6 @@ __This text is bold__
 
 ~~This text is deleted~~
 
-<img align="left" src="./images/markdown-0.png">
-
 ### LISTS
 #### Unordered Lists
 ```
