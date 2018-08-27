@@ -14,7 +14,7 @@ HackerOne currently supports these integrations:
 * [Jira](jira-integration.html)
 * [MantisBT](mantisbt-integration.html)
 * [OTRS](otrs-integration.html)
-* [Phabricator]
+* [Phabricator](phabricator-integration.html)
 * [ServiceNow](servicenow-integration.html)
 * [Slack](slack-integration.html)
 * [Redmine](redmine-integration.html)
