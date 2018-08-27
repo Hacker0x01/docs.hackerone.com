@@ -52,7 +52,7 @@ __This text is bold__
 
 ~~This text is deleted~~
 
-<img src="./images/markdown-0.png" align="left">
+<img align="left" src="./images/markdown-0.png">
 
 ### LISTS
 #### Unordered Lists
