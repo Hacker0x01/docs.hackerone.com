@@ -4,7 +4,7 @@ path: "/programs/defining-scope.html"
 id: "programs/defining-scope"
 ---
 
-Your Scope is a collection of assets you want hackers to hack. When assets are listed, hackers are required to select the applicable asset for each report. Any special requirements will now be explicitly attached to the particular asset in question.
+Your Scope is a collection of assets you want hackers to hack on. When assets are listed, hackers are required to select the applicable asset for each report. Any special requirements will now be explicitly attached to the particular asset in question.
 
 ### To Create and Edit your Scope
 To view and edit your existing scope:
@@ -24,7 +24,7 @@ Types | The asset type. <br>You can choose from these options: CIDR, Domain, iOS
 Identifier | How hackers will know that they are at the correct asset that you specified.
 Eligibility for Submission | Whether you want hackers to submit to reports about this asset. If you select "no", hackers will see the asset on a report form with a red warning and won't be able to submit reports marked for this asset.
 Eligibility for Bounty | Whether you intend on providing bounties for this asset or not. If you have a mixed Bug Bounty - Vulnerability Disclosure program, you'll want to explicitly mark the assets you will or will not pay for. This is also surfaced to hackers on both your team profile and the report submission form.
-Environmental Score | These metrics determine the severity of the vulnerability for the asset. You can adjust the severity of each vulnerability submission based on the environment by specifying the maximum impact to Confidentiality, Integrity, or Availability of that asset's data.
+[Environmental Score](environmental-score.html) | These metrics determine the [severity](severity.html) of the vulnerability for the asset. You can adjust the severity of each vulnerability submission based on the environment by specifying the maximum impact to Confidentiality, Integrity, or Availability of that asset's data.
 Instruction | If you have any detail descriptions or comments on the asset, this field will surface that on both your program profile page and your report submission form.
 4. Click **Add Asset**.
 

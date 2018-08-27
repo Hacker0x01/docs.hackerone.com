@@ -15,6 +15,8 @@
           path: /programs/start-h1-bounty.html
     - title: Private vs Public Programs
       path: /programs/private-vs-public-programs.html
+    - title: Parent/Child Programs
+      path: /programs/parent-child-programs.html
     - title: Using Markdown
       path: /programs/using-markdown.html
 - title: Your Program
@@ -37,8 +39,10 @@
           path: /programs/scope-best-practices.html
         - title: Asset Types
           path: /programs/asset-types.html
+        - title: Severity
+          path: /programs/severity.html
         - title: Environmental Score
-          path: /programs/environmental-score.html 
+          path: /programs/environmental-score.html
     - title: Bounty Tables
       path: /programs/bounty-tables.html
       items:
@@ -72,6 +76,11 @@
       path: /programs/two-factor-authentication.html
 - title: Reports
   items:
+    - title: Inbox
+      path: /programs/inbox.html
+      items:
+        - title: Inbox Views
+          path: /programs/inbox-views.html
     - title: Report Management
       path: /programs/report-management.html
       items:
@@ -89,12 +98,13 @@
           path: /programs/export-reports.html
         - title: Response Labels
           path: /programs/response-labels.html
-        - title: Severity
-          path: /programs/severity.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
     - title: Public Disclosure
       path: /programs/public-disclosure.html
+      items:
+        - title: Limiting Disclosed Information
+          path: /programs/limiting-disclosed-information.html
     - title: Automation
       path: /programs/automation.html
       items:
@@ -106,23 +116,21 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
-    - title: Inbox Views
-      path: /programs/inbox-views.html
 - title: Integrations
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
-    - title: Assembla Integration
+    - title: Assembla
       path: /programs/assembla-integration.html
-    - title: Bugzilla Integration
+    - title: Bugzilla
       path: /programs/bugzilla-integration.html
-    - title: Freshdesk Integration
+    - title: Freshdesk
       path: /programs/freshdesk-integration.html
-    - title: GitHub Integration
+    - title: GitHub
       path: /programs/github-integration.html
-    - title: GitLab Integration
+    - title: GitLab
       path: /programs/gitlab-integration.html
-    - title: Jira Integration
+    - title: Jira
       path: /programs/jira-integration.html
       items:
         - title: Jira-Cloud Integration
@@ -131,17 +139,17 @@
           path: /programs/jira-server-integration.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
-    - title: MantisBT Integration
+    - title: MantisBT
       path: /programs/mantisbt-integration.html
-    - title: OTRS Integration
+    - title: OTRS
       path: /programs/otrs-integration.html
-    - title: ServiceNow Integration
+    - title: ServiceNow
       path: /programs/servicenow-integration.html
-    - title: Slack Integration
+    - title: Slack
       path: /programs/slack-integration.html
-    - title: Redmine Integration
+    - title: Redmine
       path: /programs/redmine-integration.html
-    - title: Trac Integration
+    - title: Trac 
       path: /programs/trac-integration.html
     - title: Zendesk
       path: /programs/zendesk-integration.html
@@ -161,13 +169,18 @@
       path: /programs/hacker-feedback-dashboard.html
 - title: Hacker Engagement
   items:
+    - title: Hacktivity
+      path: /programs/hacktivity.html
     - title: Signal Requirements
       path: /programs/signal-requirements.html
-    - title: Message Hackers
-      path: /programs/message-hackers.html
     - title: Communicating with Hackers
       path: /programs/communicating-with-hackers.html
+      items:
+        - title: Message Hackers
+          path: /programs/message-hackers.html
     - title: Hacker Email Alias
       path: /programs/hacker-email-alias.html
+    - title: Hacker Mediation
+      path: /programs/hacker-mediation.html
     - title: Hacker Reviews
       path: /programs/hacker-reviews.html
