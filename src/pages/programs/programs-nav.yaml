@@ -143,13 +143,15 @@
       path: /programs/mantisbt-integration.html
     - title: OTRS
       path: /programs/otrs-integration.html
+    - title: Phabricator
+      path: /programs/phabricator-integration.html
     - title: ServiceNow
       path: /programs/servicenow-integration.html
     - title: Slack
       path: /programs/slack-integration.html
     - title: Redmine
       path: /programs/redmine-integration.html
-    - title: Trac 
+    - title: Trac
       path: /programs/trac-integration.html
     - title: Zendesk
       path: /programs/zendesk-integration.html
