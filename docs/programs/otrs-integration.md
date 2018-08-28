@@ -6,7 +6,7 @@ id: "programs/otrs-integration"
 
 With OTRS integration, HackerOne makes it easy for you to track OTRS issues as references on the platform.
 
-In order to configure OTRS integration for your team, contact HackerOne with the following information:   
+In order to configure OTRS integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:   
 
 - The base URI of the OTRS instance (e.g. https://otrs.company.com/otrs/)
 - The queue you'd like issues to default to. You must provide both the numeric queue ID and the queue name string.
@@ -17,7 +17,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your OTRS integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

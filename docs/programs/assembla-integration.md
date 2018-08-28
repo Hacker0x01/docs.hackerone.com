@@ -6,7 +6,7 @@ id: "programs/assembla-integration"
 
 With Assembla integration, HackerOne makes it easy for you to track Assembla issues as references on HackerOne.
 
-In order to configure Assembla integrations for your team, contact HackerOne with the following information to start the integration process:
+In order to configure Assembla integrations for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
 
 * The ID of the Assembla space to use (e.g. “company”)
 * Any other custom/specific fields you’d like pre-populated such as the component, milestone, priority, permission type.
@@ -17,7 +17,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your Assembla integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

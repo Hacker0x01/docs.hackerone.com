@@ -6,7 +6,7 @@ id: "programs/redmine-integration"
 
 With Redmine integration, HackerOne makes it easy for you to track Redmine issues as references on HackerOne.
 
-In order to configure Redmine integration for you team, contact HackerOne with the following information:   
+In order to configure Redmine integration for you team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:   
 
 - The base URI of the Redmine instance (e.g. https://redmine.company.com/)
 - The project (project_id) you’d like issues to default to (an integer)
@@ -17,7 +17,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your Redmine integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 
