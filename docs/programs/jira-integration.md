@@ -4,14 +4,14 @@ path: "/programs/jira-integration.html"
 id: "programs/jira-integration"
 ---
 
-HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. There's no need to go back and forth between Jira and HackerOne. With this integration, valid bug reports become task assignments in JIRA with a single click, and fixed bugs automatically come back as being marked as resolved. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities.
+HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
 These events and directions are currently supported through the bi-directional Jira integration:
 
 HackerOne to Jira | Jira to HackerOne
 ----------------- | -------------------
 Comments | Comments
-State changes | State changes
+State changes | State changes<br><i>Note: The state change in Jira only shows up as an internal comment in the HackerOne report. The HackerOne report state doesn't change. You'll need to log into HackerOne to change the report state.
 Rewards | Resolution changes
 Asignee changes | Asignee changes
 Public disclosure | Priority changes
