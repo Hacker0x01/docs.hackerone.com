@@ -94,7 +94,7 @@
           path: /programs/locking-reports.html
         - title: Duplicate Reports
           path: /programs/duplicate-reports.html
-        - title: Export Reports
+        - title: Exporting Reports
           path: /programs/export-reports.html
         - title: Response Labels
           path: /programs/response-labels.html
