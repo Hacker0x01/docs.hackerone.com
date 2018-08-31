@@ -48,7 +48,7 @@ To export reports as markdown or .zip files:
 1. Select the report you want to export from your inbox.
 2. Click <b>Export</b> within the report.
 
-![export-reports-1](./images/export-reports-1.png)
+![export-reports-2](./images/export-reports-2.png)
 
 3. Select the type of file you want to export the report as. You can choose from:
 
