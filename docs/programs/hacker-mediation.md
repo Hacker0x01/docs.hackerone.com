@@ -27,9 +27,9 @@ This will trigger a workflow to reach out to both you and the relevant hacker.
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following actions:
 
-1) An email is sent to the hacker warning them of their behavior, or if the situation warrants a ban, the hacker will be notified that they'll be removed from the program.
+* An email is sent to the hacker warning them of their behavior, or if the situation warrants a ban, the hacker will be notified that they'll be removed from the program.
 
-2) If the hacker doesn't respond to the security team, or if the situation isn't resolved, HackerOne will evaluate all available information about the vulnerability report, the program that requested mediation, and the hacker to determine the appropriate level of escalation.
+* If the hacker doesn't respond to the security team, or if the situation isn't resolved, HackerOne will evaluate all available information about the vulnerability report, the program that requested mediation, and the hacker to determine the appropriate level of escalation.
 
 While HackerOne can't guarantee resolution or override a security team's assessment, hacker mediation has been used to successfully bring items to the security teams' attention, resulting in a more favorable outcome for everyone involved.
 

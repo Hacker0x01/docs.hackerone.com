@@ -167,8 +167,11 @@
       path: /programs/bonuses.html
 - title: Analytics
   items:
-    - title: Hacker Feedback Dashboard
-      path: /programs/hacker-feedback-dashboard.html
+    - title: Dashboards
+      path: /programs/dashboards.html
+      items:
+        - title: Hacker Feedback Dashboard
+          path: /programs/hacker-feedback-dashboard.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
