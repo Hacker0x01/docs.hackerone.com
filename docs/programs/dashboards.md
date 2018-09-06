@@ -33,6 +33,4 @@ You can view the metrics of the average time to:
 * Bounty
 * Resolution
 
-* test
-
 ![image](./images/dashboards-2.png)
