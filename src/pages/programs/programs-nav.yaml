@@ -66,8 +66,8 @@
       path: /programs/invitations.html
     - title: CVE Requests
       path: /programs/cve-requests.html
-    - title: Submissions
-      path: /programs/submissions.html
+    - title: Submission
+      path: /programs/submission.html
       items:
         - title: Signal Requirements
           path: /programs/signal-requirements.html  
