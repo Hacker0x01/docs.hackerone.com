@@ -1,7 +1,7 @@
 ---
 title: "Submission"
-path: "/programs/submissions.html"
-id: "programs/submissions"
+path: "/programs/submission.html"
+id: "programs/submission"
 ---
 
 The Submission page enables you to set specific requirements for hackers to submit reports to your program. You can require hackers to meet certain [signal requirements](signal-requirements.html) and set up two-factor authentication.
