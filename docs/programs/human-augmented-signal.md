@@ -21,5 +21,5 @@ No. By enabling this feature, you grant authorized HackerOne staff members tempo
 
 ### How Do I Enable It?
 To enable Human-Augmented Signal:
-1. Go to your program's **Settings > Program > Submissions**.
+1. Go to your program's **Settings > Program > Submission**.
 2. Select **Enabled**.
