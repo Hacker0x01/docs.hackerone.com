@@ -25,6 +25,7 @@ To have an embedded submissions form on your website:
 
 <i>Note: The url within the script contains a UUID (e.g. 25ab901d-7cea-481b-8ac2-c16b7d10d577). This UUID is used by the embedded page to grant users access to submit reports to your program. Any user with access to the UUID will be able to submit reports. It’s important that you disclose this UUID if you want to restrict access to submissions.</i>
 
+### How it Works
 When hackers submit reports through the embedded form, the form automatically detects if a hacker is signed in to H1 and allows them to submit a report. If a hacker isn’t a member or signed in, they can provide their email in the Email field to receive status updates on their report.  
 
 Anonymous submissions will always remain anonymous and can’t be claimed later for reputation or bounties. If an email address is provided, HackerOne will be able to check if an account exists with that email on HackerOne and send the hacker an email to claim the report or to create an account to claim the report.
