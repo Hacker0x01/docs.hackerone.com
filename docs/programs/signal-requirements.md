@@ -9,7 +9,7 @@ A hacker's reputation measures how likely their finding is to be immediately rel
 Signal Requirements enable a program to set a Signal threshold that hackers must reach in order to submit reports to the program. If a hacker falls below the threshold, they will have a restricted number of reports they can submit to your program. This will improve the quality of reports programs can expect to receive from hackers.
 
 To enable Signal Requirements:
-1. Go to **Settings > Program > Submissions**.
+1. Go to **Settings > Program > Submission**.
 2. Choose from 1 of these 4 options in the **Signal Requirements** section:
 
 Option | Detail
