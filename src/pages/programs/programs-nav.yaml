@@ -66,6 +66,13 @@
       path: /programs/invitations.html
     - title: CVE Requests
       path: /programs/cve-requests.html
+    - title: Submission
+      path: /programs/submission.html
+      items:
+        - title: Signal Requirements
+          path: /programs/signal-requirements.html  
+        - title: Human-Augmented Signal
+          path: /programs/human-augmented-signal.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Groups and Permissions
@@ -108,8 +115,6 @@
     - title: Automation
       path: /programs/automation.html
       items:
-        - title: Human-Augmented Signal
-          path: /programs/human-augmented-signal.html
         - title: Common Responses
           path: /programs/common-responses.html
         - title: Triggers
@@ -178,8 +183,6 @@
   items:
     - title: Hacktivity
       path: /programs/hacktivity.html
-    - title: Signal Requirements
-      path: /programs/signal-requirements.html
     - title: Communicating with Hackers
       path: /programs/communicating-with-hackers.html
       items:
