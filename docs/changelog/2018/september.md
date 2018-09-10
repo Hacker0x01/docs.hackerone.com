@@ -12,5 +12,5 @@ We've also renamed the <b>Signal Requirements</b> page under <b>Settings > Progr
 ![submissions](./images/submission.png)
 
 ### Embedded Submission Form
-Programs can now embed the HackerOne report submission form onto their own website. This enables hackers to submit reports without having to create an account on HackerOne. Learn more [here](https://docs.hackerone.com/programs/embedded-submission-form.html).
+Programs can now embed the HackerOne report submission form onto their own website. This enables hackers to submit reports without having to create an account on HackerOne. Learn more [here](https://docs.hackerone.com/programs/embedded-submissions-form.html).
 ![embedded-submissions](./images/embedded-submissions.png)
