@@ -70,7 +70,7 @@
       path: /programs/submission.html
       items:
         - title: Signal Requirements
-          path: /programs/signal-requirements.html  
+          path: /programs/signal-requirements.html
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal.html
     - title: Email Forwarding
@@ -125,8 +125,8 @@
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
-    - title: Embedded Submissions Form
-      path: /programs/embedded-submissions-form.html
+    - title: Embedded Submission Form
+      path: /programs/embedded-submission-form.html
     - title: Assembla
       path: /programs/assembla-integration.html
     - title: Bugzilla
