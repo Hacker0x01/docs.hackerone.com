@@ -8,7 +8,7 @@ You can embed the HackerOne report submission form onto your own website. This e
 
 <i>This feature is currently in beta. Please contact your program manager if you want to participate in the beta.</i>
 
-### Set Up an Embedded Submissions Form  
+### Set Up an Embedded Submission Form  
 To have an embedded submissions form on your website:
 1. Go to <b>Settings > Integrations > Embedded Submission</b>.
 
