@@ -127,6 +127,8 @@
       path: /programs/supported-integrations.html
     - title: Embedded Submission Form
       path: /programs/embedded-submissions-form.html
+    - title: API Tokens
+      path: /programs/api-tokens.html
     - title: Assembla
       path: /programs/assembla-integration.html
     - title: Bugzilla
