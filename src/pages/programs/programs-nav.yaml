@@ -73,8 +73,6 @@
           path: /programs/signal-requirements.html
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal.html
-    - title: Email Forwarding
-      path: /programs/email-forwarding.html
     - title: Groups and Permissions
       path: /programs/groups-and-permissions.html
     - title: Single Sign-On via SAML
@@ -125,6 +123,8 @@
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
+    - title: Email Forwarding
+      path: /programs/email-forwarding.html
     - title: Embedded Submission Form
       path: /programs/embedded-submissions-form.html
     - title: API Tokens
