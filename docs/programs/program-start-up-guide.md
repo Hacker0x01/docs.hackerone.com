@@ -21,5 +21,5 @@ HackerOne Bounty | A continuous security program in which trusted hackers are in
 ![getting-started-1](./images/getting-started-1.png)
 
 ### Next Steps
-* [Start H1 Response](start-h1-response.html) or [Start H1 Bounty](start-h1-bounty.html).
+* [Start HackerOne Response](start-h1-response.html) or [Start HackerOne Bounty](start-h1-bounty.html).
 * [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to work with one of our program managers to get guidance on setting up your program.

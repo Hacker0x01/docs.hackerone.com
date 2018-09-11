@@ -1,5 +1,5 @@
 ---
-title: "Start H1 Bounty"
+title: "Start HackerOne Bounty"
 path: "/programs/start-h1-bounty.html"
 id: "programs/start-h1-bounty"
 ---
