@@ -7,9 +7,12 @@ The Security Page contains key information about your program and your security 
 * Disclosure policy
 * Bug eligibility
 * Policy for in-scope eligibility
+* Bounty reward structure
+
+![security-page-3](./images/security-page-3.png)
 
 ### Completing the Security Page
-To edit your Security Page, go to **Settings > General > Information**. 
+To edit your Security Page, go to **Settings > General > Information**.
 
 A complete security page includes the following:
 * Logo
@@ -32,22 +35,22 @@ Unless a security page is claimed, the page is curated by the HackerOne communit
 You don't have to be a HackerOne customer in order to claim a Security Page, though signing up for a free HackerOne account is necessary.
 
 To claim a security page:
-1. Find an unclaimed security page in the directory. 
-   
-<i>Note: Unclaimed pages have the **Claim this page** and the **Suggest edits** link.</i> 
-    
+1. Find an unclaimed security page in the directory.
+
+<i>Note: Unclaimed pages have the **Claim this page** and the **Suggest edits** link.</i>
+
     ![security-page-1](./images/security-page-1.png)
-    
-<i>Claimed pages don't have the link available.</i> 
-    
+
+<i>Claimed pages don't have the link available.</i>
+
     ![security page-2](./images/security-page-2.png)
 
-2. Click the **Claim this page** link. 
+2. Click the **Claim this page** link.
 3. A HackerOne staff will either approve or reject your claim request. If your request is approved, you'll be given editing rights to the entire page.  
 
 HackerOne reviews each claim submission for validity before granting the claim. A security page can only be claimed once. Once you claim your security page, the community can no longer edit it.
 
-*Note: Hackers looking to claim a page need to be above a certain reputation threshold to be given direct editing rights. If they don't have rights, they can suggest changes which will get reviewed and approved by HackerOne staff.* 
+*Note: Hackers looking to claim a page need to be above a certain reputation threshold to be given direct editing rights. If they don't have rights, they can suggest changes which will get reviewed and approved by HackerOne staff.*
 
 ### Suggesting Edits on the Security Page
-You can suggest edits to any unclaimed security page by clicking on the **Suggest edits** link. A HackerOne staff will review your changes and approve them if they are valid. 
+You can suggest edits to any unclaimed security page by clicking on the **Suggest edits** link. A HackerOne staff will review your changes and approve them if they are valid.
