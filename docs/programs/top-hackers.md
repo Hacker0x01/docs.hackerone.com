@@ -11,7 +11,7 @@ Your Security Page can list the top 5 hackers (ranked by reputation) that disclo
 Hackers that earn reputation for a resolved report are automatically recognized and given Thanks on your program. Users viewing the Top Hackers section on your security page can click on <b>All Hackers</b> to be directed to your <b>Thanks</b> page.
 
 ### Program Thanks Page
-The Thanks page shows all hackers that have submitted a resolved report to your program.  It’s a continued list from the <b>Top hackers</b> list on your Security Page.  Giving Thanks to hackers happens automatically for every report where reputation is earned. All hackers will receive Thanks when their report is resolved.
+The Thanks page shows all hackers that have submitted a resolved report to your program.  It’s a continued list from the <b>Top hackers</b> list on your Security Page. Giving Thanks to hackers happens automatically for every report where reputation is earned. All hackers will receive Thanks when their report is resolved.
 
 ![top-hackers-2](./images/top-hackers-2.png)
 
