@@ -17,6 +17,8 @@
           path: /hackers/signal-and-impact.html
     - title: Badges
       path: /hackers/badges.html
+    - title: Thanks
+      path: /hackers/thanks.html
     - title: Payments
       path: /hackers/payments.html
       items:
