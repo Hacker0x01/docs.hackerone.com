@@ -28,6 +28,8 @@
           path: /programs/program-metrics.html
         - title: Response Target Indicators
           path: /programs/response-target-indicators.html
+        - title: Top Hackers
+          path: /programs/top-hackers.html
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
