@@ -67,6 +67,8 @@
   items:
     - title: Submitting Reports
       path: /hackers/submitting-reports.html
+    - title: Restricted from Submissions
+      path: /hackers/restricted-from-submissions.html
     - title: Report Actions
       path: /hackers/report-actions.html
     - title: Report States

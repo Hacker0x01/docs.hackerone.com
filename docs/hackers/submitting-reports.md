@@ -26,3 +26,7 @@ In order to submit reports:
 8. Click **Submit Report**.
 
 After you've submitted your report, you must wait for programs to respond to your submission.
+
+### Related Pages
+
+[Restricted From Submissions](/hackers/restricted-from-submissions.html)
