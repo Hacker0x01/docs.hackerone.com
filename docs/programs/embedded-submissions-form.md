@@ -6,6 +6,8 @@ id: "programs/embedded-submissions-form"
 
 You can embed the HackerOne report submission form onto your own website. This enables hackers to submit reports without having to create an account on HackerOne. This also provides hackers with an easy way to submit security vulnerabilities without having to search for the VDP or security policy. With embedded submissions, anyone can submit a report to the program and hackers also have the option to anonymously submit reports.
 
+If you have [signal requirements](signal-requirements.html) set up for your program, please note that the embedded submission form bypasses all signal requirements that've already been set up. Hackers who don't meet signal requirements will still be able to submit vulnerabilities to your program through the embedded submission form.
+
 <i>This feature is currently in beta. Please contact your program manager if you want to participate in the beta.</i>
 
 ### Set Up an Embedded Submission Form  
