@@ -81,6 +81,8 @@
       path: /programs/single-sign-on-sso-via-saml.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
+    - title: Credential Management
+      path: /programs/credential-management.html
 - title: Reports
   items:
     - title: Inbox
