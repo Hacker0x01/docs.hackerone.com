@@ -11,7 +11,6 @@ To generate an API token:
 ![api-token-1](./images/api-token-1.png)
 
 2. Click <b>Create API Token</b>.
-![api-token-2](./images/api-token-2.png)
 
 3. Enter an identifier for the new API token.
 ![api-token-3](./images/api-token-3.png)
@@ -27,8 +26,5 @@ To learn more about the HackerOne API check out our [API docs](https://api.hacke
 ### Managing Groups
 To manage which groups have access to the API tokens:
 1. Click <b>Manage groups</b> on the API settings page for the identifier you want to manage groups for.
-![api-token-5](./images/api-token-5.png)
-
 2. Select which groups you want to give permissions to. When a group isn’t selected, they only have read-only permissions.
 3. Click <b>Apply changes</b>.
-![api-token-6](.images/api-token-6.png)
