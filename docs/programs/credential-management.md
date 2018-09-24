@@ -4,7 +4,7 @@ path: "/programs/credential-management.html"
 id: "programs/credential-management"
 ---
 
-The Credential Management feature enables you to pre-populate the credentials to access your assets on HackerOne. This enables participating hackers to quickly retrieve the credentials needed to find vulnerabilities in your program.
+The Credential Management feature enables you to easily share access credentials with hackers so that you don't have to constantly create sign in credentials for each new hacker that participates in your program. This also enables participating hackers to quickly retrieve the credentials needed to find vulnerabilities in your program.
 
 <i>This feature is currently in beta and only available to select programs.</i>
 
