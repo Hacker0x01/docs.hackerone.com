@@ -43,6 +43,8 @@
       items:
         - title: Create a Directory Page
           path: /hackers/create-a-directory-page.html
+    - title: Credentials
+      path: /hackers/credentials.html 
     - title: Hacker101
       path: /hackers/hacker101.html
     - title: 90 Day Leaderboard
