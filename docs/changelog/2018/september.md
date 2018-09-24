@@ -14,3 +14,7 @@ We've also renamed the <b>Signal Requirements</b> page under <b>Settings > Progr
 ### Embedded Submission Form
 Programs can now embed the HackerOne report submission form onto their own website. This enables hackers to submit reports without having to create an account on HackerOne. Learn more [here](https://docs.hackerone.com/programs/embedded-submissions-form.html).
 ![embedded-submissions](./images/embedded-submissions.png)
+
+### Credential Management (beta)
+We've enabled the beta Credential Management feature so that select programs can share credentials with hackers through the HackerOne UI. This enables hackers to quickly retrieve the credentials needed to find vulnerabilities. 
+![credential management](./images/credential-management-2.png)
