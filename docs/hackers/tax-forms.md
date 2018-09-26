@@ -21,4 +21,5 @@ To sign your tax form:
 
 You can refer to these links for instructions on how to fill out your respective tax form:
 * W-8BEN: https://www.irs.gov/pub/irs-pdf/iw8ben.pdf
-* W-9: https://www.irs.gov/pub/irs-pdf/iw8ben.pdf
+* W-8BEN-E: https://www.irs.gov/pub/irs-pdf/iw8bene.pdf
+* W-9: https://www.irs.gov/pub/irs-pdf/iw9.pdf
