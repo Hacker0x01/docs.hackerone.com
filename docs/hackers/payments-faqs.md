@@ -6,8 +6,11 @@ id: "hackers/payments-faqs"
 
 ### Priority vs Normal Payments
 #### Why can’t I choose normal (local) payments instead of priority (swift) payments in a bank transfer?
-
 You’re unable to use normal payment options because your bank doesn’t support such options. You’re instead defaulted to using priority payments. Some international payments require a SWIFT code in order for the money to be transferred. Please keep in mind that there’s a fee in processing your payment. If you don’t want to be charged the processing fee, you can look into other payout options such as PayPal or Coinbase. 
+
+### SEPA
+#### Is the transfer provided by CurrencyCloud a SEPA one when choosing EURO currency in the setup? 
+Yes, the transfer is SEPA if you choose for a Normal payment. If you select for a Priority payment, it will go through Swift.
 
 ### Supported Currencies
 #### Why can’t I receive payments in my currency?
