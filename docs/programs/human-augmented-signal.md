@@ -1,5 +1,5 @@
 ---
-title: "Human Augmented Signal"
+title: "Human-Augmented Signal"
 path: "/programs/human-augmented-signal.html"
 id: "programs/human-augmented-signal"
 ---
