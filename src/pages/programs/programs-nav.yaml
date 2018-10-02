@@ -125,6 +125,8 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
+    - title: Retesting
+      path: /programs/retesting.html
 - title: Integrations
   items:
     - title: Supported Integrations

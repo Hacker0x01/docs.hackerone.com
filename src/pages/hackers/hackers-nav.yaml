@@ -32,7 +32,7 @@
       path: /hackers/manage-notifications.html
     - title: Hacker Email Alias
       path: /hackers/hacker-email-alias.html
-    - title: Sessions 
+    - title: Sessions
       path: /hackers/sessions.html
     - title: Two-Factor Authentication
       path: /hackers/two-factor-authentication.html
@@ -47,6 +47,8 @@
           path: /hackers/create-a-directory-page.html
     - title: Credentials
       path: /hackers/credentials.html
+    - title: Retesting
+      path: /hackers/retesting.html
     - title: Hacker101
       path: /hackers/hacker101.html
     - title: 90 Day Leaderboard
