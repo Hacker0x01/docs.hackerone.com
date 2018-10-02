@@ -24,5 +24,5 @@ We've enabled the beta [Credential Management](/programs/credential-management.h
 ![credential management](./images/credential-management-2.png)
 
 ### Bug Fixes
-* Your active HackerOne sessions will no longer end prematurely.
+* Your active HackerOne sessions will no longer end prematurely. Sorry for that annoyance!
 * We've also fixed the "Remember me" bug. Your login credentials will actually be remembered for 2 week periods so that you don't have to repeatedly log in in order to access your account.  
