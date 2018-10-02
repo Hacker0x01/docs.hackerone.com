@@ -13,9 +13,9 @@ If you’re invited to retest a vulnerability, you’ll receive an invitation in
 ![retesting-5](./images/retesting-5.png)
 
 To participate in the retest:
-1. Click <b>View retest<./b> in your email.
+1. Click <b>View retest</b> in your email.
 2. Familiarize yourself with the contents of the report and check to see that the vulnerability has been fixed.
-3. Click the <b>answer these questions<b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
+3. Click the <b>answer these questions</b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
 
 ![retesting-1](./images/retesting-1.png)
 
