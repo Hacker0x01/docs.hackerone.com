@@ -22,7 +22,7 @@ Once your program manager has enabled the feature, to have hackers retest a vuln
 
 ![retest-2](./images/retesting-2.png)
 
-The original reporter as well as 4 random hackers participating in your program will be invited to retest the report through email.
+The original reporter as well as 4 eligible hackers participating in your program will be invited to retest the report through email.
 
 ![retest-3](./images/retesting-3.png)
 
