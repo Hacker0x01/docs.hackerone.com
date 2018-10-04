@@ -7,8 +7,8 @@ id: "hackers/sessions"
 The Sessions page enables you to review and manage all of your active HackerOne sessions on all of the devices you’re signed in to. All sessions are stored with an IP address and user agent that you can revoke at any time.  
 
 To manage your sessions:
-1. Go to your profile’s <b>Settings > Sessions</b>. 
-2. Click <b>Revoke</b> for the devices you want to sign out of. The Revoke button will cancel your session on that device. 
+1. Go to your profile’s <b>Settings > Sessions</b>.
+2. Click <b>Revoke</b> for the devices you want to sign out of. The Revoke button will cancel your session on that device.
 
 ![sessions-1](./images/sessions-1.png)
 
