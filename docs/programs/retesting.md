@@ -22,7 +22,7 @@ Once your program manager has enabled the feature, to have hackers retest a vuln
 
 ![retest-2](./images/retesting-2.png)
 
-The original reporter as well as 4 eligible hackers participating in your program will be invited to retest the report through email.
+The original reporter as well as 4 random hackers participating in your program will be invited to retest the report through email.
 
 ![retest-3](./images/retesting-3.png)
 
@@ -46,10 +46,10 @@ Upon submission of the questionnaire, you’ll be notified that a hacker has com
 
 Click on <b>View results</b> to see the status and findings of the retest efforts. If the hacker was able to find a bypass to the vulnerability, you can view the new vulnerability report.
 
-![retest-9](./images/retesting-9.png)
+![retest-8](./images/retesting-8.png)
 
 Hackers that completed the retest will automatically be awarded $100. The payment is a regular bounty payment and the transaction for retesting will show in your billing overview statement.
 
-![retest-10](./images/retesting-10.png)
+![retest-9](./images/retesting-9.png)
 
 <i>There’s currently no effect to reputation for verifying vulnerability fixes and there’s also no time limit for hackers to complete the retest.</i>
