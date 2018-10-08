@@ -10,28 +10,28 @@ As programs receive vulnerability reports and work on deploying fixes, they need
 
 If you’re invited to retest a vulnerability, you’ll receive an invitation in your email to retest the report.
 
-![retesting-5](./images/retesting-5.png)
+![retesting-1](./images/retesting-1.png)
 
 To participate in the retest:
 1. Click <b>View retest</b> in your email.
 2. Familiarize yourself with the contents of the report and check to see that the vulnerability has been fixed.
 3. Click the <b>answer these questions</b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
 
-![retesting-1](./images/retesting-1.png)
+![retesting-2](./images/retesting-2.png)
 
 4. Answer these questions in the questionnaire:
    * Are you able to reproduce the vulnerability?
    * Are you able to identify a bypass to the fix?
 
-![retesting-2](./images/retesting-2.png)
+![retesting-3](./images/retesting-3.png)
 
 5. Submit a new report if you found a new vulnerability by clicking on the <b>submit a new report</b> link, and enter the report ID number in the <b>Report ID</b> field.
 
-![retesting-3](./images/retesting-3.png)
+![retesting-4](./images/retesting-4.png)
 
 6. Click <b>Submit</b>.
 7. Click <b>Yes!</b> to finalize your submission.
 
-![retesting-4](./images/retesting-4.png)
+![retesting-5](./images/retesting-5.png)
 
 Upon completion, you'll be awarded with a $100 bounty.
