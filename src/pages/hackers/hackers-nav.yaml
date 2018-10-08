@@ -61,6 +61,8 @@
       path: /hackers/hacker-mediation.html
     - title: Disclosure Assistance
       path: /hackers/disclosure-assistance.html
+    - title: VPN
+      path: /hackers/vpn.html
 - title: Programs
   items:
     - title: Invitations
