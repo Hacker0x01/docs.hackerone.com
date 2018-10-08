@@ -47,6 +47,8 @@
           path: /hackers/create-a-directory-page.html
     - title: Credentials
       path: /hackers/credentials.html
+    - title: Configure the HackerOne VPN
+      path: /hackers/configure-the-hackerone-vpn.html
     - title: Retesting
       path: /hackers/retesting.html
     - title: Hacker101
