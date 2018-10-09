@@ -6,7 +6,7 @@ id: "programs/single-sign-on-sso-via-saml"
 
 HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Language 2.0 (SAML 2.0) for these providers:
 * Google
-* Okta
+* [Okta](https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-for-HackerOne.html)
 * [OneLogin](https://www.onelogin.com/connector/hackerone)
 * Bitium
 * Centrify
