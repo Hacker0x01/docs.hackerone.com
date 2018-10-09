@@ -15,6 +15,6 @@ You can view the FAQ list at https://www.hackerone.com/hacker101 or email hacker
 ### Hacker101 CTF
 Hacker 101 also offers a Capture The Flag (CTF) game where you can hack and hunt for bugs in a safe environment. The CTF serves as the official coursework for the class. You can still access the old coursework on the [github repo](https://github.com/Hacker0x01/Hacker101Coursework).
 
-Learn more about the Hacker101 CTF [here](https://ctf.hacker101.com/).
+Learn more about [Hacker101 CTF](https://ctf.hacker101.com/).
 
-![hacker101-2](./images/hacker101-2.png) 
+![hacker101-2](./images/hacker101-2.png)
