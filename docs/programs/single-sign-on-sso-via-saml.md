@@ -11,7 +11,7 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 * Bitium
 * Centrify
 * MS ADFS
-* Azure Active Directory
+* [Azure Active Directory](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/aad.hackerone)
 * Ping Identity
 
 [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) if you have another SAML provider.
