@@ -6,7 +6,7 @@ id: "hackers/configure-the-hackerone-vpn"
 
 Certain programs require you to have your own VPN instance and credentials on the HackerOne VPN in order to search for vulnerabilities. You can configure the HackerOne VPN to start your VPN instance and retrieve your credentials.
 
-<i>Note: The VPN is currently only enabled for a few select programs.</i>
+<i>Note: The VPN is currently only enabled for a few select programs. You can only access the VPN Credentials if you've accepted an invitation to a VPN enabled program.</i>
 
 ### VPN Configuration
 To configure the HackerOne VPN:
