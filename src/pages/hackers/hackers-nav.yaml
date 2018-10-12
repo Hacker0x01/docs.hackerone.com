@@ -61,7 +61,7 @@
       path: /hackers/hacker-mediation.html
     - title: Disclosure Assistance
       path: /hackers/disclosure-assistance.html
-    - title: Configuring VPN
+    - title: HackerOne VPN
       path: /hackers/configure-the-hackerone-vpn.html
 - title: Programs
   items:
