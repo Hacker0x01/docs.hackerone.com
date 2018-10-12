@@ -4,7 +4,7 @@ path: "/hackers/configure-the-hackerone-vpn.html"
 id: "hackers/configure-the-hackerone-vpn"
 ---
 
-Certain programs require you to have your own VPN instance and credentials on the HackerOne VPN in order to search for vulnerabilities. You can configure the HackerOne VPN to start your VPN instance and retrieve your credentials.
+Certain programs require you to have your own VPN instance and credentials on the HackerOne VPN in order to search for vulnerabilities. You can configure the HackerOne VPN to start your own VPN instance and retrieve your credentials.
 
 <i>Note: The VPN is currently only enabled for a few select programs. You can only access the VPN Credentials if you've accepted an invitation to a VPN enabled program.</i>
 
@@ -33,6 +33,6 @@ Once you've configured the HackerOne VPN and accepted an invitation to a VPN ena
 
 4. Import the <code>hackerone.ovpn</code> file in the OpenVPN client that you've configured.
 
-You'll be able to access your VPN credentials and work securely within the HackerOne VPN to search for vulnerabilities. 
+You'll be able to access your VPN credentials and work securely within the HackerOne VPN to search for vulnerabilities. Every hacker will have their own VPN instance. You can check to see that your VPN instance is running successfully on the VPN Credentials page. 
 
 If you have trouble installing the VPN, or have additional feedback, please reach out to [vpn-support@hackerone.com](mailto:vpn-support@hackerone.com)
