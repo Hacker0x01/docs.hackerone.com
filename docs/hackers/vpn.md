@@ -1,46 +1,38 @@
 ---
-title: "Configuring VPN"
+title: "HackerOne VPN"
 path: "/hackers/configure-the-hackerone-vpn.html"
 id: "hackers/configure-the-hackerone-vpn"
 ---
 
-<i>Note: VPN is currently only enabled for a few select programs.</i>
+Certain programs require you to have your own VPN instance and credentials on the HackerOne VPN in order to search for vulnerabilities. You can configure the HackerOne VPN to start your VPN instance and retrieve your credentials.
 
-### 1. Install the HackerOne Root CA
+<i>Note: The VPN is currently only enabled for a few select programs.</i>
 
-* HackerOne has its own Root CA Certificate. You can download it [here](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
-* The installation instructions for most operating systems and software are [here](https://www.bounca.org/tutorials/install_root_certificate.html).
+### VPN Configuration
+To configure the HackerOne VPN:
+1. Install the HackerOne Root CA. 
+     * HackerOne has its own Root CA Certificate that you can [download](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
+     * You can access the installation instructions for most operating systems and software [here](https://www.bounca.org/tutorials/install_root_certificate.html).
+2. Install an OpenVPN Client. 
+     * In order to use our VPN service, you need a VPN client that supports OpenVPN. Here are some clients you can use and their installation instructions:
+        * macOS: [Tunnelblick](https://tunnelblick.net/cInstall.html)
+        * Windows: [openvpn-gui](https://github.com/OpenVPN/openvpn-gui/blob/master/README.rst)
+        * Linux: [Ubuntu network manager](https://torguard.net/knowledgebase.php?action=displayarticle&id=53)
+        * Linux: [terminal](https://openvpn.net/index.php/access-server/docs/admin-guides/182-how-to-connect-to-access-server-with-linux-clients.html)
+        
+### Accessing your VPN Credentials
+Once you've configured the HackerOne VPN and accepted an invitation to a VPN enabled program, to access your VPN Credentials: 
+1. Go to your <b>Settings > VPN Credentials</b>. 
+2. Click <b>Create Credentials</b> to generate your VPN credentials. <i>Note: It'll take a few minutes to generate your credentials. Sorry for the wait!</i>
 
-### 2. Install an OpenVPN Client
+![vpn home page](./images/vpn-1.png)
 
-In order to use our VPN service, you need a VPN client which supports OpenVPN.
-Here are some clients and their installation instructions:
+3. Click <b>Download</b> to download the <code>hackerone.ovpn</code> file.
 
-* macOS: [Tunnelblick] (https://tunnelblick.net/cInstall.html)
-* Windows: [openvpn-gui] (https://github.com/OpenVPN/openvpn-gui/blob/master/README.rst)
-* Linux: [Ubuntu network manager] (https://torguard.net/knowledgebase.php?action=displayarticle&id=53)
-* Linux: [terminal] (https://openvpn.net/index.php/access-server/docs/admin-guides/182-how-to-connect-to-access-server-with-linux-clients.html )
+![vpn download link](./images/vpn-2.png)
 
-### 3. Create your credentials
+4. Import the <code>hackerone.ovpn</code> file in the OpenVPN client that you've configured.
 
-When you have accepted an invitation to a VPN enabled program,
-you will see the "VPN Credentials" page in your user settings.
-
-* Visit the "VPN Credentials" page in your user settings.
-* Click "Create credentials" to generate your VPN credentials.
-* Please be patient, it takes a few minutes to generate your credentials.
-
-![vpn-1](./images/vpn-1.png)
-
-### 4. Install your credentials
-
-* Click "Download" to start the download of the <code>hackerone.ovpn</code> file.
-* Import the <code>hackerone.ovpn</code> file in your OpenVPN client of choice (see above).
-
-![vpn-2](./images/vpn-2.png)
-
-### Support
+You'll be able to access your VPN credentials and work securely within the HackerOne VPN to search for vulnerabilities. 
 
 If you have trouble installing the VPN, or have additional feedback, please reach out to [vpn-support@hackerone.com](mailto:vpn-support@hackerone.com)
-
-
