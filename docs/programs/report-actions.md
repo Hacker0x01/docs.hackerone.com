@@ -60,8 +60,6 @@ Option | Detail
 Triaged | The report has passed the initial validation and is pending resolution. You can briefly describe the next steps in the comments section such as further investigation, escalation, engineer preparing a fix. *(Optional) When you select triage, you can enter the reference ID to your integration in the **Reference ID** field.*
 New | The report is pending triage and validation.
 
-4) When the report is
-
 4) Click **Change state**.
 
 ![report-action-5](./images/report-action-5.png)
