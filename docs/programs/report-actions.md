@@ -4,16 +4,17 @@ path: "/programs/report-actions.html"
 id: "programs/report-actions"
 ---
 
-There are 5 actions you can take on a report in your inbox:
-* Add comment
-* Close report
-* Change state
-* Assign report
-* Set award
+There are several actions you can take on a report in your inbox. You can:
+* Add a comment
+* Close a report
+* Change the state
+* Assign a report
+* Unassign a report
+* Set an award
 
 ![report-actions](./images/report-actions-1.png)
 
-### Add Comment
+### Add a Comment
 You can dialogue with hackers or team members or make notes about the report through adding comments.
 
 To add a comment:
@@ -30,7 +31,7 @@ All participants | All participants of the report will be able to view the comme
 
 ![report-actions-2](./images/report-action-2.png)
 
-### Close Report
+### Close a Report
 You can close a report to mark that it's either:
 * Resolved
 * Informative
@@ -46,7 +47,7 @@ To close a report:
 
 ![report-action-3](./images/report-actions-3.png)
 
-### Change State
+### Change the State
 You can change the state of a report to be marked as either *triaged* or *new*. This'll help you keep track of what state your report is in.
 
 To change the state of a report:
@@ -65,8 +66,8 @@ New | The report is pending triage and validation.
 
 ![report-action-5](./images/report-action-5.png)
 
-### Assign Report
-You can assign reports to individual members in your program or to groups to evaluate and take action on the report.
+### Assign a Report
+You can assign reports to individual members or groups in your program to evaluate and take action on a report.
 
 To assign a report:
 1) Go to the bottom of the report above the comment box.
@@ -76,7 +77,19 @@ To assign a report:
 
 ![assign report](./images/assign-report.png)
 
-### Set Award
+### Unassign a Report
+Once a report has been assigned, you can elect to unassign a report.
+
+To unassign a report:
+1) Go to the assigned report in your inbox.
+2) Change the action picker from **Add comment** to **Assign report** from the drop-down.
+3) Click <b>Unassign report</b>.
+
+No one will be assigned to the report. You can reassign the report by following the steps in the <b>Assign a Report</b> section.
+
+![unassign report](./images/unassign-report.png)
+
+### Set an Award
 You can mark that you've rewarded a hacker with swag or a monetary amount through setting awards.
 
 To set an award to a hacker for the report:
