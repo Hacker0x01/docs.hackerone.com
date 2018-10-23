@@ -9,11 +9,11 @@ Signal provides a means of identifying hackers who have had consistently valid r
 ![how signal and impact look on a HackerOne profile](./images/signal-impact-1.png)
 
 ### Signal and Impact Facts
-*   | Signal | Impact
+Question  | Signal | Impact
 -- | ------ | -------
 What is it? | Average Reputation per report. As Reputation is gained or lost each time a report is closed, Signal is an aggregate representation of report validity. It corresponds to Reputation changes for triage states ranging from "Spam" to "Resolved." | Average Reputation per bounty. As Reputation is gained based on the relative size of the awarded bounty, Impact is an aggregate representation of report severity. It corresponds to Reputation gains calculated by bounty levels awarded.
-Measured scale | -10 to 7 | 0 to 50
-Caveats | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively <br><li>Self-closed and duplicate reports don't affect Signal | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively<br><li>Self-closed and duplicate reports don't affect Impact</li><li>Only calculated for reports submitted to programs that offer bounties
+What's the measured scale? | -10 to 7 | 0 to 50
+Are there any caveats to calculations? | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively <br><li>Self-closed and duplicate reports don't affect Signal | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively<br><li>Self-closed and duplicate reports don't affect Impact</li><li>Only calculated for reports submitted to programs that offer bounties
 
 ### Calculation Example
 ![calculation of signal and impact](./images/signal-impact-2.png)
