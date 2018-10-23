@@ -488,6 +488,7 @@ blockquote {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
+  border-left: 5px $daisy-pink;
 }
 
 form {
