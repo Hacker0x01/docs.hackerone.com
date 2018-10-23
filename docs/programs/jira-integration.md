@@ -23,7 +23,7 @@ Option | Details
 [Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world.
 [Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN.
 
-<i>Note: Jira Cloud isn't compatible with Jira Server.</i>
+><i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
 ### How it Works
 A HackerOne report gets triaged and escalated into Jira.

@@ -21,7 +21,7 @@ After selecting to leave the program, you'll get the option to fill out a questi
 ### The Feedback Questionnaire
 To access the questionnaire, decline the invitation or leave the program and the questionnaire will directly appear on your screen.
 
-*Note: You must fill out the questionnaire immediately. You can't save and come back to it later.*
+><i>Note: You must fill out the questionnaire immediately. You can't save and come back to it later.</i>
 
 ![invitation-rejection-questionnaire-1](./images/invitation-rejection-questionnaire-1.png)
 
@@ -29,4 +29,4 @@ To access the questionnaire, decline the invitation or leave the program and the
 
 The questionnaire is completely voluntary, but if you fill it out, you'll get priority for another invitation so that you can find a program that is a better fit.
 
-If you've rejected an invitation to a program, you can manually be invited back into the program by a program manager. 
+If you've rejected an invitation to a program, you can manually be invited back into the program by a program manager.
