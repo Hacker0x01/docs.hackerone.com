@@ -11,7 +11,7 @@ Hacker mediation requests commonly occur when a program's behavior is clearly ou
 * A program claims a domain is in scope on their Security Page, then makes a last minute change to pull it out of scope based on your report.
 * A program clearly outlines a vulnerability in a particular domain as being worth a minimum bounty, but then awards less than that amount or no bounty at all without providing an explanation.
 
-*Note: Please don't share any report details with HackerOne in the initial request without explicit mutual agreement from the program. If more information is required to address the problem, HackerOne will arrange it with the program's security team.*
+><i>Note: Please don't share any report details with HackerOne in the initial request without explicit mutual agreement from the program. If more information is required to address the problem, HackerOne will arrange it with the program's security team.</i>
 
 ### Requesting Hacker Mediation
 In order to request mediation:

@@ -10,7 +10,7 @@ Response Efficiency Metric | Details
 ---- | -------
 Time to first response | The elapsed time from when the report is submitted to the first public activity on a report. The first public activity includes adding a public comment, changing the report state, or changing the report severity.
 Time to triage | The elapsed time from when a report is submitted to when a report is changed to a triaged state. A report can skip the triaged state and move directly to a closed state (e.g. resolved).
-Time to bounty | *(Bounty programs only)* The elapsed time from when a report is triaged to when a bounty is paid. Only reports that are eligible for a bounty will be tracked as part of this metric. The time to bounty timer will run until the report is either marked as ineligible or closed as a state where it’s not normal to award a bounty (e.g. spam).<br><br><i>Awarding swag in lieu of a bounty won't stop the timer. If you only award a report with swag, you must mark the report as ineligible for bounty to stop the timer</i>. 
+Time to bounty | *(Bounty programs only)* The elapsed time from when a report is triaged to when a bounty is paid. Only reports that are eligible for a bounty will be tracked as part of this metric. The time to bounty timer will run until the report is either marked as ineligible or closed as a state where it’s not normal to award a bounty (e.g. spam).<br><br><i>Awarding swag in lieu of a bounty won't stop the timer. If you only award a report with swag, you must mark the report as ineligible for bounty to stop the timer</i>.
 Time to resolution | The elapsed time from when a report is submitted to when a report is closed. These five closed report states will stop the timer: <i>resolved, informative, not applicable, duplicate,</i> and <i>spam</i>. For programs using [human-augmented signal](human-augmented-signal.html), the resolution timer starts when the report has been approved by HackerOne Security Analysts and escalated to the customer's inbox.  
 
 All response target times are tracked and reported in business days. Business days are defined to be:
@@ -38,7 +38,7 @@ Time to triage | 2 days | 10 days | Customized
 Time to bounty | 1 day (after triage) | N/A | Customized
 Time to resolution | 30 days | N/A | Customized <br>Targets can be broken up and set by severity</br>
 
-*Note: All times above are in business days*
+><i>Note: All times above are in business days</i>
 
 ### Pausing Timers
 HackerOne will automatically pause these timers when you're waiting on a response from a hacker so that your team isn’t disadvantaged during the wait period. When you change the report state to *Needs more info*, the timer will pause while waiting on a response from a hacker. The timer will start again when a hacker replies and comments on the report.

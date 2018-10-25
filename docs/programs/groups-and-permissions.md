@@ -20,7 +20,7 @@ Program | Users in the group can: <ul><li>Edit profile, program and bounty setti
 Reward | Users in the group can: <ul><li>Grant rewards</li><li>Post comments</li><li>Suggest bounties</li>
 Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permissions</li>
 
-*Note: All groups have the ability to view reports and post internal comments by default.*
+><i>Note: All groups have the ability to view reports and post internal comments by default.</i>
 
 5. Click **Create**.
 
@@ -28,7 +28,7 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 
 To edit your group name and permissions, click **Edit** next to the group you want to edit in **Settings > General > Group Management**.
 
-### Adding or Removing Users 
+### Adding or Removing Users
 To add or remove users:
 1. Click **Add/Remove users**.
 2. Select the check box of the users you want to add to the group.

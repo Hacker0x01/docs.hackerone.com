@@ -33,7 +33,7 @@ Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
 * You can only add up to 10 collaborators per report.
 
-<i>Note: Bounty splitting is currently only enabled for a few select programs.</i>
+><i>Note: Bounty splitting is currently only enabled for a few select programs.</i>
 
 #### Donating Bounties to Charity
 HackerOne enables you to donate your bounty directly to charity.

@@ -27,7 +27,7 @@ Option | Detail
 Team only | Only the members of your program will be able to view the comment.
 All participants | All participants of the report will be able to view the comment.
 
-*Note: When you're adding a comment to your internal team only, the comment box will turn red.*
+><i>Note: When you're adding a comment to your internal team only, the comment box will turn red.</i>
 
 ![report-actions-2](./images/report-action-2.png)
 

@@ -19,7 +19,7 @@ Standard (≥ 0.0 Signal) | The recommended setting for most programs.
 Lenient (≥ -1.0 Signal) | Recommended for experienced programs that want to maximize the number of hackers that'll help find vulnerabilities.
 Turn off Signal Requirements | Any hacker with any level of Signal will be able to submit reports to your program. Recommended for veteran programs only.
 
-*Note: Turning Signal Requirements down or off is better for teams that value having the maximum number of hackers to help find issues.*
+><i>Note: Turning Signal Requirements down or off is better for teams that value having the maximum number of hackers to help find issues.</i>
 
 When hackers don't meet the Signal Requirement:
 * They can submit a capped number of important vulnerability reports.

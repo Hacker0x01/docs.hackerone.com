@@ -33,4 +33,4 @@ You can also request public disclosure for your closed reports by selecting **Re
 
 If the program requests for public disclosure, you'll have the option to **Disclose publicly** as well.
 
-<i>Note: Public Disclosure is **Not** available for private programs.</i> 
+><i>Note: Public Disclosure is **Not** available for private programs.</i> 

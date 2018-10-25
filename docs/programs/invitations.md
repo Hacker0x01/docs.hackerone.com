@@ -23,14 +23,14 @@ You're receiving more reports while still being under your report volume.	| Hack
 Your report volume is met. | Invitations will pause until the volume drops below the target in the 30 day window.
 Your report volume is set to 0. | No invitations will be sent.
 
-*Note: HackerOne will be sure to prevent you from being overwhelmed with reports.*
+><i>Note: HackerOne will be sure to prevent you from being overwhelmed with reports.</i>
 
 ### Setting Invitations
 To set your invitations:
 1. Go to **Settings > Program > Hacker Management > Invitations**.
 2. Enter the number of reports you’d like to receive every 30 days in the **Report volume** field. HackerOne recommends starting out by setting a target of receiving 5 valid reports every 30 days.
      * The report volume is measured by the amount of valid reports submitted in the past 30 days. Valid reports include reports that have been marked by you as <i>Triaged</i> or <i>Resolved</i>. Reports that are left in <i>New</i> or marked to any other state won't count toward this goal. Learn more about [report states](/programs/report-states.html).
-3. Click **Save**. 
+3. Click **Save**.
 
 ### Manually Inviting Hackers
 Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:

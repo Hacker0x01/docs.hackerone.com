@@ -11,7 +11,7 @@ Inbox views are a selection of saved filters that categorize your inbox reports.
 * Removing views
 * Temporarily showing and hiding views
 
-The ability to customize your inbox views enables different members in your program to operate under a unified workflow that works best for your specific program. 
+The ability to customize your inbox views enables different members in your program to operate under a unified workflow that works best for your specific program.
 ### Adding and Updating Views
 To add a new View:
 1. Go to your security team's inbox.
@@ -39,8 +39,7 @@ To show and hide Views:
 1. In **Settings > Program > Inbox Views**, select **Shown** next to the View you want to hide. The View will then be hidden. *Note: Shown means that the inbox view currently appears in your Inbox.*
 2. When a View is hidden, select **Hidden** to show the View.
 
-
-*Note: There is a Preview section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.*
+><i>Note: There is a Preview section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.</i>
 
 ![inbox-view](./images/inbox-views.png)
 

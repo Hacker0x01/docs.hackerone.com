@@ -21,7 +21,7 @@ Hacktivity only showcases activity for public programs. Hacker activity populate
 * Bounty awarded
 * Swag awarded
 
-*Note: Undisclosed reports appear with a redacted title.*
+><i>Note: Undisclosed reports appear with a redacted title.</i>
 
 ### Upvoting
 You can upvote activities by clicking on the arrow next to the activity. Anyone with an account can upvote, but you can only upvote once on each activity. When you hover over the upvote count, you can see the top 10 hackers (ranked by Signal) that voted on the activity.

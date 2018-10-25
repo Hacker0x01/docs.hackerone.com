@@ -32,4 +32,4 @@ On your user management settings, under <b>Settings > General > User Management<
 
 ![2fa-10](./images/2fa-10.png)
 
-<i>Note: Two-factor Authentication is on a per-user basis. You can’t have single-source sign-on (SSO) and 2FA simultaneously.</i>
+><i>Note: Two-factor Authentication is on a per-user basis. You can’t have single-source sign-on (SSO) and 2FA simultaneously.</i>

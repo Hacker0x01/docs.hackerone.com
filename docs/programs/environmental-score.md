@@ -30,7 +30,7 @@ The CVSS score on HackerOne will be different from the CVSS scores on first.org 
 #### How the Calculation Works
 HackerOne doesn’t randomly put the environmental score and the base score together to get a total CVSS rating. Whatever value is selected for each metric of the environmental score (confidentiality, integrity, availability), a numeric modifier is applied to that metric in the CVSS calculator. (<i>Note: The CVSS calculator also contains metrics from the environmental score.</i>)
 
-<i>For example, when calculating your environmental score for the asset `test.com`, you set the confidentiality to be High. When either you or a hacker calculate the severity using the CVSS calculator on HackerOne, the 1.5 modifier for the Confidentiality metric is applied to the Confidentiality component in the CVSS calculator, which will give you a different score from the base score on first.org.</i>
+><i>For example, when calculating your environmental score for the asset `test.com`, you set the confidentiality to be High. When either you or a hacker calculate the severity using the CVSS calculator on HackerOne, the 1.5 modifier for the Confidentiality metric is applied to the Confidentiality component in the CVSS calculator, which will give you a different score from the base score on first.org.</i>
 
 The following table shows what modifier is applied. The same table is used for all 3 metrics. Note that choosing a metric value of Medium or not choosing any value at all will have no effect on the base score.
 

@@ -17,27 +17,27 @@ When hackers discover a vulnerability and the organization doesn't have a vulner
 * reach out to and verify the identity of an individual at the affected organization.
 * share the vulnerability with the organization so it can be resolved.
 
-A hacker should [request Disclosure Assistance](https://hackerone.com/disclosure-assistance/disclosure_assistance_requests/new) after following these steps: 
+A hacker should [request Disclosure Assistance](https://hackerone.com/disclosure-assistance/disclosure_assistance_requests/new) after following these steps:
 1. They find a vulnerability.
 2. They search the [HackerOne Directory](https://hackerone.com/directory) for a published security contact method and attempt alternative means of contact.
-3. They exhaust their options in their attempts to contact the organization. 
+3. They exhaust their options in their attempts to contact the organization.
 
 ### How Does it Work?
 To request Disclosure Assistance:
 1. Go to https://hackerone.com/disclosure-assistance.
-2. Click **Request Disclosure Assistance**. 
-3. Fill out the report form. 
-4. Click **Submit Report**. 
-5. The HackerOne Disclosure Assistance team receives the vulnerability information and verifies the legitimacy of the bus and determines the potential impact. 
-6. HackerOne will attempt to contact the affected organization and verify the identity of an appropriate point of contact to receive the vulnerability information. 
+2. Click **Request Disclosure Assistance**.
+3. Fill out the report form.
+4. Click **Submit Report**.
+5. The HackerOne Disclosure Assistance team receives the vulnerability information and verifies the legitimacy of the bus and determines the potential impact.
+6. HackerOne will attempt to contact the affected organization and verify the identity of an appropriate point of contact to receive the vulnerability information.
 7. Once their identity is verified, an email is sent to the point of contact with a secret link to the contents of the bug report and the interactions between the hacker and HackerOne. At this point, the vulnerabiltiy information has been successfully shared with the affected organization.
 8. The point of contact can either:
     * Create an account on HackerOne to interact with the finder directly or provide updates on the resolution of the vulnerability.
-    * Contact da@hackerone.com for assistance on how to proceed. 
+    * Contact da@hackerone.com for assistance on how to proceed.
 
 At the end of this process, HackerOne will inquire about the organization's preferred vulnerability disclosure process (based on ISO 29147) to avoid the need for Disclosure Assistance in the future.
 
-*Note: As Disclosure Assistance is a best effort service, HackerOne prioritizes which bugs to assist with based on impact and may be unable to assist with low impact bugs. Please be aware that we cannot guarantee success, so we recommend familiarizing yourself with the EFF's Vulnerability Reporting FAQ and encourage you to perform other contact attempts in parallel to our effort.
+><i>Note: As Disclosure Assistance is a best effort service, HackerOne prioritizes which bugs to assist with based on impact and may be unable to assist with low impact bugs. Please be aware that we cannot guarantee success, so we recommend familiarizing yourself with the EFF's Vulnerability Reporting FAQ and encourage you to perform other contact attempts in parallel to our effort.</i>
 
 ### Questions?
 Questions specific to a particular report should be asked on the report itself. If you need support or have questions on the Disclosure Assistance process, please contact da@hackerone.com.

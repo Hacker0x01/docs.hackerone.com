@@ -11,7 +11,7 @@ In order to configure Assembla integrations for your team, [contact HackerOne](h
 * The ID of the Assembla space to use (e.g. “company”)
 * Any other custom/specific fields you’d like pre-populated such as the component, milestone, priority, permission type.
 
-*Note: For most fields, HackerOne requires the actual numeric ID of the field value and not the label/string.*
+><i>Note: For most fields, HackerOne requires the actual numeric ID of the field value and not the label/string.</i>
 
 With all of the provided information, HackerOne will be able to set up your requested integration. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
 

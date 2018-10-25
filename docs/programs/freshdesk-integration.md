@@ -14,13 +14,13 @@ In order to configure Freshdesk integrations for your program, [contact HackerOn
 - Priority (“priority”) you’d like issues to default to (an integer)
 - Any other custom/specific fields you’d like pre-populated (e.g. ticket type, source, group, tags)
 
-*Note: For most fields, HackerOne requires the actual numeric ID of the field value, not the label/string.*
+><i>Note: For most fields, HackerOne requires the actual numeric ID of the field value, not the label/string.</i>
 
 With all of the provided information, HackerOne will be able to set up your requested integration. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
 
 ### How the Integration Works
 After your Freshdesk integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

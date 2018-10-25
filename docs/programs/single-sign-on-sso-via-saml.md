@@ -36,7 +36,7 @@ X509 Certificate | The certificate from your SAML provider to verify the single 
 8. HackerOne will review and verify your SAML settings and notify you within 1 business day after the review is complete.
 9. After HackerOne approves your request, click the **Migrate Users** button when you're ready to enable SAML for all of your users.
 
-*Note: Your program must be launched and not in sandbox mode to set up SAML.*
+><i>Note: Your program must be launched and not in sandbox mode to set up SAML.</i>
 
 ### Frequently Asked Questions
 

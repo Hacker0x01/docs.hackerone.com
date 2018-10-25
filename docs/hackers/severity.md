@@ -27,7 +27,7 @@ Availability | Whether data or functionality can be rendered inaccessible. The i
 
 ![severity-2](./images/severity-2.png)
 
-*Note: It's optional for you to submit a severity rating.*
+><i>Note: It's optional for you to submit a severity rating.</i>
 
 You can read more details about CVSS [here](https://www.first.org/cvss/user-guide).
 
