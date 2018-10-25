@@ -64,10 +64,10 @@
     - title: HackerOne VPN
       path: /hackers/configure-the-hackerone-vpn.html
       items:
-        - title: HackerOne VPN Root CA
-          path: /hackers/vpn/root-ca.html
-        - title: OpenVPN Clients
-          path: /hackers/vpn/clients.html
+        - title: Installing the HackerOne VPN Root CA
+          path: /hackers/hackerone-vpn-root-ca.html
+        - title: Configuring OpenVPN Clients
+          path: /hackers/openvpn-clients.html
 - title: Programs
   items:
     - title: Invitations
