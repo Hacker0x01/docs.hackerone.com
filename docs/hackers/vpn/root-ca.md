@@ -4,52 +4,51 @@ path: "/hackers/vpn/root-ca.html"
 id: "hackers/vpn/root-ca"
 ---
 
-In order to use our VPN Service, we require you to install the HackerOne VPN Root CA.
+In order to use the HackerOne VPN, you need to install the HackerOne VPN Root CA.
 
-### Select your Platform
+Refer to these installation and configuration instructions for your platform:
 
 * [Windows](#windows)
 * [macOS](#macos)
 * [Ubuntu/Debian Linux](#ubuntu)
-* [Firefox](#firefox)\*
+* [Firefox](#firefox)
+><i>Note: Firefox manages its own trusted certificate list, so you always need to add the root authority certificate to the browser even if you've installed it system wide.</i>
 
-> \* Firefox manages its own trusted certificate list, so you always need to add the root authority certificate to the browser even if you have installed it system wide.
+<h3 id="windows">Windows</h3>
 
-<h1 id="windows">Windows</h1>
-
-1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt)
-2. Double-click on the certificate file
+1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
+2. Double-click on the certificate file.
 
 ![Screenshot](../images/vpn-windows.png)
 
-3. Click the "Install Certificate.." button
+3. Click <b>Install Certificate...</b>.
 
 ![Screenshot](../images/vpn-windows-2.png)
 
-4. Select "Local Machine" and click "Next"
+4. Select <b>Local Machine</b> and click <b>Next</b>.
 
 ![Screenshot](../images/vpn-windows-3.png)
 
-5. Click the "Yes" button to allow the changes
+5. Click the <b>Yes</b> to allow the changes.
 
 ![Screenshot](../images/vpn-windows-4.png)
 
-6. Select "Place all certificates in the following store"
+6. Select <b>Place all certificates in the following store</b>.
 
 ![Screenshot](../images/vpn-windows-5.png)
 
-7. From the list, select "Trusted Root Certification Authorities", and click "OK"
+7. From the list, select <b>Trusted Root Certification Authorities</b>, and click <b>OK</b>.
 
 ![Screenshot](../images/vpn-windows-6.png)
 
-8. Click "Finish"
+8. Click <b>Finish</b>.
 
 ![Screenshot](../images/vpn-windows-7.png)
 
-<h1 id="macos">macOS</h1>
+<h3 id="macos">macOS</h3>
 
-1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt)
-2. Double-click on the certificate file
+1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
+2. Double-click on the certificate file.
 
 ![Screenshot](../images/vpn-macos-1.png)
 
@@ -57,11 +56,11 @@ In order to use our VPN Service, we require you to install the HackerOne VPN Roo
 
 ![Screenshot](../images/vpn-macos-2.png)
 
-4. Double-click on the HackerOne VPN certificate in KeyChain Access
+4. Double-click on the HackerOne VPN certificate in KeyChain Access.
 
 ![Screenshot](../images/vpn-macos-3.png)
 
-5. In the window that appears, set the certificate to "Always Trust"
+5. Set the certificate to <b>Always Trust</b> in the window that appears. 
 
 ![Screenshot](../images/vpn-macos-4.png)
 
@@ -69,7 +68,7 @@ In order to use our VPN Service, we require you to install the HackerOne VPN Roo
 
 ![Screenshot](../images/vpn-macos-5.png)
 
-<h1 id="ubuntu">Ubuntu/Debian Linux</h1>
+<h3 id="ubuntu">Ubuntu/Debian Linux</h3>
 
 Execute the following commands in your terminal to download and install the HackerOne Root CA:
 
@@ -77,30 +76,28 @@ Execute the following commands in your terminal to download and install the Hack
 2. `sudo wget https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt`
 3. `sudo update-ca-certificates`
 
-You will notice that the command reports it has installed one (or more) new certificates.
+The command will state that it has installed one (or more) new certificates, through which the certificate has been successfully added to the Operating System.
 
-The certificate has been successfully added to the Operating System.
+<h3 id="firefox">Firefox</h3>
 
-<h1 id="firefox">Firefox</h1>
-
-1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt)
-2. Open Preferences, and go to "Privacy & Security"
-3. Scroll down to the "Certificates" section, and click "View Certificates..."
+1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
+2. Open <b>Preferences</b> and go to <b>Privacy & Security</b>.
+3. Scroll down to the <b>Certificates</b> section, and click <b>View Certificates...</b>.
 
 ![Screenshot](../images/vpn-firefox-1.png)
 
-4. Click the "Import..." button
+4. Click the <b>Import...</b> tab. 
 
 ![Screenshot](../images/vpn-firefox-2.png)
 
-5. Select the "hackerone-vpn-service.crt" file
+5. Select the <b>hackerone-vpn-service.crt</b> file.
 
 ![Screenshot](../images/vpn-firefox-3.png)
 
-6. Check "Trust this CA" to identify websites" and click "OK"
+6. Check <b>Trust this CA to identify websites</b> and click <b>OK</b>.
 
 ![Screenshot](../images/vpn-firefox-4.png)
 
-7. Notice that the "Hackerone - Hacker VPN Service" certificate is now visible in the list
+The "Hackerone - Hacker VPN Service" certificate is now visible in your list of certificates. 
 
 ![Screenshot](../images/vpn-firefox-5.png)
