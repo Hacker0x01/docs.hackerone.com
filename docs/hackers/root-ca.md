@@ -1,5 +1,5 @@
 ---
-title: "Installing the HackerOne VPN Root CA"
+title: "Installing the HackerOne Root CA"
 path: "/hackers/hackerone-vpn-root-ca.html"
 id: "hackers/hackerone-vpn-root-ca"
 ---
@@ -12,6 +12,7 @@ Refer to these installation and configuration instructions for your platform:
 * [macOS](#macos)
 * [Ubuntu/Debian Linux](#ubuntu)
 * [Firefox](#firefox)
+
 ><i>Note: Firefox manages its own trusted certificate list, so you always need to add the root authority certificate to the browser even if you've installed it system wide.</i>
 
 <h3 id="windows">Windows</h3>
@@ -60,7 +61,7 @@ Refer to these installation and configuration instructions for your platform:
 
 ![Screenshot](../images/vpn-macos-3.png)
 
-5. Set the certificate to <b>Always Trust</b> in the window that appears. 
+5. Set the certificate to <b>Always Trust</b> in the window that appears.
 
 ![Screenshot](../images/vpn-macos-4.png)
 
@@ -86,7 +87,7 @@ The command will state that it has installed one (or more) new certificates, thr
 
 ![Screenshot](../images/vpn-firefox-1.png)
 
-4. Click the <b>Import...</b> tab. 
+4. Click the <b>Import...</b> tab.
 
 ![Screenshot](../images/vpn-firefox-2.png)
 
@@ -98,6 +99,6 @@ The command will state that it has installed one (or more) new certificates, thr
 
 ![Screenshot](../images/vpn-firefox-4.png)
 
-The "Hackerone - Hacker VPN Service" certificate is now visible in your list of certificates. 
+The "Hackerone - Hacker VPN Service" certificate is now visible in your list of certificates.
 
 ![Screenshot](../images/vpn-firefox-5.png)

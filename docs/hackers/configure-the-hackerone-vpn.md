@@ -10,11 +10,11 @@ Certain programs require you to have your own VPN instance and credentials on th
 
 ### VPN Configuration
 To configure the HackerOne VPN:
-1. [Install the HackerOne VPN Root CA](/hackers/vpn/root-ca.html)
-2. Download your VPN Credentials from HackerOne (instructions on this page)
-3. [Configure your OpenVPN Client](/hackers/vpn/clients.html)
+1. [Install the HackerOne VPN Root CA](/hackers/hackerone-vpn-root-ca.html).
+2. Download your VPN Credentials from HackerOne (see: [Accessing your VPN Credentials](*accessing))
+3. [Configure your OpenVPN Client](/hackers/openvpn-clients.html).
 
-### Accessing your VPN Credentials
+<h3 id="accessing">Accessing your VPN Credentials</h3>
 Once you've configured the HackerOne VPN and accepted an invitation to a VPN enabled program, to access your VPN Credentials:
 1. Go to your <b>Settings > VPN Credentials</b>.
 2. Click <b>Create Credentials</b> to generate your VPN credentials. <i>Note: It'll take a few minutes to generate your credentials. Sorry for the wait!</i>
