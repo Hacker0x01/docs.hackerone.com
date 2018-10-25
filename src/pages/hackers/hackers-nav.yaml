@@ -63,6 +63,10 @@
       path: /hackers/disclosure-assistance.html
     - title: HackerOne VPN
       path: /hackers/configure-the-hackerone-vpn.html
+    - title: HackerOne VPN Root CA
+      path: /hackers/vpn/root-ca.html
+    - title: OpenVPN Clients
+      path: /hackers/vpn/clients.html
 - title: Programs
   items:
     - title: Invitations
