@@ -4,7 +4,7 @@ path: "/hackers/vpn/clients.html"
 id: "hackers/vpn/clients"
 ---
 
-In order to use the HackerOne VPN, you need a VPN client that supports OpenVPN.
+In order to use the HackerOne VPN, you need to install a VPN client that supports OpenVPN.
 
 Refer to these installation and configuration instructions for your platform:
 
