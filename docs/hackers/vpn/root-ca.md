@@ -1,7 +1,7 @@
 ---
-title: "HackerOne VPN Root CA"
-path: "/hackers/vpn/root-ca.html"
-id: "hackers/vpn/root-ca"
+title: "Installing the HackerOne VPN Root CA"
+path: "/hackers/hackerone-vpn-root-ca.html"
+id: "hackers/hackerone-vpn-root-ca"
 ---
 
 In order to use the HackerOne VPN, you need to install the HackerOne VPN Root CA.
