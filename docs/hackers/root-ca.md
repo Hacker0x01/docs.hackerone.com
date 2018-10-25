@@ -1,5 +1,5 @@
 ---
-title: "Installing the HackerOne Root CA"
+title: "Installing the HackerOne VPN Root CA"
 path: "/hackers/hackerone-vpn-root-ca.html"
 id: "hackers/hackerone-vpn-root-ca"
 ---
@@ -17,6 +17,8 @@ Refer to these installation and configuration instructions for your platform:
 
 <h3 id="windows">Windows</h3>
 
+To install the HackerOne VPN Root CA to your Windows machine:
+
 1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
 2. Double-click on the certificate file.
 
@@ -30,7 +32,7 @@ Refer to these installation and configuration instructions for your platform:
 
 ![Screenshot](./images/vpn-windows-3.png)
 
-5. Click the <b>Yes</b> to allow the changes.
+5. Click <b>Yes</b> to allow the changes.
 
 ![Screenshot](./images/vpn-windows-4.png)
 
@@ -38,7 +40,7 @@ Refer to these installation and configuration instructions for your platform:
 
 ![Screenshot](./images/vpn-windows-5.png)
 
-7. From the list, select <b>Trusted Root Certification Authorities</b>, and click <b>OK</b>.
+7. Select <b>Trusted Root Certification Authorities</b> from the list and click <b>OK</b>.
 
 ![Screenshot](./images/vpn-windows-6.png)
 
@@ -47,6 +49,8 @@ Refer to these installation and configuration instructions for your platform:
 ![Screenshot](./images/vpn-windows-7.png)
 
 <h3 id="macos">macOS</h3>
+
+To install the HackerOne VPN Root CA to your macOS platform:
 
 1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
 2. Double-click on the certificate file.
@@ -71,7 +75,7 @@ Refer to these installation and configuration instructions for your platform:
 
 <h3 id="ubuntu">Ubuntu/Debian Linux</h3>
 
-Execute the following commands in your terminal to download and install the HackerOne Root CA:
+Execute the following commands in your terminal to download and install the HackerOne VPN Root CA:
 
 1. `cd /usr/local/share/ca-certificates`
 2. `sudo wget https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt`
@@ -80,6 +84,8 @@ Execute the following commands in your terminal to download and install the Hack
 The command will state that it has installed one (or more) new certificates, through which the certificate has been successfully added to the Operating System.
 
 <h3 id="firefox">Firefox</h3>
+
+To install the HackerOne VPN Root CA to Firefox: 
 
 1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
 2. Open <b>Preferences</b> and go to <b>Privacy & Security</b>.
