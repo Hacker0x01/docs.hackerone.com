@@ -4,9 +4,9 @@ path: "/programs/assembla-integration.html"
 id: "programs/assembla-integration"
 ---
 
-With Assembla integration, HackerOne makes it easy for you to track Assembla issues as references on HackerOne.
+With the Assembla integration, HackerOne makes it easy for you to track Assembla issues as references on HackerOne.
 
-In order to configure Assembla integrations for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
+In order to configure the Assembla integrations for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
 
 * The ID of the Assembla space to use (e.g. “company”)
 * Any other custom/specific fields you’d like pre-populated such as the component, milestone, priority, permission type.

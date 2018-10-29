@@ -4,9 +4,9 @@ path: "/programs/github-integration.html"
 id: "programs/github-integration"
 ---
 
-With GitHub integration, HackerOne makes it easy for you to track GitHub issues as references on the platform. GitHub only supports directly linking to the issue creation form on a per-repository basis, so if you use multiple repositories, there isn’t a good way of currently pre-filling data as a report could affect different repositories. If most of your reports only affect one repository, HackerOne can make issue creation much easier.
+With the GitHub integration, HackerOne makes it easy for you to track GitHub issues as references on the platform. GitHub only supports directly linking to the issue creation form on a per-repository basis, so if you use multiple repositories, there isn’t a good way of currently pre-filling data as a report could affect different repositories. If most of your reports only affect one repository, HackerOne can make issue creation much easier.
 
-In order to configure GitHub integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+In order to configure the GitHub integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
 - Are you using github.com or GitHub Enterprise?
 - The repository name
@@ -21,7 +21,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your GitHub integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

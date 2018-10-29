@@ -56,7 +56,7 @@ To configure the OpenVPN client on macOS:
 
 1. Install [Tunnelblick](https://tunnelblick.net/cInstall.html).
 2. Start Tunnelblick.
-3. Find the `*.openvpn` file you have downloaded from HackerOne (See [Accessing your VPN Credentials](/hackers/configure-the-hackerone-vpn.html)).
+3. Find the `*.openvpn` file you have downloaded from HackerOne (See: [Accessing your VPN Credentials](/hackers/configure-the-hackerone-vpn.html)).
 4. Drag it onto the Tunnelblick icon at the top of your screen.
 5. Click the Tunnelblick icon, and click the HackerOne VPN connection.
 

@@ -4,9 +4,9 @@ path: "/programs/mantisbt-integration.html"
 id: "programs/mantisbt-integration"
 ---
 
-With MantisBT integration, HackerOne makes it easy for you to track MantisBT issues as references on the platform.
+With the MantisBT integration, HackerOne makes it easy for you to track MantisBT issues as references on the platform.
 
-In order to configure MantisBT integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:   
+In order to configure the MantisBT integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:   
 
 - The base URI of the MantisBT instance (e.g. https://mantis.company.com/)
 - The project (project_id) you'd like issues to default to (an integer)

@@ -4,9 +4,9 @@ path: "/programs/servicenow-integration.html"
 id: "programs/servicenow-integration"
 ---
 
-With ServiceNow integration, HackerOne makes it easy for you to track ServiceNow issues as references on the platform.
+With the ServiceNow integration, HackerOne makes it easy for you to track ServiceNow issues as references on the platform.
 
-In order to configure ServiceNow integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+In order to configure the ServiceNow integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
 - The base URI of the ServiceNow instance (e.g. https://company.service-now.com/)
 - Whether you use “Description” or “Additional Comments” for more details
@@ -17,7 +17,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your ServiceNow integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

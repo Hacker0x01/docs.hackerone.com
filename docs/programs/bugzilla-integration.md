@@ -4,9 +4,9 @@ path: "/programs/bugzilla-integration.html"
 id: "programs/bugzilla-integration"
 ---
 
-With Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on the HackerOne.
+With the Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on the HackerOne.
 
-In order to configure Bugzilla integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
+In order to configure the Bugzilla integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
 
   - The Base URL of your instance (e.g. https://company.bugzilla.com/)
   - Product
@@ -17,7 +17,7 @@ With all of the provided information, HackerOne will be able to set up your requ
 
 ### How the Integration Works
 After your Bugzilla integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report. 
+1. Change the action picker to **Change state > Triaged** in your report.
 
 ![integrations](./images/integrations.png)
 

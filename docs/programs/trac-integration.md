@@ -4,9 +4,9 @@ path: "/programs/trac-integration.html"
 id: "programs/trac-integration"
 ---
 
-With Trac integration, HackerOne makes it easy for you to link Trac issues as references on the platform.
+With the Trac integration, HackerOne makes it easy for you to link Trac issues as references on the platform.
 
-In order to configure Trac integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+In order to configure the Trac integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
 - The base URI of the Trac instance (e.g. https://trac.company.com/)
 - The component you'd like issues to default to
