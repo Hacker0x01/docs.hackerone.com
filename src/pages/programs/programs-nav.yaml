@@ -137,6 +137,8 @@
       path: /programs/embedded-submissions-form.html
     - title: API Tokens
       path: /programs/api-tokens.html
+    - title: Airtable Integration
+      path: /programs/airtable-integration.html
     - title: Assembla
       path: /programs/assembla-integration.html
     - title: Bugzilla
@@ -207,4 +209,4 @@
     - title: Hacker Reviews
       path: /programs/hacker-reviews.html
     - title: Disclosure Assistance
-      path: /programs/disclosure-assistance.html 
+      path: /programs/disclosure-assistance.html
