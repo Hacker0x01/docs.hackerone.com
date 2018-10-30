@@ -15,7 +15,7 @@ You can use your Okta credentials to sign in to HackerOne. To set up SSO via SAM
 
 ![okta shortcuts](./images/okta-2.png)
 
-4. Search for the HackerOne application and click <b>Add</b>. 
+4. Search for the HackerOne application and click <b>Add</b>.
 
 ![add HackerOne in okta](./images/okta-3.png)
 
@@ -37,5 +37,4 @@ You can use your Okta credentials to sign in to HackerOne. To set up SSO via SAM
 ![assign people/groups](./images/okta-7.png)
 
 10. Open the HackerOne application in a new tab.
-11. Follow the SAML setup instructions [here](/programs/single-sign-on-sso-via-saml.html).
-   * Copy the Single-Sign On URL and the X.509 Certificate from the “How to Configure SAML 2.0 for HackerOne” page that you accessed in step 7 and paste them in the corresponding fields during setup.
+11. Follow the SAML setup instructions [here](/programs/single-sign-on-sso-via-saml.html).<br><ul><li>Copy the Single-Sign On URL and the X.509 Certificate from the “How to Configure SAML 2.0 for HackerOne” page that you accessed in step 7 and paste them in the corresponding fields during setup.</li></ul></br>
