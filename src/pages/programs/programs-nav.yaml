@@ -79,6 +79,9 @@
       path: /programs/groups-and-permissions.html
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
+      items:
+        - title: Okta
+          path: /programs/okta-sso-saml-setup.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
     - title: Sessions
@@ -137,7 +140,7 @@
       path: /programs/embedded-submissions-form.html
     - title: API Tokens
       path: /programs/api-tokens.html
-    - title: Airtable 
+    - title: Airtable
       path: /programs/airtable-integration.html
     - title: Assembla
       path: /programs/assembla-integration.html
