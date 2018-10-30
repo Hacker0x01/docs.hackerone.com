@@ -85,7 +85,7 @@ The command will state that it has installed one (or more) new certificates, thr
 
 <h3 id="firefox">Firefox</h3>
 
-To install the HackerOne VPN Root CA to Firefox: 
+To install the HackerOne VPN Root CA to Firefox:
 
 1. [Download the HackerOne VPN Root CA](https://hackerone-vpn-service.s3.amazonaws.com/hackerone-vpn-service.crt).
 2. Open <b>Preferences</b> and go to <b>Privacy & Security</b>.
