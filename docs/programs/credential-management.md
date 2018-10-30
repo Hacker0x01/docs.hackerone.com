@@ -25,7 +25,7 @@ Your uploaded credentials will populate under the <b>Credentials</b> section whe
 
 ![credential-management-3](./images/credential-management-3.png)
 
-><i>If a hacker has violated your policy or HackerOne’s code of conduct, you can revoke the credential rights of a hacker by clicking <b>Revoke</b> next to the username of the hacker. You'll also need to invalidate the account on your own platform as well.</i> 
+><i>If a hacker has violated your policy or HackerOne’s code of conduct, you can revoke the credential rights of a hacker by clicking <b>Revoke</b> next to the username of the hacker. You'll also need to invalidate the account on your own platform to prevent the hacker from logging in.</i> 
 
 The username of the account the hacker created using the provided credentials will display on the submitted report under the <b>Account details used</b> section.
 
