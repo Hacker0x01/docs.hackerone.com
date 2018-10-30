@@ -84,6 +84,8 @@
           path: /programs/onelogin-sso-saml-setup.html
         - title: Okta
           path: /programs/okta-sso-saml-setup.html
+        - title: FAQs
+          path: /programs/sso-faqs.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
     - title: Sessions
