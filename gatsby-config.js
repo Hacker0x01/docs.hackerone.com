@@ -17,6 +17,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-sri',
+      options: {
+        hash: 'sha384'
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-49905813-10",

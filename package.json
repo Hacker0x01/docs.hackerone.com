@@ -12,6 +12,7 @@
     "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-sharp": "^1.6.42",
     "gatsby-plugin-sitemap": "^1.2.23",
+    "gatsby-plugin-sri": "^1.0.3",
     "gatsby-remark-images": "^1.5.61",
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
@@ -31,6 +32,7 @@
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
+    "serve": "gatsby serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {

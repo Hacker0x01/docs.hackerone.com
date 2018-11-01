@@ -483,11 +483,13 @@ blockquote {
   margin-left: 1.45rem;
   margin-right: 1.45rem;
   margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 4px;
+  padding-top: 12px;
   margin-bottom: 1.45rem;
+  background-color: #C5FFE8;
+  border-left: 6px solid #02C996;
 }
 
 form {
