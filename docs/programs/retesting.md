@@ -6,7 +6,7 @@ id: "programs/retesting"
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Asking hackers to verify whether a vulnerability has been fixed is a good way to secure the protection of your asset’s data. You can elect to invite hackers to retest your vulnerabilities to verify fixes. Each hacker that participates in the retest will receive a $100 bounty upon completion.
 
-<i>Inviting hackers to retest your vulnerabilities is a new feature that is currently in the beta phase. To be a part of the beta testing, please reach out to your program manager.</i>
+><i>Inviting hackers to retest your vulnerabilities is a new feature that is currently in the beta phase. To be a part of the beta testing, please reach out to your program manager.</i>
 
 ### Set Up
 There’s currently no set up on your end that’s needed to enable the feature. Your program manager will enable the feature for you.
