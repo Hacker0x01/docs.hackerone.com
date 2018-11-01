@@ -26,7 +26,7 @@ Spam | -10
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation.
 
-><i>Note: There are situations where duplicates can be "chained" together. For example: report #911 is a duplicate of report #888 which is a duplicate of report #311 which was marked as N/A. In this example, report #911 would get -5 reputation because it was the duplicate of a duplicate N/A report. However, we end the chain at the third duplicate. This means that any other duplicate reports that are added after the third report in the chain will automatically get 0 reputation no matter the state of the report for which it's a duplicate of.</i>
+><i><b>Note:</b> There are situations where duplicates can be "chained" together. For example: report #911 is a duplicate of report #888 which is a duplicate of report #311 which was marked as N/A. In this example, report #911 would get -5 reputation because it was the duplicate of a duplicate N/A report. However, we end the chain at the third duplicate. This means that any other duplicate reports that are added after the third report in the chain will automatically get 0 reputation no matter the state of the report for which it's a duplicate of.</i>
 
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
 
@@ -42,4 +42,4 @@ Reputation | Details
 
 Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation. After 10 bounties have been paid out, hackers will gain reputation through bounty according to the system above.
 
-><i>Note: We don't award reputation when rewarded with a bonus and not a bounty.</i>
+><i><b>Note:</b> We don't award reputation when rewarded with a bonus and not a bounty.</i>
