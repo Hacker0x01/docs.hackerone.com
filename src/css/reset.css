@@ -492,6 +492,14 @@ blockquote {
   border-left: 6px solid #02C996;
 }
 
+button {
+  border-radius:5px;
+  margin-right:1px;
+  padding:5px 5px 5px 5px;
+  width:400px;
+  height:50px;
+}
+
 form {
   margin-left: 0;
   margin-right: 0;

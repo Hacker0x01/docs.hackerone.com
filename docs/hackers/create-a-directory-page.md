@@ -9,6 +9,7 @@ As the directory doesn’t contain every single organization, hackers with a rep
 In order to create a directory entry:
 1. Search the [directory](https://hackerone.com/directory) to see whether the organization already has an existing directory page.
 2. Click <b>Submit a program</b> if no matching entry exists.
+
 ><i><b>Note:</b> Only hackers with a reputation of at least 1000 will be able to see this button and create a page.</i>
 
 ![create-a-directory-1](./images/create-a-directory-1.png)
