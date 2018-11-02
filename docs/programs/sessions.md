@@ -4,7 +4,7 @@ path: "/programs/sessions.html"
 id: "programs/sessions"
 ---
 
-The Sessions page enables you to review and manage all of your active HackerOne sessions on all of the devices you’re signed in to. All sessions are stored with an IP address and user agent that you can revoke at any time.  
+The Sessions page enables you to review and manage all of your HackerOne sessions on all of the devices you’ve signed in to within the last 90 days. All sessions are stored with an IP address and user agent that you can revoke at any time.  
 
 To manage your sessions:
 1. Go to your profile’s <b>Settings > Sessions</b>.
