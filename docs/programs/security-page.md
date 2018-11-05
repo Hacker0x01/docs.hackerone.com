@@ -39,11 +39,11 @@ To claim a security page:
 
 ><i>Note: Unclaimed pages have the **Claim this page** and the **Suggest edits** link.</i>
 
-    ![security-page-1](./images/security-page-1.png)
+![security-page-1](./images/security-page-1.png)
 
 <i>Claimed pages don't have the link available.</i>
 
-    ![security page-2](./images/security-page-2.png)
+![security page-2](./images/security-page-2.png)
 
 2. Click the **Claim this page** link.
 3. A HackerOne staff will either approve or reject your claim request. If your request is approved, you'll be given editing rights to the entire page.  
