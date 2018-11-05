@@ -38,7 +38,7 @@ Launch Date | The date the program started to accept vulnerabilities.
 Bugs Resolved | The total number of vulnerabilities the organization has resolved. If the field is marked with a `-` this means that there are no resolved reports, or the program chose not to display this information on their metric display settings.
 Response Efficiency | The percentage of reports that are responded to on time within the last 90 days.
 Bounties Minimum | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
-Bounties Maximum | The maximum bounty that’ll be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
+Bounties Average | The average bounty that is given for a valid vulnerability in a program. If the field is marked with a `-` this means that there is no average bounty, or the program chose not to display this information on their metric display settings.
 Managed Icon<br>![managed icon](./images/better-directory-2.png) | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Not Accepting Submissions Icon<br>![not accepting submissions icon](./images/better-directory-3.png) | A program that isn’t accepting any report submissions on HackerOne.
 
