@@ -4,49 +4,52 @@ path: "/hackers/directory.html"
 id: "hackers/directory"
 ---
 
-The Directory is a community-curated resource for contacting security teams. It identifies the best way to contact an organization's security team so that all hackers can report potential vulnerabilities directly to the organizations that can resolve them. The directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
+The Directory is a community-curated resource that helps hackers identify the best way to contact an organization's security team. This guides hackers with reporting potential vulnerabilities directly to the organizations that can resolve them. The Directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
 
-As HackerOne believes that all organizations who build technology should provide a safe process for vulnerability disclosure, the HackerOne Directory aids in providing a safer internet as it provides hackers with the ability to contact an organization with their found vulnerabilities.
+![new directory](./images/better-directory-1.png)
 
-![directory-6](./images/directory-6.png)
+In this article you can learn about:
+* Directory services
+* What's on the Directory
+* Directory filters
+* Correcting Information on the Directory
 
 ### Directory Services
-The Directory enables Hackers to:
-* Share their disclosure experiences and add security team contact information to the Directory so others can benefit from their work.
-* [Search the Directory](https://hackerone.com/directory) to get the contact information for an organization's security team.
-* Find programs they're interested to hack on.
+The Directory provides relevant information for both hackers and programs.
 
-*Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).*
+The Directory enables Hackers to:
+* [Search](https://hackerone.com/directory) for an organization to get the contact information of a security team.
+* Add security team contact information for an organization so that other hackers know where to submit vulnerabilities (See [Create a Directory Page](/hackers/create-a-directory-page.html))
+   * As the directory is community-curated, hackers who maintain sufficient reputation have edit rights and can update information about an organization.  If you don’t have edit rights, you can reach a moderator at directory@hackerone.com with any changes.
+* Find programs they're interested to hack on
+* View and compare statistics of various programs
+
+><i>Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).</i>
 
 The Directory enables programs to:
-* Publish contact information for receiving information about potential vulnerabilities in their products or online services, such as a security@ email address or a HackerOne program. See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com).
-* [Search the Directory](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate. 
+* Publish contact information for receiving information about potential vulnerabilities in their products or online services, such as a security@ email address or a HackerOne program (See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com))
+* [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/programs/security-page.html) if the program page hasn’t been claimed for editing)
 
 ### What's on the Directory
 You can find this information associated with an organization on the directory:
 
 Option | Detail
 ------ | ------
+Launch Date | The date the program started to accept vulnerabilities.
 Bugs Resolved | The total number of vulnerabilities the organization has resolved. If the field is marked with a `-` this means that there are no resolved reports, or the program chose not to display this information on their metric display settings.
-Minimum Bounty | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
+Response Efficiency | The percentage of reports that are responded to on time within the last 90 days.
+Bounties Minimum | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
+Bounties Maximum | The maximum bounty that’ll be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
+Managed Icon | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
+Not Accepting Submissions Icon | A program that isn’t accepting any report submissions on HackerOne.
 
-As the directory contains various icons, refer to this table to understand the different icons associated with an organization:
+### Directory Filters
+You can filter your list of programs by both program features and by asset type.
 
-Icon | Detail
----- | ------
-IBB <br>![directory-3](./images/directory-3.png) | Indicates Internet Bug Bounty - a bug bounty program for core internet infrastructure and free open source software. These programs are managed by a panel of volunteers selected from the security community. Learn more [here](https://www.hackerone.com/internet-bug-bounty).
-Managed <br>![directory-4](./images/directory-4.png)</br> | A program that is managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team. 
-Not accepting submissions <br>![directory-5](./images/directory-5.png)| A program that isn't accepting any report submissions on HackerOne. 
-Pink thunderbolt <br>![directory-2](./images/directory-2.png)</br> | The program responds quickly to report submissions. There's a <48 hour first response time. 
-Purple and pink thunderbolt <br>![directory-1](./images/directory-1.png)</br> | The program responds quickly to report submissions and is also quick in awarding bounties. There's a <48 hour first response time and a <14 day time in awarding a bounty. 
+The program features you can filter include:
 
-### Using the Directory
-You can search for organizations in the directory by searching for them in the search bar. You can also filter organizations by asset type and sort them by: 
-* Newest
-* Oldest
-* Bounty Amount
-* Number of bugs resolved
-* Alphabetized name
-
-### Correcting Information on the Directory
-As the directory is community-curated, hackers who maintain sufficient reputation have edit rights and can update information about an organization, or you can reach a moderator at directory@hackerone.com with any changes. 
+Option | Detail
+------ | ------
+IBB | Indicates Internet Bug Bounty - a bug bounty program for core internet infrastructure and free open source software. These programs are managed by a panel of volunteers selected from the security community. Learn more [here](https://www.hackerone.com/internet-bug-bounty).
+Offers bounties | Programs that offer bounties as rewards for finding vulnerabilities.
+Invite-only | Programs that only allow you to submit vulnerabilities through an invitation.
