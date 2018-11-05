@@ -9,10 +9,10 @@ The Directory is a community-curated resource that helps hackers identify the be
 ![new directory](./images/better-directory-1.png)
 
 In this article you can learn about:
-* Directory services
-* What's on the Directory
-* Directory filters
-* Correcting Information on the Directory
+* [Directory services](#Services)
+* [What's on the Directory](#What's)
+* [Directory filters](#Filters)
+* [Correcting Information on the Directory](#Correcting)
 
 ### Directory Services
 The Directory provides relevant information for both hackers and programs.
@@ -40,8 +40,8 @@ Bugs Resolved | The total number of vulnerabilities the organization has resolve
 Response Efficiency | The percentage of reports that are responded to on time within the last 90 days.
 Bounties Minimum | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
 Bounties Maximum | The maximum bounty that’ll be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
-Managed Icon | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
-Not Accepting Submissions Icon | A program that isn’t accepting any report submissions on HackerOne.
+Managed Icon<br>![managed icon](./images/better-directory-2.png) | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
+Not Accepting Submissions Icon<br>![not accepting submissions icon](./images/better-directory-3.png) | A program that isn’t accepting any report submissions on HackerOne.
 
 ### Directory Filters
 You can filter your list of programs by both program features and by asset type.
