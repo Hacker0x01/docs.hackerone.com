@@ -6,7 +6,7 @@ id: "hackers/directory"
 
 The Directory is a community-curated resource that helps hackers identify the best way to contact an organization's security team. This guides hackers with reporting potential vulnerabilities directly to the organizations that can resolve them. The Directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
 
-![new directory](./images/better-directory-1.png)
+![revamped directory page](./images/better-directory-1.png)
 
 In this article you can learn about:
 * Directory services
