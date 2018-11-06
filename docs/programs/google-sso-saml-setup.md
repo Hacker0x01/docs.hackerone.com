@@ -55,4 +55,4 @@ You can use your Google credentials to sign in to HackerOne. To set up SSO via S
 
 ![google-saml-14-1](./images/google-saml-14-1.png)
 
-15. Follow the SAML setup instructions [here](https://docs.hackerone.com/programs/single-sign-on-sso-via-saml.html)<br><ul><li>Paste the Single-Sign On URL and the X.509 Certificate that you copied from step 6 into the corresponding fields during SAML setup.
+15. Follow the SAML setup instructions [here](https://docs.hackerone.com/programs/single-sign-on-sso-via-saml.html).<br><ul><li>Paste the Single-Sign On URL and the X.509 Certificate that you copied from step 6 into the corresponding fields during SAML setup.</li></ul></br>
