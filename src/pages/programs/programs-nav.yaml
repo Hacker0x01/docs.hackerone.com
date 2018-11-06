@@ -80,10 +80,12 @@
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
-        - title: OneLogin
-          path: /programs/onelogin-sso-saml-setup.html
+        - title: Google
+          path: /programs/google-sso-saml-setup.html
         - title: Okta
           path: /programs/okta-sso-saml-setup.html
+        - title: OneLogin
+          path: /programs/onelogin-sso-saml-setup.html
         - title: FAQs
           path: /programs/sso-faqs.html
     - title: Two-Factor Authentication
