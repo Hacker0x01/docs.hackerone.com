@@ -19,7 +19,7 @@ To configure the HackerOne VPN:
 Once you've configured the HackerOne VPN and accepted an invitation to a VPN enabled program, to access your VPN Credentials:
 
 1. Go to your <b>Settings > VPN</b>.
-2. Click <b>Create Credentials</b> to generate your VPN credentials. <i>Note: It'll take a few minutes to generate your credentials. Sorry for the wait!</i>
+2. Click <b>Create credentials</b> to generate your VPN credentials. <i>Note: It'll take a few minutes to generate your credentials. Sorry for the wait!</i>
 
 ![vpn home page](./images/vpn-1.png)
 
