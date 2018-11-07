@@ -505,10 +505,11 @@ button {
   width:600px;
   height:70px;
   color: #585858;
+  cursor: pointer;
 }
 
 button:hover {
-  background-color: #C4C4C4;
+  background-color: #2D8EF4;
   color: #fff;
 }
 
