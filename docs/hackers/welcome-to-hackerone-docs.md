@@ -17,4 +17,4 @@ To help you get started, take a look at these docs:
 
 <button type="button" onclick="location.href='/hackers/submitting-reports.html'">Submit a report<br />Submit your found vulnerability to a program.</button>
 
-See something that can be improved on the docs site? [Make a suggestion](/programs/edit-the-doc-site.html)!
+>See something that can be improved on the docs site? [Make a suggestion](/programs/edit-the-doc-site.html)!
