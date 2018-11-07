@@ -9,7 +9,7 @@ You can submit your found vulnerabilities to programs by submitting reports.
 In order to submit reports:
 1. Go to a program's security page.
 
-   ![report-submissions-1](./images/report-submissions-1.png)
+    ![report-submissions-1](./images/report-submissions-1.png)
 
 2. Click the green **Submit Report** button.
 3. Select the asset type of the vulnerability on the **Submit Vulnerability Report** form.
@@ -34,7 +34,7 @@ In order to submit reports:
 7. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed.
 
    ![report-submissions-6](./images/report-submissions-6.png)
-   
+
 8. Click **Submit Report**.
 
 After you've submitted your report, you must wait for programs to respond to your submission.
