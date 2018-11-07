@@ -18,7 +18,7 @@ To configure the HackerOne VPN:
 
 Once you've configured the HackerOne VPN and accepted an invitation to a VPN enabled program, to access your VPN Credentials:
 
-1. Go to your <b>Settings > VPN Credentials</b>.
+1. Go to your <b>Settings > VPN</b>.
 2. Click <b>Create Credentials</b> to generate your VPN credentials. <i>Note: It'll take a few minutes to generate your credentials. Sorry for the wait!</i>
 
 ![vpn home page](./images/vpn-1.png)
@@ -29,6 +29,6 @@ Once you've configured the HackerOne VPN and accepted an invitation to a VPN ena
 
 4. Import the <code>hackerone.ovpn</code> file in the OpenVPN client that you've configured.
 
-You'll be able to access your VPN credentials and work securely within the HackerOne VPN to search for vulnerabilities. Every hacker will have their own VPN instance. You can check to see that your VPN instance is running successfully on the VPN Credentials page.
+You'll be able to access your VPN credentials and work securely within the HackerOne VPN to search for vulnerabilities. Every hacker will have their own VPN instance. You can check to see that your VPN instance is running successfully on the VPN page.
 
 If you have trouble installing the VPN, or have additional feedback, please reach out to [vpn-support@hackerone.com](mailto:vpn-support@hackerone.com)
