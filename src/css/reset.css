@@ -509,8 +509,12 @@ button {
 }
 
 button:hover {
-  background-color: #2D8EF4;
+  background-color: #2D68F4;
   color: #fff;
+}
+
+button:focus {
+  outline: 0;
 }
 
 form {
