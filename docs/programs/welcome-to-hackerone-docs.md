@@ -21,4 +21,4 @@ To help you get started, take a look at these docs:
 
   Set up all of your settings so that your program can be up and running.
 
-See something that can be improved on the doc site? [Make a suggestion](/programs/edit-the-doc-site.html)!
+>See something that can be improved on the doc site? [Make a suggestion](/programs/edit-the-doc-site.html)!
