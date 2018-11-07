@@ -507,7 +507,10 @@ button {
   color: #585858;
 }
 
-button:hover {background-color: #C4C4C4;}
+button:hover {
+  background-color: #C4C4C4;
+  color: #fff;
+}
 
 form {
   margin-left: 0;
