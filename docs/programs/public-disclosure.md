@@ -24,7 +24,7 @@ Both hackers and program members can request public disclosure. To request publi
 Option | Details
 ------ | -------
 Full | Upon public disclosure, the full contents of the report are visible including the:<li>Vulnerability information</li><li>Summary</li><li>Timeline which includes comments and attachments</li><br>*Note: Internal comments are kept hidden.*  
-Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. 
+Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information.
 
 5) *(Optional)* Enter a comment to describe your reasons for public disclosure.
 6) Click **Post**.    
@@ -34,6 +34,8 @@ Limited | Only the summary and timeline of the activity are visible. All comment
 After public disclosure has been requested, the admin of the of the program can choose to publicly disclose the report. They can select **Disclose publicly** to disclose the report.
 
 ![public-disclosure-3](./images/public-disclosure-3.png)
+
+>Made a mistake? To remove a pending disclosure request, reopen and re-close the report. 
 
 This diagram illustrates HackerOne's public disclosure process:
 
