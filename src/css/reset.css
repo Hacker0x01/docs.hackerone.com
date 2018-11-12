@@ -493,19 +493,19 @@ blockquote {
 }
 
 button {
-  margin-left: 1.45rem;
-  margin-right: 1.45rem;
-  margin-top: 0;
-  margin-bottom: 1.45rem;
-  border-radius:5px;
-  padding-bottom: 12px;
-  padding-left: 12px;
-  padding-right: 4px;
-  padding-top: 12px;
-  width:600px;
-  height:70px;
-  color: #585858;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
   cursor: pointer;
+  width: 300px !important;
+  height: 200px !important;
+  vertical-align: top;
 }
 
 button:hover {
