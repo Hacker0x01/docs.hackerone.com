@@ -510,7 +510,8 @@ button {
   height: 200px !important;
   vertical-align: top;
   color: #585858;
-  border: 2px solid #C4C4C4;
+  border: 1px solid #C4C4C4;
+  border-radius:5px;
 }
 
 button:hover {
