@@ -516,7 +516,7 @@ button {
 
 button:hover {
   background-color: #2D68F4;
-  color: #fff;
+  color: #fff !important;
 }
 
 button:focus {
