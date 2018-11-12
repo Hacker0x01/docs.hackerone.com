@@ -9,9 +9,9 @@ Are you launching a new program or wanting to learn more about a feature on Hack
 
 To help you get started, take a look at these docs:
 
-<button type="button" onclick="location.href='/programs/overview.html'"><h3>Choosing the right product</h3>HackerOne offers 3 different products. Choose which one best fits your needs.
-</button><button type="button" onclick="location.href='/programs/program-start-up-guide.html'"><h3>Starting a Program</h3>Learn how to start-up your program.
-</button><button type="button" onclick="location.href='/programs/start-h1-bounty.html'"><h3>Configure your bounty program settings</h3>Set up all of your settings so that your program can be up and running.
+<button type="button" onclick="location.href='/programs/overview.html'"><h4>Choosing the right product</h4>HackerOne offers 3 different products. Choose which one best fits your needs.
+</button><button type="button" onclick="location.href='/programs/program-start-up-guide.html'"><h4>Starting a Program</h4>Learn how to start-up your program.
+</button><button type="button" onclick="location.href='/programs/start-h1-bounty.html'"><h4>Configure your bounty program settings</h4>Set up all of your settings so that your program can be up and running.
 </button>
 
 >See something that can be improved on the docs site? [Make a suggestion](/programs/edit-the-doc-site.html)!
