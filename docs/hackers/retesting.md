@@ -10,27 +10,35 @@ As programs receive vulnerability reports and work on deploying fixes, they need
 
 If you’re invited to retest a vulnerability, you’ll receive an invitation in your email to retest the report.
 
-![retesting-1](./images/retesting-1.png)
+![retesting-1](./images/retesting-1b.png)
 
 To participate in the retest:
-1. Click <b>View retest</b> in your email.
-2. Familiarize yourself with the contents of the report and check to see that the vulnerability has been fixed.
-3. Click the <b>answer these questions</b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
+1. Click <b>View retest invitation</b> in your email.
+2. <b>Accept</b> or <b>Reject</b> your invitation for retesting.
+
+![retesting invitation](./images/retesting-2b.png)
+
+3. Familiarize yourself with the contents of the report and check to see that the vulnerability has been fixed.
+4. Click the <b>answer these questions</b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
 
 ![retesting-2](./images/retesting-2.png)
 
-4. Answer these questions in the questionnaire:
+5. Answer these questions in the questionnaire:
    * Are you able to reproduce the vulnerability?
    * Are you able to identify a bypass to the fix?
 
-![retesting-3](./images/retesting-3.png)
+![retesting-3](./images/retesting-3b.png)
 
-5. Submit a new report if you found a new vulnerability by clicking on the <b>submit a new report</b> link, and enter the report ID number in the <b>Report ID</b> field.
+6. Submit a new report if you found a new vulnerability by clicking on the <b>submit a new report</b> link, and enter the report ID number in the <b>Report ID</b> field.
 
-![retesting-4](./images/retesting-4.png)
+![retesting-4](./images/retesting-4b.png)
 
-6. Click <b>Submit</b>.
-7. Click <b>Yes!</b> to finalize your submission.
+7. Provide a short summary of how you retested the vulnerability and upload any attachments of your validations.
+
+![retesting summary and attachments example](./images/retesting-5b.png)
+
+8. Click <b>Submit</b>.
+9. Click <b>Yes!</b> to finalize your submission.
 
 ![retesting-5](./images/retesting-5.png)
 
