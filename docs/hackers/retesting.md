@@ -6,7 +6,7 @@ id: "hackers/retesting"
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Asking hackers to verify whether a vulnerability has been fixed is a good way to secure the protection of data. Programs can elect to invite you and other hackers to retest your vulnerabilities to verify fixes.  
 
-><i>This is a new feature that is currently in the beta phase and only select programs are testing this feature out. If you’re a part of those programs, you may be invited to retest the vulnerability fixes. There’s currently no effect to reputation for participating in the retest, and there’s also no time limit to complete it.</i>
+><i>This is a new feature that is currently in the beta phase and only select programs are testing this feature out. If you’re a part of those programs, you may be invited to retest the vulnerability fixes. There’s currently no effect to reputation for participating in the retest. Although there’s no time limit, we recommend you to complete the retest within 24 hours after accepting the invitation.</i>
 
 If you’re invited to retest a vulnerability, you’ll receive an invitation in your email to retest the report.
 
@@ -14,7 +14,7 @@ If you’re invited to retest a vulnerability, you’ll receive an invitation in
 
 To participate in the retest:
 1. Click <b>View retest invitation</b> in your email.
-2. <b>Accept</b> or <b>Reject</b> your invitation for retesting.
+2. <b>Accept</b> or <b>Reject</b> your invitation for retesting. <i>Note: The invitation is only valid for 24 hours.</i>
 
 ![retesting invitation](./images/retesting-2b.png)
 
