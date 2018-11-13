@@ -14,7 +14,7 @@ Having HackerOne Clearance makes you eligible to participate in:
 * [Retesting](/hackers/retesting.html)
 
 ### How does a hacker get HackerOne Clearance?
-To obtain HackerOne Clearance, you need to be a member of the HackerOne community that produces high quality findings, acts responsibly and behaves professionally (zero [Code of Conduct](https://hackerone.com/disclosure-guidelines) violations). You’ll specifically be invited to obtain HackerOne Clearance through which you’ll need to agree to a stricter set of terms called the H1 Clear Finder Additional Terms. (These terms build on our regular hacker terms but have stricter confidentiality terms and higher expectations around professional conduct.)
+To obtain HackerOne Clearance, you need to be a member of the HackerOne community that produces high quality findings, acts responsibly and behaves professionally (zero [Code of Conduct](https://hackerone.com/disclosure-guidelines) violations). You’ll specifically be invited to obtain HackerOne Clearance through which you’ll need to agree to a stricter set of terms called the HackerOne Clear Finder Additional Terms. (These terms build on our regular hacker terms but have stricter confidentiality terms and higher expectations around professional conduct.)
 
 After agreeing to the terms, you’ll need to pass a criminal background check. When the background check comes back without any red flags, you’ll be awarded your Clearance.
 
