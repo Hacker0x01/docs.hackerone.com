@@ -27,7 +27,7 @@ To participate in the retest:
    * Are you able to reproduce the vulnerability?
    * Are you able to identify a bypass to the fix?
 
-![retesting-3](./images/retesting-3c.png)
+![retesting questionnaire](./images/retesting-3c.png)
 
 6. Submit a new report if you found a new vulnerability by clicking on the <b>submit a new report</b> link, and enter the report ID number in the <b>Report ID</b> field.
 

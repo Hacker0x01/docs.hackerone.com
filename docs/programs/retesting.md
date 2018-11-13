@@ -42,7 +42,7 @@ The hacker will be asked to answer the following questions:
 * Are you able to reproduce the vulnerability?
 * Are you able to identify a bypass to the fix?
 
-![retest questionnaire](./images/retesting-5b.png)
+![retest questionnaire](./images/retesting-5c.png)
 
 If they were able to identify a bypass, they can can submit a new vulnerability report and enter the report ID in the questionnaire.
 
@@ -50,7 +50,7 @@ If they were able to identify a bypass, they can can submit a new vulnerability 
 
 Hackers are also asked to provide a short summary of how they retested the vulnerability, and are also able to upload any attachments of their validations.
 
-![summary and screenshots](./images/retesting-6c.png)
+![summary and screenshots](./images/retesting-6d.png)
 
 Upon submission of the questionnaire, you’ll be notified that a hacker has completed a retest of your report within the report timeline and also through email.
 
