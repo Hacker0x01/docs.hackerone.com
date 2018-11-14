@@ -1,5 +1,5 @@
 ---
-title: "Embedded Submission Form (beta)"
+title: "Embedded Submission Form"
 path: "/programs/embedded-submissions-form.html"
 id: "programs/embedded-submissions-form"
 ---
