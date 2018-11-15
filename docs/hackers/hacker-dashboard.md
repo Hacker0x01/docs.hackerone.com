@@ -27,10 +27,10 @@ The Pending Invitations tab enables you to view all of the invitations that you 
 For each program you have an invite to, you can view the:
 * Invitation Expiration time
 * Launch date
-* Total bugs resolved
-* The Response Efficiency
-* The minimum bounty
-* The Average bounty
+* Total number of bugs resolved
+* Response Efficiency
+* Minimum bounty
+* Average bounty
 
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
 
