@@ -12,6 +12,10 @@ If you’re invited to retest a vulnerability, you’ll receive an invitation in
 
 ![retesting-1](./images/retesting-1b.png)
 
+If you're the original reporter of the report, you'll also receive an email asking you to participate in retesting your report.
+
+![retesting email for original reporter](./images/retesting-6.png)
+
 To participate in the retest:
 1. Click <b>View retest invitation</b> in your email.
 2. <b>Accept</b> or <b>Reject</b> your invitation for retesting. <i>Note: The invitation is only valid for 24 hours.</i>
