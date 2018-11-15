@@ -1,5 +1,5 @@
 ---
-title: "HackerOne Dashboard"
+title: "Hacker Dashboard"
 path: "/hackers/hacker-dashboard.html"
 id: "hackers/hacker-dashboard"
 ---
