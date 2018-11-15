@@ -10,6 +10,8 @@ The Hacker Dashboard enables you to view and manage all of your invitations. The
 
 ### Accepted Invitations
 
+![hacker dashboard accepted invitations](./images/hacker-dashboard-1.png)
+
 The Accepted Invitations tab enables you to keep track of all of the programs that you’ve accepted an invitation to. For each program, you can view:
 * The total number of reports you submitted
 * The total number of valid reports you have
@@ -18,9 +20,9 @@ The Accepted Invitations tab enables you to keep track of all of the programs th
 
 You can also elect to leave the programs that you no longer have interest in participating in. Simply click <b>Leave Program</b> next to the program you want to leave.
 
-![hacker dashboard accepted invitations](./images/hacker-dashboard-1.png)
-
 ### Pending Invitations
+
+![hacker dashboard pending invitations](./images/hacker-dashboard-2.png)
 
 The Pending Invitations tab enables you to view all of the invitations that you haven’t accepted.
 
