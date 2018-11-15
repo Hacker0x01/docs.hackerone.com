@@ -35,5 +35,3 @@ For each program you have an invite to, you can view the:
 * Average bounty
 
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
-
-![hacker dashboard pending invitations](./images/hacker-dashboard-2.png)
