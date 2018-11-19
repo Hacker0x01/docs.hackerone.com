@@ -45,4 +45,4 @@ You can also create your own group and invite others to join your group, through
 
 ![create a group](./images/hacker101-7.png)
 
-Learn more about [Hacker101 CTF](https://ctf.hacker101.com/).
+Learn more about [Hacker101 CTF](https://ctf.hacker101.com/)
