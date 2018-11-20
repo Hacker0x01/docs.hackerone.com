@@ -22,7 +22,7 @@ Once your program manager has enabled the feature, to have hackers retest a vuln
 
 ![request retest button](./images/retesting-2.png)
 
-Four random hackers with HackerOne Clearance participating in your program will be invited to retest the report through email.
+Four random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
 
 ![email to see retest invitation](./images/retesting-3b.png)
 
