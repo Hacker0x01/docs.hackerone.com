@@ -120,8 +120,8 @@
           path: /programs/response-labels.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
-    - title: Public Disclosure
-      path: /programs/public-disclosure.html
+    - title: Disclosure
+      path: /programs/disclosure.html
       items:
         - title: Limiting Disclosed Information
           path: /programs/limiting-disclosed-information.html

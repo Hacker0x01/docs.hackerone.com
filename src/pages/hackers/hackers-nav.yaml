@@ -98,7 +98,7 @@
       path: /hackers/weakness.html
     - title: Severity
       path: /hackers/severity.html
-    - title: Public Disclosure
-      path: /hackers/public-disclosure.html
+    - title: Disclosure
+      path: /hackers/disclosure.html
     - title: Keyboard Shortcuts
       path: /hackers/keyboard-shortcuts.html
