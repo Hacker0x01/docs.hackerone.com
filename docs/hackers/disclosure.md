@@ -39,11 +39,11 @@ After public disclosure has been requested, the admin of the of the program can 
 When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communication between the hacker and the security team from first report to resolution.
 
 ### Disclosure for Private Programs (beta)
-Private programs can also enable you to disclose a report to other hackers within the program. Upon disclosure, contents of the report will only be visible to other hackers in the private program. This enables you and other hackers to share your vulnerability findings with other hackers in the program so that other hacker can be aware of what vulnerabilities have been found for that program.
+Private programs can also enable you to disclose a report to other hackers within the program. Upon disclosure, contents of the report will only be visible to other hackers in the private program. This enables you and other hackers to share your vulnerability findings with other hackers in the program so that they can be aware of what vulnerabilities have been found for that program.
 
 You can request for disclosure in your private program following the same steps in the Requesting Disclosure section above.
 
-When choosing to disclose the Full or Limited report, the options will only be specific to disclosing within your private program:
+When requesting to disclose the Full or Limited report, the options will only be specific to disclosing within that specific private program you're a part of:
 
 Option | Details
 ------ | -------
