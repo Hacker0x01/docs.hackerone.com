@@ -5,12 +5,12 @@ date: "2018-11"
 ---
 
 ### Revamped Directory
-We've totally revamped our directory page so that you can better search and view programs. You can now filter your search results by program features and by asset type, and we also enable you to view various stats for each program on one page. 
+We've totally revamped our directory page so that you can better search and view programs. You can now filter your search results by program features and asset type, and we also enable you to view various stats for each program on one page. 
 
 ![new directory page](./images/nov_2018_directory.png)
 
 ### Hacker Dashboard
-We introduce our new [Hacker Dashboard](/hackers/hacker-dashboard.html) that enables hackers to better manage and review their accepted and pending invitations. 
+Our new [Hacker Dashboard](/hackers/hacker-dashboard.html) enables hackers to better manage and review their accepted and pending invitations. 
 
 ![Hacker Dashboard](./images/nov_2018_hacker-dashboard.png)
 
