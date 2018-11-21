@@ -45,7 +45,7 @@ If you’re running a private program, you can enable hackers to disclose a repo
 >Disclosure for private programs is currently in the beta phase. To opt-in to the feature contact your program manager.
 
 To enable disclosure for private programs:
-1. Go to **Settings > Customization > Disclosure**.
+1. Go to **Settings > Program > Customization > Disclosure**.
 2. Select Yes to enable hackers to disclose reports in your private program.
 
 Hackers and other members in your program can request for disclosure following the same steps above in the Requesting Disclosure section above.
