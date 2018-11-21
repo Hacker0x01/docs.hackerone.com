@@ -49,7 +49,7 @@ To enable disclosure for private programs:
 
 ![disclosure settings](./images/disclosure-5.png)
 
-2. Select Yes to enable hackers to disclose reports in your private program.
+2. Select **Yes** to enable hackers to disclose reports in your private program.
 
 Hackers and other members in your program can request for disclosure following the same steps above in the Requesting Disclosure section above.
 
