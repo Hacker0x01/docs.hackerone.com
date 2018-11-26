@@ -25,8 +25,13 @@ Private programs can now opt-in to enable hackers to disclose reports to other h
 
 ![disclosure settings](./images/nov_2018_disclosure-settings.png)
 
+### Hacker101 CTF Integration
+[Hacker101 CTF](/hackers/hacker101.html) is now linked to your HackerOne account. Every time you earn 26 points in the CTF, you’ll be put in the priority queue to receive invitations to private programs. We also enable you to create your own groups to manage hackers working through the CTF.
+
+![Hacker101 CTF Login Page](./images/nov_2018_hacker101_CTF.png)
+
 ### HackerOne VPN
-Hackers can now configure the [HackerOne VPN](/hackers/configure-the-hackerone-vpn.html) and access their VPN credentials for VPN enabled programs. 
+Hackers can now configure the [HackerOne VPN](/hackers/configure-the-hackerone-vpn.html) and access their VPN credentials for VPN enabled programs.
 
 ![VPN](./images/nov_2018_vpn.png)
 
