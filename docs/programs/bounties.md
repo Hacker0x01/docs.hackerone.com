@@ -19,6 +19,19 @@ To award a bounty:
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
 
+### Suggesting Bounties
+If you're unsure of how much to award the hacker, you can communicate a suggested amount with your internal team. To suggest an amount:
+1. Go to your inbox and open the report you'd like to award a bounty for.
+2. Expand the action picker at the bottom of the report above the comment box.
+3. Select **Set award**.
+4. Select **Suggest amount** in the next action picker.
+
+![suggesting bounties](./images/bounties-suggest.png)
+
+5. Enter your suggested bounty amount.
+6. <i>(Optional)</i> Enter your reason of why you suggest that bounty amount.
+6. Click **Suggest award**.
+
 ### Best Practices
 * Provide bounties for useful, valid reports
 * Award a bounty for a significant found vulnerability that is out of scope
