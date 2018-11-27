@@ -6,7 +6,7 @@ id: "hackers/directory"
 
 The Directory is a community-curated resource that helps hackers identify the best way to contact an organization's security team. This guides hackers with reporting potential vulnerabilities directly to the organizations that can resolve them. The Directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
 
-![revamped directory page](./images/better-directory-1.png)
+![revamped directory page](./images/better-directory-5.png)
 
 In this article you can learn about:
 * [Directory services](#services)
@@ -21,6 +21,7 @@ The Directory enables Hackers to:
 * Add security team contact information for an organization so that other hackers know where to submit vulnerabilities (See [Create a Directory Page](/hackers/create-a-directory-page.html))
    * As the directory is community-curated, hackers who maintain sufficient reputation have edit rights and can update information about an organization.  If you don’t have edit rights, you can reach a moderator at directory@hackerone.com with any changes.
 * Find programs they're interested to hack on
+* Bookmark your favorite programs  
 * View and compare statistics of various programs
 
 ><i>Note: If an organization hasn't published security contact information anywhere, HackerOne recommends considering assistance from the [local CERT](https://www.first.org/members/teams/).</i>
@@ -39,6 +40,7 @@ Bugs Resolved | The total number of vulnerabilities the organization has resolve
 Response Efficiency | The percentage of reports that are responded to on time within the last 90 days.
 Bounties Minimum | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
 Bounties Average | The average bounty that is given for a valid vulnerability in a program. If the field is marked with a `-` this means that there is no average bounty, or the program chose not to display this information on their metric display settings.
+Star Icon<br>![star icon](./images/better-directory-4.png) | Bookmark your favorite programs by clicking on the icon. A list of your bookmarked programs will show on your [Hacker Dashboard](/hackers/hacker-dashboard.html) under the **Bookmarked Programs** tab.
 Managed Icon<br>![managed icon](./images/better-directory-2.png) | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Not Accepting Submissions Icon<br>![not accepting submissions icon](./images/better-directory-3.png) | A program that isn’t accepting any report submissions on HackerOne.
 
