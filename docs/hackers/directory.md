@@ -52,3 +52,5 @@ Option | Detail
 IBB | Indicates Internet Bug Bounty - a bug bounty program for core internet infrastructure and free open source software. These programs are managed by a panel of volunteers selected from the security community. Learn more [here](https://www.hackerone.com/internet-bug-bounty).
 Offers bounties | Programs that offer bounties as rewards for finding vulnerabilities.
 Invite-only | Programs that only allow you to submit vulnerabilities through an invitation.
+High response efficiency | Programs that have a [response efficiency](/programs/response-target-indicators.html) of at least 80%.
+Managed | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
