@@ -7,12 +7,20 @@ date: "2018-11"
 ### Revamped Directory
 We've totally revamped our directory page so that you can better search and view programs. You can now filter your search results by program features and by asset type, and we also enable you to view various stats for each program on one page.
 
-![new directory page](./images/nov_2018_directory.png)
+![new directory page](./images/nov_2018_better-directory.png)
+
+### Program Bookmarking
+You can now bookmark your favorite programs on the directory by starring them.
+
+![star](./images/nov_2018_bookmark_star.png)
 
 ### Hacker Dashboard
-We introduce our new [Hacker Dashboard](/hackers/hacker-dashboard.html) that enables hackers to better manage and review their accepted and pending invitations.
+Our new [Hacker Dashboard](/hackers/hacker-dashboard.html) enables hackers to better manage and review their:
+* Accepted Invitations
+* Pending Invitations
+* Bookmarked Programs
 
-![Hacker Dashboard](./images/nov_2018_hacker-dashboard.png)
+![Hacker Dashboard](./images/nov_2018_hacker-dashboard-2.png)
 
 ### Disclosure
 We've deprecated the term "Public Disclosure" and now simply just call it
@@ -25,10 +33,18 @@ Private programs can now opt-in to enable hackers to disclose reports to other h
 
 ![disclosure settings](./images/nov_2018_disclosure-settings.png)
 
+### Cancel Disclosure Request
+We now enable you to cancel disclosure requests. You can cancel your own requests, and hackers and programs can cancel the requests they receive from one another if they choose not to disclose a report.  
+
+![cancel disclosure request](./images/nov_2018_cancel-disclosure.png)
+
 ### Hacker101 CTF Integration
 [Hacker101 CTF](/hackers/hacker101.html) is now linked to your HackerOne account. Every time you earn 26 points in the CTF, you’ll be put in the priority queue to receive invitations to private programs. We also enable you to create your own groups to manage hackers working through the CTF.
 
 ![Hacker101 CTF Login Page](./images/nov_2018_hacker101_CTF.png)
+
+### Activities API Endpoint
+We added a new activities API endpoint that enables you to fetch all activities of your program incrementally by time. Learn more about the [activities endpoint](https://api.hackerone.com/docs/v1#/activities).
 
 ### HackerOne VPN
 Hackers can now configure the [HackerOne VPN](/hackers/configure-the-hackerone-vpn.html) and access their VPN credentials for VPN enabled programs.
