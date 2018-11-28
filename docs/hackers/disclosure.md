@@ -38,6 +38,18 @@ After public disclosure has been requested, the admin of the of the program can 
 
 When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communication between the hacker and the security team from first report to resolution.
 
+### Canceling Disclosure Requests
+You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from a program asking you for disclosure.
+
+To cancel a disclosure request: 
+1. Go to the report that has been requested for disclosure.
+2. Select **Cancel disclosure request** in the action picker at the bottom of the report.
+
+![cancel disclosure request](./images/cancel-disclosure-request.png)
+
+3. Enter a comment explaining why you are canceling the disclosure request.
+4. Click **Post**.
+
 ### Disclosure for Private Programs (beta)
 Private programs can also enable you to disclose a report to other hackers within the program. Upon disclosure, contents of the report will only be visible to other hackers in the private program. This enables you and other hackers to share your vulnerability findings with other hackers in the program so that they can be aware of what vulnerabilities have been found for that program.
 

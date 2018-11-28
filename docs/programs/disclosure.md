@@ -37,7 +37,17 @@ After disclosure has been requested, the admin of the of the program can choose 
 
 ![Disclose](./images/disclosure-2.png)
 
->Made a mistake? To remove a pending disclosure request, reopen and re-close the report.
+### Canceling Disclosure Requests
+You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from hackers asking you for disclosure.
+
+To cancel a disclosure request:
+1. Go to the report that has been requested for disclosure.
+2. Select **Cancel disclosure request** in the action picker at the bottom of the report.
+
+![cancel disclosure request](./images/cancel-disclosure-request.png)
+
+3. Enter a comment explaining why you are canceling the disclosure request.
+4. Click **Post**.
 
 ### Disclosure for Private Programs (beta)
 If you’re running a private program, you can enable hackers to disclose a report within your private program. Upon disclosure, contents of the report will only be visible to participants in your private program. This enables hackers to share their vulnerability findings with other hackers in the program, and can also increase awareness for other hackers as they can better see what vulnerabilities have already been found for your program.  
