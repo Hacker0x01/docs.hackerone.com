@@ -10,9 +10,7 @@ We've totally revamped our directory page so that you can better search and view
 ![new directory page](./images/nov_2018_better-directory.png)
 
 ### Program Bookmarking
-You can now bookmark your favorite programs on the directory by starring them.
-
-![star](./images/nov_2018_bookmark_star.png)
+You can now bookmark your favorite programs on the directory by starring them.![star](./images/nov_2018_bookmark_star.png)
 
 ### Hacker Dashboard
 Our new [Hacker Dashboard](/hackers/hacker-dashboard.html) enables hackers to better manage and review their:
