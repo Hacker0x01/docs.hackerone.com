@@ -38,3 +38,10 @@ Minimum Bounty | The minimum bounty that will be given for a valid vulnerability
 Average Bounty | The average bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no average bounty, or the program chose not to display this information on their metric display settings.
 
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
+
+### Bookmarked Programs
+The Bookmarked Programs tab enables you to view the list of programs that you've marked as your favorites in the directory. This enables you to better keep track of the programs you're most interested in.
+
+![bookmarked programs](./images/bookmarked.png)
+
+To remove programs from your bookmarked list, click the blue star icon.
