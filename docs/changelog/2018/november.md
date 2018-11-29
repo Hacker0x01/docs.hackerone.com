@@ -12,7 +12,7 @@ We've totally revamped our directory page so that you can better search and view
 ### Program Bookmarking
 You can now bookmark your favorite programs on the directory by starring them.
 
-![star](./images/nov_2018_bookmark_star.png) 
+![star](./images/nov_2018_bookmark_star.png)
 
 ### Hacker Dashboard
 Our new [Hacker Dashboard](/hackers/hacker-dashboard.html) enables hackers to better manage and review their:
@@ -21,6 +21,11 @@ Our new [Hacker Dashboard](/hackers/hacker-dashboard.html) enables hackers to be
 * Bookmarked Programs
 
 ![Hacker Dashboard](./images/nov_2018_hacker-dashboard-2.png)
+
+### Hacktivity Search
+We now enable you to search within Hacktivity. You can search for reports regarding programs and weaknesses you're interested to read about in the search bar to better learn how specific weaknesses were exploited in various programs.
+
+![hacktivity search](./images/nov_2018_hacktivity_search.png)
 
 ### Disclosure
 We've deprecated the term "Public Disclosure" and now simply just call it
