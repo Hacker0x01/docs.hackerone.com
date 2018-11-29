@@ -25,7 +25,7 @@ Once you’ve met all of the requirements above, you’re ready to publish your 
 1. Go to [Hacktivity](https://hackerone.com/hacktivity).
 2. Click the pink <b>Publish</b> button.
 
-![publish vulernability button](./images/publishing-vulnerability-1.png)
+![publish vulnerability button](./images/publishing-vulnerability-1.png)
 
 3. Enter the program you reported the vulnerability to and select it from the populated list. <i>Note: This field searches all known disclosure programs from the [Directory](https://hackerone.com/directory).</i><ul><li>If the program doesn't populate in the list, manually enter the entire program name.</li><li>To publish without disclosing the organization, enter `redact` to select the Redacted program.</li></ul>
 4. Fill out the rest of the <b>Publish a Vulnerability</b> report form.
