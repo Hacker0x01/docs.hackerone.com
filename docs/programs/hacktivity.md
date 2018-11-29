@@ -14,6 +14,8 @@ There are 2 pages to Hacktivity:
 * Popular - the activity that is currently trending
 * New - the latest activity
 
+![hacktivity](./images/hacktivity-1a.png)
+
 ### How Does an Activity Appear on Hacktivity?
 Hacktivity only showcases activity for public programs. Hacker activity populates on the Hacktivity feed when disclosed and undisclosed reports are marked as:
 * Closed
@@ -22,6 +24,9 @@ Hacktivity only showcases activity for public programs. Hacker activity populate
 * Swag awarded
 
 ><i>Note: Undisclosed reports appear with a redacted title.</i>
+
+### Search
+You can search for reports regarding programs and weaknesses you're interested to read about in the search bar to better learn how specific weaknesses were exploited in various programs.
 
 ### Upvoting
 You can upvote activities by clicking on the arrow next to the activity. Anyone with an account can upvote, but you can only upvote once on each activity. When you hover over the upvote count, you can see the top 10 hackers (ranked by Signal) that voted on the activity.

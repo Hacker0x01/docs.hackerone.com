@@ -14,7 +14,7 @@ There are 2 pages to Hacktivity:
 * Popular - the activity that is currently trending
 * New - the latest activity
 
-![hacktivity-1](./images/hacktivity-1.png)
+![hacktivity-1a](./images/hacktivity-1a.png)
 
 ### How Do Activities Appear on Hacktivity?
 Hacktivity only showcases activity for public programs. Hacker activity populates on the Hacktivity feed when disclosed and undisclosed reports are marked as:
