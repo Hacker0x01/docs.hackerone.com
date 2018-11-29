@@ -23,9 +23,9 @@ By publishing vulnerabilities to HackerOne, you acknowledge that you’ve met al
 ### Publishing a Vulnerability on HackerOne
 Once you’ve met all of the requirements above, you’re ready to publish your vulnerability. To publish an external vulnerability on HackerOne:
 1. Go to [Hacktivity](https://hackerone.com/hacktivity).
-2. Click the blue <b>Publish</b> button.
+2. Click the pink <b>Publish</b> button.
 
-![publish-vulernability-1](./images/publish-vulnerability-1.png)
+![publish vulernability button](./images/publishing-vulnerability-1.png)
 
 3. Enter the program you reported the vulnerability to and select it from the populated list. <i>Note: This field searches all known disclosure programs from the [Directory](https://hackerone.com/directory).</i><ul><li>If the program doesn't populate in the list, manually enter the entire program name.</li><li>To publish without disclosing the organization, enter `redact` to select the Redacted program.</li></ul>
 4. Fill out the rest of the <b>Publish a Vulnerability</b> report form.
@@ -34,7 +34,7 @@ Once you’ve met all of the requirements above, you’re ready to publish your 
 
 The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Published</b> icon on it to distinguish it from other reports. Users can upvote your report in Hacktivity, and the report will also display on your hacker profile.
 
-><i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing.</i> 
+><i>Note: HackerOne reserves the right to remove any posted content if any party informs us that the content didn’t meet our requirements for publishing.</i>
 
 ### Publishing Without Disclosing the Organization
 It may take some time for external organizations to get back to you about publishing the vulnerability you found, or they may not get back to you at all. In these cases, we enable you to publish your vulnerability to Hacktivity without naming the organization.
