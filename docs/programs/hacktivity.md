@@ -25,6 +25,8 @@ Hacktivity only showcases activity for public programs. Hacker activity populate
 
 ><i>Note: Undisclosed reports appear with a redacted title.</i>
 
+Hackers can also publish their findings from external sources outside of HackerOne. To learn more, see: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html).
+
 ### Search
 You can search for reports regarding programs and weaknesses you're interested to read about in the search bar to better learn how specific weaknesses were exploited in various programs.
 
