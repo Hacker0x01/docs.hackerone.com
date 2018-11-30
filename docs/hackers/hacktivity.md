@@ -10,11 +10,23 @@ id: "hackers/hacktivity"
 * The associated program
 * The awarded bounty amount
 
-There are 2 pages to Hacktivity:
-* Popular - the activity that is currently trending
-* New - the latest activity
-
 ![hacktivity-1a](./images/hacktivity-1a.png)
+
+There are 2 pages to Hacktivity:
+
+Page | Details
+---- | --------
+Popular | The activity that is currently trending
+New | The latest activity
+
+You can also filter the activity you want to see by these filters:
+
+Filter | Details
+------ | --------
+Disclosed | Vulnerability reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
+Bug Bounty | Vulnerability reports that were only submitted to programs that provide bounties.
+Published | Vulnerability reports that are from external sources outside of HackerOne.
+All | All activities that appear on Hacktivity. 
 
 ### How Do Activities Appear on Hacktivity?
 Hacktivity only showcases activity for public programs. Hacker activity populates on the Hacktivity feed when disclosed and undisclosed reports are marked as:
