@@ -33,7 +33,9 @@ You can search for reports regarding programs and weaknesses you're interested t
 ### Upvoting
 You can upvote activities by clicking on the arrow next to the activity. Anyone with an account can upvote, but you can only upvote once on each activity. When you hover over the upvote count, you can see the top 10 hackers (ranked by Signal) that voted on the activity.
 
-There is currently no downvoting capability, but you can retreat your upvote by clicking on the arrow again.
+There is currently no downvoting capability, but you can retract your upvote by clicking on the arrow again.
+
+![hacktivity upvotes](./images/hacktivity-2.png)
 
 ### How is Activity Ranked on Hacktivity?
 Activities on each page are ranked differently.

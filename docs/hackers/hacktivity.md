@@ -35,7 +35,7 @@ You can upvote hacker activities that you find interesting by clicking on the ar
 
 There is currently no downvoting capability, but you can retract your upvote by clicking on the arrow again.
 
-![hacktivity-2](./images/hacktivity-2.png)
+![hacktivity-2](./images/hacktivity-2-update.png)
 
 ### How are Activities Ranked on Hacktivity?
 Activities on each page are ranked differently.
