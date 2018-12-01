@@ -25,7 +25,7 @@ Filter Option | Details
 ------------- | --------
 Disclosed | Vulnerability reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
 Bug Bounty | Vulnerability reports that were only submitted to programs that provide bounties.
-Published | Vulnerability reports that are from external sources outside of HackerOne.
+Published | Vulnerability reports that are from external sources outside of HackerOne. See: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html)
 All | All activities that appear on Hacktivity.
 
 ### How Does an Activity Appear on Hacktivity?
