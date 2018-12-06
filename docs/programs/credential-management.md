@@ -6,6 +6,8 @@ id: "programs/credential-management"
 
 The Credential Management feature enables you to easily share access credentials with hackers so that you don't have to constantly create sign in credentials for each new hacker that participates in your program. This also enables participating hackers to quickly retrieve the credentials needed to find vulnerabilities in your program.
 
+>Note: This feature is currently only available for private programs.
+
 ### Set Up
 To set up Credential Management for your program:
 1. Go to <b>Settings > General > Credential Management</b>.
