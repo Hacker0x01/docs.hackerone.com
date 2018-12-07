@@ -23,4 +23,6 @@ All invited hackers | This option is only available for private programs
 
 Your message will first go to HackerOne support who will verify the content of the message. After verification, your message will be sent to the selected recipients within 1 business day. The message will appear from *Your Team (via HackerOne)* and will be no-reply.
 
+Each recipient will receive a unique email that's specific to them. Hackers won't be able to see if anyone else received the same email.
+
 ![Communicate with hackers3](./images/communicate-with-hackers2.png)
