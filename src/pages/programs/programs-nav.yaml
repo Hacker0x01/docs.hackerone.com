@@ -94,6 +94,8 @@
       path: /programs/sessions.html
     - title: Credential Management
       path: /programs/credential-management.html
+    - title: Notifications
+      path: /programs/notifications.html
 - title: Reports
   items:
     - title: Inbox
@@ -136,6 +138,8 @@
           path: /programs/hackbot.html
     - title: Retesting
       path: /programs/retesting.html
+    - title: Reducing Noise
+      path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
