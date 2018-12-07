@@ -138,6 +138,8 @@
           path: /programs/hackbot.html
     - title: Retesting
       path: /programs/retesting.html
+    - title: Reducing Noise
+      path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
