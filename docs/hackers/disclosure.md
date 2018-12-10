@@ -41,7 +41,7 @@ When publishing reports, the security team can choose to disclose the report in 
 ### Canceling Disclosure Requests
 You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from a program asking you for disclosure.
 
-To cancel a disclosure request: 
+To cancel a disclosure request:
 1. Go to the report that has been requested for disclosure.
 2. Select **Cancel disclosure request** in the action picker at the bottom of the report.
 
@@ -50,7 +50,7 @@ To cancel a disclosure request:
 3. Enter a comment explaining why you are canceling the disclosure request.
 4. Click **Post**.
 
-### Disclosure for Private Programs (beta)
+### Disclosure for Private Programs
 Private programs can also enable you to disclose a report to other hackers within the program. Upon disclosure, contents of the report will only be visible to other hackers in the private program. This enables you and other hackers to share your vulnerability findings with other hackers in the program so that they can be aware of what vulnerabilities have been found for that program.
 
 You can request for disclosure in the private program you're a part of by following the same steps in the Requesting Disclosure section above.
@@ -61,7 +61,5 @@ Option | Details
 ------ | -------
 Full | Upon disclosure, the contents of the report will be visible to other hackers in the private program.
 Limited | Only the summary and timeline of activity will be visible to other hackers in the private program.
-
-> Disclosure for private programs is currently in the beta phase. You'll be able to disclose reports for private programs if the program has opted-in to this feature.
 
 For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
