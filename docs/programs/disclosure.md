@@ -49,7 +49,7 @@ To cancel a disclosure request:
 3. Enter a comment explaining why you are canceling the disclosure request.
 4. Click **Post**.
 
-### Disclosure for Private Programs (beta)
+### Disclosure for Private Programs
 If you’re running a private program, you can enable hackers to disclose a report within your private program. Upon disclosure, contents of the report will only be visible to participants in your private program. This enables hackers to share their vulnerability findings with other hackers in the program, and can also increase awareness for other hackers as they can better see what vulnerabilities have already been found for your program.  
 
 >Disclosure for private programs is currently in the beta phase. To opt-in to the feature contact your program manager.
