@@ -13,7 +13,7 @@ HackerOne to Jira | Jira to HackerOne
 Comments | Comments
 State changes | State changes<br><i>Note: The state change in Jira only shows up as an internal comment in the HackerOne report. The HackerOne report state doesn't change. You'll need to log into HackerOne to change the report state.
 Rewards | Resolution changes
-Asignee changes | Asignee changes
+Assignee changes | Assignee changes
 Public disclosure | Priority changes
 
 You can choose to integrate from 2 different types of Jira integrations:
