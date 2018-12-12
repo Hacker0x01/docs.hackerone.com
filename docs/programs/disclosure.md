@@ -10,8 +10,8 @@ Programs can choose from 3 disclosure settings:
 
 Option | Details
 ------ | -------
-Disclosure by Default | The hacker or your security team can request disclosure for any closed report in your program. If the admin of your program agrees to disclosure, the contents of the report will be made public within 30 days.<br> <br>*This is the default setting for all verified programs*.
-Disclosure requiring Mutual Agreement | The hacker can request disclosure for any closed report in your program. If your program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br>*You must request to opt-in to this option.*
+Disclosure by Default | The hacker or your security team can request disclosure for any closed report in your program. If the admin of your program agrees to disclosure, the contents of the report will be made public within 30 days.<br> <br>*This is the default setting for all verified programs*.<br><br>Note: Reports must be in the Resolved state to default to disclosure. Any other [report state](/programs/report-states.html) requires mutual agreement.
+Disclosure requiring Mutual Agreement | The hacker can request disclosure for any closed report in your program. If your program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br><br>*You must request to opt-in to this option.*
 Disclosure Disabled | Disclosure isn't allowed for any report.
 
 ### Requesting Disclosure
