@@ -3,7 +3,7 @@ title: "Security Page"
 path: "/programs/security-page.html"
 id: "programs/security-page"
 ---
-The Security Page contains key information about your program and your security disclosure policy. The Security Page sets expectations of hackers you invite to your bounty program and it also outlines your:
+A program's Security Page contains key information about your program and your security disclosure policy. The Security Page sets expectations for hackers you invite to your bounty program and it also outlines your:
 * Disclosure policy
 * Bug eligibility
 * Policy for in-scope eligibility
@@ -39,11 +39,9 @@ To claim a security page:
 
 ><i><b>Note:</b> Unclaimed pages have the **Claim this page** and the **Suggest edits** link. Claimed pages don't have these links available.</i>
 
-![security-page-1](./images/security-page-1.png)
-
-  Here's an example of a claimed directory page:
-
-![security page-2](./images/security-page-2.png)
+Claimed Directory Page | Unclaimed Directory Page
+---------------------- | --------------
+![security page-2](./images/security-page-2.png) | ![security-page-1](./images/security-page-1.png)
 
 2. Click the **Claim this page** link.
 3. A HackerOne staff will either approve or reject your claim request. If your request is approved, you'll be given editing rights to the entire page.  
