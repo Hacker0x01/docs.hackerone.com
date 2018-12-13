@@ -1,5 +1,5 @@
 ---
-title: "Retesting (beta)"
+title: "Retesting"
 path: "/programs/retesting.html"
 id: "programs/retesting"
 ---
