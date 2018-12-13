@@ -6,7 +6,7 @@ id: "hackers/retesting"
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Asking hackers to verify whether a vulnerability has been fixed is a good way to secure the protection of data. Programs can elect to invite you and other hackers to retest your vulnerabilities to verify fixes.  
 
-><i>This is a new feature that is currently in the beta phase and only select programs are testing this feature out. If you have [HackerOne Clearance](/hackers/hackerone-clearance.html), you may be invited to retest the vulnerability fixes. There’s currently no effect to reputation for participating in the retest. Although there’s no time limit, we recommend you to complete the retest within 24 hours after accepting the invitation.</i>
+><i>If you have [HackerOne Clearance](/hackers/hackerone-clearance.html), you may be invited to retest the vulnerability fixes. There’s currently no effect to reputation for participating in the retest. Although there’s no time limit, we recommend you to complete the retest within 24 hours after accepting the invitation.</i>
 
 If you’re invited to retest a vulnerability, you’ll receive an invitation in your email to retest the report.
 
