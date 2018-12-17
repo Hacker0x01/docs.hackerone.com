@@ -34,7 +34,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 ### Guidelines
 
-The documentation is divided into several sections with a different tone and purpose. If you plan to write more than a few sentences, you might find it helpful to get familiar with the [contributing guidelines](https://github.com/hacker0x01/docs.hackerone.com/blob/master/CONTRIBUTING.md#guidelines-for-text) for the appropriate sections.
+The documentation is divided into several sections with a different tone and purpose. If you plan to write more than a few sentences, you might find it helpful to get familiar with the [contributing guidelines](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/contributing-guidelines.md) for the appropriate sections.
 
 ### Create a branch
 
