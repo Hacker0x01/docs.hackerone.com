@@ -2,10 +2,10 @@
 ### Changelog
 When adding a new entry to the changelog, make sure you format the file such that the first several lines of the markdown file are:
 
-`---`
-`title: "November 2016"`
-`path: "/changelog/2016/november"`
-`date: "2016-11"`
+`---`<br>
+`title: "November 2016"`<br>
+`path: "/changelog/2016/november"`<br>
+`date: "2016-11"`<br>
 `---`
 
 ### New Articles
@@ -14,20 +14,20 @@ You can add new articles to either the Hacker Book or the Program Book.
 #### Hacker Book
 When adding a new article, make sure you format the file such that the first several lines of the markdown file are:
 
-`---
-title: "Title of the Article"
-path: "/hackers/title-of-the-article.html"
-id: "hackers/title-of-the-article"
----`
+`---`<br>
+`title: "Title of the Article"`<br>
+`path: "/hackers/title-of-the-article.html"`<br>
+`id: "hackers/title-of-the-article"`<br>
+`---`
 
 #### Program Book
 When adding a new article to the program book, make sure you format the file such that the first several lines of the markdown file are:
 
-`---
-title: "Title of the Article"
-path: "/programs/title-of-the-article.html"
-id: "programs/title-of-the-article"
----`
+`---`<br>
+`title: "Title of the Article"`<br>
+`path: "/programs/title-of-the-article.html"`<br>
+`id: "programs/title-of-the-article"`<br>
+`---`
 
 ### Formatting
 How do I... | Answer
