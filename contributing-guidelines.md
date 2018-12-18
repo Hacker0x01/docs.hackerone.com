@@ -1,11 +1,12 @@
 # Style Guide 
 ### Changelog
 When adding a new entry to the changelog, make sure you format the file such that the first several lines of the markdown file are:
-``---
-title: "November 2016"
-path: "/changelog/2016/november"
-date: "2016-11"
-``---
+
+`---`
+`title: "November 2016"`
+`path: "/changelog/2016/november"`
+`date: "2016-11"`
+`---`
 
 ### New Articles
 You can add new articles to either the Hacker Book or the Program Book.
