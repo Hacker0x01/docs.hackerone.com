@@ -15,4 +15,4 @@ Programs can enable, disable, or hide each weakness for their program's submissi
 When you submit a report, you must select the type of weakness for the vulnerability you've found.
 ![weakness-1](./images/weakness-1.png)
 You can filter the options by various clusters.
-![weakness-2](./images/weakness-1.png)
+![weakness-2](./images/weakness-2.png)
