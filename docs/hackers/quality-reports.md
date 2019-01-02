@@ -13,7 +13,6 @@ You notify programs of vulnerabilities by submitting reports to the program's in
 Here are some examples of publicly disclosed examples of good reports:
 * [Twitter disclosed on HackerOne: URGENT - Subdomain Takeover](https://hackerone.com/reports/32825)
 * [Shopify disclosed on HackerOne: Attention! Remote Code Execution](https://hackerone.com/reports/73567)
-* [Square disclosed on HackerOne: Delayed, fraudulent transactions](https://hackerone.com/reports/38682)
 
 Some great resources for vulnerability report best practices are:
 * [Dropbox Bug Bounty Program: Best Practices](https://blogs.dropbox.com/tech/2015/08/dropbox-bug-bounty-program-best-practices-2/)
