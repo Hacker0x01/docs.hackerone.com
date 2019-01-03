@@ -1,5 +1,5 @@
 ---
-title: "Exporting Reports"
+title: "Export Reports"
 path: "/programs/export-reports.html"
 id: "programs/export-reports"
 ---
@@ -13,8 +13,22 @@ You can also export reports through utilizing the API. See these articles from t
 * https://api.hackerone.com/docs/v1#/reports/read
 * https://api.hackerone.com/docs/v1#/reports/query
 
-### Export to .csv Files  
-You can download reports as .csv files to enable you to quickly generate a spreadsheet of selected reports with key details. The .csv files don't include the comments. The downloaded file provides the:
+### Export All Reports to a .csv File
+You can export all of your vulnerability reports within your program. This enables you to keep and run analytics on your program's vulnerability report data in an organized spreadsheet. You can also export reports for any [child programs](parent-child-programs.html) associated with your program as well. The .csv file doesn't include the comments. 
+
+To export all of your reports:
+1. Go to your program's **Settings > Automation > Export**.
+
+![export reports](./images/export-lifetime-reports-1.png)
+
+2. Enter your email address to receive the download link in your email.
+3. Click the link you receive in your email to download your reports as a .csv file.
+
+![export reports](./images/export-lifetime-reports-2.png)
+
+Depending on the number of reports in your program, it'll take about 2 hours to export all of your reports. Only users given access to the download link will be able to export the reports.
+
+The downloaded file provides the:
 
 * Report ID
 * Title
@@ -37,7 +51,8 @@ You can download reports as .csv files to enable you to quickly generate a sprea
 * Reference URL
 * Structured scope
 
-To export reports as a .csv file:
+### Export Select Reports to .csv File  
+To export select reports as a .csv file:
 1. Select the check box of the reports you'd like to export in your inbox. You can select as many reports as you'd like.
 2. Click the **Download as CSV** link to download the selected reports.
 
