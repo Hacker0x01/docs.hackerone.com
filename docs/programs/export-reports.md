@@ -14,19 +14,19 @@ You can also export reports through utilizing the API. See these articles from t
 * https://api.hackerone.com/docs/v1#/reports/query
 
 ### Export All Reports to a .csv File
-You can export all of your vulnerability reports within your program. This enables you to keep and run analytics on your program's vulnerability report data in an organized spreadsheet. You can also export reports for any [child programs](parent-child-programs.html) associated with your program as well. The .csv file doesn't include the comments. 
+You can export all of your vulnerability reports within your program. This enables you to keep and run analytics on your program's vulnerability report data in an organized spreadsheet. You can also export reports for any [child programs](parent-child-programs.html) associated with your program as well. The .csv file doesn't include the comments.
 
 To export all of your reports:
 1. Go to your program's **Settings > Automation > Export**.
 
 ![export reports](./images/export-lifetime-reports-1.png)
 
-2. Enter your email address to receive the download link in your email.
+2. Click **Send** after making sure your email address is correct.
 3. Click the link you receive in your email to download your reports as a .csv file.
 
 ![export reports](./images/export-lifetime-reports-2.png)
 
-Depending on the number of reports in your program, it'll take about 2 hours to export all of your reports. Only users given access to the download link will be able to export the reports.
+Depending on the number of reports in your program, it'll take about 5-10 minutes to export all of your reports. Only users given access to the download link will be able to export the reports.
 
 The downloaded file provides the:
 
