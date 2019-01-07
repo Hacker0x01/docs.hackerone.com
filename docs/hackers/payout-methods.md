@@ -61,5 +61,3 @@ Keep in mind that:
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.
 
 Go to your profile's <b>[Settings > Payout Methods](https://hackerone.com/settings/payment_preferences)</b> to add or remove payout methods.
-
-
