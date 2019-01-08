@@ -4,9 +4,16 @@ path: "/hackers/hacker-dashboard.html"
 id: "hackers/hacker-dashboard"
 ---
 
-The Hacker Dashboard enables you to view and manage all of your invitations. There are 2 tabs that you can view:
+The Hacker Dashboard enables you to view and manage all of your invitations. There are 4 tabs that you can view:
+* Getting Started
 * Accepted Invitations
 * Pending Invitations
+* Bookmarked Programs
+
+### Getting Started
+The Getting Started page is your guide to help you get started on HackerOne. You'll be directed to the right pages to help you get the information you need to successfully start out on HackerOne. 
+
+![hacker dashboard getting started page](./images/hacker-dashboard-3.png)
 
 ### Accepted Invitations
 
