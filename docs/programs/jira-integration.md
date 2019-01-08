@@ -31,3 +31,28 @@ A HackerOne report gets triaged and escalated into Jira.
 
 Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
 ![jira-integration-2](./images/jira-cloud-4.png)
+
+#### Linking HackerOne Reports to Existing Jira Tasks
+You can link your HackerOne reports to existing Jira tasks.
+
+To link your reports:
+1. Go to the HackerOne report in your inbox that you want to link to Jira.
+2. Click **Edit** next to <i>References</i>.
+
+![link to jira-1](./images/link jira-1.png)
+
+3. Enter the Jira ticket reference ID in the **Link JIRA ticket** field.
+4. Click **Link JIRA issue**.
+
+![link to jira-2](./images/link-jira-2.png)
+
+The HackerOne report will now be linked to the Jira task.
+
+There's also another way you can  link your HackerOne reports to Jira. You can:
+1. Go to the bottom of your HackerOne report.
+2. Select **Change state > Triaged** in the action picker.
+
+![link to jira-3](./images/link-jira-3.png)
+
+3. Enter the JIRA ticket number in the **Enter JIRA ticket #** field.
+4. Click **Link JIRA issue**. 
