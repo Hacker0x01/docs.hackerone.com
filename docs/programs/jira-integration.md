@@ -46,7 +46,7 @@ To link your reports:
 
 ![link to jira-2](./images/link-jira-2.png)
 
-The HackerOne report will now be linked to the Jira task.
+The HackerOne report will now be linked to the Jira task, and all activities that are performed on the report will be synced to the corresponding task. 
 
 There's also another way you can  link your HackerOne reports to Jira. You can:
 1. Go to the bottom of your HackerOne report.
