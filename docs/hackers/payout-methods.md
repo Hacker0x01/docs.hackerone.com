@@ -4,7 +4,7 @@ path: "/hackers/payout-methods.html"
 id: "hackers/payout-methods"
 ---
 
-As hackers are awarded bounties every day, HackerOne initiates the payment process each day. Depending on which of the 3 payout methods you elect, payments are processed at different times each day, and the expected retrieval time of your monetary award also varies. 
+As hackers are awarded bounties every day, HackerOne initiates the payment process each day. Depending on which of the 3 payout methods you elect, payments are processed at different times each day, and the expected retrieval time of your monetary award also varies.
 
 Go to your profile's <b>[Settings > Payout Methods](https://hackerone.com/settings/payment_preferences)</b> to add or remove payout methods.
 
@@ -18,43 +18,28 @@ Bank Transfer (Currencycloud) | Every weekday at 9am UTC | Payout time is 1-10 d
 
 ### More Info on Bank Transfers (Currencycloud)
 For bank transfers, we currently support conversions to the following currencies:
- - Australian Dollar
- - Bahraini Dinar
- - British Pound
- - Bulgarian Lev
- - Canadian Dollar
- - Chinese Yuan
- - Croatian Kuna
- - Czech Koruna
- - Danish Krone
- - Euro
- - Hong Kong Dollar
- - Hungarian Forint
- - Indian Rupee
- - Indonesian Rupiah
- - Israeli New Sheqel
- - Japanese Yen
- - Kenyan Shilling
- - Kuwaiti Dinar
- - Malaysian Ringgit
- - Mexican Peso
- - New Zealand Dollar
- - Norwegian Krone
- - Omani Rial
- - Philippine Peso
- - Polish Zloty
- - Qatari Rial
- - Romanian New Leu
- - Saudi Riyal
- - Singapore Dollar
- - South African Rand
- - Swedish Krona
- - Swiss Franc
- - Thai Baht
- - Turkish Lira
- - Ugandan Shilling
- - United Arab Emirates Dirham
- - United States Dollar
+
+Supported Currency | Currency Code | Supported Currency | Currency Code
+------------------ | ------------- | ------------------ | -------------
+Australian Dollar | AUD | Mexican Peso | MXN
+Bahraini Dinar | BHD | New Zealand Dollar | NZD
+British Pound | GBP | Norwegian Krone | NOK
+Bulgarian Lev | BGN | Omani Rial | OMR
+Canadian Dollar | CAD | Philippine Peso | PHP
+Chinese Yuan | CNY | Polish Zloty | PLN
+Croatian Kuna | HRK | Qatari Rial | QAR
+Czech Koruna | CZK | Romanian New Leu | RON
+Danish Krone | DKK | Saudi Riyal | SAR
+Euro | EUR | Singapore Dollar | SGD
+Hong Kong Dollar | HKD | South African Rand | ZAR
+Hungarian Forint | HUF | Swedish Krona | SEK
+Indian Rupee | INR | Swiss Franc | CHF
+Indonesian Rupiah | IDR | Thai Baht | THB
+Israeli New Sheqel | ILS | Turkish Lira | TRY
+Japanese Yen | JPY | Ugandan Shilling | UGX
+Kenyan Shilling | KES | United Arab Emirates Dirham | AED
+Kuwaiti Dinar | KWD | United States Dollar | USD
+Malaysian Ringgit | MYR | | 
 
 Keep in mind that:
 * When receiving a payout through a bank transfer, the payout must meet the minimum amount for the type of payment before it can be sent:
