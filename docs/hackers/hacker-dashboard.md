@@ -47,7 +47,7 @@ Average Bounty | The average bounty that will be given for a valid vulnerability
 
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
 
-<h3 id="bookmarked"Bookmarked Programs</h3>
+<h3 id="bookmarked">Bookmarked Programs</h3>
 
 The Bookmarked Programs tab enables you to view the list of programs that you've marked as your favorites in the directory. This enables you to better keep track of the programs you're most interested in.
 
