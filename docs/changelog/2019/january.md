@@ -28,3 +28,8 @@ Hackers in India will no longer lose a portion of their bounty to transfer fees 
 When new users sign up to use HackerOne, they can can now more clearly distinguish whether they are a hacker or a company wanting to set up an account.  
 
 ![sign up branching page](./images/jan_2019_signup.png)
+
+### Infinite Scrolling
+We've now implemented infinite scrolling on multiple pages so that you no longer have to click on the <i>Load more</i> button to view more information. The information now automatically populates. 
+
+![infinite scrolling](./images/jan_2019_infitine_scrolling.png)
