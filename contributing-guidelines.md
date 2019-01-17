@@ -46,7 +46,7 @@ Add an image | `![image name](./images/signal-impact-2.png)`
 Referencing the HackerOne blog link | Use `https://hackerone.com/blog` not www.hackerone.com/blog
 
 ### Active Voice
-We use active voice at HackerOne as active voice is more personal and engaging vs. passive voice. In active voice, the subject does or acts upon the verb, while in passive voice, the subject is being acted upon. 
+We use active voice at HackerOne as active voice is more personal and engaging vs. passive voice. In active voice, the subject does or acts upon the verb, while in passive voice, the subject is being acted upon.
 
 Active Voice (Yes, please use this!) | Passive Voice (Steer away from this)
 ------------------------------------ | -------------------------------------
@@ -68,4 +68,29 @@ we've | we have
 you're | you are
 
 ### Spelling
-There are some words that can be used either way. In order to keep consistency, we need to agree on which ambiguous word we'll be using.
+There are some words that can be used with multiple spellings. In order to keep consistency, we need to agree on which spelling to go with.
+
+Yes | No
+--- | ---
+checkbox | check box
+double-check | double check (this is a noun)
+
+### Numbers
+For numbers that are greater than 0, use the numerical number instead of spelling it out. For 0, spell out the word.
+
+Yes | No
+--- | ---
+Zero | 0
+There are **2** vulnerabilities in that program. | There are **two** vulnerabilities in that program.
+The program has **3** valid reports. | The program has **three** valid reports.
+
+### Error Messages
+The purpose of error messages isn’t to tell users that they’ve made a mistake. The goal is to give them instructions with how to fix an error.
+
+Good Error Message | Bad Error Message
+------------------ | -----------------
+Enter a date that isn’t before the reported date. | The resolved date can’t be before the reported date.
+Sorry, we couldn’t find an account with that username. Can we help you recover your username? | That username doesn’t exist.
+Sorry, that password isn’t right. We can help you recover your password. | Wrong password.
+Enter a valid email address to use as your Apple ID. | The email address entered is invalid.
+That account doesn’t exist. Enter a different account or create a new one. | Sign-in unsuccessful. Please try again.
