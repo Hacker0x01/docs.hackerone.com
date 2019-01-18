@@ -40,7 +40,8 @@
       path: /hackers/sessions.html
     - title: Two-Factor Authentication
       path: /hackers/two-factor-authentication.html
-        - title: Invalid OTP Code 
+      items:
+        - title: Invalid OTP Code
           path: /hackers/invalid-otp-code.html
 - title: Hacking
   items:

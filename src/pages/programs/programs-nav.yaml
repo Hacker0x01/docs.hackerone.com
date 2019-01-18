@@ -90,6 +90,7 @@
           path: /programs/sso-faqs.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
+      items:
         - title: Invalid OTP Code
           path: /programs/invalid-otp-code.html
     - title: Sessions
