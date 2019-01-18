@@ -34,6 +34,7 @@ A Second Level Header
 >more text in blockquote
 
 ### TEXT EMPHASIS
+Markdown Input:
 ```
 *This text is italicized*
 _This text is underlined_
@@ -41,15 +42,8 @@ _This text is underlined_
 __This text is bold__
 ~~This text is deleted~~
 ```
-*This text is italicized*
-
-<u>This text is underlined</u>
-
-**This text is bold**
-
-__This text is bold__
-
-~~This text is deleted~~
+Output:
+![text emphasis output](./images/markdown-5.png)
 
 ### LISTS
 #### Unordered Lists
