@@ -43,4 +43,4 @@ To publish without disclosing the organization, when selecting the program in st
 
 All mentions of the organization and assets will be redacted when it’s published onto the <b>New</b> page of Hacktivity.
 
-<br><i>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/>hackers/reputation.html) or your eligibility for any bounties.</i>
+<br><i>Publishing currently doesn’t influence [Reputation](/hackers/reputation.html) or your eligibility for any bounties.</i>
