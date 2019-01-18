@@ -34,23 +34,18 @@ A Second Level Header
 >more text in blockquote
 
 ### TEXT EMPHASIS
+Markdown Input:
 ```
 *This text is italicized*
 _This text is underlined_
 **This text is bold**
 __This text is bold__
---This text is deleted--
+~~This text is deleted~~
 ==This text is highlighted==
 ```
-*This text is italicized*
+Output:
+![text emphasis output](./images/markdown-5.png)
 
-<u>This text is underlined</u>
-
-**This text is bold**
-
-__This text is bold__
-
-~~This text is deleted~~
 
 ### LISTS
 #### Unordered Lists
