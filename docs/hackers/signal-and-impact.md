@@ -16,7 +16,7 @@ What's the measured scale? | -10 to 7 | 0 to 50
 Are there any caveats to calculations? | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively <br><li>Self-closed and duplicate reports don't affect Signal | <li>Only calculated when there are more than 3 closed reports or 3 bounties respectively<br><li>Self-closed and duplicate reports don't affect Impact</li><li>Only calculated for reports submitted to programs that offer bounties
 
 ### Calculation Example
-![calculation of signal and impact](./images/signal_impact calculation chart.png)
+![signal and impact calculation](./images/signal_impact calculation chart.png)
 
 Alice and Bob have the exact same amount of Reputation (241 points). But Alice has a higher Signal (4.18 > 1.35), which indicates having a better track record of submitting valid reports. Bob, however, has higher Impact (9.50 > 5.83) and therefore, a higher chance of submitting an important report.
 
