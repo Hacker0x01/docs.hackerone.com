@@ -46,7 +46,7 @@ To link your reports:
 
 ![link to jira-2](./images/link-jira-2.png)
 
-The HackerOne report will now be linked to the Jira task, and all activities that are performed on the report will be synced to the corresponding task. 
+The HackerOne report will now be linked to the Jira task, and all activities that are performed on the report will be synced to the corresponding task.
 
 There's also another way you can  link your HackerOne reports to Jira. You can:
 1. Go to the bottom of your HackerOne report.
@@ -56,3 +56,14 @@ There's also another way you can  link your HackerOne reports to Jira. You can:
 
 3. Enter the JIRA ticket number in the **Enter JIRA ticket #** field.
 4. Click **Link JIRA issue**.
+
+### Creating a Jira Issue
+You can create new Jira issues for reports you receive in HackerOne.
+
+To create a new Jira issue from your HackerOne report:
+1. Go to the HackerOne report in your inbox that you want to create a new Jira issue for.
+2. Click **Edit** next to <i>References</i>.
+3. Click **Create JIRA issue**.
+4. Select the project that you want the issue to link to in the dropdown. *Note: This option occurs only if you have multiple projects to select from. If you only have 1 project, the issue will automatically escalate to that project.* 
+
+![create jira issue](./images/create-jira.png)
