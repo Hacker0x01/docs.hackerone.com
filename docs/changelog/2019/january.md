@@ -19,6 +19,11 @@ Jira users can now [link](/programs/jira-integration.html) their HackerOne repor
 
 ![linking HackerOne to Jira](./images/jan_2019_link_jira.png)
 
+### Selecting From Multiple Jira Projects
+Jira users can also now select from multiple projects they want their Jira task to link to.
+
+![selecting projects](./images/jan_2019_jira_projects.png)
+
 ### Indian Rupee Payments
 Hackers in India will no longer lose a portion of their bounty to transfer fees as we now support payments to [Indian Rupees](https://hackerone.com/blog/Introducing-Indian-Rupee-payments-Cheaper-and-faster-bank-transfers).
 
@@ -30,6 +35,6 @@ When new users sign up to use HackerOne, they can can now more clearly distingui
 ![sign up branching page](./images/jan_2019_signup.png)
 
 ### Infinite Scrolling
-We've now implemented infinite scrolling on multiple pages so that you no longer have to click on the <i>Load more</i> button to view more information. The information now automatically populates. 
+We've now implemented infinite scrolling on multiple pages so that you no longer have to click on the <i>Load more</i> button to view more information. The information now automatically populates.
 
 ![infinite scrolling](./images/jan_2019_infitine_scrolling.png)
