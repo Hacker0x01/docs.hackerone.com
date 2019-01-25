@@ -50,7 +50,7 @@ Public Key | Copy and paste from the key given.
    ![jira-server-14](./images/jira-server-14.png)
 13. Click the **Authenticate with JIRA** button to finalize the setup between HackerOne and your Jira instance.
 14. *(Optional)* Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
-     * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues. 
+     * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues.
 
    ![jira-server-4a](./images/jira-server-4a.png)
 
@@ -74,8 +74,9 @@ Comments | When someone comments on a report, post an update on the associated J
 State Changes | When someone changes the state of a report, post an update on the associated Jira issue.
 Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
 Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
-Public Disclosure | When public disclosure is requested or a report becomes public, post an update on the associated Jira issue.
+Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
+Synchronize attachments | Sync all attachments in a HackerOne report to its linked Jira ticket.
 
-   ![jira-server-6](./images/jira-server-6.png)
+   ![jira-server-6](./images/jira-server-6a.png)
 
 You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
