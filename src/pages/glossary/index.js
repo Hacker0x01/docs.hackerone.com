@@ -60,7 +60,7 @@ export const pageQuery = graphql`
   query glossaryIndexQuery {
     allMarkdownRemark(
       filter: { frontmatter: { path: { regex: "/glossary/" } } }
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: ASC, fields: [frontmatter___title] }
       limit: 1000
     ) {
       edges {
