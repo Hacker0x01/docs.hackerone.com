@@ -6,6 +6,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const programsTemplate = path.resolve('./src/templates/programs.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');
   const changelogTemplate = path.resolve('./src/templates/changelog.js');
+  const glossaryTemplate = path.resolve('./src/templates/glossary.js');
 
   return graphql(`
     {
@@ -37,6 +38,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         template = hackersTemplate;
       } else if (node.frontmatter.path.includes("/changelog")) {
         template = changelogTemplate;
+      } else if (node.frontmatter.path.includes("/glossary")) {
+        template = glossaryTemplate;
       }
 
       createPage({

@@ -33,6 +33,7 @@ export default ({ pathname }) => {
       <ul className="navigation__list">
         <NavItem linkTo="/hackers.html" title="Hackers" />
         <NavItem linkTo="/programs.html" title="Programs" />
+        <NavItem linkTo="/glossary" title="Glossary" />
         <li className="navigation__item">
           <a
             className="navigation__link"
