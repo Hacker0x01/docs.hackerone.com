@@ -5,7 +5,7 @@ date: "2019-01"
 ---
 
 ### Getting Started
-We introduce the new [Getting Started](/hackers/hacker-dashboard.html) page on the Hacker Dashboard. This will guide hackers and direct them to the right pages to help them get the information they need to successfully start out on HackerOne.
+We introduce the new [Getting Started](/hackers/hacker-dashboard.html) page on the Hacker Dashboard. This will guide hackers and direct them to the right pages to help them get the information they need to successfully start out on HackerOne
 
 ![getting started](./images/jan_2019_getting_started.png)
 
