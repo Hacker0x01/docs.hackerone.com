@@ -5,7 +5,7 @@
   "author": "HackerOne <support@hackerone.com>",
   "dependencies": {
     "gatsby": "^1.9.250",
-    "gatsby-cli": "^1.1.50",
+    "gatsby-cli": "^1.1.58",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-google-analytics": "^1.0.29",
     "gatsby-plugin-react-helmet": "^2.0.10",
