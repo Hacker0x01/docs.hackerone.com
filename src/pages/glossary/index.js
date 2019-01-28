@@ -10,23 +10,45 @@ class IndexRoute extends React.Component {
   render() {
     const { edges } = this.props.data.allMarkdownRemark
 
+    const groupedByAlphabet = {};
+
+    edges.map((item, index) => {
+      const firstLetter = item.node.frontmatter.title.charAt(0);
+
+      if (groupedByAlphabet[firstLetter] == undefined) {
+        groupedByAlphabet[firstLetter] = [];
+      }
+
+      groupedByAlphabet[firstLetter].push(item);
+    });
+
+    const allLetters = Object.keys(groupedByAlphabet);
+
     return (
       <div className="glossary article">
         <Helmet title={`Glossary | ${GatsbyConfig.siteMetadata.title}`} />
         <div className="sidebar">
           <div className="sidebar__wrapper">
             <div className="sidebar__body">
-              <ul className="sidebar__items sidebar__items--active">
-                {edges.map((item, index) => {
-                  return (
-                    <li className="sidebar__item">
-                      <a href={`#${slugify(item.node.frontmatter.path)}`}>
-                        {item.node.frontmatter.title}
-                      </a>
-                    </li>
-                  )
-                })}
-              </ul>
+            {allLetters.map((letter, index) => {
+              return (
+                <div className="sidebar__section" key={index}>
+                  <h3 className="sidebar__title sidebar__title--active">
+                    {letter}
+                  </h3>
+                  <ul className="sidebar__items sidebar__items--active">
+                    {groupedByAlphabet[letter].map((item, index) => {
+                      return (
+                        <li className="sidebar__item" key={index}>
+                          <a href={`#${slugify(item.node.frontmatter.path)}`}>
+                            {item.node.frontmatter.title}
+                          </a>
+                        </li>
+                      )
+                    })}
+                  </ul>
+                </div>
+              )})}
             </div>
           </div>
         </div>
@@ -66,7 +88,6 @@ export const pageQuery = graphql`
           frontmatter {
             path
             title
-            date
           }
         }
       }
