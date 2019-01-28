@@ -32,10 +32,7 @@ class IndexRoute extends React.Component {
         </div>
 
         <div className="article__inner">
-          <h1>Changelog</h1>
-          <p>
-            See what's changed or new in HackerOne.
-          </p>
+          <h1>Glossary</h1>
           {edges.map((item, index) => {
             return (
               <div className="glossary__wrapper">
