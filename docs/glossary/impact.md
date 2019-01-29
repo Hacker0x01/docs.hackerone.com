@@ -3,4 +3,4 @@ title: "Impact"
 path: "/glossary/impact"
 ---
 
-Average reputation gained per bounty. 
+Average reputation gained per bounty.
