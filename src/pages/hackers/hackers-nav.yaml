@@ -38,6 +38,8 @@
       path: /hackers/hacker-email-alias.html
     - title: Sessions
       path: /hackers/sessions.html
+    - title: Calendar
+      path: /hackers/calendar.html
     - title: Two-Factor Authentication
       path: /hackers/two-factor-authentication.html
       items:
