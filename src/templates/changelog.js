@@ -9,7 +9,7 @@ export default function Template({ data }) {
     <div className="article">
       <Helmet title={`${markdownRemark.frontmatter.title} | ${GatsbyConfig.siteMetadata.title}`} />
       <div>
-        <h1>{markdownRemark.frontmatter.title}</h1>
+        <h1>{markdownRemark.frontmatter.title} {markdownRemark.frontmatter.date.substring(0, 4)}</h1>
         <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
       </div>
     </div>
@@ -23,6 +23,7 @@ export const pageQuery = graphql`
       frontmatter {
         path
         title
+        date
       }
     }
   }

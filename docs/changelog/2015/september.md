@@ -1,5 +1,5 @@
 ---
-title: "September 2015"
+title: "September"
 path: "/changelog/2015/september"
 date: "2015-09"
 ---

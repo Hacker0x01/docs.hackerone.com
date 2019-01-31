@@ -106,7 +106,7 @@ class IndexRoute extends React.Component {
                   className="changelog__anchor"
                   id={slugify(item.node.frontmatter.path)}
                 />
-                <h2>{item.node.frontmatter.title}</h2>
+                <h2>{item.node.frontmatter.title}  {item.node.frontmatter.date.substring(0, 4)}</h2>
                 <div dangerouslySetInnerHTML={{ __html: item.node.html }} />
               </div>
             )
