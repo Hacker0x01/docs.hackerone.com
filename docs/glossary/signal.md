@@ -3,4 +3,4 @@ title: "Signal"
 path: "/glossary/signal"
 ---
 
-Average reputation gained per report.
+Average [reputation](/hackers/reputation.html) gained per report.
