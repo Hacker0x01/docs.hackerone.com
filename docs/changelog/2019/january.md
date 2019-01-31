@@ -34,6 +34,11 @@ When new users sign up to use HackerOne, they can can now more clearly distingui
 
 ![sign up branching page](./images/jan_2019_signup.png)
 
+### Account Preferences
+You can now clearly define whether you're a hacker or someone running a program within the new Account Preferences tab under your profile settings. This will help tailor your HackerOne experience to better fit your needs.
+
+![account preferences](./images/jan_2019_account_preferences.png)
+
 ### Infinite Scrolling
 We've now implemented infinite scrolling on multiple pages so that you no longer have to click on the <i>Load more</i> button to view more information. The information now automatically populates.
 
