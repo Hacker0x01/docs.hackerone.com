@@ -6,7 +6,7 @@ id: "hackers/hacker-dashboard"
 
 The Hacker Dashboard enables you to view and manage all of your invitations. There are 4 tabs that you can view:
 * [Getting Started](#getting)
-* [Accepted Invitations](#accepted)
+* [My Programs](#programs)
 * [Pending Invitations](#pending)
 * [Bookmarked Programs](#bookmarked)
 
@@ -16,17 +16,19 @@ The Getting Started page is your guide to help you get started on HackerOne. You
 
 ![hacker dashboard getting started page](./images/hacker-dashboard-3.png)
 
-<h3 id="accepted">Accepted Invitations</h3>
+<h3 id="programs">My Programs</h3>
 
-![hacker dashboard accepted invitations](./images/hacker-dashboard-1.png)
+![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
 
-The Accepted Invitations tab enables you to keep track of all of the programs that you’ve accepted an invitation to. For each program, you can view:
-* The total number of reports you submitted
-* The total number of valid reports you have
-* The amount of bounties you earned
-* The date you accepted the invitation to the program
+The My Programs page enables you to better manage all of the programs you're a part of. You can view the private programs you've accepted to participate in and the public programs you've hacked on.
 
-You can also elect to leave the programs that you no longer have interest in participating in. Simply click <b>Leave Program</b> next to the program you want to leave.
+For each program, you can view:
+* The total number of reports resolved
+* The minimum bounty
+* The average bounty
+* Your stats: The total number of reports you've submitted, the number of  reports that were valid, and the total amount of bounties you've earned
+
+You can elect to leave the private programs that you no longer have interest to participate in by clicking **Leave Program** next to the program you want to leave.
 
 <h3 id="pending">Pending Invitations</h3>
 
