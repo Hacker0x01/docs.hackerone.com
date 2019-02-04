@@ -28,7 +28,7 @@ To configure Single Sign-On via SAML:
 
 Field | Detail
 ------ | ------
-Email Domain | The email domain for users that will be required to use SAML authentication.
+Email Domain | The email domain for users that will be required to use SAML authentication. *Note: Please use your own domain, not the HackerOne domain.*
 Single Sign On URL | The URL from your SAML provider to initiate a single sign-on attempt, sometimes called the login URL.
 X509 Certificate | The certificate from your SAML provider to verify the single sign-on response
 
