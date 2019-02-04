@@ -18,7 +18,7 @@ The Getting Started page is your guide to help you get started on HackerOne. You
 
 <h3 id="programs">My Programs</h3>
 
-![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
+![hacker dashboard my programs](./images/hacker-dashboard-1.png)
 
 The My Programs page enables you to better manage all of the programs you're a part of. You can view the private programs you've accepted to participate in and the public programs you've hacked on.
 
