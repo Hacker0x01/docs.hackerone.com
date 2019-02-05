@@ -29,8 +29,6 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 
 ### Set Up
 
-> **Note:** Please make sure you've configured email forwarding for your email provider before setting up email forwarding in HackerOne. Don't know how to set up email forwarding for your email provider? Check out these resources for:<br><li>[Microsoft Outlook 365](https://support.office.com/en-US/article/Forward-email-to-another-email-account-1ED4EE1E-74F8-4F53-A174-86B748FF6A0E)<br><li>[Microsoft Exchange Server](https://technet.microsoft.com/en-us/library/dd351134(v=exchg.141).aspx)<br><li>[G Suite (formerly Google Apps)](https://support.google.com/a/answer/175745?hl=en)
-
 To set up email forwarding in HackerOne:
 1. Go to **Settings > Program > Hacker Management > Email Forwarding**.
 2. Click on **Add email address**.
@@ -39,6 +37,8 @@ To set up email forwarding in HackerOne:
 ![email-forwarding-5](./images/email-forwarding-5.png)
 
 4. The inbox address that your email will be configured to will automatically generate. Upon configuration, emails sent to security@example.org will be forwarded to the inbox address given.
+
+> **Note:** Please make sure you've configured email forwarding for your email provider. Don't know how to set up email forwarding for your email provider? Check out these resources for:<br><li>[Microsoft Outlook 365](https://support.office.com/en-US/article/Forward-email-to-another-email-account-1ED4EE1E-74F8-4F53-A174-86B748FF6A0E)<br><li>[Microsoft Exchange Server](https://technet.microsoft.com/en-us/library/dd351134(v=exchg.141).aspx)<br><li>[G Suite (formerly Google Apps)](https://support.google.com/a/answer/175745?hl=en)
 
 ![email-forwarding-6](./images/email-forwarding-6.png)
 
