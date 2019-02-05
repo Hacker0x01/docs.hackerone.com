@@ -32,7 +32,7 @@ Email Domain | The email domain for users that will be required to use SAML auth
 Single Sign On URL | The URL from your SAML provider to initiate a single sign-on attempt, sometimes called the login URL.
 X509 Certificate | The certificate from your SAML provider to verify the single sign-on response
 
-![saml-2](./images/saml-setup-2.png)
+![saml-2](./images/saml-setup-2a.png)
 
 4. Click **Run test**. This will launch a new window that'll allow a test login.
 
