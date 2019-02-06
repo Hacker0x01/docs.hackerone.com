@@ -47,6 +47,6 @@ HackerOne will automatically pause these timers when you're waiting on a respons
 
 Question | Answer
 -------- | --------
-Which actions trigger first response? | First response is triggered by any public action on a report, such as, adding a comment (publicly), changing the report state, or changing the severity. Automated actions from Hackbot or an automated trigger are not recognized. Only actions or comments from a member of the team will count as a first response.
+Which actions trigger first response? | First response is triggered by any public action on a report, such as, adding a comment (publicly), changing the report state, or changing the severity. Automated actions from Hackbot or an automated trigger are not recognized except for automated responses using API tokens. Only actions or comments from a member of the team will count as a first response.
 How are the report timers affected if a report is closed then reopened? | The timers are not affected as we don’t account for reopened reports. Once a report is closed, its response efficiency metrics won’t  change.
 How are the report timers affected if a report is filtered first through human augmented signal? | If a report is routed through human augmented signal (reports flagged with a high noise probability are reviewed by HackerOne analysts before hitting your inbox) the timer is not paused or modified in any way. This means that the time spent in review by HackerOne analysts will be tracked in the timer.
