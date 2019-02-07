@@ -17,11 +17,11 @@ To have hackers retest a vulnerability:
 
 ![request retest button](./images/retesting-2.png)
 
-Four random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
+2 random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
 
 ![email to see retest invitation](./images/retesting-3b.png)
 
-In addition, the hacker that originally submitted the report will also be invited to participate in the retest.
+In addition, the hacker that originally submitted the report will also be invited to participate in the retest, so that there will be a total of 3 retesters.
 
 ![retest email for original hacker](./images/retesting-3c.png)
 
