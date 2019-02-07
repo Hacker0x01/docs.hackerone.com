@@ -10,7 +10,7 @@ HackerOne currently supports these integrations:
 * [Bugzilla](bugzilla-integration.html)
 * [Freshdesk](freshdesk-integration.html)
 * [GitHub](github-integration.html)
-* [GitLab](gitlab-integation.html)
+* [GitLab](gitlab-integration.html)
 * [Jira](jira-integration.html)
 * [MantisBT](mantisbt-integration.html)
 * [OTRS](otrs-integration.html)
