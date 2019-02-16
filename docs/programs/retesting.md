@@ -11,7 +11,7 @@ To have hackers retest a vulnerability:
 1. Choose a resolved report in your inbox that you want to assign hackers to retest.
 2. Change the action picker to <b>Request retest</b>.
 
-![choosing request retest in dropdown](./images/retesting-1.png)
+![choosing request retest in dropdown](./images/retest_update_6a.png)
 
 3. Click <b>Request retest</b>.
 
@@ -19,9 +19,9 @@ To have hackers retest a vulnerability:
 
 2 random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
 
-![email to see retest invitation](./images/retesting-3b.png)
+![email to see retest invitation](./images/retesting_update_2.png)
 
-In addition, the hacker that originally submitted the report will also be invited to participate in the retest, so that there will be a total of 3 retesters.
+In addition, the hacker that originally submitted the report will also be invited to participate in the retest, so that there will be a total of 3 retesters for your report.
 
 ![retest email for original hacker](./images/retesting-3c.png)
 
@@ -31,13 +31,13 @@ When the hacker clicks <b>View retest invitation</b> in the email, they’ll be 
 
  Upon acceptance, participating hackers will be able to familiarize themselves with the vulnerability report and check to see that the vulnerability is properly fixed. After they’ve tested the vulnerability, they can click the <b>answer these questions</b> link in the report banner to submit their findings.
 
-![answer these questions link in banner](./images/retesting-4.png)
+![answer these questions link in banner](./images/retesting_update_3.png)
 
 The hacker will be asked to answer the following questions:
 * Are you able to reproduce the vulnerability?
 * Are you able to identify a bypass to the fix?
 
-![retest questionnaire](./images/retesting-5c.png)
+![retest questionnaire](./images/retesting_update_1.png)
 
 If they were able to identify a bypass, they can can submit a new vulnerability report and enter the report ID in the questionnaire.
 
@@ -49,7 +49,7 @@ Hackers are also asked to provide a short summary of how they retested the vulne
 
 Upon submission of the questionnaire, you’ll be notified that a hacker has completed a retest of your report within the report timeline and also through email.
 
-![notification that hacker completed retest](./images/retesting-7.png)
+![notification that hacker completed retest](./images/retest_update_5.png)
 
 Click on <b>View results</b> to see the status and findings of the retest efforts. If the hacker was able to find a bypass to the vulnerability, you can view the new vulnerability report.
 
