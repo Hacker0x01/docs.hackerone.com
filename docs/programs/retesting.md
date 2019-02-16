@@ -10,9 +10,6 @@ As programs receive vulnerability reports and work on deploying fixes, they need
 To have hackers retest a vulnerability:
 1. Choose a resolved report in your inbox that you want to assign hackers to retest.
 2. Change the action picker to <b>Request retest</b>.
-
-![choosing request retest in dropdown](./images/retest_update_6a.png)
-
 3. Click <b>Request retest</b>.
 
 ![request retest button](./images/retesting-2.png)
