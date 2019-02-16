@@ -46,4 +46,4 @@ To participate in the retest:
 
 ![retesting-5](./images/retesting_update_4.png)
 
-Upon completion, you'll be awarded with a $100 bounty.
+Upon completion, you'll be awarded with a $50 bounty.
