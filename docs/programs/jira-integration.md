@@ -27,7 +27,7 @@ Option | Details
 
 Jump to:
 * [Creating a Jira Issue](#creating)
-* [Linking HackerOne Reports to Existing Jira Tasks](#existing)
+* [Linking HackerOne Reports to Existing Jira Tasks](#linking)
 
 ### How it Works
 A HackerOne report gets triaged and escalated into Jira.
