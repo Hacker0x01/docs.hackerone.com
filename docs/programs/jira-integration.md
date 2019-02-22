@@ -25,6 +25,10 @@ Option | Details
 
 ><i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
+Jump to:
+* [Creating a Jira Issue](#creating)
+* [Linking HackerOne Reports to Existing Jira Tasks](#existing)
+
 ### How it Works
 A HackerOne report gets triaged and escalated into Jira.
 ![jira-integration-1](./images/jira-integration.png)
@@ -32,7 +36,7 @@ A HackerOne report gets triaged and escalated into Jira.
 Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
 ![jira-integration-2](./images/jira-cloud-4.png)
 
-### Creating a Jira Issue
+<h3 id="creating">Creating a Jira Issue</h3>
 You can create new Jira issues for reports you receive in HackerOne.
 
 To create a new Jira issue from your HackerOne report:
@@ -43,7 +47,7 @@ To create a new Jira issue from your HackerOne report:
 
 ![create jira issue](./images/create-jira.png)
 
-### Linking HackerOne Reports to Existing Jira Tasks
+<h3 id="linking">Linking HackerOne Reports to Existing Jira Tasks</h3>
 You can link your HackerOne reports to existing Jira tasks.
 
 To link your reports:
