@@ -12,3 +12,15 @@ We’ve renamed the Accepted Invitations page on the Hacker Dashboard to now be 
 * A *My stats* section for each program where hackers can see their personal statistics for the program
 
 ![My Programs](./images/feb_2019_my_programs.png)
+
+### Overview
+We've renamed the Getting Started page to now be called Overview. We provide new hackers that haven't submitted any vulnerabilities with a getting started checklist with 4 tasks to complete to guide them to be more successful on the platform.    
+
+![Hacker Dashboard Checklist](./images/feb_2019_hackerdashboard_checklist.png)
+
+### Hacker Statistics
+After hackers have submitted their first vulnerability, they'll be able to view statistics for these personal metrics on their Overview page:
+* Number of valid reports  
+* Bounties earned 
+
+![Hacker Dashboard Statistics](./images/feb_2019_hackerdashboard_statistics.png)
