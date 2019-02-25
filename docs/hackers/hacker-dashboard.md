@@ -5,16 +5,22 @@ id: "hackers/hacker-dashboard"
 ---
 
 The Hacker Dashboard enables you to view and manage all of your invitations. There are 4 tabs that you can view:
-* [Getting Started](#getting)
+* [Overview](#overview)
 * [My Programs](#programs)
 * [Pending Invitations](#pending)
 * [Bookmarked Programs](#bookmarked)
 
-<h3 id="getting">Getting Started</h3>
+<h3 id="overview">Overview</h3>
 
-The Getting Started page is your guide to help you get started on HackerOne. You'll be directed to the right pages to help you get the information you need to successfully start out on HackerOne.
+The Overview page is your guide to help you get started on HackerOne. You'll be directed to the right pages to help you get the information you need to successfully start out on HackerOne.
 
-![hacker dashboard getting started page](./images/hacker-dashboard-3.png)
+We also provide you with a getting started checklist with 4 tasks to complete. Completion of the tasks will help guide you to be more successful on the platform.
+
+![hacker dashboard overview page with checklist](./images/hackerdashboard_checklist.png)
+
+After you've submitted your first vulnerability, you'll be able to keep track of your statistics regarding the number of valid reports you have and the bounties you've earned.  
+
+![hacker dashboard statistics](./images/hackerdashboard_stats.png)
 
 <h3 id="programs">My Programs</h3>
 
