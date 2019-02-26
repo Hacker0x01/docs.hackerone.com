@@ -12,7 +12,7 @@ To have hackers retest a vulnerability:
 2. Change the action picker to <b>Request retest</b>.
 3. Click <b>Request retest</b>.
 
-![request retest button](./images/retesting-2.png)
+![request retest button](./images/retest_update_6a.png)
 
 2 random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
 
@@ -52,7 +52,7 @@ Click on <b>View results</b> to see the status and findings of the retest effort
 
 ![retest results popup](./images/retesting-8.png)
 
-Hackers that completed the retest will automatically be awarded $100. The payment is a regular bounty payment and the transaction for retesting will show in your billing overview statement.
+Hackers that completed the retest will automatically be awarded $50. The payment is a regular bounty payment and the transaction for retesting will show in your billing overview statement.
 
 ![billing notification](./images/retesting-9.png)
 
