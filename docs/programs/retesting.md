@@ -14,7 +14,7 @@ To have hackers retest a vulnerability:
 
 ![request retest button](./images/retest_update_6a.png)
 
-2 random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
+2 hackers participating in your program will be invited to retest the report through email.
 
 ![email to see retest invitation](./images/retesting_update_2.png)
 
