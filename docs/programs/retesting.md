@@ -54,6 +54,6 @@ Click on <b>View results</b> to see the status and findings of the retest effort
 
 Hackers that completed the retest will automatically be awarded $50. The payment is a regular bounty payment and the transaction for retesting will show in your billing overview statement.
 
-![billing notification](./images/retesting-9.png)
+![billing notification](./images/retesting_payment.png)
 
 ><i>There’s currently no effect to reputation for verifying vulnerability fixes and there’s also no time limit for hackers to complete the retest.</i>
