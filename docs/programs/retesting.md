@@ -57,3 +57,11 @@ Hackers that completed the retest will automatically be awarded $50. The payment
 ![billing notification](./images/retesting_payment.png)
 
 ><i>There’s currently no effect to reputation for verifying vulnerability fixes and there’s also no time limit for hackers to complete the retest.</i>
+
+### Payment Options
+You can opt-in to retesting through 2 different payment options:
+
+Option | Details
+------ | --------
+Pay as you go | You can initiate retests for vulnerabilities that you see fit to retest. Payments come directly from your credit card, and there’s a processing fee for each bounty that is given to a hacker.  
+Bundle | You can purchase a bundle of retests that can be used with your HackerOne subscription. When you use all of your retests, you can choose to purchase more. Contact your program manager to learn more about bundle options. <br><br>![retesting bundles](./images/retesting_bundles.png)
