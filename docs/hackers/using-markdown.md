@@ -130,6 +130,9 @@ I start my morning with a cup of coffee and
 ```
 I start my morning with a cup of coffee and [The New York Times](http://www.nytimes.com/).
 
+#### Email Links 
+You don't need to use markdown to create a `mailto:` link. Simply enter the email as is and it will automatically be converted to a `mailto:` link.
+
 ### CODE
 In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 ```

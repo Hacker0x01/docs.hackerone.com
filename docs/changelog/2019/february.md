@@ -4,6 +4,11 @@ path: "/changelog/2019/february"
 date: "2019-02"
 ---
 
+### Retesting Bundles
+Programs can now opt-in to purchase a bundle of retests with their HackerOne subscription. With bundles, programs are no longer charged the processing fee for each bounty, and can also opt-in to purchase more retests when they run out. 
+
+![Retesting Bundles](./images/feb_2019_retesting_bundles.png)
+
 ### My Programs
 We’ve renamed the Accepted Invitations page on the Hacker Dashboard to now be called My Programs. We’ve also revamped the page so that hackers can better manage the all of the programs they’re a part of by including:
 * More filtering options
@@ -21,6 +26,6 @@ We've renamed the Getting Started page to now be called Overview. We provide new
 ### Hacker Statistics
 After hackers have submitted their first vulnerability, they'll be able to view statistics for these personal metrics on their Overview page:
 * Number of valid reports  
-* Bounties earned 
+* Bounties earned
 
 ![Hacker Dashboard Statistics](./images/feb_2019_hackerdashboard_statistics.png)
