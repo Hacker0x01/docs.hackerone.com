@@ -130,7 +130,7 @@ I start my morning with a cup of coffee and
 ```
 I start my morning with a cup of coffee and [The New York Times](http://www.nytimes.com/).
 
-#### Email Links 
+#### Email Links
 You don't need to use markdown to create a `mailto:` link. Simply enter the email as is and it will automatically be converted to a `mailto:` link.
 
 ### CODE
