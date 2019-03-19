@@ -5,12 +5,12 @@ date: "2019-02"
 ---
 
 ### Retesting Bundles
-Programs can now opt-in to purchase a bundle of retests with their HackerOne subscription. With bundles, programs are no longer charged the processing fee for each bounty, and can also opt-in to purchase more retests when they run out. 
+Programs can now opt-in to purchase a bundle of retests with their HackerOne subscription. With bundles, programs are no longer charged the processing fee for each bounty, and can also opt-in to purchase more retests when they run out.
 
 ![Retesting Bundles](./images/feb_2019_retesting_bundles.png)
 
 ### My Programs
-We’ve renamed the Accepted Invitations page on the Hacker Dashboard to now be called My Programs. We’ve also revamped the page so that hackers can better manage the all of the programs they’re a part of by including:
+We’ve renamed the Accepted Invitations page on the Hacker Dashboard to now be called My Programs. We’ve also revamped the page so that hackers can better manage all of the programs they’re a part of by including:
 * More filtering options
 * Sorting
 * A search bar
