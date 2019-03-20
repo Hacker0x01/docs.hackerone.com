@@ -42,5 +42,6 @@ Spooky | Submitted a valid report to the DoD
 Streaker | Received when 2, 5, or 10 reports in a row were closed as resolved.<br><i>There are multiple stages of this badge. You receive this badge when 2, 5, or 10 reports are closed or resolved in a row.</i>
 Swagger | Received swag for the first time
 Trailblazer | Was the first of multiple reporters to report a vulnerability
+  <b>Micro-Сhamp | Received when you get 1-3rd place on program leaderboard</b>
 
 Keep in mind that some badges are event-based.  
