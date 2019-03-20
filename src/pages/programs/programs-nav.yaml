@@ -125,6 +125,8 @@
           path: /programs/response-labels.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
+    - title: Custom Fields
+      path: /programs/custom-fields.html
     - title: Disclosure
       path: /programs/disclosure.html
       items:
