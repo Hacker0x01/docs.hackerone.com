@@ -30,10 +30,10 @@ If you have multiple strings that you want to redact, repeat steps 2-6.
 In addition to redacting reports, you can limit the visibility of reports by selecting to have Limited disclosure. When you select to have limited instead of full public disclosure, only the summary and timeline of the report are visible and all comments and attachments are hidden.
 ![limiting-disclosed-information-2](./images/limiting-disclosed-info-2.png)
 
-If your report is already fully disclosed, click **Public (Full)** in the report metadata to toggle the report to have limited disclosure. You can toggle between Full and Limited disclosure at anytime. Just click **Public (Limited)** to toggle back to full disclosure. Your report must have a summary in order to toggle between Full and Limited disclosure. To add a summary, click **ADD SUMMARY** in your report. 
+If your report is already fully disclosed, click **Public (Full)** in the report metadata to toggle the report to have limited disclosure. You can toggle between Full and Limited disclosure at anytime. Just click **Public (Limited)** to toggle back to full disclosure. Your report must have a summary in order to toggle between Full and Limited disclosure. To add a summary, click **ADD SUMMARY** in your report.
 
 ![limiting-disclosed-information-3](./images/limiting-disclosed-info-3.png)
 
-To disclose your report, follow the steps to [request public disclosure](public-disclosure.html).
+To disclose your report, follow the steps to [request disclosure](disclosure.html).
 
 Here's a good example of a limited disclosure report from the Shopify security team: https://hackerone.com/reports/64164.
