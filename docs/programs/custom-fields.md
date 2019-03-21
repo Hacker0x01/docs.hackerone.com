@@ -4,7 +4,7 @@ path: "/programs/custom-fields.html"
 id: "programs/custom-fields"
 ---
 
-Program administrators can configure custom fields to add data to their reports. This enables your program members to add additional information to your reports to help you better track and manage your internal data by the categories that you define to be important, such as by business unit or by root cause analysis.
+Program administrators can configure custom fields to add data to their reports. This enables your program members to add additional information to your reports to help you better manage and analyze your internal data by the categories that you define to be important, such as by business unit or by root cause analysis.
 
 > <b>Note:</b> This feature is currently in beta and is only available for select programs. You must be an enterprise program to opt-in to the feature. If you’re an enterprise program and would like to opt-in to the feature, please contact your program manager.
 
