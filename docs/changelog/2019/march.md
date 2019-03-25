@@ -9,4 +9,5 @@ We introduce [custom fields](/programs/custom-fields.html) to enable programs to
 
 ![custom fields page](./images/mar_2019_custom_fields.png)
 
-We've also added a new API endpoint for filtering reports through custom fields.   
+### Custom Fields on the API
+We've also added custom fields to the API to enable you to search and filter reports by [custom field values](https://api.hackerone.com/docs/v1#custom-field-value).     
