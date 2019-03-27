@@ -30,7 +30,7 @@
           path: /hackers/tax-forms.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
-    - title: Manage Notifications
+    - title: Notifications
       path: /hackers/manage-notifications.html
     - title: HackerOne Clearance
       path: /hackers/hackerone-clearance.html
