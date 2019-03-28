@@ -24,3 +24,6 @@ Select hackers now receive program notifications to all program updates via the 
 We've also implemented a new **Subscribe** button on the policy page to enable hackers to easily subscribe to program notifications. *Note: The button is currently viewable for select hackers.*
 
 ![subscribe button](./images/mar_2019_program_notifications-2.png)
+
+### Deprecation of Custom Recipients for Messaging Hackers
+We've deprecated the *Custom* recipient field on the Message Hackers page as the feature wasn't found to be very valuable for programs. 

@@ -14,7 +14,6 @@ In this article, you can learn to:
 * [Edit a Custom Field](#edit)
 * [Archive a Custom Field](#archive)
 
-
 <h3 id="create">Create a Custom Field</h3>
 
 > **Note:** You must be an administrator of the program in order to add a custom field.
