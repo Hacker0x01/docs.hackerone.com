@@ -10,4 +10,17 @@ We introduce [custom fields](/programs/custom-fields.html) to enable programs to
 ![custom fields page](./images/mar_2019_custom_fields.png)
 
 ### Custom Fields on the API
-We've also added custom fields to the API to enable you to search and filter reports by [custom field values](https://api.hackerone.com/docs/v1#custom-field-value).     
+We've also added custom fields to the API to enable programs to search and filter reports by [custom field values](https://api.hackerone.com/docs/v1#custom-field-value).     
+
+### Program Notifications (beta)
+Select hackers now receive program notifications to all program updates via the product and email for changes to the:
+* Policy
+* Bounty table
+* Scope
+* Hacker messages
+
+![program notifications](./images/mar_2019_program_notifications_1.png)
+
+We've also implemented a new **Subscribe** button on the policy page to enable hackers to easily subscribe to program notifications. *Note: The button is currently viewable for select hackers.*
+
+![subscribe button](./images/mar_2019_program_notifications-2.png)
