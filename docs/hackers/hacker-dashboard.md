@@ -18,9 +18,9 @@ We also provide you with a getting started checklist with 4 tasks to complete. C
 
 ![hacker dashboard overview page with checklist](./images/hackerdashboard_checklist.png)
 
-After you've submitted your first vulnerability, you'll be able to keep track of your statistics regarding the number of valid reports you have and the bounties you've earned.  
+After you've submitted your first vulnerability, you'll be able to keep track of your statistics regarding the amount of bounties you've earned, the number of reports you've submitted, and your reputation. You can also view your top earning programs.  
 
-![hacker dashboard statistics](./images/hackerdashboard_stats.png)
+![hacker dashboard statistics](./images/hacker-stats-v2.png)
 
 <h3 id="programs">My Programs</h3>
 
