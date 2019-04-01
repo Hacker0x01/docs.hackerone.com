@@ -9,13 +9,13 @@ You can embed the HackerOne report submission form onto your own website. This e
 If you have [signal requirements](signal-requirements.html) set up for your program, please note that the embedded submission form bypasses all signal requirements that've already been set up. Hackers who don't meet signal requirements will still be able to submit vulnerabilities to your program through the embedded submission form.
 
 ### Set Up an Embedded Submission Form  
-To have an embedded submissions form on your website:
+To have an embedded submission form on your website:
 1. Go to <b>Settings > Integrations > Embedded Submission</b>.
 
 ![embedded-submissions-1](./images/embedded-submissions-1.png)
 
 2. Click <b>Set up</b>.
-3. Identify the domains where you want the submission form to be embedded on the <b>Embedded Submission Configuration</b> form. You must add a Fully Qualified Domain Name (FQDN) and you can add up to 100 domains.
+3. Identify the domains where you want the submission form to be embedded on the <b>Embedded Submission Configuration</b> form. You must add a Fully Qualified Domain Name (FQDN). You can add up to 100 domains.
 
 ![embedded-submissions-2](./images/embedded-submissions-2.png)
 
@@ -25,7 +25,9 @@ To have an embedded submissions form on your website:
 
 ><i>Note: The url within the script contains a UUID (e.g. 25ab901d-7cea-481b-8ac2-c16b7d10d577). This UUID is used by the embedded page to grant users access to submit reports to your program. Any user with access to the UUID will be able to submit reports. It’s important that you're careful with disclosing this UUID if you want to restrict access to submissions.</i>
 
-### How it Works
+### How It Works
 When hackers submit reports through the embedded form, the form automatically detects if a hacker is signed in to HackerOne and allows them to submit a report. If a hacker isn’t a member or signed in, they can provide their email in the Email field to receive status updates on their report.  
 
 Anonymous submissions will always remain anonymous and can’t be claimed later for reputation or bounties. If an email address is provided, HackerOne will be able to check if an account exists with that email on HackerOne and send the hacker an email to claim the report or to create an account to claim the report.
+
+> It's recommended that you include a short description of how embedded submissions works on your submission form page so that hackers can understand the submission process. Alternatively, you can include a link to your policy page that explains how embedded submissions works.  
