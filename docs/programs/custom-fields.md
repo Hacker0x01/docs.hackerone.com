@@ -8,11 +8,15 @@ Program administrators can configure custom fields to add data to their reports.
 
 > <b>Note:</b> This feature is currently in beta and is only available for select programs. You must be an enterprise program to opt-in to the feature. If you’re an enterprise program and would like to opt-in to the feature, please contact your program manager.
 
-In this article, you can learn to:
-* [Create a Custom Field](#create)
-* [Fill in a Value for a Custom Field](#fill)
-* [Edit a Custom Field](#edit)
-* [Archive a Custom Field](#archive)
+<div class="background" markdown="1">
+
+In this article, you can learn to:|
+--------------------------------- |
+[Create a Custom Field](#create)|
+[Fill in a Value for a Custom Field](#fill)|
+[Edit a Custom Field](#edit) |
+[Archive a Custom Field](#archive) |
+</div>
 
 <h3 id="create">Create a Custom Field</h3>
 
