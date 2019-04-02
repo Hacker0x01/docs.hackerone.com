@@ -8,12 +8,28 @@ id: "programs/custom-fields"
 .table {
   width:40%;
 }
+
+.betanote {
+  background-color: rgba(45,104,244,0.3);
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  margin-top: 0;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 4px;
+  padding-top: 12px;
+  margin-bottom: 1.45rem;
+  border-left: 6px solid #2D68F4;
+  border-radius: 0.3em;
+}
 </style>
 
 
 Program administrators can configure custom fields to add data to their reports. This enables your program members to add additional information to your reports to help you better manage and analyze your internal data by the categories that you define to be important, such as by business unit or by root cause analysis.
 
-> <b>Note:</b> This feature is currently in beta and is only available for select programs. You must be an enterprise program to opt-in to the feature. If you’re an enterprise program and would like to opt-in to the feature, please contact your program manager.
+<div class="betanote" markdown="1">
+<b>Note:</b> This feature is currently in beta and is only available for select programs. You must be an enterprise program to opt-in to the feature. If you’re an enterprise program and would like to opt-in to the feature, please contact your program manager.
+</div>
 
 <div class="background table" markdown="1">
 
