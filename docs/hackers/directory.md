@@ -4,14 +4,24 @@ path: "/hackers/directory.html"
 id: "hackers/directory"
 ---
 
+<style>
+.contents {
+  width:40%;
+}
+</style>
+
 The Directory is a community-curated resource that helps hackers identify the best way to contact an organization's security team. This guides hackers with reporting potential vulnerabilities directly to the organizations that can resolve them. The Directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
 
 ![revamped directory page](./images/better-directory-5.png)
 
-In this article you can learn about:
-* [Directory services](#services)
-* [What's on the Directory](#what's)
-* [Directory filters](#filters)
+<div class="background contents" markdown="1">
+
+In this article you can learn about:|
+----------------------------------- |
+[Directory services](#services)|
+[What's on the Directory](#what's)|
+[Directory filters](#filters)|
+</div>
 
 <h3 id="services">Directory Services</h3>
 The Directory provides relevant information for both hackers and programs.
