@@ -7,6 +7,7 @@ id: "programs/custom-fields"
 <style>
 .contents {
   width:40%;
+  border-radius: 0.2em;
 }
 </style>
 

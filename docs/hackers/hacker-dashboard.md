@@ -4,11 +4,24 @@ path: "/hackers/hacker-dashboard.html"
 id: "hackers/hacker-dashboard"
 ---
 
-The Hacker Dashboard enables you to view and manage all of your invitations. There are 4 tabs that you can view:
-* [Overview](#overview)
-* [My Programs](#programs)
-* [Pending Invitations](#pending)
-* [Bookmarked Programs](#bookmarked)
+<style>
+.contents {
+  width:50%;
+  border-radius: 0.2em;
+}
+</style>
+
+The Hacker Dashboard enables you to view and manage all of your invitations.
+
+<div class="background contents" markdown="1">
+
+There are 4 tabs that you can view on the dashboard:|
+--------------------------------------------------- |
+[Overview](#overview) |
+[My Programs](#programs) |
+[Pending Invitations](#pending) |
+[Bookmarked Programs](#bookmarked) |
+</div>
 
 <h3 id="overview">Overview</h3>
 
