@@ -5,22 +5,8 @@ id: "programs/custom-fields"
 ---
 
 <style>
-.table {
+.contents {
   width:40%;
-}
-
-.betanote {
-  background-color: rgba(45,104,244,0.3);
-  margin-left: 1.45rem;
-  margin-right: 1.45rem;
-  margin-top: 0;
-  padding-bottom: 12px;
-  padding-left: 12px;
-  padding-right: 4px;
-  padding-top: 12px;
-  margin-bottom: 1.45rem;
-  border-left: 6px solid #2D68F4;
-  border-radius: 0.3em;
 }
 </style>
 
@@ -31,7 +17,7 @@ Program administrators can configure custom fields to add data to their reports.
 <b>Note:</b> This feature is currently in beta and is only available for select programs. You must be an enterprise program to opt-in to the feature. If you’re an enterprise program and would like to opt-in to the feature, please contact your program manager.
 </div>
 
-<div class="background table" markdown="1">
+<div class="background contents" markdown="1">
 
 In this article, you can learn to:|
 --------------------------------- |
