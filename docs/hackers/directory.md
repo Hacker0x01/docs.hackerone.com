@@ -6,7 +6,10 @@ id: "hackers/directory"
 
 <style>
 .contents {
-  width:40%;
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
 }
 </style>
 
