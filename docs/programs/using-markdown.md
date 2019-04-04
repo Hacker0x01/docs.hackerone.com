@@ -33,7 +33,7 @@ Learn to format these in markdown:|
 
 <h3 id="headers">HEADERS</h3>
 
-Input
+Input:
 
 ```
 A First Level Header
@@ -123,7 +123,7 @@ Input:
 
 Output:
 
-![ordered list](./images/markdown-numbered list.png)
+![ordered list](./images/markdown-numbered-list.png)
 
 If you put blank lines between items, you’ll get `<p>` tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:
 
@@ -243,7 +243,7 @@ Input:
 
 Output:
 
-![markdown user mention](./images/markdown-user mentions.png)
+![markdown user mention](./images/markdown-user-mentions.png)
 
 
 <br>
