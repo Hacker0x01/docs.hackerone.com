@@ -4,9 +4,35 @@ path: "/programs/using-markdown.html"
 id: "programs/using-markdown"
 ---
 
-HackerOne supports the following markdown syntax on reports, profiles, and security pages.
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
 
-### HEADERS
+HackerOne supports markdown syntax on reports, profiles, and security pages.
+
+<div class="background contents" markdown="1">
+
+Learn to format these in markdown:|
+--------------------------------- |
+[Headers](#headers) |
+[Blockquote](#blockquote) |
+[Text Emphasis](#text) |
+[Lists](#lists) |
+[Links](#links) |
+[Code](#code) |
+[User Mentions](#user) |
+[Report References](#report) |
+[Attachment References](#attachment) |
+[Inline Images and Videos](#inline) |
+</div>
+
+<h3 id="headers">HEADERS</h3>
+
 ```
 A First Level Header
 =====================
@@ -24,7 +50,8 @@ A Second Level Header
 
 ### Header 3
 
-### BLOCKQUOTE
+<h3 id="blockquote">BLOCKQUOTE</h3>
+
 ```
 >text in blockquote
 >more text in blockquote
@@ -33,7 +60,7 @@ A Second Level Header
 
 >more text in blockquote
 
-### TEXT EMPHASIS
+<h3 id="text">TEXT EMPHASIS</h3>
 Markdown Input:
 ```
 *This text is italicized*
@@ -45,7 +72,7 @@ __This text is bold__
 Output:
 ![text emphasis output](./images/markdown-5.png)
 
-### LISTS
+<h3 id="lists">LISTS</h3>
 #### Unordered Lists
 ```
 * Candy.
@@ -93,7 +120,8 @@ If you put blank lines between items, you’ll get `<p>` tags for the list item 
 
 * Another item in the list.
 
-### LINKS
+<h3 id="links">LINKS</h3>
+
 Markdown supports two styles for creating links: *inline* and *reference*. With both styles, you use square brackets to delimit the text you want to turn into a link.
 
 Inline-style links use parentheses immediately after the link text. For example:
@@ -131,7 +159,7 @@ I start my morning with a cup of coffee and [The New York Times](http://www.nyti
 #### Email Links
 You don't need to use markdown to create a `mailto:` link. Simply enter the email as is and it will automatically be converted to a `mailto:` link.
 
-### CODE
+<h3 id="code">CODE</h3>
 In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 ```
 The text has sample `code`
@@ -152,21 +180,26 @@ document.location = 'https://hackerone.com';
 
 Go to the following web page to see which content types are available for syntax highlighting: https://github.com/jneen/rouge/tree/master/lib/rouge/demos.
 
-### USER MENTIONS
+<h3 id="user">USER MENTIONS</h3>
 You can mention a user by prefixing username with '@' symbol
+
 ```
 @demo-member reported the issue
 ```
 @demo-member reported the issue
 
-### REPORT REFERENCES
+<br>
+
+<h3 id="report">REPORT REFERENCES</h3>
+
 You can reference a report by prefixing report id with '#' symbol
 ```
 #105887 is a publicly disclosed bug
 ```
 [#105887](https://hackerone.com/reports/105887) is a publicly disclosed bug
 
-### ATTACHMENT REFERENCES
+<h3 id="attachment">ATTACHMENT REFERENCES</h3>
+
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
 
 Example: Consider a user is creating a report and uploads an attachment. Once the attachment is uploaded successfully, you will see see the reference id with the attachment name.
@@ -178,7 +211,7 @@ Now you can reference the attachment in the report by writing 'F1' and the attac
 When the link is clicked, the attachment is displayed in the modal.
 ![markdown-3](./images/markdown-3.png)
 
-### INLINE IMAGES AND VIDEOS
+<h3 id="inline">INLINE IMAGES AND VIDEOS</h3>
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}). Example: For the above attachment, the markdown
 ```
  Here is an inlined image of an apple {F1}
