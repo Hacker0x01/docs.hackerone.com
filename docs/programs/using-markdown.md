@@ -62,6 +62,7 @@ A Second Level Header
 
 >more text in blockquote
 
+<br>
 <h3 id="text">TEXT EMPHASIS</h3>
 
 Markdown Input:
@@ -76,6 +77,7 @@ __This text is bold__
 
 Output:
 ![text emphasis output](./images/markdown-5.png)
+
 
 <h3 id="lists">LISTS</h3>
 
