@@ -33,6 +33,8 @@ Learn to format these in markdown:|
 
 <h3 id="headers">HEADERS</h3>
 
+Input:
+
 ```
 A First Level Header
 =====================
@@ -61,7 +63,9 @@ A Second Level Header
 >more text in blockquote
 
 <h3 id="text">TEXT EMPHASIS</h3>
+
 Markdown Input:
+
 ```
 *This text is italicized*
 _This text is underlined_
@@ -69,28 +73,36 @@ _This text is underlined_
 __This text is bold__
 ~~This text is deleted~~
 ```
+
 Output:
 ![text emphasis output](./images/markdown-5.png)
 
 <h3 id="lists">LISTS</h3>
+
 #### Unordered Lists
+
 ```
 * Candy.
 * Gum.
 * Juice.
 ```
+
 this:
+
 ```
 + Candy.
 + Gum.
 + Juice.
 ```
+
 and this:
+
 ```
 - Candy
 - Gum.
 - Juice.
 ```
+
 all produce the same output:
 * Candy.
 * Gum.
