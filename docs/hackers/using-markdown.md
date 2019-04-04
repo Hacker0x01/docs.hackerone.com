@@ -274,7 +274,7 @@ When the link is clicked, the attachment is displayed in the modal.
 
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}).
 
-Example: For the above attachment, the markdown
+Example: For the above attachment, the markdown:
 
 
 ```
