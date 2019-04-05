@@ -73,6 +73,7 @@ _This text is underlined_
 **This text is bold**
 __This text is bold__
 ~~This text is deleted~~
+==This text is highlighted==
 ```
 
 Output:
