@@ -33,7 +33,7 @@ Learn to format these in markdown:|
 
 <h3 id="headers">HEADERS</h3>
 
-Input:
+Markdown Input:
 
 ```
 A First Level Header
@@ -51,7 +51,7 @@ Output:
 
 <h3 id="blockquote">BLOCKQUOTE</h3>
 
-Input:
+Markdown Input:
 
 ```
 >text in blockquote
@@ -84,7 +84,7 @@ Output:
 
 #### Unordered Lists
 
-Input:
+Markdown Input:
 
 ```
 * Candy.
@@ -114,7 +114,7 @@ all produce the same output:
 
 #### Numbered Lists
 
-Input:
+Markdown Input:
 
 ```
 1. Red
@@ -144,7 +144,7 @@ Markdown supports two styles for creating links: *inline* and *reference*. With 
 
 Inline-style links use parentheses immediately after the link text. For example:
 
-Input:
+Markdown Input:
 ```
 This is an [example link](http://example.com/).
 ```
@@ -161,7 +161,7 @@ This is an [example link](http://example.com/ "With a Title").
 
 Reference-style links allow you to refer to your links by names, which you define elsewhere in your document:
 
-Input:
+Markdown Input:
 
 ```
 I get 10 times more traffic from [Google][1] than from
@@ -178,7 +178,7 @@ Output:
 
 The title attribute is optional. Link names may contain letters, numbers and spaces, but are not case sensitive:
 
-Input:
+Markdown Input:
 
 ```
 I start my morning with a cup of coffee and
@@ -198,7 +198,7 @@ You don't need to use markdown to create a `mailto:` link. Simply enter the emai
 
 In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 
-Input:
+Markdown Input:
 
 ```
 The text has sample `code`
@@ -210,7 +210,7 @@ Output:
 
 To specify an entire block of pre-formatted code, wrap the text within 3 back tick quotes \`\`\`. Just like with code spans, &, <, and > characters will be escaped automatically.
 
-Input:
+Markdown Input:
 
 ![codeblock input](./images/markdown-codeblock-input.png)
 
@@ -220,7 +220,7 @@ Output:
 
 To use syntax highlighting, specify the content type after the three opening back tick quotes.
 
-Input:
+Markdown Input:
 
 ```
 ```javascript
@@ -236,7 +236,7 @@ Go to the following web page to see which content types are available for syntax
 <h3 id="user">USER MENTIONS</h3>
 You can mention a user by prefixing username with '@' symbol
 
-Input:
+Markdown Input:
 
 ```
 @demo-member reported the issue
