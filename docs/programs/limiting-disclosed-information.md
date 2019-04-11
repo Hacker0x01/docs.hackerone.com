@@ -18,7 +18,7 @@ To redact information from a report:
 2. Find the **Visibility** field in the report metadata.
 3. Click **Redact**.
 
-![limiting-disclosed-information-1](./images/limiting-disclosed-info-1.png)
+![limiting-disclosed-information-1](./images/limited-disclosure-2.png)
 
 4. Enter the string that you want to redact from the report.
 
@@ -38,7 +38,9 @@ If your report is already fully disclosed, click **Disclosed (Full)** in the rep
 
 You can toggle between Full and Limited disclosure at anytime. Just click **Disclosed (Limited)** to toggle back to full disclosure.
 
-![limiting-disclosed-information-3](./images/limiting-disclosed-info-3.png)
+![limiting-disclosed-information-3](./images/limited-disclosure-1.png)
+
+![limited disclosure](./images/limited-disclosure-2.png)
 
 To disclose your report, follow the steps to [request disclosure](disclosure.html).
 
