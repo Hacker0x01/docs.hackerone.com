@@ -4,11 +4,28 @@ path: "/programs/limiting-disclosed-information.html"
 id: "programs/limiting-disclosed-information"
 ---
 
-When disclosing reports, you can choose to limit the information that’s shared instead of disclosing the report in full detail. You can choose to limit information published in a report at the time you disclose the report and after the report has been made public. There are 2 ways you can limit information:
-* Redacting Reports
-* Limited Disclosure
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
 
-### Redacting Reports
+When disclosing reports, you can choose to limit the information that’s shared instead of disclosing the report in full detail. You can choose to limit information published in a report at the time you disclose the report and after the report has been made public. 
+
+<div class="background contents" markdown="1">
+
+There are 2 ways you can limit information: |
+------------------------------------------- |
+[Redacting Reports](#redacting) |
+[Limited Disclosure](#limited) |
+
+</div>
+
+<h3 id="redacting">Redacting Reports</h3>
+
 Some reports may contain sensitive information or information that’s not meant to be for the general public. Redacting reports enables you to censor specific words or characters from being visible to readers. Once you redact any string, the specified string will be blacked out throughout the report as seen in the image below. Keep in mind that once you redact something from a report, it’ll permanently and irreversibly be redacted.
 
 ![limiting-disclosed-information-4](./images/limiting-disclosed-info-4.png)
@@ -29,7 +46,8 @@ To redact information from a report:
 
 If you have multiple strings that you want to redact, repeat steps 2-6.
 
-### Limited Disclosure
+<h3 id="limited">Limited Disclosure</h3>
+
 In addition to redacting reports, you can limit the visibility of reports by selecting Limited disclosure. When you select to have limited instead of full disclosure, only the summary and timeline of the report are visible and all comments and attachments are hidden.
 
 ![limiting-disclosed-information-2](./images/limiting-disclosed-info-2.png)
