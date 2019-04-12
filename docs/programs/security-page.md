@@ -3,6 +3,16 @@ title: "Security Page"
 path: "/programs/security-page.html"
 id: "programs/security-page"
 ---
+
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
+
 A program's Security Page contains key information about your program and your security disclosure policy. The Security Page sets expectations for hackers you invite to your bounty program and it also outlines your:
 * Disclosure policy
 * Bug eligibility
@@ -11,7 +21,17 @@ A program's Security Page contains key information about your program and your s
 
 ![security-page-3](./images/security-page-3.png)
 
-### Completing the Security Page
+<div class="background contents" markdown="1">
+
+In this article, you can learn about:|
+------------------------------------ |
+[Completing the Security Page](#completing) |
+[Claiming the Security Page](#claiming) |
+[Suggesting Edits on the Security Page](#suggesting) |
+</div>
+
+<h3 id="completing">Completing the Security Page</h3>
+
 To edit your Security Page, go to **Settings > General > Information**.
 
 A complete security page includes the following:
@@ -26,7 +46,8 @@ A complete security page includes the following:
 
 It's important to keep your security page up-to-date so hackers always know the important details about your program. Check out the security pages for Yahoo!, Twitter, and Dropbox for reference.
 
-### Claiming the Security Page
+<h3 id="claiming">Claiming the Security Page</h3>
+
 Unless a security page is claimed, the page is curated by the HackerOne community. An organization can claim their security page in order to:
 * Take editorial control of their disclosure policy
 * Self-update their information
@@ -50,5 +71,6 @@ HackerOne reviews each claim submission for validity before granting the claim. 
 
 ><i>Note: Hackers looking to claim a page need to be above a certain reputation threshold to be given direct editing rights. If they don't have rights, they can suggest changes which will get reviewed and approved by HackerOne staff.</i>
 
-### Suggesting Edits on the Security Page
+<h3 id="suggesting">Suggesting Edits on the Security Page</h3>
+
 You can suggest edits to any unclaimed security page by clicking on the **Suggest edits** link. A HackerOne staff will review your changes and approve them if they are valid.
