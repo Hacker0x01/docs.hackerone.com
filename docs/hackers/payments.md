@@ -4,12 +4,26 @@ path: "/hackers/payments.html"
 id: "hackers/payments"
 ---
 
-You can receive payments on HackerOne for finding and reporting valid vulnerabilities in the form of:
-* Bounties
-* Swag
-* Bonuses
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
 
-### Bounties
+<div class="background contents" markdown="1">
+
+You can receive payments on HackerOne for finding and reporting valid vulnerabilities in the form of: |
+----------------------------------------------------------------------------------------------------- |
+[Bounties](#bounties) |
+[Swag](#swag) |
+[Bonuses](#bonuses) |
+</div>
+
+<h3 id="bounties">Bounties</h3>
+
 A bounty is money you get rewarded with for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack their programs. Bounties are used to encourage you to focus on particular assets by altering the reward amount for different vulnerability types. You won't get rewarded for every report you send in, but only for useful, valid reports.
 
 After a program has decided to award you a bounty and the bounty has been awarded, you'll receive an email to claim the bounty. HackerOne will ask to collect your tax form before processing the payout.
@@ -51,10 +65,12 @@ Generally, if the charity accepts donations in USD through PayPal or Credit Card
 
 Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. At this time, we can only donate bounties in full as we can't do partial or split donations.
 
-### Swag
+<h3 id="swag">Swag</h3>
+
 Your program can elect to award you with various swag in addition to or instead of bounties. Swag includes merchandise as well as free coupons or vouchers for the services or products the program offers. Some programs also offer to host hackers near their office or cover admissions fees to conferences you're invited to attend.
 
 The program is responsible for fulfillment and delivery of swag to you.
 
-### Bonuses
+<h3 id="bonuses">Bonuses</h3>
+
 Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties.

@@ -26,8 +26,8 @@ Disclosure Disabled | Disclosure isn't allowed for any report.
 
 <div class="background contents" markdown="1">
 
-In this article, you can learn about:
------------------------------------ |
+In this article, you can learn about: |
+------------------------------------- |
 [Requesting Disclosure](#requesting) |
 [Canceling Disclosure Requests](#canceling) |
 [Disclosure for Private Programs](#disclosure) |
