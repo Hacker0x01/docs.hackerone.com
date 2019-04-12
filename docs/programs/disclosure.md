@@ -4,6 +4,16 @@ path: "/programs/disclosure.html"
 id: "programs/disclosure"
 ---
 
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
+
+
 Disclosure enables you to be transparent about the security vulnerabilities found for your program. HackerOne's disclosure process balances transparency with control over what information is shared with the public.  
 
 Programs can choose from 3 disclosure settings:
@@ -14,7 +24,17 @@ Disclosure by Default | The hacker or your security team can request disclosure 
 Disclosure requiring Mutual Agreement | The hacker can request disclosure for any closed report in your program. If your program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br><br>*You must request to opt-in to this option.*
 Disclosure Disabled | Disclosure isn't allowed for any report.
 
-### Requesting Disclosure
+<div class="background contents" markdown="1">
+
+In this article, you can learn about:
+----------------------------------- |
+[Requesting Disclosure](#requesting) |
+[Canceling Disclosure Requests](#canceling) |
+[Disclosure for Private Programs](#disclosure) |
+</div>
+
+<h3 id="requesting">Requesting Disclosure</h3>
+
 Both hackers and program members can request for disclosure. To request for disclosure:
 1. Go to the report you want to disclose.
 2. Make sure the report is closed.
@@ -37,7 +57,8 @@ After disclosure has been requested, the admin of the of the program can choose 
 
 ![Disclose](./images/disclosure-2.png)
 
-### Canceling Disclosure Requests
+<h3 id="canceling">Canceling Disclosure Requests</h3>
+
 You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from hackers asking you for disclosure.
 
 To cancel a disclosure request:
@@ -49,7 +70,8 @@ To cancel a disclosure request:
 3. Enter a comment explaining why you are canceling the disclosure request.
 4. Click **Post**.
 
-### Disclosure for Private Programs
+<h3 id="disclosure">Disclosure for Private Programs</h3>
+
 If you’re running a private program, you can enable hackers to disclose a report within your private program. Upon disclosure, contents of the report will only be visible to participants in your private program. This enables hackers to share their vulnerability findings with other hackers in the program, and can also increase awareness for other hackers as they can better see what vulnerabilities have already been found for your program.  
 
 To enable disclosure for private programs:
