@@ -20,7 +20,7 @@ HackerOne supports markdown syntax on reports, profiles, and security pages.
 Learn to format these in markdown:|
 --------------------------------- |
 [Headers](#headers) |
-[Blockquote](#blockquote) |
+[Blockquotes](#blockquotes) |
 [Text Emphasis](#text) |
 [Lists](#lists) |
 [Links](#links) |
@@ -49,7 +49,7 @@ Output:
 
 ![headers](./images/markdown-headers.png)
 
-<h3 id="blockquote">BLOCKQUOTE</h3>
+<h3 id="blockquotes">BLOCKQUOTES</h3>
 
 Markdown Input:
 
