@@ -35,9 +35,12 @@ To set your invitations:
 ### Manually Inviting Hackers
 Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:
 1. Go to **Settings > Program > Hacker Management > Invitations**.
-2. In the **Invite a hacker by** field, you can choose to invite a hacker by selecting either:
+2. Select how you want to invite the hacker in the sentence that starts with **Manually invite a hacker by**. You can choose to invite a hacker by selecting either:
    * Email
-   * Username
+   * Username 
+   * Reputation
+
+![invitations](./images/invitations-1.png)
 
 HackerOne doesn’t recommend inviting unknown hackers. If a hacker has reached out to request an invitation to your private program, contact HackerOne as this is a clear violation of Disclosure Guidelines.
 
