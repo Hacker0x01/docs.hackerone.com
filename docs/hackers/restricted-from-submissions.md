@@ -4,7 +4,7 @@ path: "/hackers/restricted-from-submissions.html"
 id: "hackers/restricted-from-submissions"
 ---
 
-You can be restricted from form submissions. There are 2 reasons as to why you might be restricted from submissions:
+You can be restricted from submissions. There are 2 reasons as to why you might be restricted from submissions:
 1) You're a new user and have submitted a large amount of reports in the same day
 2) You run into a program with Signal Requirements that you don't meet
 
