@@ -71,12 +71,12 @@ The information you input will now be tied to your field labels. To edit the inf
 
 When you export your reports as a CSV file, the custom field and the information associated will also be included in the export.
 
-![custom fields in the exported report](./images/custom-fields-7.png)
+![custom fields in the exported report](./images/custom-fields-export.png)
 
 <h3 id="edit">Edit a Custom Field</h3>
-You can edit your custom fields to change the name of the field title.
+You can edit your custom fields to change the name of the field label. 
 
-![custom fields list](./images/custom-fields-9.png)
+![custom fields list](./images/custom-fields-list.png)
 
 To edit the title of a custom field:
 1. Go to **Program > Customization > Custom Fields**.
@@ -85,10 +85,12 @@ To edit the title of a custom field:
 4. (*Optional*) Change the **Field Type** from *Text* to *List*. You can only change the field type from *Text* to *List*. You can’t change a *List type* to a *Text type*.
 5. Click **Save**.
 
+When you edit a custom field, the key associated with the field will also change as each key is comprised of `<team_id>_<custom_field_attribute_label>`.
+
 <h3 id="archive">Archive Custom Fields</h3>
 You can archive custom fields that you no longer want to use. We don’t enable you to permanently delete custom fields to prevent data loss.
 
-![unarchive custom fields](./images/custom-fields-8.png)
+![unarchive custom fields](./images/custom-fields-unarchive.png)
 
 To archive a custom field:
 1. Go to **Program > Customization > Custom Fields**.
