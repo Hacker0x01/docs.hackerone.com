@@ -4,6 +4,10 @@ path: "/programs/jira-integration.html"
 id: "programs/jira-integration"
 ---
 
+<div class="betanote" markdown="1">
+<b>Note:</b> Beta features in the Jira integration are only available for select programs. If you would like to opt-in to the beta features, please contact your program manager.
+</div>
+<br>
 HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
 These events and directions are currently supported through the bi-directional Jira integration:
@@ -11,7 +15,7 @@ These events and directions are currently supported through the bi-directional J
 HackerOne to Jira | Jira to HackerOne
 ----------------- | -------------------
 Comments | Comments
-State changes | State changes<br><i>Note: The state change in Jira only shows up as an internal comment in the HackerOne report. The HackerOne report state doesn't change. You'll need to log into HackerOne to change the report state.
+State changes | State changes<br><i>Note: The state change in Jira only shows up as an internal comment in the HackerOne report. The HackerOne report state doesn't change. You'll need to log into HackerOne to change the report state. <br><br>(Beta) The beta version enables you to select which Jira state will result in automatic closure of the HackerOne report.
 Rewards | Resolution changes
 Assignee changes | Assignee changes
 Public disclosure | Priority changes
@@ -37,7 +41,7 @@ Hackbot automatically captures the status change and posts an internal comment o
 ![jira-integration-2](./images/jira-cloud-4.png)
 
 <h3 id="creating">Creating a Jira Issue</h3>
-You can create new Jira issues for reports you receive in HackerOne.
+You can create new Jira issues for reports you receive on HackerOne.
 
 To create a new Jira issue from your HackerOne report:
 1. Go to the HackerOne report in your inbox that you want to create a new Jira issue for.
