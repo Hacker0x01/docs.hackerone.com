@@ -7,7 +7,7 @@ id: "programs/jira-integration"
 <div class="betanote" markdown="1">
 <b>Note:</b> Beta features in the Jira integration are only available for select programs. If you would like to opt-in to the beta features, please contact your program manager.
 </div>
-<br>
+
 HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
 These events and directions are currently supported through the bi-directional Jira integration:
