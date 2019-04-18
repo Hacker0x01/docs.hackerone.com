@@ -75,7 +75,8 @@ State Changes | When someone changes the state of a report, post an update on th
 Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
 Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
 Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
+Synchronize attachments | *(Currently in beta)* Synchronize attachments linked with reports and comments to the associated Jira issue. 
 
-   ![jira-server-6](./images/jira-server-6.png)
+   ![jira-server-6a](./images/jira-server-6a.png)
 
 You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
