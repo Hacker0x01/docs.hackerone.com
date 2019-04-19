@@ -10,6 +10,8 @@ id: "programs/jira-integration"
 
 HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
+> <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
+
 These events and directions are currently supported through the bi-directional Jira integration:
 
 HackerOne to Jira | Jira to HackerOne
