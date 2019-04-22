@@ -4,6 +4,15 @@ path: "/programs/jira-integration.html"
 id: "programs/jira-integration"
 ---
 
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
+
 <div class="betanote" markdown="1">
 <b>Note:</b> Beta features in the Jira integration are only available for select programs. If you would like to opt-in to the beta features, please contact your program manager.
 </div>
@@ -31,9 +40,13 @@ Option | Details
 
 ><i>Note: Jira Cloud isn't compatible with Jira Server.</i>
 
-Jump to:
-* [Creating a Jira Issue](#creating)
-* [Linking HackerOne Reports to Existing Jira Tasks](#linking)
+<div class="background contents" markdown="1">
+
+Jump to: |
+-------- |
+[Creating a Jira Issue](#creating) |
+[Linking HackerOne Reports to Existing Jira Tasks](#linking) |
+</div>
 
 ### How it Works
 A HackerOne report gets triaged and escalated into Jira.
