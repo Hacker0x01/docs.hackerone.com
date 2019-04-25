@@ -20,10 +20,10 @@ To award a hacker with swag:
 8. Click **Set award**.
 9. Go back to **Settings > Program > Rewards > Swag**.
 
-You'll see an overview of swag requests that are sent and unsent as well as hacker mailing addresses. Hackers that haven't provided a mailing address or a T-shirt size will be asked to update their profile to provide the necessary information for them to receive swag.
+You'll see an overview of your swag orders that are sent and unsent as well as hacker mailing addresses. Hackers that haven't provided a mailing address or a T-shirt size will be asked to update their profile to provide the necessary information for them to receive swag.
 
-You can select and de-select the checkbox to manage which requests have been sent and unsent.
-
-Your program is responsible for fulfillment and delivery of swag to the hacker.
+You can select and de-select the checkboxes to manage which requests have been sent and unsent.
 
 ![swag](./images/swag-1.png)
+
+Your program is responsible for fulfillment and delivery of swag to the hacker.
