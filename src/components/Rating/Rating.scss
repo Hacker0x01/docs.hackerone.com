@@ -1,1 +1,32 @@
 
+@import '../../scss/global/variables';
+@import '../../scss/global/mixins';
+
+.rating {
+  color: $slate-20;
+  font-size: 28px;
+  padding: 0;
+
+  span {
+    margin: 0 $scaledown-7;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .is-filled {
+    color: $mango;
+  }
+}
+
+.rate-this-doc {
+  background: $slate-02;
+  display: inline-block;
+  margin: $scale-0 0;
+  padding: $scaledown-3 $scaleup-3;
+
+  &__success {
+    @include colfax(600);
+  }
+}
