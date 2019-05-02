@@ -9,6 +9,6 @@ Your Thanks page lists out all of the programs you’ve submitted valid reports 
 ![thanks](./images/thanks-1.png)
 
 ### Program Thanks Page
-Your profile will also show up on the Thanks page of the programs you’ve submitted triaged and resolved reports to. The program Thanks page lists all of the hackers that have submitted triaged and resolved reports by order of reputation gained.  
+Your profile will also show up on the Thanks page of the programs you’ve submitted reports to that are triaged or resolved. The program Thanks page lists all of the hackers that have submitted triaged and resolved reports by order of reputation gained.  
 
 ![thanks-2](./images/thanks-2.png)
