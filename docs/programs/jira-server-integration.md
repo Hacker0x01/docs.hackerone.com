@@ -17,15 +17,23 @@ To integrate with Jira Server:
    ![jira-server-2](./images/jira-server-2.png)
 
 4. Navigate to the Application Links console of JIRA by going to **JIRA Administration > Applications > Application Links**.
+
+> **Note:** You must be a Jira administrator in order to set up and access the Jira integration settings. After you set up your integration, you can go back to regular access on Jira.
+
    ![jira-server-7](./images/jira-server-7.png)
+
 5. Enter `https://hackerone.com` and click **Create new link**.
    ![jira-server-8](./images/jira-server-8.png)
+
 6. Enter `https://hackerone.com` in the New URL field in the Configure Application URL window.
    ![jira-server-9](./images/jira-server-9.png)
+
 7. Enter `HackerOne` for the Application Name and select `Generic Application` in the Link applications window and click **Continue**.
    ![jira-server-10](./images/jira-server-10.png)
+
 8.  Select the pencil icon for HackerOne on the Configure Application Links page.
    ![jira-server-11](./images/jira-server-11.png)
+
 9. Enter the following information on the Application Details section of the Configure HackerOne window:
 
 Field | Details
@@ -75,7 +83,7 @@ State Changes | When someone changes the state of a report, post an update on th
 Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
 Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
 Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
-Synchronize attachments | *(Currently in beta)* Synchronize attachments linked with reports and comments to the associated Jira issue. 
+Synchronize attachments | *(Currently in beta)* Synchronize attachments linked with reports and comments to the associated Jira issue.
 
    ![jira-server-6a](./images/jira-server-6a.png)
 
