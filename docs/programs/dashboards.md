@@ -15,7 +15,7 @@ HackerOne provides dashboards on these pages:
 For each dashboard, you can customize the data you see by choosing the dates you want to see the metrics for.
 
 ### Response Efficiency
-The Response Efficiency page gives insight into how efficiently you respond to your reports. It helps you keep track of how many reports have missed your [response target](response-targets.html) or standard.
+The Response Efficiency page gives insight into how efficiently you respond to your reports. It helps you keep track of how many reports have missed your [response target](response-targets.html) or standard..
 
 You can view the metrics of the average time to:
 * First response
