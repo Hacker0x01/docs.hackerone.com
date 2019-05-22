@@ -31,7 +31,7 @@ You can view data for these metrics on the Submissions page: |
 You can export all of your data at once or by sections to a CSV or PDF file.
 
 <h3 id="submissions">Submissions</h3>
-The Submissions section provides a quick overview of your report submission metrics to see any report submission trends. You can view:
+The Submissions section provides a quick overview of your report submission metrics to see any report submission trends. You can view:<br><br>
 
 Item | Details
 ---- | ----------
@@ -44,12 +44,12 @@ Item | Details
 ![Submissions graph on program dashboard](./images/program-dashboard-submissions.png)
 
 <h3 id="severity">Severity</h3>
-The Severity section shows how reports and bounties are distributed by severity. You can view trends on how many valid reports are submitted and paid per severity.
+The Severity section shows how reports and bounties are distributed by severity. You can view trends on how many valid reports are submitted and paid per severity.<br><br>
 
 ![Severity table on program dashboard](./images/program-dashboard-severity.png)
 
 <h3 id="closed">Closed Report States</h3>
-The Closed Report States table shows how your reports are distributed among the various closed states a report can have.  You can view how many reports were:
+The Closed Report States table shows how your reports are distributed among the various closed states a report can have.  You can view how many reports were:<br><br>
 
 Item | Details
 ---- | -----------
@@ -64,19 +64,19 @@ Spam | The number of reports that are closed as Spam.
 <h3 id="weakness">Weakness</h3>
 The Weakness section shows how your reports are spread among the different weakness types. You can view what areas you’re receiving the most valid vulnerabilities in so that you can know which vulnerabilities your program is most susceptible to.
 
-You can toggle your weakness data by number of valid reports and also by bounty amounts.
+<br>You can toggle your weakness data by number of valid reports and also by bounty amounts.
 
 ![Weaknesses graph on program dashboard](./images/program-dashboard-weaknesses.png)
 
 <h3 id="assets">Assets</h3>
 The Assets section enables you to explore reports and bounties by asset. You can see which asset you’re receiving the most vulnerabilities in and how much bounty is paid out per asset.
 
-You can toggle your asset data by number of valid reports and also by bounty amounts.
+<br>You can toggle your asset data by number of valid reports and also by bounty amounts.
 
 ![Assets graph on program dashboard](./images/program-dashboard-assets.png)
 
 <h3 id="all-time">All-Time Metrics</h3>
-You can also view these all-time data metrics for your program:
+You can also view these all-time data metrics for your program:<br><br>
 
 Item | Details
 ---- | -------
