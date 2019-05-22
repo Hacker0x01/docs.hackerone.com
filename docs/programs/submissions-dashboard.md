@@ -1,7 +1,7 @@
 ---
-title: "Submissions"
-path: "/programs/submissions.html"
-id: "programs/submissions"
+title: "Submissions Dashboard"
+path: "/programs/submissions-dashboard.html"
+id: "programs/submissions-dashboard"
 ---
 
 <style>
