@@ -207,6 +207,8 @@
       items:
         - title: Submissions Dashboard
           path: /programs/submissions-dashboard.html
+        - title: Statistics Dashboard
+          path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
 - title: Hacker Engagement
