@@ -24,7 +24,6 @@ You can view data for these metrics on the Submissions page: |
 [Closed Report States](#closed) |
 [Weaknesses](#weaknesses) |
 [Assets](#assets) |
-[All-time Metrics](#all-time) |
 </div>
 
 
