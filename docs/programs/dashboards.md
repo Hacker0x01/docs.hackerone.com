@@ -9,7 +9,6 @@ The Program Dashboard provides information on various metrics for your program. 
 HackerOne provides dashboards on these pages:
 * [Submissions](/programs/submissions-dashboard.html)
 * [Statistics](/programs/statistics-dashboard.html)
-* Response Efficiency
 * [Hacker Feedback](hacker-feedback-dashboard.html)
 
 For each dashboard, you can customize the data you see by choosing the dates you want to see the metrics for.
