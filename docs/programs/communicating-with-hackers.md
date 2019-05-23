@@ -8,7 +8,7 @@ You can communicate with hackers by:
 * Commenting on reports
 * Broadcast messaging
 
-### Commenting on a Report
+<h3>[Commenting on a Report](#commenting-on-a-report)</h3>
 You can easily communicate with hackers by commenting within the report. To add a comment on a report:
 
 1. Select **Add comment** from the action picker above the comment box.
@@ -20,7 +20,7 @@ The hacker will get a notification in their HackerOne profile and will also be n
 
 ![Communicate with hackers1](./images/communicate-with-hackers.png)
 
-### Commenting on Multiple Reports
+<h3>[Commenting on Multiple Reports](#commenting-on-multiple-reports)</h3>
 You can add comments to multiple reports simultaneously. To add comments to multiple reports:
 
 1. Select the reports you want the comments to be applied to in your inbox by selecting the check box next to the report titles. A list of the titles of the selected reports populate in the center of the screen above the **Comment** field.
@@ -30,5 +30,5 @@ You can add comments to multiple reports simultaneously. To add comments to mult
 
 ![Communicate with hackers2](./images/communicate-with-hackers3.png)
 
-### Broadcast Messaging
+<h3>[Broadcast Messaging](#broadcast-messaging)</h3>
 If you want to reach a larger group of hackers with a one-way announcement, you can use the [Message Hackers](message-hackers.html) feature.
