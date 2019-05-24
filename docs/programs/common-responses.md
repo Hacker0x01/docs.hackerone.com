@@ -7,7 +7,7 @@ Common responses provide consistent messaging across the platform and prevent yo
 
 ![common-response-1](./images/common-response-1.png)
 
-### Set Up a Default Common Response
+<h3><a id="set-up-a-default-common-response">Set Up a Default Common Response</a></h3>
 To set a default common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
 2. You'll find a pre-populated list of responses that HackerOne finds useful.
@@ -19,7 +19,7 @@ The default common response will automatically populate when you select the acti
 
 ![common-response-2](./images/common-response-2.png)
 
-### Add Your Own Common Response
+<h3><a id="add-your-own-common-response">Add Your Own Common Response</a></h3>
 You can write your own common response
 To add a new common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
@@ -32,7 +32,7 @@ Your common response will display in the list of common responses to choose from
 
 ![common-response-3](./images/common-response-3.png)
 
-### Edit a Common Response
+<h3><a id="edit-a-common-response">Edit a Common Response</a></h3>
 To edit a common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
 2. Click the title of the response you want to edit.
