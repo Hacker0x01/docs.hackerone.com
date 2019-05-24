@@ -22,7 +22,7 @@ With HackerOne taking care of your payments, you don't have to worry about:
 
 HackerOne also collects the appropriate tax forms to remove the operational headache for you.
 
-<h3>[Invoices](#invoices)</h3>
+<h3><a id="invoices">Invoices</a></h3>
 You'll receive a single invoice at the beginning of each month with all bounty activity and service fees from the previous month. The invoice amount will be deducted each month from the advanced deposit, and when funds are running low, another advanced deposit will be requested.
 
 To request an invoice, go to **Settings > General > Billing > Prepayment**.
