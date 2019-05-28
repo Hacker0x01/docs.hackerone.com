@@ -1,0 +1,11 @@
+stages:
+  - lint
+
+job:
+  stage: lint
+  image: node:11
+  tags:
+    -  runner-small
+  script:
+    - yarn install
+    - yarn lint 
