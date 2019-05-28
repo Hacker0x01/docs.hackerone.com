@@ -71,8 +71,9 @@ Resolution changed | Post an internal comment when an issues changes resolution.
 Priority changed | Post an internal comment when an issue changes priority.
 Assignee changed | Post an internal comment when an issue changes assignee.
 Comment added | Post an internal comment when someone comments on an issue.
+Closed issue status | Resolve the report when an issue is closed with the selected status.
 
-   ![jira-server-5](./images/jira-server-5.png)
+   ![jira-server-5](./images/jira-server-jira-to-hackerone.png)
 
 16. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to JIRA events** window. You can choose from:
 
@@ -83,7 +84,7 @@ State Changes | When someone changes the state of a report, post an update on th
 Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
 Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
 Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
-Synchronize attachments | *(Currently in beta)* Synchronize attachments linked with reports and comments to the associated Jira issue.
+Synchronize attachments | Synchronize attachments linked with reports and comments to the associated Jira issue.
 
    ![jira-server-6a](./images/jira-server-6a.png)
 
