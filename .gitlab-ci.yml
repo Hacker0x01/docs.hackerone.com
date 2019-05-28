@@ -3,6 +3,8 @@ stages:
 
 deploy_production:
   stage: deploy
+  tags:
+    - runner-small
   environment:
     name: production
     url: https://docs.hackerone.com
