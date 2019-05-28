@@ -1,11 +1,15 @@
 stages:
-  - lint
+  - deploy
 
-job:
-  stage: lint
+deploy_production:
+  stage: deploy
+  environment:
+    name: production
+    url: https://docs.hackerone.com
   image: node:11
-  tags:
-    -  runner-small
   script:
+    - echo "Deploy to production server"
     - yarn install
-    - yarn lint 
+    - yarn deploy
+  only:
+  - master
