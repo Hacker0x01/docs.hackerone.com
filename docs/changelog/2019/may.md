@@ -13,15 +13,12 @@ We’ve revamped the Program Dashboard with new metric tables and charts that gi
 We've added these improvements to the bi-directional Jira integration:
 
 #### Additional Fields
-The HackerOne to Jira escalation template now includes these additional fields so that Jira users can have all fields in Jira be mapped to a value from the HackerOne report:
-* CVSS (shows only when Bug is selected issue type)
-* Due date  
-* Environment  
+The HackerOne to Jira escalation template now includes all additional fields that are either a type of `string`, `number`, or `date`. This enables Jira users to have all fields in Jira be mapped to a value from the HackerOne report. All available Jira fields will automatically be pulled from the selected issue type.
 
 ![additional fields wen escalating HackerOne to Jira](./images/may_2019_jira++_additional-fields.png)
 
 #### Sync Attachments
-Jira users can now sync attachments from their HackerOne report to Jira by selecting **Synchronize attachments** in the **Select HackerOne to JIRA events** section when configuring their Jira integration. 
+Jira users can now sync attachments from their HackerOne report to Jira by selecting **Synchronize attachments** in the **Select HackerOne to JIRA events** section when configuring their Jira integration.
 
 ![synchronize attachments option in the jira integration](./images/may_2019_jira++_sync-attachments.png)
 
