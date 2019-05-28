@@ -13,10 +13,6 @@ id: "programs/jira-integration"
 }
 </style>
 
-<div class="betanote" markdown="1">
-<b>Note:</b> Beta features in the Jira integration are only available for select programs. If you would like to opt-in to the beta features, please contact your program manager.
-</div>
-
 HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
 > <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
@@ -26,7 +22,7 @@ These events and directions are currently supported through the bi-directional J
 HackerOne to Jira | Jira to HackerOne
 ----------------- | -------------------
 Comments | Comments
-State changes | State changes<br><i>Note: The state change in Jira only shows up as an internal comment in the HackerOne report. The HackerOne report state doesn't change. You'll need to log into HackerOne to change the report state. <br><br>(Beta) The beta version enables you to select which Jira state will result in automatic closure of the HackerOne report.
+State changes | State changes<br><br>You can select which Jira state will result in automatic closure of the HackerOne report.
 Rewards | Resolution changes
 Assignee changes | Assignee changes
 Public disclosure | Priority changes
