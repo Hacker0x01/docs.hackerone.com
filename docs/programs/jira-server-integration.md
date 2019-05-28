@@ -59,8 +59,9 @@ Public Key | Copy and paste from the key below:<br><br>-----BEGIN PUBLIC KEY----
 13. Click the **Authenticate with JIRA** button to finalize the setup between HackerOne and your Jira instance.
 14. *(Optional)* Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
      * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues.
+     * Select the Jira Priority you want to map to the corresponding HackerOne severity. This enables the right priority to be set when escalating a HackerOne report to Jira.
 
-   ![jira-server-4a](./images/jira-server-4a.png)
+   ![jira-server-4a](./images/jira-server-hackerone-to-jira.png)
 
 15. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select JIRA to HackerOne events** window. You can choose from:
 
