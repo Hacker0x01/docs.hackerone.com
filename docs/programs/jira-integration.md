@@ -13,9 +13,23 @@ id: "programs/jira-integration"
 }
 </style>
 
-HackerOne enables you to set up a bi-directional Jira integration. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
+HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue. You can choose to integrate with Jira Cloud or Jira Server. This means that Jira users can sync specific workflows from Jira to HackerOne and vice versa, from HackerOne to Jira. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between Jira and HackerOne.
 
-> <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
+<div class="background contents" markdown="1">
+
+Jump to: |
+-------- |
+[Creating a Jira Issue](#creating) |
+[Linking HackerOne Reports to Existing Jira Tasks](#linking) |
+[Installing the Jira integration](#installing) |
+</div>
+
+### How it Works
+A HackerOne report gets triaged and escalated into Jira.
+![jira-integration-1](./images/jira-integration.png)
+
+Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
+![jira-integration-2](./images/jira-cloud-4.png)
 
 These events and directions are currently supported through the bi-directional Jira integration:
 
@@ -26,30 +40,7 @@ State changes | State changes<br><br>You can select which Jira state will result
 Rewards | Resolution changes
 Assignee changes | Assignee changes
 Public disclosure | Priority changes
-
-You can choose to integrate from 2 different types of Jira integrations:
-
-Option | Details
------- | -------
-[Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world.
-[Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN.
-
-><i>Note: Jira Cloud isn't compatible with Jira Server.</i>
-
-<div class="background contents" markdown="1">
-
-Jump to: |
--------- |
-[Creating a Jira Issue](#creating) |
-[Linking HackerOne Reports to Existing Jira Tasks](#linking) |
-</div>
-
-### How it Works
-A HackerOne report gets triaged and escalated into Jira.
-![jira-integration-1](./images/jira-integration.png)
-
-Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
-![jira-integration-2](./images/jira-cloud-4.png)
+Report attachments |
 
 <h3 id="creating">Creating a Jira Issue</h3>
 You can create new Jira issues for reports you receive on HackerOne.
@@ -61,6 +52,18 @@ To create a new Jira issue from your HackerOne report:
 4. Select the project that you want the issue to link to in the dropdown. *Note: This option occurs only if you have multiple projects to select from. If you only have 1 project, the issue will automatically escalate to that project.*
 
 ![create jira issue](./images/create-jira.png)
+
+5. Click on the Jira ID to access the report in Jira.
+
+  ![jira-cloud-works-3](./images/jira-cloud-works-3.png)
+
+6. Add comments or change the state of the report in Jira.
+
+  ![jira-cloud-works-4](./images/jira-cloud-works-4.png)
+
+When you perform an action on the Jira report such as adding a comment or changing the status of the report, Hackbot will generate an internal comment on the HackerOne report to reflect the changes.
+
+  ![jira-cloud-works-5](./images/jira-cloud-works-5.png)
 
 <h3 id="linking">Linking HackerOne Reports to Existing Jira Tasks</h3>
 You can link your HackerOne reports to existing Jira tasks.
@@ -86,3 +89,14 @@ There's also another way you can  link your HackerOne reports to Jira. You can:
 
 3. Enter the JIRA ticket number in the **Enter JIRA ticket #** field.
 4. Click **Link JIRA issue**.
+
+
+<h3 id="installing">Installing the Jira integration</h3>
+
+
+You can choose to integrate from 2 different types of Jira integrations:
+
+Option | Details
+------ | -------
+[Jira Cloud](jira-cloud-integration.html) | You can access Jira from anywhere in the world.
+[Jira Server](jira-server-integration.html)| Jira is self-hosted and can be behind a firewall or VPN.

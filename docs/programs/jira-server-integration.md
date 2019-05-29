@@ -4,7 +4,7 @@ path: "/programs/jira-server-integration.html"
 id: "programs/jira-server-integration"
 ---
 
-HackerOne offers a bi-directional Jira integration that syncs information between your HackerOne report and the Jira issue. You can choose to integrate with Jira Cloud or Jira Server.
+> <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
 
 To integrate with Jira Server:
 1. Go to **Settings > Program > Integrations**.
@@ -57,7 +57,7 @@ Public Key | Copy and paste from the key below:<br><br>-----BEGIN PUBLIC KEY----
 12. Navigate back to HackerOne and enter the URL of the Jira instance you want to authenticate with in the **Instance base URL** field in the **Configure an Application Link** step.
    ![jira-server-14](./images/jira-server-14.png)
 13. Click the **Authenticate with JIRA** button to finalize the setup between HackerOne and your Jira instance.
-14. *(Optional)* Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
+14. Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
      * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues.
      * Select the Jira Priority you want to map to the corresponding HackerOne severity. This enables the right priority to be set when escalating a HackerOne report to Jira.
 
