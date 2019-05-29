@@ -168,9 +168,9 @@
     - title: Jira
       path: /programs/jira-integration.html
       items:
-        - title: Jira Cloud Installation
+        - title: Jira Cloud Setup
           path: /programs/jira-cloud-integration.html
-        - title: Jira Server Installation
+        - title: Jira Server Setup
           path: /programs/jira-server-integration.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
