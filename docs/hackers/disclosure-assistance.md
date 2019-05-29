@@ -11,6 +11,8 @@ In the absence of a vulnerability disclosure policy, attempts to report security
 
 HackerOne provides Disclosure Assistance to help friendly hackers disclose vulnerabilities to any organization and to help create better security for the internet.
 
+> **Note:** Reports with Disclosure Assistance have no effect to your reputation.
+
 ### What is Disclosure Assistance?
 When hackers discover a vulnerability and the organization doesn't have a vulnerability disclosure policy, with Disclosure Assistance, HackerOne will work with friendly hackers on a best effort basis to:
 * verify the legitimacy of a vulnerability.
