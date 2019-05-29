@@ -1,5 +1,5 @@
 ---
-title: "Jira Cloud Integration"
+title: "Jira Cloud Integration Installation"
 path: "/programs/jira-cloud-integration.html"
 id: "programs/jira-cloud-integration"
 ---
