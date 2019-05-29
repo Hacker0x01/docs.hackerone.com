@@ -1,10 +1,12 @@
 ---
-title: "Jira Cloud Integration"
+title: "Jira Cloud Integration Setup"
 path: "/programs/jira-cloud-integration.html"
 id: "programs/jira-cloud-integration"
 ---
 
-You can integrate HackerOne with Jira Cloud.
+> <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
+
+You can integrate with Jira Cloud in order to sync information between your HackerOne report and your Jira issue. 
 
 To integrate with Jira Cloud:
 1. Go to **Settings > Program > Integrations**.
@@ -29,7 +31,39 @@ To integrate with Jira Cloud:
 
 7. The set up will take you to the Jira settings page where you can select which events you want to sync between HackerOne and Jira.
 
-With Jira integration, you can create Jira issues right from your HackerOne report.
+8. Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
+     * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues.
+     * Select the Jira Priority you want to map to the corresponding HackerOne severity. This enables the right priority to be set when escalating a HackerOne report to Jira.
+
+   ![jira-server-4a](./images/jira-server-hackerone-to-jira.png)
+
+9. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select JIRA to HackerOne events** window. You can choose from:
+
+Option | Detail
+------ | -------
+Status changed | Post an internal comment when an issue changes status.
+Resolution changed | Post an internal comment when an issues changes resolution.
+Priority changed | Post an internal comment when an issue changes priority.
+Assignee changed | Post an internal comment when an issue changes assignee.
+Comment added | Post an internal comment when someone comments on an issue.
+Closed issue status | Resolve the report when an issue is closed with the selected status.
+
+   ![jira-server-5](./images/jira-server-jira-to-hackerone.png)
+
+10. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to JIRA events** window. You can choose from:
+
+Option | Detail
+------ | -------
+Comments | When someone comments on a report, post an update on the associated Jira issue.
+State Changes | When someone changes the state of a report, post an update on the associated Jira issue.
+Rewards | When someone awards or suggests a bounty and/or bonus, post an update on the associated Jira issue.
+Assignee Changes | When someone assigns a user/group to a report, post an update on the associated Jira issue.
+Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
+Synchronize attachments | Synchronize attachments linked with reports and comments to the associated Jira issue.
+
+   ![jira-server-6a](./images/jira-server-6a.png)
+
+You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
 
 ### How it works
 To create Jira issues from your HackerOne report:
@@ -42,14 +76,3 @@ To create Jira issues from your HackerOne report:
 
   ![jira-cloud-works-2](./images/jira-cloud-works-2.png)
 
-4. Click on the Jira ID to access the report in Jira.
-
-  ![jira-cloud-works-3](./images/jira-cloud-works-3.png)
-
-5. Add comments or change the state of the report in Jira.
-
-  ![jira-cloud-works-4](./images/jira-cloud-works-4.png)
-
-When you perform an action on the Jira report such as adding a comment or changing the status of the report, Hackbot will generate an internal comment on the HackerOne report to reflect the changes.
-
-  ![jira-cloud-works-5](./images/jira-cloud-works-5.png)
