@@ -14,7 +14,7 @@
       path: /hackers/reputation.html
       items:
         - title: Signal and Impact
-          path: /hackers/signal-and-impact
+          path: /hackers/signal-and-impact.html
     - title: Hacker Dashboard
       path: /hackers/hacker-dashboard.html
     - title: Badges
