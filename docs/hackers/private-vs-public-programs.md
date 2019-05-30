@@ -12,7 +12,7 @@ Private programs are programs that aren't published to the public. This means th
 
 As private programs limit the number of hackers invited to the program, the number of report submissions is also limited to enable the program to get the hang of receiving and triaging vulnerability reports. All programs begin as private, but as they become more proficient in handling reports, they can choose to go public if desired.
 
-The advantage of hacking on a private program verses a public one, is that the pool of hackers finding vulnerabilities is much smaller, giving you an advantage to find and be rewarded for vulnerabilities. 
+The advantage of hacking on a private program versus a public one, is that the pool of hackers finding vulnerabilities is much smaller, giving you an advantage to find and be rewarded for vulnerabilities. 
 
 ### Public Programs
 
