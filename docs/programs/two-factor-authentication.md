@@ -28,7 +28,7 @@ You can choose to change your account recovery phone number, turn off two-factor
 
 Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6-digit verification code from your authentication application. You must enter the verification code in order to successfully log in to HackerOne.
 
-On your user management settings, under <b>Settings > General > User Management</b> you'll be able to see those with 2FA off and on. Users with N/A means that they have 2FA through a 3rd party.
+On your user management settings, under <b>Settings > General > User Management</b> you'll be able to see those with 2FA off and on. Users with **N/A** means that they have 2FA through a 3rd party. Most triagers will have a 2FA status of N/A because they use SSO through Okta.  
 
 ![2fa-10](./images/2fa-10.png)
 
