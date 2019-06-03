@@ -91,7 +91,7 @@ All updates on a report are synced as a comment to Jira. Additionally, all actio
 
 ![jira-server-6a](./images/jira-server-6a.png)
 
-If you've configured your own [custom fields](/programs/custom-fields.html), you can use them in the jira integration. All custom fields automatically appear as available variables that you can use to set up the field mapping between HackerOne and Jira.
+If you've configured your own [custom fields](/programs/custom-fields.html), you can use them in the Jira integration. All custom fields automatically appear as available variables that you can use to set up the field mapping between HackerOne and Jira.
 
 <h3 id="jira-to-hackerone">Syncing updates from Jira to HackerOne</h3>
 
