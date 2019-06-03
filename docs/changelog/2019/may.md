@@ -18,7 +18,7 @@ The HackerOne to Jira escalation template now includes all additional fields tha
 ![additional fields wen escalating HackerOne to Jira](./images/may_2019_jira++_additional-fields.png)
 
 #### Sync Attachments
-Jira users can now sync attachments from their HackerOne report to Jira by selecting **Synchronize attachments** in the **Select HackerOne to JIRA events** section when configuring their Jira integration.
+Jira users can now sync attachments from their HackerOne report to Jira by selecting **Synchronize attachments** in the **Select HackerOne to Jira events** section when configuring their Jira integration.
 
 ![synchronize attachments option in the jira integration](./images/may_2019_jira++_sync-attachments.png)
 

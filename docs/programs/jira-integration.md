@@ -33,7 +33,7 @@ You can create new Jira issues for reports you receive on HackerOne.
 To create a new Jira issue from your HackerOne report:
 1. Go to the HackerOne report in your inbox that you want to create a new Jira issue for.
 2. Click **Edit** next to <i>References</i>.
-3. Click **Create JIRA issue**. Optional: If the report contains any attachments, these will be synced to the Jira issue created as well.
+3. Click **Create Jira issue**. Optional: If the report contains any attachments, these will be synced to the Jira issue created as well.
 
 ![jira-integration-1](./images/jira-integration.png)
 
@@ -62,8 +62,8 @@ To link your reports:
 
 ![link to jira-1](./images/link-jira-1.png)
 
-3. Enter the Jira ticket reference ID in the **Link JIRA ticket** field.
-4. Click **Link JIRA issue**.
+3. Enter the Jira ticket reference ID in the **Link Jira ticket** field.
+4. Click **Link Jira issue**.
 
 ![link to jira-2](./images/link-jira-2.png)
 
@@ -75,8 +75,8 @@ There's also another way you can  link your HackerOne reports to Jira. You can:
 
 ![link to jira-3](./images/link-jira-3.png)
 
-3. Enter the JIRA ticket number in the **Enter JIRA ticket #** field.
-4. Click **Link JIRA issue**.
+3. Enter the Jira ticket number in the **Enter Jira ticket #** field.
+4. Click **Link Jira issue**.
 
 <h3 id="hackerone-to-jira">Syncing updates from HackerOne to Jira</h3>
 
