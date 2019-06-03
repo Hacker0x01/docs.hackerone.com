@@ -89,6 +89,8 @@ With the Jira integration you can sync the following report updates to Jira. All
 
 All actions are configureable and can be toggled from the Jira integration settings page.
 
+![jira-server-6a](./images/jira-server-6a.png)
+
 If you're using [Custom Fields](/programs/custom-fields.html), you can use these in the integration. All Custom Fields automaticly appear as available variables that you can use to set up the field mapping between HackerOne and Jira.
 
 <h3 id="jira-to-hackerone">Syncing updates from Jira to HackerOne</h3>
@@ -106,7 +108,7 @@ We currently support the following Jira activities:
 
 You can choose which events you want to syncronize from the Jira integration settings page. Each of these activities can be toggled individually.
 
-
+![jira-server-5](./images/jira-server-jira-to-hackerone.png)
 
 <h3 id="auto-close">Automaticly resolving a HackerOne report</h3>
 
