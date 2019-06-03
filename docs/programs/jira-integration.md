@@ -19,15 +19,16 @@ HackerOne offers a bi-directional Jira integration that syncs information betwee
 
 Jump to: |
 -------- |
-[Creating a Jira Issue](#creating) |
+[Creating a Jira issue](#creating) |
 [Linking HackerOne Reports to Existing Jira Tasks](#linking) |
 [Syncing updates from HackerOne to Jira](#hackerone-to-jira) |
 [Syncing updates from Jira to HackerOne](#jira-to-hackerone) |
 [Automatically resolving a HackerOne report](#auto-close) |
+[HackerOne Severity to Jira Priority Mapping](#mapping) |
 [Installing the Jira integration](#installing) |
 </div>
 
-<h3 id="creating">Creating a Jira Issue</h3>
+<h3 id="creating">Creating a Jira issue</h3>
 You can create new Jira issues for reports you receive on HackerOne.
 
 To create a new Jira issue from your HackerOne report:
@@ -112,7 +113,14 @@ You can choose which events you want to synchronize from Jira as each of the act
 
 <h3 id="auto-close">Automatically resolving a HackerOne report</h3>
 
-You can set your integration to automatically close a HackerOne report as <i>Resolved</i> when a Jira issue closes. This enables the hacker to be notified right away when the Jira issue that's linked to the report is closed.   
+You can set your integration to automatically close a HackerOne report as <i>Resolved</i> when a Jira issue closes. This enables the hacker to be notified right away when the Jira issue that's linked to the report is closed. In the **Select Jira to HackerOne events** section of the integration setup, select the Jira issue status that will trigger the closure of the HackerOne report. 
+
+<h3 id="mapping">HackerOne Severity to Jira Priority Mapping</h3>
+
+You can map HackerOne severity ratings to the Jira priority fields when configuring your integration. This enables the right priority to be set when escalating a report to Jira. 
+
+![severity to priority mapping](./images/jira++_severity-priority-mapping.png)
+
 
 <h3 id="installing">Installing the Jira integration</h3>
 
