@@ -21,26 +21,11 @@ Jump to: |
 -------- |
 [Creating a Jira Issue](#creating) |
 [Linking HackerOne Reports to Existing Jira Tasks](#linking) |
+[Syncing updates from HackerOne to Jira](#hackerone-to-jira) |
+[Syncing updates from Jira to HackerOne](#jira-to-hackerone) |
+[Automatically resolving a HackerOne report](#auto-close) |
 [Installing the Jira integration](#installing) |
 </div>
-
-### How it Works
-A HackerOne report gets triaged and escalated into Jira.
-![jira-integration-1](./images/jira-integration.png)
-
-Hackbot automatically captures the status change and posts an internal comment on the associated HackerOne report.
-![jira-integration-2](./images/jira-cloud-4.png)
-
-These events and directions are currently supported through the bi-directional Jira integration:
-
-HackerOne to Jira | Jira to HackerOne
------------------ | -------------------
-Comments | Comments
-State changes | State changes<br><br>You can select which Jira state will result in automatic closure of the HackerOne report.
-Rewards | Resolution changes
-Assignee changes | Assignee changes
-Public disclosure | Priority changes
-Report attachments |
 
 <h3 id="creating">Creating a Jira Issue</h3>
 You can create new Jira issues for reports you receive on HackerOne.
@@ -48,7 +33,10 @@ You can create new Jira issues for reports you receive on HackerOne.
 To create a new Jira issue from your HackerOne report:
 1. Go to the HackerOne report in your inbox that you want to create a new Jira issue for.
 2. Click **Edit** next to <i>References</i>.
-3. Click **Create JIRA issue**.
+3. Click **Create Jira issue**. 
+
+![jira-integration-1](./images/jira-integration.png)
+
 4. Select the project that you want the issue to link to in the dropdown. *Note: This option occurs only if you have multiple projects to select from. If you only have 1 project, the issue will automatically escalate to that project.*
 
 ![create jira issue](./images/create-jira.png)
@@ -74,22 +62,57 @@ To link your reports:
 
 ![link to jira-1](./images/link-jira-1.png)
 
-3. Enter the Jira ticket reference ID in the **Link JIRA ticket** field.
-4. Click **Link JIRA issue**.
+3. Enter the Jira ticket reference ID in the **Link Jira ticket** field.
+4. Click **Link Jira issue**.
 
 ![link to jira-2](./images/link-jira-2.png)
 
 The HackerOne report will now be linked to the Jira task, and all activities that are performed on the report will be synced to the corresponding task.
 
-There's also another way you can  link your HackerOne reports to Jira. You can:
+There's also another way you can link your HackerOne reports to Jira. You can:
 1. Go to the bottom of your HackerOne report.
 2. Select **Change state > Triaged** in the action picker.
 
 ![link to jira-3](./images/link-jira-3.png)
 
-3. Enter the JIRA ticket number in the **Enter JIRA ticket #** field.
-4. Click **Link JIRA issue**.
+3. Enter the Jira ticket number in the **Enter Jira ticket #** field.
+4. Click **Link Jira issue**.
 
+<h3 id="hackerone-to-jira">Syncing updates from HackerOne to Jira</h3>
+
+With the Jira integration you can sync these report updates to Jira: 
+- Report Comments
+- State changes
+- Rewards
+- Assignee changes
+- Public disclosure
+
+All updates on a report are synced as a comment to Jira. Additionally, all actions are configureable and can be toggled from the Jira integration settings page. 
+
+![jira-server-6a](./images/jira-server-6a.png)
+
+If you've configured your own [custom fields](/programs/custom-fields.html), you can use them in the jira integration. All custom fields automatically appear as available variables that you can use to set up the field mapping between HackerOne and Jira.
+
+<h3 id="jira-to-hackerone">Syncing updates from Jira to HackerOne</h3>
+
+To make sure your security team stays up to date with the changes that happen in Jira, you can sync back activities from Jira to the HackerOne report. All updates from Jira will be reflected in HackerOne as an internal comment on the associated report. 
+
+![jira-cloud-works-5](./images/jira-cloud-works-5.png)
+
+We currently support these activities from Jira to HackerOne:
+- Comments
+- State changes
+- Resolution changes
+- Assignee changes
+- Priority changes
+
+You can choose which events you want to synchronize from Jira as each of the activities can be toggled individually.
+
+![jira-server-5](./images/jira-server-jira-to-hackerone.png)
+
+<h3 id="auto-close">Automatically resolving a HackerOne report</h3>
+
+You can set your integration to automatically close a HackerOne report as <i>Resolved</i> when a Jira issue closes. This enables the hacker to be notified right away when the Jira issue that's linked to the report is closed.   
 
 <h3 id="installing">Installing the Jira integration</h3>
 

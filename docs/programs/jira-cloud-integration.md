@@ -10,10 +10,10 @@ You can integrate with Jira Cloud in order to sync information between your Hack
 
 To integrate with Jira Cloud:
 1. Go to **Settings > Program > Integrations**.
-2. Click the **Connect with JIRA** link.
+2. Click the **Connect with Jira** link.
    ![jira-server-1](./images/jira-server-1.png)
 
-3. Choose **JIRA Cloud**, and you'll be redirected to Atlassian Marketplace where you can download the HackerOne for JIRA application.
+3. Choose **Jira Cloud**, and you'll be redirected to Atlassian Marketplace where you can download the HackerOne for Jira application.
 
    ![jira-server-3](./images/jira-server-3.png)
 
@@ -31,13 +31,13 @@ To integrate with Jira Cloud:
 
 7. The set up will take you to the Jira settings page where you can select which events you want to sync between HackerOne and Jira.
 
-8. Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to JIRA escalation** window.
+8. Configure which HackerOne projects you'd like to escalate to Jira in the **Configure HackerOne to Jira escalation** window.
      * Select the **Allow me to select a project every time when I escalate an issue** checkbox to have the ability to select from multiple projects when creating Jira issues.
      * Select the Jira Priority you want to map to the corresponding HackerOne severity. This enables the right priority to be set when escalating a HackerOne report to Jira.
 
    ![jira-server-4a](./images/jira-server-hackerone-to-jira.png)
 
-9. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select JIRA to HackerOne events** window. You can choose from:
+9. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select Jira to HackerOne events** window. You can choose from:
 
 Option | Detail
 ------ | -------
@@ -50,7 +50,7 @@ Closed issue status | Resolve the report when an issue is closed with the select
 
    ![jira-server-5](./images/jira-server-jira-to-hackerone.png)
 
-10. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to JIRA events** window. You can choose from:
+10. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to Jira events** window. You can choose from:
 
 Option | Detail
 ------ | -------
@@ -72,7 +72,7 @@ To create Jira issues from your HackerOne report:
 
   ![jira-cloud-works-1](./images/jira-cloud-works-1.png)
 
-3. Click **Create JIRA Issue**. A Jira ID will automatically generate.
+3. Click **Create Jira Issue**. A Jira ID will automatically generate.
 
   ![jira-cloud-works-2](./images/jira-cloud-works-2.png)
 
