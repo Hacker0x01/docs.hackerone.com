@@ -17,7 +17,7 @@ id: "programs/custom-fields"
 Program administrators can configure custom fields to add data to their reports. This enables your program members to add additional information to your reports to help you better manage and analyze your internal data by the categories that you define to be important, such as by business unit or by root cause analysis.
 
 <div class="betanote" markdown="1">
-<b>Note:</b> You must be an enterprise program to opt-in to the feature. 
+<b>Note:</b> This feature is only available for Enterprise programs.
 </div>
 
 <div class="background contents" markdown="1">
