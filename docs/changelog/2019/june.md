@@ -10,3 +10,8 @@ We introduce the new **Also mark as ineligible for bounty** checkbox so that pro
 Programs are also able to now award swag to reports that are marked as ineligible for bounty.
 
 ![mark as ineligible for bounty checkbox](./images/june_2019_mark_ineligible.png)
+
+### Notifications Bell Icon
+Say goodbye to the old notifications indicator next to your profile icon. We introduce a new bell icon to notify you of any new notifications. If you have more than 25 unread notifications, we've truncated the notifications number to be capped at ***25+***.
+
+![bell icon](./images/june_2019_bell_icon.png)
