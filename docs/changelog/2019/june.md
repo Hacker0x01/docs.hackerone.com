@@ -27,6 +27,12 @@ Say goodbye to having to always re-select how you want your inbox sorted. Your s
 
 ![save sort order](./images/june_2019_save_sort_order.png)
 
+### Date Range Filters
+You can now filter through your inbox reports by submission date in order to quickly find reports submitted after or within a certain time.
+
+![submission date filters](./images/june_2019_date_filters.png)
+
+
 ### Goodbye to the Insights Tab
 We’ve deprecated the Insights tab from program pages.
 
