@@ -103,6 +103,9 @@
       path: /hackers/using-markdown.html
     - title: Weakness
       path: /hackers/weakness.html
+      items:
+        - title: Types of Weaknesses
+          path: /hackers/types-of-weaknesses.html
     - title: Severity
       path: /hackers/severity.html
     - title: Disclosure
