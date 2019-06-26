@@ -32,6 +32,11 @@ You can now filter through your inbox reports by submission date in order to qui
 
 ![submission date filters](./images/june_2019_date_filters.png)
 
+### Group Members Filter
+The new Group Members filter enables you to search for reports by individual members within a group. Previously, you couldn’t see which members were assigned to which reports within the group. This enables you to better keep track of reports and the individuals assigned to them.   
+
+![group members filter](./images/june_2019_group_members_filter.png)
+
 ### Goodbye to the Insights Tab
 We’ve deprecated the Insights tab from program pages.
 
