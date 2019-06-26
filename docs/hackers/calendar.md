@@ -19,7 +19,7 @@ To add your HackerOne calendar to your personal calendar:
 3. Click **Copy** to copy the URL.
 4. Import your HackerOne calendar URL to your personal calendar in [iCal](#iCal) or [Google Calendar](#Google).
 
-You can choose to regenerate your calendar URL by clicking **Regenerate**. Keep in mind that if you regenerate your URL, it'll disable your calendar settings with the old URL.
+You can choose to regenerate your calendar URL by clicking **Regenerate**. Keep in mind that if you regenerate your URL, your calendar on the old URL won't be updated with new events. Only the current URL will be actively synced with new events.  
 
 <h3 id="iCal">Importing to iCal</h3>
 
