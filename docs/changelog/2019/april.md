@@ -10,7 +10,7 @@ We've revamped the My Stats section of the Hacker Dashboard with expanded graphs
 ![hacker stats](./images/apr_2019_my_stats.png)
 
 ### Notifications Checkbox
-Programs can now select to notify their subscribers of changes in their settings with our new **Notify subscribers of changes** checkbox. The checkbox can be found for changes to these pages:
+Programs can now select to notify their subscribers of changes in their Policy and Scope settings pages with our new **Notify subscribers of changes** checkbox. The checkbox can be found for changes to these pages:
 * Policy
 * Scope
 * Bounties
@@ -18,6 +18,6 @@ Programs can now select to notify their subscribers of changes in their settings
 ![subscriber notification checkbox](./images/apr_2019_changes_checkbox.png)
 
 ### Bounty Table Versions
-You can now view previous changes made on bounty tables for all programs to see what's been changed over time with our bounty table versions page. Click on **View changes** on the Rewards section of the program policy page to access the versions page. 
+You can now view previous changes made on bounty tables for all programs to see what's been changed over time with our bounty table versions page. Click on **View changes** on the Rewards section of the program policy page to access the versions page.
 
 ![bounty table versions](./images/apr_2019_bounty_table_versions.png)
