@@ -132,6 +132,8 @@
       items:
         - title: Limiting Disclosed Information
           path: /programs/limiting-disclosed-information.html
+    - title: Audit Logs
+      path: /programs/audit-logs.html
     - title: Automation
       path: /programs/automation.html
       items:
