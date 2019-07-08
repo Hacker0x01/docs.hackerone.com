@@ -132,8 +132,6 @@
       items:
         - title: Limiting Disclosed Information
           path: /programs/limiting-disclosed-information.html
-    - title: Audit Logs
-      path: /programs/audit-logs.html
     - title: Automation
       path: /programs/automation.html
       items:
@@ -213,6 +211,8 @@
           path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
+    - title: Audit Logs
+      path: /programs/audit-logs.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
