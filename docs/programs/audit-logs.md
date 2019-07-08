@@ -5,7 +5,7 @@ id: "programs/audit-logs"
 ---
 
 <div class="betanote" markdown="1">
-<b>Note:</b> This feature is currently in beta. Contact miju@hackerone.com if you'd like to be included in the beta.
+<b>Note:</b> This feature is currently in beta. Please send comments and questions to feedback@hackerone.com.
 </div>
 
 Audit logs enable you to view all changes and actions done on your program so that you can review critical changes, find suspect actions, and investigate incidents for your program on HackerOne. Each log includes these details:
@@ -27,7 +27,7 @@ You can search your audit log by:
 * User
 * Date
 
-**Note:** Cases aren’t sensitive when searching results. 
+**Note:** Cases aren’t sensitive when searching results.
 
 ### Search based on the event
 Each time an action is made on your program, the action is tagged with a corresponding event name. You can search based on the event name to filter your results. To search for specific events, use the event qualifier in your query. For example: `event:teams.api_users.create`
