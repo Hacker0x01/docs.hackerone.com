@@ -27,7 +27,7 @@ You can manage your notification preferences on the Notification Preferences pag
 #### Program Preferences
 You can also manage what programs you can receive notifications from on the Program Preferences page under **Settings > Program Preferences**. On this page, you can view the full list of programs you belong to as well as the programs you're subscribed to receive notifications for. You can select to turn your notifications to be either **On** or **Off** for each program you're a part of.
 
-![program preferences](./images/program preferences.png)
+![program preferences](./images/program-preferences.png)
 
 To change your notification preferences for a program:
 
