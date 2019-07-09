@@ -7,9 +7,9 @@ id: "hackers/manage-notifications"
 ### Program Notifications
 As a hacker, you’ll receive notifications (via the product and email) when programs you’re subscribed to make updates. Notifications in the product will appear in the notifications box next to your profile icon.
 
-> **Note:** Receiving program notifications to all program updates is currently only enabled for select hackers.
+You can subscribe to receive program update notifications by subscribing to receive notifications via a program's Security Page by clicking **Subscribe**.
 
-![INSERT IMAGE](./images/program-notifications-1.png)
+![subscribe button on policy page](./images/program-notifications-2.png)
 
 Updates to these program settings will trigger notifications:
 * Policy
@@ -17,28 +17,23 @@ Updates to these program settings will trigger notifications:
 * Scope
 * Hacker messages
 
-You’ll be subscribed to receive program update notifications if you’ve expressed interest in a program. This can happen in one of two ways:
-
-Option | Details
------- | -------
-Manually | You subscribed to receive notifications via a program’s Security Page by clicking **Subscribe**.<br><br>![subscribe button on policy page](./images/program-notifications-2.png)<br><i>The **Subscribe** button is currently only enabled for select hackers</i>.
-Automatically | You'll automatically receive report notifications if you've:<br><ul><li>Submitted a report to a public program<br><li>Accepted an invite to a private program
-
 ### Manage Notifications
-You can manage email notifications you receive from programs you belong to in **Settings > Programs**. On the Programs page, you can view a list of programs you belong to along with the visibility of that program on your public profile as well as your notification settings.
 
-![manage-notifications-1](./images/manage-notifications-1.png)
+#### Notification Preferences
+You can manage your notification preferences on the Notification Preferences page under **Settings > Notification Preferences**.
+
+![notification preferences](./images/notification-preferences.png)
+
+#### Program Preferences
+You can also manage what programs you can receive notifications from on the Program Preferences page under **Settings > Program Preferences**. On this page, you can view the full list of programs you belong to as well as the programs you're subscribed to receive notifications for. You can select to turn your notifications to be either **On** or **Off** for each program you're a part of. 
+
+![image](./images/program preferences.png)
 
 To change your notification preferences for a program:
-1. Click on the link below **Notifications** for that program. The link will either say *Enabled* or *Disabled* depending on your existing notification preference.
-2. A window will show where you can set your notifications.
-   If you want to disable notifications, the **Disable Notifications** screen will show where you can unsubscribe from reports.
-   ![manage-notifications-3](./images/manage-notifications-3.png)
 
-   If you want to enable notifications, the **Enable Notifications** screen will show where you can subscribe to reports.
-   ![manage-notifications-2](./images/manage-notifications-2.png)
+Select whether you want to turn your notifications to be either **On** or **Off** for that program.
 
-If you disable your notifications, you'll start receiving notifications again when you:
-* Interact with a report
-* Are assigned a report
-* Are mentioned in a report
+Option | Details
+------ | --------
+On | You'll receive notifications for various program updates. You can select to receive notifications for just future reports or for both future and all historical reports. ![enable notifications](./images/enable-notifications.png)To manage what updates you receive notifications for, go to **Settings > Notification Preferences**.
+Off | Notifications for the program will be disabled. You can select to stop receiving notifications from future reports, or from both future and all historical reports.![disable notifications](./images/disable-notifications.png) You'll start receiving notifications for the program again when you: <br><li>Interact with a report <li>Are assigned a report <li>Are mentioned in a report
