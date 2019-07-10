@@ -34,7 +34,7 @@ Each time an action is made on your program, the action is tagged with a corresp
 
 These are the event names that you can use to search:
 
-Even Name | Description
+Event Name | Description
 --------- | ------------
 `teams.api_users.create` | Triggered when a new API token is created.
 `teams.api_users.destroy` | Triggered when an existing API token is destroyed.
