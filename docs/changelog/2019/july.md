@@ -14,12 +14,17 @@ It can take a long time to set up Target Scope in Burp Suite, especially for pro
 
 ![link to download burp suite file](./images/july_2019_download_burp_suite_file.png)
 
+### Bounty Eligibility Indicator on Structured Scopes
+We've updated the structured scopes table on the program policy page with a new bounty eligible and ineligible icon to clearly show which assets are eligible and ineligible for bounties.
+
+![bounty eligibility indicator](./images/july_2019_bounty_eligibility_icon.png)
+
 ### Internal Attachments
 You can convert attachments to be internal for all redactable reports in the **Convert attachments to internal-only** section when redacting a report.
 
 ![convert attachments to internal-only](./images/july_2019_convert_attachments_internal.png)
 
-### Program Notifications 
+### Program Notifications
 After the beta launch in March, all hackers can now subscribe to receive notifications from program updates.
 
 ![subscribe button](./images/mar_2019_program_notifications-2.png)
