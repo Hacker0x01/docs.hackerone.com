@@ -18,3 +18,13 @@ It can take a long time to set up Target Scope in Burp Suite, especially for pro
 You can convert attachments to be internal for all redactable reports in the **Convert attachments to internal-only** section when redacting a report.
 
 ![convert attachments to internal-only](./images/july_2019_convert_attachments_internal.png)
+
+### Program Notifications 
+After the beta launch in March, all hackers can now subscribe to receive notifications from program updates.
+
+![subscribe button](./images/mar_2019_program_notifications-2.png)
+
+#### Notification Preferences
+You can also now set your notification preferences under the new **Notification Preferences** page in your user settings.  
+
+![Notification Preferences](./images/july_2019_notification_preferences.png)
