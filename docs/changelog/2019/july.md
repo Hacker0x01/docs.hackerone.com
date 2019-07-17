@@ -33,3 +33,8 @@ After the beta launch in March, all hackers can now subscribe to receive notific
 You can also now set your notification preferences under the new **Notification Preferences** page in your user settings.  
 
 ![Notification Preferences](./images/july_2019_notification_preferences.png)
+
+### Mentions Filter
+Easily find all reports you've been mentioned in to keep track of which reports need a response from you with our new mentions filter. 
+
+![Mentions Filter in inbox](./images/july_2019_mentions_filter.png)
