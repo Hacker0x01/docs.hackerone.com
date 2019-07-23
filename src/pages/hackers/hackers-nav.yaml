@@ -28,6 +28,8 @@
           path: /hackers/payout-methods.html
         - title: Tax Forms
           path: /hackers/tax-forms.html
+        - title: External Payments
+          path: /hackers/external-payments.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
     - title: Notifications
