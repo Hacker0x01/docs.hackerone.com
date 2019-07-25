@@ -62,7 +62,7 @@ To claim a security page:
 
 Claimed Directory Page | Unclaimed Directory Page
 ---------------------- | ------------------------
-![security page-2](./images/security-page-2.png) | ![security-page-1](./images/security-page-1.png)
+![security page-2](./images/security-page-2a.png) | ![security-page-1](./images/security-page-1a.png)
 
 2. Click the **Claim this page** link.
 3. A HackerOne staff will either approve or reject your claim request. If your request is approved, you'll be given editing rights to the entire page.  
