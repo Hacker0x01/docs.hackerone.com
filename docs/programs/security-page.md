@@ -19,7 +19,7 @@ A program's Security Page contains key information about your program and your s
 * Policy for in-scope eligibility
 * Bounty reward structure
 
-![security-page-3](./images/security-page-3.png)
+![security-page-3](./images/security-page-3a.png)
 
 <div class="background contents" markdown="1">
 
