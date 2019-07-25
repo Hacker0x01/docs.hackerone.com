@@ -4,24 +4,43 @@ path: "/programs/response-target-indicators.html"
 id: "programs/response-target-indicators"
 ---
 
-HackerOne utilizes average metrics and colored indicators to show how your program is doing in meeting healthy success criteria. 
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
 
-### Average Response Efficiency Metrics
+HackerOne utilizes average metrics and colored indicators to show how your program is doing in meeting healthy success criteria.
+
+<div class="background contents" markdown="1">
+
+In this article, you can learn about:|
+------------------------------------ |
+[Average Response Efficiency Metrics](#average) |
+[Colored Indicators](#colored) |
+</div>
+
+<h3 id ="average">Average Response Efficiency Metrics</h3>
+
 HackerOne displays a program's average response efficiency metrics on the security page to enable hackers to see how responsive your program is in:
 * giving a first response
 * paying out a bounty
 * resolving a vulnerability
 
-The average times are calculated on a rolling 3 month basis, and you can configure which metrics to display in **Settings > Program > Metrics Display**. 
+The average times are calculated on a rolling 3 month basis, and you can configure which metrics to display in **Program Settings > Program > Metrics Display**.
 
-![response-sla-indicator-1](./images/response-sla-indicators-1.png)
+![response-sla-indicator-1](./images/response-indicators-1.png)
 
-### Colored Indicators
+<h3 id="colored">Colored Indicators</h3>
+
 A program’s performance against HackerOne's response standards (Time to First Response = 5 business days; Time to Triage = 10 business days) is displayed on its security page and report submission page. This provides additional context to potential hackers when they're looking to submit reports to your program.
 
-![response-sla-indicator-2](./images/response-sla-indicator-2.png)
+![response-sla-indicator-2](./images/response-indicator-2.png)
 
-#### Indicator Details 
+#### Indicator Details
 How are the percentages calculated? 
 * The percentage is determined by this calculation: **((1-(# of reports that didn't meet response standards / # of total reports created))* 100)**
 * The percentage of reports that meet response standards is based on reports created within the last 90 days. 
