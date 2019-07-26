@@ -8,9 +8,9 @@ Your Scope is a collection of assets you want hackers to hack on. When assets ar
 
 ### To Create and Edit your Scope
 To view and edit your existing scope:
-1. Go to the Scope section in your program's **Settings** > **Program** > **Scope**.
+1. Go to the Scope section in **Program Settings** > **Program** > **Scope**.
 
-![Scope image 1](./images/scope-1.png)
+![Scope image 1](./images/scope-1a.png)
 
 2. Click on **Add asset**. It will bring you to this page:
 
