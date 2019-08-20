@@ -18,6 +18,15 @@ class Search extends React.Component {
         apiKey: 'acfb7def12803db2cd4ac0539b2b571a',
         indexName: 'hackerone',
         inputSelector: '#algolia-doc-search',
+        transformData: (suggestions) => {
+          return suggestions.map(suggestion => {
+            delete suggestion.anchor;
+
+            suggestion.url = suggestion.url.replace(/#___gatsby$/, "");
+
+            return suggestion;
+          });
+        }
       })
     } else {
       console.warn('Search has failed to load and now is being disabled')
