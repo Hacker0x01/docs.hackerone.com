@@ -172,6 +172,8 @@
           path: /programs/jira-cloud-integration.html
         - title: Jira Server Setup
           path: /programs/jira-server-integration.html
+        - title: Jira Variables
+          path: /programs/jira-variables.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
     - title: MantisBT
