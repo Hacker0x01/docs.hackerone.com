@@ -50,6 +50,28 @@ const findActiveChildByPath = (pathname, sections) => {
 }
 
 class IndexRoute extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      voted: false
+    };
+
+    this.handleVote = this.handleVote.bind(this);
+  }
+
+  handleVote(direction) {
+    return e => {
+      e.preventDefault();
+
+      this.setState({
+        voted: true
+      });
+
+      window.ga && window.ga("send", "event", "votes", direction, window.location.pathname);
+    }
+  }
+
   render() {
     const { links, path, title, children, description } = this.props
     const githubRepo =
@@ -83,15 +105,40 @@ class IndexRoute extends React.Component {
           {this.props.children}
           {this.props.docOnGithub ? (
             <div className="footer__inner">
-              <a href={githubRepo + this.props.docOnGithub} className="pull-left">
-                Edit this page on GitHub
-              </a>
+              <div className="footer-row">
+                <div className="footer-column footer-column--left">
+                  <div className="footer-column-block">
+                    <a href={githubRepo + this.props.docOnGithub}>
+                      Edit this page on GitHub
+                    </a>
+                  </div>
+                </div>
 
-              <a href="https://www.hackerone.com" target="_blank" className="pull-right">
-                Back to HackerOne
-              </a>
+                <div className="footer-column footer-column--center">
+                  <div className="footer-column-block">
+                    {this.state.voted
+                      ?
+                        <span>Thanks for your feedback!</span>
+                      :
+                      <span>
+                        Was this article useful?
+                        {" "}
+                        <a href="" onClick={this.handleVote("up")} className="upvote upvote--up">👍</a>
+                        {" "}
+                        <a href="" onClick={this.handleVote("down")} className="upvote upvote--down">👎</a>
+                      </span>
+                    }
+                  </div>
+                </div>
 
-              <div className="clearfix" />
+                <div className="footer-column footer-column--right">
+                  <div className="footer-column-block">
+                    <a href="https://www.hackerone.com" target="_blank">
+                      Back to HackerOne
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           ) : null}
         </article>
