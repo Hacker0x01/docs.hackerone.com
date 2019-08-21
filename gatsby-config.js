@@ -25,12 +25,27 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-csp`,
+      options: {
+        disableOnDev: true,
+        mergeScriptHashes: true,
+        mergeStyleHashes: true,
+        mergeDefaultDirectives: true,
+        directives: {
+          "script-src": "'self' www.google-analytics.com cdn.jsdelivr.net",
+          "connect-src": "'self' www.google-analytics.com fbhzv4f2nk7b.statuspage.io"
+        }
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-49905813-10",
         head: false,
         anonymize: true,
         respectDNT: true,
+        forceSSL: true,
+        transport: "beacon",
       },
     },
     {
