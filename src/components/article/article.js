@@ -5,6 +5,7 @@ import GatsbyConfig from '../../../gatsby-config'
 
 import Sidebar from '../../components/sidebar/sidebar'
 import ArticleSelect from '../../components/article_select/article_select'
+import ToC from '../toc';
 import './article.scss'
 
 const findActiveSectionByPath = (pathname, sections) => {
@@ -73,7 +74,7 @@ class IndexRoute extends React.Component {
   }
 
   render() {
-    const { links, path, title, children, description } = this.props
+    const { links, path, title, children, description, headings } = this.props
     const githubRepo =
       'https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/'
 
@@ -142,6 +143,8 @@ class IndexRoute extends React.Component {
             </div>
           ) : null}
         </article>
+
+        <ToC headings={headings} />
       </div>
     )
   }

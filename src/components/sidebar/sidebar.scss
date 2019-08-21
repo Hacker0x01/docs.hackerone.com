@@ -18,8 +18,6 @@ $sidebar-tablet-width: 160px;
 }
 
 .sidebar__wrapper {
-  margin-left: -999px;
-  padding-left: 999px;
   background-color: $daisy-snow;
   height: calc(100vh - 60px);
   overflow-y: auto;

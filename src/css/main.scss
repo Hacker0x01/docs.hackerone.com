@@ -30,6 +30,11 @@ h6 {
 
 .wrapper {
   padding-top: 60px;
+  background-color: #ffffff;
+
+  @media (min-width: $tablet-breakpoint) {
+    background-color: #f9f9f9;
+  }
 }
 
 .hero {

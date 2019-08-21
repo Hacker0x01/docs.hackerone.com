@@ -15,23 +15,7 @@ id: "hackers/using-markdown"
 
 HackerOne supports markdown syntax on reports, profiles, and security pages.
 
-<div class="background contents" markdown="1">
-
-Learn to format these in markdown:|
---------------------------------- |
-[Headers](#headers) |
-[Blockquotes](#blockquotes) |
-[Text Emphasis](#text) |
-[Lists](#lists) |
-[Links](#links) |
-[Code](#code) |
-[User Mentions](#user) |
-[Report References](#report) |
-[Attachment References](#attachment) |
-[Inline Images and Videos](#inline) |
-</div>
-
-<h3 id="headers">HEADERS</h3>
+### Headers
 
 Markdown Input:
 
@@ -49,7 +33,7 @@ Output:
 
 ![headers](./images/markdown-headers.png)
 
-<h3 id="blockquotes">BLOCKQUOTES</h3>
+### Blockquotes
 
 Markdown Input:
 
@@ -63,7 +47,8 @@ Output:
 ![blockquotes](./images/markdown-blockquote.png)
 
 <br>
-<h3 id="text">TEXT EMPHASIS</h3>
+
+### Text emphasis
 
 Markdown Input:
 
@@ -80,7 +65,7 @@ Output:
 ![text emphasis output](./images/markdown-5.png)
 
 
-<h3 id="lists">LISTS</h3>
+### Lists
 
 #### Unordered Lists
 
@@ -138,7 +123,7 @@ If you put blank lines between items, you’ll get `<p>` tags for the list item 
 
 ![multiple](./images/markdown-multiple.png)
 
-<h3 id="links">LINKS</h3>
+### Links
 
 Markdown supports two styles for creating links: *inline* and *reference*. With both styles, you use square brackets to delimit the text you want to turn into a link.
 
@@ -194,7 +179,7 @@ Output:
 #### Email Links
 You don't need to use markdown to create a `mailto:` link. Simply enter the email as is and it will automatically be converted to a `mailto:` link.
 
-<h3 id="code">CODE</h3>
+### Code
 
 In a regular paragraph, you can create code span by wrapping text in back tick quotes. Any ampersands (&) and angle brackets (< or >) will automatically be translated into HTML entities. This makes it easy to use Markdown to write about HTML example code.
 
@@ -233,7 +218,7 @@ Output:
 
 Go to the following web page to see which content types are available for syntax highlighting: https://github.com/jneen/rouge/tree/master/lib/rouge/demos.
 
-<h3 id="user">USER MENTIONS</h3>
+### User mentions
 You can mention a user by prefixing username with '@' symbol
 
 Markdown Input:
@@ -249,7 +234,7 @@ Output:
 
 <br>
 
-<h3 id="report">REPORT REFERENCES</h3>
+### Report reference
 
 You can reference a report by prefixing report id with '#' symbol
 ```
@@ -257,7 +242,7 @@ You can reference a report by prefixing report id with '#' symbol
 ```
 [#105887](https://hackerone.com/reports/105887) is a publicly disclosed bug
 
-<h3 id="attachment">ATTACHMENT REFERENCES</h3>
+### Attachment references
 
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
 
@@ -270,7 +255,7 @@ Now you can reference the attachment in the report by writing 'F1' and the attac
 When the link is clicked, the attachment is displayed in the modal.
 ![markdown-3](./images/markdown-3.png)
 
-<h3 id="inline">INLINE IMAGES AND VIDEOS</h3>
+### Inline images and video
 
 You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}).
 

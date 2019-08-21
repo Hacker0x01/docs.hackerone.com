@@ -24,16 +24,7 @@ Disclosure by Default | The hacker or your security team can request disclosure 
 Disclosure Requiring Mutual Agreement | The hacker can request disclosure for any closed report in your program. If your program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br><br>*You must request to opt-in to this option.*
 Disclosure Disabled | Disclosure isn't allowed for any report.
 
-<div class="background contents" markdown="1">
-
-In this article, you can learn about: |
-------------------------------------- |
-[Requesting Disclosure](#requesting) |
-[Canceling Disclosure Requests](#canceling) |
-[Disclosure for Private Programs](#disclosure) |
-</div>
-
-<h3 id="requesting">Requesting Disclosure</h3>
+### Requesting Disclosure
 
 Both hackers and program members can request for disclosure. To request for disclosure:
 1. Go to the report you want to disclose.
@@ -57,7 +48,7 @@ After disclosure has been requested, the admin of the of the program can choose 
 
 ![Disclose](./images/disclosure-2.png)
 
-<h3 id="canceling">Canceling Disclosure Requests</h3>
+### Canceling Disclosure Requests
 
 You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from hackers asking you for disclosure.
 
@@ -70,7 +61,7 @@ To cancel a disclosure request:
 3. Enter a comment explaining why you are canceling the disclosure request.
 4. Click **Post**.
 
-<h3 id="disclosure">Disclosure for Private Programs</h3>
+### Disclosure for Private Programs
 
 If you’re running a private program, you can enable hackers to disclose a report within your private program. Upon disclosure, contents of the report will only be visible to participants in your private program. This enables hackers to share their vulnerability findings with other hackers in the program, and can also increase awareness for other hackers as they can better see what vulnerabilities have already been found for your program.  
 

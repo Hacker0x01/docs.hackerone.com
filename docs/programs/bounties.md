@@ -15,17 +15,7 @@ id: "programs/bounties"
 
 A bounty is money you reward to hackers for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack your programs. You can use bounties to encourage hackers to focus on particular assets by altering the reward amount for different vulnerability types. You shouldn't feel obligated to award a bounty for every incoming report as it's best to only reward for useful, valid reports.
 
-<div class="background contents" markdown="1">
-
-In this article, you can learn about: |
----------------------------------- |
-[Awarding Bounties on Reports](#awarding) |
-[Suggesting Bounties](#suggesting) |  
-[Best Practices](#best) |
-[Bounties for Reports Received Outside of HackerOne](#bounties) |
-</div>
-
-<h3 id="awarding">Awarding Bounties on Reports</h3>
+### Awarding Bounties on Reports
 
 You can award a bounty through any report submitted to HackerOne. Some teams prefer to award a bounty once the issue has been confirmed as valid, while others wait until the issue is resolved.
 
@@ -39,7 +29,7 @@ To award a bounty:
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
 
-<h3 id="suggesting">Suggesting Bounties</h3>
+### Suggesting Bounties
 
 If you're unsure of how much to award the hacker, you can communicate a suggested amount with your internal team. To suggest an amount:
 1. Go to your inbox and open the report you'd like to award a bounty for.
@@ -53,7 +43,7 @@ If you're unsure of how much to award the hacker, you can communicate a suggeste
 6. <i>(Optional)</i> Enter your reason of why you suggest that bounty amount.
 6. Click **Suggest award**.
 
-<h3 id="best">Best Practices</h3>
+### Best Practices
 
 Here are some best practices to follow when awarding bounties:
 * Provide bounties for useful, valid reports.
@@ -62,7 +52,7 @@ Here are some best practices to follow when awarding bounties:
 
 ><i>Note: Professional, Enterprise, and Fully Managed programs have access to a HackerOne representative who can provide insight and consult them through the bounty awarding process.</i>
 
-<h3 id="bounties">Bounties for Reports Received Outside of HackerOne</h3>
+### Bounties for Reports Received Outside of HackerOne
 
 When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. Keep in mind that this API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 

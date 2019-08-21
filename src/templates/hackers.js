@@ -13,6 +13,7 @@ export default function Template({ data }) {
       links={hackersNav}
       path={markdownRemark.frontmatter.path}
       title={markdownRemark.frontmatter.title}
+      headings={markdownRemark.headings}
       description={markdownRemark.frontmatter.description}
       docOnGithub={`${markdownRemark.frontmatter.id}.md`}
     >
@@ -31,6 +32,9 @@ export const pageQuery = graphql`
         id
         path
         description
+      }
+      headings(depth: h3) {
+        value
       }
     }
   }
