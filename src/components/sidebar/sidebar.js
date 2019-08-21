@@ -12,9 +12,6 @@ const Section = props => {
     <div className="sidebar__section">
       <h3 className={titleClasses} onClick={props.onSectionTitleClick}>
         {props.title}
-        <div className="sidebar__toggler">
-          {props.isSectionActive ? "+" : "-"}
-        </div>
       </h3>
       <SectionLinks {...props} title={props.title} />
     </div>
