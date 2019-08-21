@@ -3,20 +3,21 @@ import Link from 'gatsby-link'
 import Search from '../search/search'
 import Status from '../status/status'
 import logo from './logo.svg'
+import classnames from 'classnames'
 
 import './navigation.scss'
 
 const NavItem = ({ linkTo, title }) => {
-  const isActive = to => (match, location) => location.pathname.includes(to)
+  const isActive = location.pathname.includes(`/${title.toLowerCase()}`);
 
   return (
     <li className="navigation__item">
       <Link
-        exact={true}
         to={linkTo}
         activeClassName="navigation__link--active"
-        className="navigation__link"
-        isActive={isActive(`/${title.toLowerCase()}`)}
+        className={classnames("navigation__link", {
+          "navigation__link--active": isActive
+        })}
       >
         {title}
       </Link>

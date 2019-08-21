@@ -43,12 +43,12 @@ const TemplateWrapper = ({ children }) => (
       htmlAttributes={{lang: "en"}}
     />
     <Header />
-    <div className="wrapper">{children()}</div>
+    <div className="wrapper">{children}</div>
   </div>
 )
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func,
+  children: PropTypes.object,
 }
 
 export default TemplateWrapper

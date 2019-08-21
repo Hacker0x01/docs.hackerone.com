@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import { graphql } from 'gatsby'
 import Article from '../../components/article/article'
 
 import hackersNav from './hackers-nav.yaml'

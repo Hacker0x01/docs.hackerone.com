@@ -1,7 +1,7 @@
 const path = require("path");
 
-exports.createPages = ({ boundActionCreators, graphql }) => {
-  const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions;
 
   const programsTemplate = path.resolve('./src/templates/programs.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');

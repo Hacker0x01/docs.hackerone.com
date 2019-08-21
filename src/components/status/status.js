@@ -1,5 +1,4 @@
 import React from 'react'
-import 'whatwg-fetch'
 
 import './status.scss'
 

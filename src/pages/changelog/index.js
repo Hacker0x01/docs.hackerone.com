@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import slugify from 'slugify'
 import GatsbyConfig from '../../../gatsby-config'
+import { graphql } from 'gatsby'
 
 import './changelog.scss'
 

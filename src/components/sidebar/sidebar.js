@@ -54,17 +54,13 @@ const SectionLink = props => {
     'sidebar__sub-items--active': props.isChildActive,
   })
 
-  const isActive = to => (match, location) => location.pathname.includes(to)
-
   return (
     <li className="sidebar__item" key={item.title}>
       {item.path ? (
         <Link
           to={item.path}
-          exact={true}
           activeClassName="sidebar__link--active"
           className="sidebar__link"
-          isActive={isActive(item.path)}
         >
           {item.title}
         </Link>
