@@ -19,6 +19,10 @@ class Search extends React.Component {
         indexName: 'hackerone',
         inputSelector: '#algolia-doc-search',
         transformData: (suggestions) => {
+          // ideally, we'd have an `id` or `name` attribute for all headers, so that DocSearch
+          // properly indexes the anchors. Since we don't have that yet, we've went with this
+          // temporary workaround to remove the ___gatsby anchor from the URL. This code can be
+          // removed when the appropriate attributes are added. Ref T19586.
           return suggestions.map(suggestion => {
             delete suggestion.anchor;
 
