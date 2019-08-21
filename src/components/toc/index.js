@@ -16,7 +16,7 @@ export default class ToC extends React.Component {
         <div className="toc-wrapper">
           <div className="sidebar__body">
             <div className="sidebar__section">
-              {headings.length > 0 &&
+              {headings && headings.length > 0 &&
                 <React.Fragment>
                   <h3 className="sidebar__title sidebar__title--active">On this page</h3>
 
