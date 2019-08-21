@@ -38,17 +38,20 @@ const MobileNavigationMenu = (handleClick) => {
 }
 
 const NavItem = ({ linkTo, title, handleClick }) => {
-  const isActive = location.pathname.includes(`/${title.toLowerCase()}`);
+  const linkProps = to => ({ location }) => {
+    return {
+      className: classNames("navigation__link", {
+        "navigation__link--active": location.pathname.includes(to)
+      })
+    };
+  }
 
   return (
     <li className="mobile-navigation__item">
       <Link
         to={linkTo}
         onClick={handleClick}
-        activeClassName="mobile-navigation__link--active"
-        className={classnames("mobile-navigation__link", {
-          "mobile-navigation__link--active": isActive
-        })}
+        getProps={linkProps(`/${title.toLowerCase()}`)}
       >
         {title}
       </Link>
