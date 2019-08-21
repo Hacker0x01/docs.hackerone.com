@@ -4875,7 +4875,7 @@ gatsby-plugin-sitemap@^1.2.23:
     minimatch "^3.0.4"
     sitemap "^1.12.0"
 
-gatsby-plugin-sri@^1.0.3:
+gatsby-plugin-sri@^1.0.11:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.11.tgz#2d1500d536b4bbe273503fe8450160962dbdec0e"
   integrity sha512-ebNZEYH3VzTBtXaq5u5Tr2l3cFh+CRYzl36RUzFkSPJiTHXlQUwy2ro2WieeotCDH2rdE2fLrzCrYU/HP0SN/g==

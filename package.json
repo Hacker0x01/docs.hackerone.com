@@ -12,7 +12,7 @@
     "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-sharp": "^1.6.42",
     "gatsby-plugin-sitemap": "^1.2.23",
-    "gatsby-plugin-sri": "^1.0.3",
+    "gatsby-plugin-sri": "^1.0.11",
     "gatsby-remark-images": "^1.5.61",
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
