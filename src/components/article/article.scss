@@ -10,6 +10,7 @@
 }
 
 .article__inner {
+  height: calc(100vh - 60px);
   max-width: 760px;
   background-color: #ffffff;
   display: flex;
