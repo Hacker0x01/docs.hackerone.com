@@ -1,16 +1,16 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import { Link, withPrefix } from 'gatsby-link'
-import GatsbyConfig from '../../../gatsby-config'
+import React from "react";
+import Helmet from "react-helmet";
+import { Link, withPrefix } from "gatsby-link";
+import GatsbyConfig from "../../../gatsby-config";
 
-import Sidebar from '../../components/sidebar/sidebar'
-import ArticleSelect from '../../components/article_select/article_select'
-import ToC from '../toc';
-import './article.scss'
+import Sidebar from "../../components/sidebar/sidebar";
+import ArticleSelect from "../../components/article_select/article_select";
+import ToC from "../toc";
+import "./article.scss";
 
 const findActiveSectionByPath = (pathname, sections) => {
-  let match
-  let activeSection
+  let match;
+  let activeSection;
 
   sections.forEach(section => {
     const match = section.items.some(
@@ -18,37 +18,37 @@ const findActiveSectionByPath = (pathname, sections) => {
         pathname === withPrefix(item.path) ||
         (item.items &&
           item.items.some(subitem => pathname === withPrefix(subitem.path)))
-    )
+    );
 
     if (match) {
-      activeSection = section
+      activeSection = section;
     }
-  })
+  });
 
-  return activeSection
-}
+  return activeSection;
+};
 
 const findActiveChildByPath = (pathname, sections) => {
-  let match
-  let activeChild
+  let match;
+  let activeChild;
 
   sections.forEach(section => {
     section.items.some(item => {
       if (item.items) {
         match =
           item.items.some(subitem => {
-            return pathname === withPrefix(subitem.path)
-          }) || pathname === withPrefix(item.path)
+            return pathname === withPrefix(subitem.path);
+          }) || pathname === withPrefix(item.path);
 
         if (match) {
-          activeChild = item.items
+          activeChild = item.items;
         }
       }
-    })
-  })
+    });
+  });
 
-  return activeChild
-}
+  return activeChild;
+};
 
 class IndexRoute extends React.Component {
   constructor(props) {
@@ -69,29 +69,38 @@ class IndexRoute extends React.Component {
         voted: true
       });
 
-      window.ga && window.ga("send", "event", "votes", direction, window.location.pathname);
-    }
+      window.ga &&
+        window.ga(
+          "send",
+          "event",
+          "votes",
+          direction,
+          window.location.pathname
+        );
+    };
   }
 
   render() {
-    const { links, path, title, children, description, headings } = this.props
+    const { links, path, title, children, description, headings } = this.props;
     const githubRepo =
-      'https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/'
+      "https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/";
 
     const globalWindow =
-      typeof window !== 'undefined'
+      typeof window !== "undefined"
         ? window.location.pathname
-        : withPrefix(path)
+        : withPrefix(path);
 
     return (
       <div className="article">
         <Helmet
           title={`${title} | ${GatsbyConfig.siteMetadata.title}`}
           meta={[
-            description ? {
-              name: 'description',
-              content: description
-            } : {}
+            description
+              ? {
+                  name: "description",
+                  content: description
+                }
+              : {}
           ]}
         />
         <Sidebar
@@ -117,18 +126,27 @@ class IndexRoute extends React.Component {
 
                 <div className="footer-column footer-column--center">
                   <div className="footer-column-block">
-                    {this.state.voted
-                      ?
-                        <span>Thanks for your feedback!</span>
-                      :
+                    {this.state.voted ? (
+                      <span>Thanks for your feedback!</span>
+                    ) : (
                       <span>
-                        Was this article useful?
-                        {" "}
-                        <a href="" onClick={this.handleVote("up")} className="upvote upvote--up">👍</a>
-                        {" "}
-                        <a href="" onClick={this.handleVote("down")} className="upvote upvote--down">👎</a>
+                        Was this article useful?{" "}
+                        <a
+                          href=""
+                          onClick={this.handleVote("up")}
+                          className="upvote upvote--up"
+                        >
+                          👍
+                        </a>{" "}
+                        <a
+                          href=""
+                          onClick={this.handleVote("down")}
+                          className="upvote upvote--down"
+                        >
+                          👎
+                        </a>
                       </span>
-                    }
+                    )}
                   </div>
                 </div>
 
@@ -146,8 +164,8 @@ class IndexRoute extends React.Component {
 
         <ToC headings={headings} />
       </div>
-    )
+    );
   }
 }
 
-export default IndexRoute
+export default IndexRoute;

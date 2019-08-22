@@ -1,12 +1,12 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import classNames from 'classnames'
-import './sidebar.scss'
+import React from "react";
+import Link from "gatsby-link";
+import classNames from "classnames";
+import "./sidebar.scss";
 
 const Section = props => {
-  const titleClasses = classNames('sidebar__title', {
-    'sidebar__title--active': props.isSectionActive,
-  })
+  const titleClasses = classNames("sidebar__title", {
+    "sidebar__title--active": props.isSectionActive
+  });
 
   return (
     <div className="sidebar__section">
@@ -15,13 +15,13 @@ const Section = props => {
       </h3>
       <SectionLinks {...props} title={props.title} />
     </div>
-  )
-}
+  );
+};
 
 const SectionLinks = props => {
-  const classes = classNames('sidebar__items', {
-    'sidebar__items--active': props.isSectionActive,
-  })
+  const classes = classNames("sidebar__items", {
+    "sidebar__items--active": props.isSectionActive
+  });
 
   return (
     <ul className={classes}>
@@ -34,22 +34,22 @@ const SectionLinks = props => {
         />
       ))}
     </ul>
-  )
-}
+  );
+};
 
 const SectionLink = props => {
-  let childnodes = null
+  let childnodes = null;
   if (props.children) {
     childnodes = props.children.map((childnode, index) => (
       <SectionLink key={index} node={childnode} children={childnode.items} />
-    ))
+    ));
   }
 
-  const item = props.node
+  const item = props.node;
 
-  const subItemsClasses = classNames('sidebar__sub-items', {
-    'sidebar__sub-items--active': props.isChildActive,
-  })
+  const subItemsClasses = classNames("sidebar__sub-items", {
+    "sidebar__sub-items--active": props.isChildActive
+  });
 
   return (
     <li className="sidebar__item" key={item.title}>
@@ -66,27 +66,27 @@ const SectionLink = props => {
       )}
       {childnodes ? <ul className={subItemsClasses}>{childnodes}</ul> : null}
     </li>
-  )
-}
+  );
+};
 
 class Sidebar extends React.Component {
   constructor(props, context) {
-    super(props, context)
+    super(props, context);
 
     this.state = {
       activeSection: props.activeSection,
-      activeChild: props.activeChild,
-    }
+      activeChild: props.activeChild
+    };
   }
 
   toggleSection(section) {
     return (event, state) => {
-      event.preventDefault()
+      event.preventDefault();
 
       this.setState({
-        activeSection: this.state.activeSection === section ? null : section,
-      })
-    }
+        activeSection: this.state.activeSection === section ? null : section
+      });
+    };
   }
 
   render() {
@@ -107,8 +107,8 @@ class Sidebar extends React.Component {
           </div>
         </div>
       </div>
-    )
+    );
   }
 }
 
-export default Sidebar
+export default Sidebar;

@@ -1,22 +1,30 @@
-import classNames from 'classnames'
-import React from 'react'
-import Link from 'gatsby-link'
-import Search from '../search/search'
-import Status from '../status/status'
-import logo from './logo.svg'
-import hamburgerIcon from './menu.svg'
-import clearIcon from './clear.svg'
+import classNames from "classnames";
+import React from "react";
+import Link from "gatsby-link";
+import Search from "../search/search";
+import Status from "../status/status";
+import logo from "./logo.svg";
+import hamburgerIcon from "./menu.svg";
+import clearIcon from "./clear.svg";
 
-import './mobile-navigation.scss'
+import "./mobile-navigation.scss";
 
-const MobileNavigationMenu = (handleClick) => {
+const MobileNavigationMenu = handleClick => {
   return (
     <div>
       <div className="mobile-navigation__separator" />
 
       <ul className="mobile-navigation__list">
-        <NavItem linkTo="/hackers.html" title="Hackers" handleClick={handleClick} />
-        <NavItem linkTo="/programs.html" title="Programs" handleClick={handleClick} />
+        <NavItem
+          linkTo="/hackers.html"
+          title="Hackers"
+          handleClick={handleClick}
+        />
+        <NavItem
+          linkTo="/programs.html"
+          title="Programs"
+          handleClick={handleClick}
+        />
         <li className="mobile-navigation__item">
           <a
             className="mobile-navigation__link"
@@ -26,7 +34,11 @@ const MobileNavigationMenu = (handleClick) => {
             API
           </a>
         </li>
-        <NavItem linkTo="/changelog" title="Changelog" handleClick={handleClick} />
+        <NavItem
+          linkTo="/changelog"
+          title="Changelog"
+          handleClick={handleClick}
+        />
       </ul>
 
       <div className="mobile-navigation__separator" />
@@ -34,8 +46,8 @@ const MobileNavigationMenu = (handleClick) => {
       <Status />
       <Search />
     </div>
-  )
-}
+  );
+};
 
 const NavItem = ({ linkTo, title, handleClick }) => {
   const linkProps = to => ({ location }) => {
@@ -44,7 +56,7 @@ const NavItem = ({ linkTo, title, handleClick }) => {
         "navigation__link--active": location.pathname.includes(to)
       })
     };
-  }
+  };
 
   return (
     <li className="mobile-navigation__item">
@@ -56,16 +68,16 @@ const NavItem = ({ linkTo, title, handleClick }) => {
         {title}
       </Link>
     </li>
-  )
-}
+  );
+};
 
 class MobileNavigation extends React.Component {
   constructor(props, context) {
-    super(props, context)
+    super(props, context);
 
     this.state = {
-      isMenuVisible: false,
-    }
+      isMenuVisible: false
+    };
   }
 
   handleClick() {
@@ -76,8 +88,8 @@ class MobileNavigation extends React.Component {
         document.body.style.overflowY = "hidden";
       }
 
-      this.setState({ isMenuVisible: !this.state.isMenuVisible })
-    }
+      this.setState({ isMenuVisible: !this.state.isMenuVisible });
+    };
   }
 
   render() {
@@ -96,10 +108,12 @@ class MobileNavigation extends React.Component {
           onClick={this.handleClick()}
         />
 
-        {this.state.isMenuVisible && <MobileNavigationMenu handleClick={this.handleClick()} />}
+        {this.state.isMenuVisible && (
+          <MobileNavigationMenu handleClick={this.handleClick()} />
+        )}
       </div>
     );
-  };
+  }
 }
 
-export default MobileNavigation
+export default MobileNavigation;
