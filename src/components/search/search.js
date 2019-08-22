@@ -14,7 +14,8 @@ class Search extends React.Component {
           placeholder="Search docs"
           aria-label="Search docs"
         />
-      </form>);
+      </form>
+    );
   }
 }
 
