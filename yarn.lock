@@ -5372,6 +5372,13 @@ gatsby-page-utils@^0.0.7:
     micromatch "^3.1.10"
     slash "^1.0.0"
 
+gatsby-plugin-algolia-docsearch@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-algolia-docsearch/-/gatsby-plugin-algolia-docsearch-1.0.5.tgz#d6dea17deda8c8bf9ac8cd3e1fb8f6bf6591db01"
+  integrity sha512-2oylL3ioy22Cu24zP8SpanK09SlP8i3p1j9CQ2rTXJgdNmsK2QhqymaLOGBvzGDMpPRn1qJszlNz/EUNAHafjg==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+
 gatsby-plugin-google-analytics@^2.1.8:
   version "2.1.8"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.1.8.tgz#889df3bff0228973aedacace5af2ce29fa850bf7"
@@ -5464,6 +5471,17 @@ gatsby-react-router-scroll@^2.1.4:
     "@babel/runtime" "^7.0.0"
     scroll-behavior "^0.9.9"
     warning "^3.0.0"
+
+gatsby-remark-autolink-headers@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-autolink-headers/-/gatsby-remark-autolink-headers-2.1.5.tgz#d568b37ed6785920a8a0f65d30155bc9c718e741"
+  integrity sha512-Rug00CU1qw5yo3CO8kBnfEz3MHDYXdJyBeBPAxA70LTfI/q/uC+6J/ClNp0wG08X1pLD55kjdYFk6uPzKkoFdA==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+    github-slugger "^1.2.1"
+    lodash "^4.17.14"
+    mdast-util-to-string "^1.0.2"
+    unist-util-visit "^1.3.0"
 
 gatsby-remark-images@^3.1.13:
   version "3.1.13"
@@ -5806,7 +5824,7 @@ github-from-package@0.0.0:
   resolved "https://registry.yarnpkg.com/github-from-package/-/github-from-package-0.0.0.tgz#97fb5d96bfde8973313f20e8288ef9a167fa64ce"
   integrity sha1-l/tdlr/eiXMxPyDoKI75oWf6ZM4=
 
-github-slugger@^1.1.1:
+github-slugger@^1.1.1, github-slugger@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-1.2.1.tgz#47e904e70bf2dccd0014748142d31126cfd49508"
   integrity sha512-SsZUjg/P03KPzQBt7OxJPasGw6NRO5uOgiZ5RGXVud5iSIZ0eNZeNp5rTwCxtavrRUa/A77j8mePVc5lEvk0KQ==

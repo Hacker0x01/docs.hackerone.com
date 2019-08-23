@@ -1,47 +1,11 @@
-import React from 'react'
+import React from "react";
 
-import './search.scss'
-import './algolia.css'
+import "./search.scss";
+import "./algolia.css";
 
 class Search extends React.Component {
-  constructor(props) {
-    super(props)
-
-    this.state = {
-      enabled: true,
-    }
-  }
-
-  componentDidMount() {
-    if (window.docsearch) {
-      window.docsearch({
-        apiKey: 'acfb7def12803db2cd4ac0539b2b571a',
-        indexName: 'hackerone',
-        inputSelector: '#algolia-doc-search',
-        transformData: (suggestions) => {
-          // ideally, we'd have an `id` or `name` attribute for all headers, so that DocSearch
-          // properly indexes the anchors. Since we don't have that yet, we've went with this
-          // temporary workaround to remove the ___gatsby anchor from the URL. This code can be
-          // removed when the appropriate attributes are added. Ref T19586.
-          return suggestions.map(suggestion => {
-            delete suggestion.anchor;
-
-            suggestion.url = suggestion.url.replace(/#___gatsby$/, "");
-
-            return suggestion;
-          });
-        }
-      })
-    } else {
-      console.warn('Search has failed to load and now is being disabled')
-      this.setState({ enabled: false })
-    }
-  }
-
   render() {
-    const { enabled } = this.state
-
-    return enabled ? (
+    return (
       <form className="search">
         <input
           className="search__input"
@@ -51,8 +15,8 @@ class Search extends React.Component {
           aria-label="Search docs"
         />
       </form>
-    ) : null
+    );
   }
 }
 
-export default Search
+export default Search;

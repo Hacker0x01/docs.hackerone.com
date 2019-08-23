@@ -15,17 +15,7 @@ id: "hackers/hacker-dashboard"
 
 The Hacker Dashboard enables you to view and manage all of your invitations.
 
-<div class="background contents" markdown="1">
-
-There are 4 tabs that you can view on the dashboard:|
---------------------------------------------------- |
-[Overview](#overview) |
-[My Programs](#programs) |
-[Pending Invitations](#pending) |
-[Bookmarked Programs](#bookmarked) |
-</div>
-
-<h3 id="overview">Overview</h3>
+### Overview
 
 The Overview page is your guide to help you get started on HackerOne. You'll be directed to the right pages to help you get the information you need to successfully start out on HackerOne.
 
@@ -37,7 +27,7 @@ After you've submitted your first vulnerability, you'll be able to keep track of
 
 ![hacker dashboard statistics](./images/hacker-stats-v2.png)
 
-<h3 id="programs">My Programs</h3>
+### My Programs
 
 ![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
 
@@ -51,7 +41,7 @@ For each program, you can view:
 
 You can elect to leave the private programs that you no longer have interest to participate in by clicking **Leave Program** next to the program you want to leave.
 
-<h3 id="pending">Pending Invitations</h3>
+### Pending Invitations
 
 ![hacker dashboard pending invitations](./images/hacker-dashboard-2.png)
 
@@ -70,7 +60,7 @@ Average Bounty | The average bounty that will be given for a valid vulnerability
 
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
 
-<h3 id="bookmarked">Bookmarked Programs</h3>
+### Bookmarked Programs
 
 The Bookmarked Programs tab enables you to view the list of programs that you've marked as your favorites in the directory. This enables you to better keep track of the programs you're most interested in.
 

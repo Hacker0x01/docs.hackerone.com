@@ -1,0 +1,16 @@
+@import '../../css/variables';
+
+.toc {
+  display: none;
+  width: 220px;
+  background-color: $daisy-snow;
+  padding-left: 24px;
+
+  @media (min-width: $desktop-breakpoint) {
+    display: block;
+  }
+}
+
+.toc-wrapper {
+  position: fixed;
+}

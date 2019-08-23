@@ -21,7 +21,7 @@ To display program metrics on your security page:
 
 ![Program metrics-2](./images/program-metrics-2a.png)
 
-<h3 id="response">Response Efficiency Metrics</h3>
+### Response Efficiency Metrics
 
 Response efficiency metrics include:
 * Average time to first response
@@ -31,7 +31,7 @@ Response efficiency metrics include:
 
 The averages are calculated by the last 90 days. These metrics give hackers a better idea of how responsive a program is. Learn more about [response efficiency metrics](response-target-metrics.html).
 
-<h3 id="program">Program Statistics</h3>
+### Program Statistics
 
 Program statistics are calculated over a program’s lifetime. They set realistic expectations with hackers and security teams for how active your program is. Within the program statistics section of your security page, hackers can view:
 

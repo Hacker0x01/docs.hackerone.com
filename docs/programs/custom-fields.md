@@ -20,17 +20,7 @@ Program administrators can configure custom fields to add data to their reports.
 <b>Note:</b> This feature is only available to Enterprise programs.
 </div>
 
-<div class="background contents" markdown="1">
-
-In this article, you can learn to:|
---------------------------------- |
-[Create a Custom Field](#create)|
-[Fill in a Value for a Custom Field](#fill)|
-[Edit a Custom Field](#edit) |
-[Archive a Custom Field](#archive) |
-</div>
-
-<h3 id="create">Create a Custom Field</h3>
+### Create a Custom Field
 
 > **Note:** You must be an administrator of the program in order to add a custom field.
 
@@ -55,7 +45,7 @@ The custom field will also be added into your inbox filter so that you can filte
 
 ![Custom fields inbox filter](./images/custom-fields-5.png)
 
-<h3 id="fill">Fill in a Value for a Custom Field</h3>
+### Fill in a Value for a Custom Field
 To fill in a value for a Custom Field to your report:
 1. Go the report you want to add a custom field to.
 2. Click **Edit** in the Custom Fields section.
@@ -73,7 +63,7 @@ When you export your reports as a CSV file, the custom field and the information
 
 ![custom fields in the exported report](./images/custom-fields-export.png)
 
-<h3 id="edit">Edit a Custom Field</h3>
+### Edit a Custom Field
 You can edit your custom fields to change the name of the field label.
 
 ![custom fields list](./images/custom-fields-list.png)
@@ -87,7 +77,7 @@ To edit the title of a custom field:
 
 When you edit a custom field, the key associated with the field will also change.
 
-<h3 id="archive">Archive Custom Fields</h3>
+### Archive Custom Fields
 You can archive custom fields that you no longer want to use. We don’t enable you to permanently delete custom fields to prevent data loss.
 
 ![unarchive custom fields](./images/custom-fields-unarchive.png)

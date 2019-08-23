@@ -1,11 +1,11 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import Search from '../search/search'
-import Status from '../status/status'
-import logo from './logo.svg'
-import classNames from 'classnames'
+import React from "react";
+import Link from "gatsby-link";
+import Search from "../search/search";
+import Status from "../status/status";
+import logo from "./logo.svg";
+import classNames from "classnames";
 
-import './navigation.scss'
+import "./navigation.scss";
 
 const NavItem = ({ linkTo, title }) => {
   const linkProps = to => ({ location }) => {
@@ -14,19 +14,16 @@ const NavItem = ({ linkTo, title }) => {
         "navigation__link--active": location.pathname.includes(to)
       })
     };
-  }
+  };
 
   return (
     <li className="navigation__item">
-      <Link
-        to={linkTo}
-        getProps={linkProps(`/${title.toLowerCase()}`)}
-      >
+      <Link to={linkTo} getProps={linkProps(`/${title.toLowerCase()}`)}>
         {title}
       </Link>
     </li>
-  )
-}
+  );
+};
 
 export default ({ pathname }) => {
   return (
@@ -54,5 +51,5 @@ export default ({ pathname }) => {
 
       <Search />
     </div>
-  )
-}
+  );
+};

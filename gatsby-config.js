@@ -31,6 +31,8 @@ module.exports = {
         head: false,
         anonymize: true,
         respectDNT: true,
+        forceSSL: true,
+        transport: "beacon",
       },
     },
     {
@@ -38,12 +40,26 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-autolink-headers',
+            options: {
+              offsetY: 68,
+            },
+          },
+          {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 500
             },
           },
         ],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-algolia-docsearch',
+      options: {
+        apiKey: "acfb7def12803db2cd4ac0539b2b571a",
+        indexName: "hackerone",
+        inputSelector: "#algolia-doc-search",
       },
     },
   ],

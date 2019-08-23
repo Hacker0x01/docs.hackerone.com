@@ -1,15 +1,16 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import { Link, withPrefix } from 'gatsby-link'
-import GatsbyConfig from '../../../gatsby-config'
+import React from "react";
+import Helmet from "react-helmet";
+import { Link, withPrefix } from "gatsby-link";
+import GatsbyConfig from "../../../gatsby-config";
 
-import Sidebar from '../../components/sidebar/sidebar'
-import ArticleSelect from '../../components/article_select/article_select'
-import './article.scss'
+import Sidebar from "../../components/sidebar/sidebar";
+import ArticleSelect from "../../components/article_select/article_select";
+import ToC from "../toc";
+import "./article.scss";
 
 const findActiveSectionByPath = (pathname, sections) => {
-  let match
-  let activeSection
+  let match;
+  let activeSection;
 
   sections.forEach(section => {
     const match = section.items.some(
@@ -17,58 +18,89 @@ const findActiveSectionByPath = (pathname, sections) => {
         pathname === withPrefix(item.path) ||
         (item.items &&
           item.items.some(subitem => pathname === withPrefix(subitem.path)))
-    )
+    );
 
     if (match) {
-      activeSection = section
+      activeSection = section;
     }
-  })
+  });
 
-  return activeSection
-}
+  return activeSection;
+};
 
 const findActiveChildByPath = (pathname, sections) => {
-  let match
-  let activeChild
+  let match;
+  let activeChild;
 
   sections.forEach(section => {
     section.items.some(item => {
       if (item.items) {
         match =
           item.items.some(subitem => {
-            return pathname === withPrefix(subitem.path)
-          }) || pathname === withPrefix(item.path)
+            return pathname === withPrefix(subitem.path);
+          }) || pathname === withPrefix(item.path);
 
         if (match) {
-          activeChild = item.items
+          activeChild = item.items;
         }
       }
-    })
-  })
+    });
+  });
 
-  return activeChild
-}
+  return activeChild;
+};
 
 class IndexRoute extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      voted: false
+    };
+
+    this.handleVote = this.handleVote.bind(this);
+  }
+
+  handleVote(direction) {
+    return e => {
+      e.preventDefault();
+
+      this.setState({
+        voted: true
+      });
+
+      window.ga &&
+        window.ga(
+          "send",
+          "event",
+          "votes",
+          direction,
+          window.location.pathname
+        );
+    };
+  }
+
   render() {
-    const { links, path, title, children, description } = this.props
+    const { links, path, title, children, description, headings } = this.props;
     const githubRepo =
-      'https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/'
+      "https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/";
 
     const globalWindow =
-      typeof window !== 'undefined'
+      typeof window !== "undefined"
         ? window.location.pathname
-        : withPrefix(path)
+        : withPrefix(path);
 
     return (
       <div className="article">
         <Helmet
           title={`${title} | ${GatsbyConfig.siteMetadata.title}`}
           meta={[
-            description ? {
-              name: 'description',
-              content: description
-            } : {}
+            description
+              ? {
+                  name: "description",
+                  content: description
+                }
+              : {}
           ]}
         />
         <Sidebar
@@ -83,21 +115,57 @@ class IndexRoute extends React.Component {
           {this.props.children}
           {this.props.docOnGithub ? (
             <div className="footer__inner">
-              <a href={githubRepo + this.props.docOnGithub} className="pull-left">
-                Edit this page on GitHub
-              </a>
+              <div className="footer-row">
+                <div className="footer-column footer-column--left">
+                  <div className="footer-column-block">
+                    <a href={githubRepo + this.props.docOnGithub}>
+                      Edit this page on GitHub
+                    </a>
+                  </div>
+                </div>
 
-              <a href="https://www.hackerone.com" target="_blank" className="pull-right">
-                Back to HackerOne
-              </a>
+                <div className="footer-column footer-column--center">
+                  <div className="footer-column-block">
+                    {this.state.voted ? (
+                      <span>Thanks for your feedback!</span>
+                    ) : (
+                      <span>
+                        Was this article useful?{" "}
+                        <a
+                          href=""
+                          onClick={this.handleVote("up")}
+                          className="upvote upvote--up"
+                        >
+                          👍
+                        </a>{" "}
+                        <a
+                          href=""
+                          onClick={this.handleVote("down")}
+                          className="upvote upvote--down"
+                        >
+                          👎
+                        </a>
+                      </span>
+                    )}
+                  </div>
+                </div>
 
-              <div className="clearfix" />
+                <div className="footer-column footer-column--right">
+                  <div className="footer-column-block">
+                    <a href="https://www.hackerone.com" target="_blank">
+                      Back to HackerOne
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           ) : null}
         </article>
+
+        <ToC headings={headings} />
       </div>
-    )
+    );
   }
 }
 
-export default IndexRoute
+export default IndexRoute;
