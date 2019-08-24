@@ -19,7 +19,7 @@ Reports in the Needs More Info state that haven’t been responded to within 30 
 
 ### Self-Controlled Launch
 Response Programs in Controlled Launch that meet all of the success criteria are now prompted to publicly launch their own program through following the Setup Guide or through email notification.
-![march_2018_controlled_launch](./images/march_2018_controlled%20launch.png)
+![march_2018_controlled_launch](./images/march_2018_controlled_launch.png)
 
 ### Response SLA Settings
 Response SLA settings are now applied to all reports and not just reports created after modification to SLA settings.
