@@ -21,7 +21,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 ### Running locally
 
-1. `gatsby develop` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
+1. `yarn run gatsby develop` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
 1. `open http://localhost:8000` to open the site in your favorite browser
 
 ### Deploy

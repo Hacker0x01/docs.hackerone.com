@@ -15,7 +15,7 @@ Refer to these installation and configuration instructions for your platform:
 
 ><i>Note: Firefox manages its own trusted certificate list, so you always need to add the root authority certificate to the browser even if you've installed it system wide.</i>
 
-<h3 id="windows">Windows</h3>
+### Windows
 
 To install the HackerOne VPN Root CA to your Windows machine:
 
@@ -48,7 +48,7 @@ To install the HackerOne VPN Root CA to your Windows machine:
 
 ![Screenshot](./images/vpn-windows-7.png)
 
-<h3 id="macos">macOS</h3>
+### macOS
 
 To install the HackerOne VPN Root CA to your macOS platform:
 
@@ -73,7 +73,7 @@ To install the HackerOne VPN Root CA to your macOS platform:
 
 ![Screenshot](./images/vpn-macos-5.png)
 
-<h3 id="ubuntu">Ubuntu/Debian Linux</h3>
+### Ubuntu/Debian Linux
 
 Execute the following commands in your terminal to download and install the HackerOne VPN Root CA:
 
@@ -83,7 +83,7 @@ Execute the following commands in your terminal to download and install the Hack
 
 The command will state that it has installed one (or more) new certificates, through which the certificate has been successfully added to the Operating System.
 
-<h3 id="firefox">Firefox</h3>
+### Firefox
 
 To install the HackerOne VPN Root CA to Firefox:
 

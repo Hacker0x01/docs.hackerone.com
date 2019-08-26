@@ -2,11 +2,12 @@
 @import 'variables';
 
 body {
-  background: $daisy-white;
+  background: $daisy-snow;
   font-family: "Effra", sans-serif;
   font-size: 16px;
   line-height: 24px;
   color: $daisy-zambezi;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
@@ -58,6 +59,44 @@ h6 {
   p {
     font-size: 20px;
     line-height: 1.5;
+  }
+}
+
+.footer-row {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+}
+
+.footer-column {
+  display: flex;
+  flex: 1 1 33%;
+  flex-direction: column;
+
+  &--left {
+    text-align: left;
+  }
+
+  &--center {
+    text-align: center;
+  }
+
+  &--right {
+    text-align: right;
+  }
+}
+
+.footer-column-block {
+  display: inline-block;
+}
+
+.upvote {
+  font-size: 22px;
+  text-decoration: none;
+
+  &--down {
+    position: relative;
+    top: 6px;
   }
 }
 

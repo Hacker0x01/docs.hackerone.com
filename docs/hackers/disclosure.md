@@ -24,16 +24,7 @@ Disclosure by Default | You or the security team can request disclosure for any 
 Disclosure requiring Mutual Agreement | You can request disclosure for any closed report in the program. If the program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br><br>*The program must request to opt-in to this option.*
 Disclosure Disabled | Disclosure isn't allowed for any report.
 
-<div class="background contents" markdown="1">
-
-In this article, you can learn about: |
-------------------------------------- |
-[Requesting Disclosure](#requesting) |
-[Canceling Disclosure Requests](#canceling) |
-[Disclosure for Private Programs](#disclosure) |
-</div>
-
-<h3 id="requesting">Requesting Disclosure</h3>
+### Requesting Disclosure
 
 Both you and program members can request for disclosure. To request for disclosure:
 1. Go to the report you want to disclose.
@@ -58,7 +49,7 @@ After public disclosure has been requested, the admin of the of the program can 
 
 When publishing reports, the security team can choose to disclose the report in full or limit the information published. The default is to display all the communication between the hacker and the security team from first report to resolution.
 
-<h3 id="canceling">Canceling Disclosure Requests</h3>
+### Canceling Disclosure Requests
 
 You can cancel your disclosure request if you later decide to not disclose your report. You can also cancel disclosure requests from a program asking you for disclosure.
 
@@ -71,7 +62,7 @@ To cancel a disclosure request:
 3. Enter a comment explaining why you are canceling the disclosure request.
 4. Click **Post**.
 
-<h3 id="disclosure">Disclosure for Private Programs</h3>
+### Disclosure for Private Programs
 
 Private programs can also enable you to disclose a report to other hackers within the program. Upon disclosure, contents of the report will only be visible to other hackers in the private program. This enables you and other hackers to share your vulnerability findings with other hackers in the program so that they can be aware of what vulnerabilities have been found for that program.
 

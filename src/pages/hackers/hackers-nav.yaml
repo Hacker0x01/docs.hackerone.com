@@ -60,6 +60,8 @@
       path: /hackers/credentials.html
     - title: Retesting
       path: /hackers/retesting.html
+    - title: Security Checks
+      path: /hackers/security-checks.html
     - title: Hacker101
       path: /hackers/hacker101.html
     - title: 90 Day Leaderboard

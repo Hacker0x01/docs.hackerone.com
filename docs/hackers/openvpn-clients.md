@@ -11,7 +11,7 @@ Refer to these installation and configuration instructions for your platform:
 * [Windows](#windows)
 * [macOS](#macos)
 
-<h3 id="windows">Windows</h3>
+### Windows
 
 To configure the OpenVPN client to your windows machine:
 
@@ -50,7 +50,7 @@ To configure the OpenVPN client to your windows machine:
 
 The VPN will start connecting.
 
-<h3 id="macos">macOS</h3>
+### macOS
 
 To configure the OpenVPN client on macOS:
 

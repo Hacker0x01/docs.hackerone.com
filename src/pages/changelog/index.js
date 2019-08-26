@@ -1,14 +1,15 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
-import slugify from 'slugify'
-import GatsbyConfig from '../../../gatsby-config'
+import React from "react";
+import Helmet from "react-helmet";
+import Link from "gatsby-link";
+import slugify from "slugify";
+import GatsbyConfig from "../../../gatsby-config";
+import { graphql } from "gatsby";
 
-import './changelog.scss'
+import "./changelog.scss";
 
 class IndexRoute extends React.Component {
   render() {
-    const { edges } = this.props.data.allMarkdownRemark
+    const { edges } = this.props.data.allMarkdownRemark;
 
     return (
       <div className="changelog article">
@@ -24,7 +25,7 @@ class IndexRoute extends React.Component {
                         {item.node.frontmatter.title}
                       </a>
                     </li>
-                  )
+                  );
                 })}
               </ul>
             </div>
@@ -33,9 +34,7 @@ class IndexRoute extends React.Component {
 
         <div className="article__inner">
           <h1>Changelog</h1>
-          <p>
-            See what's changed or new in HackerOne.
-          </p>
+          <p>See what's changed or new in HackerOne.</p>
           {edges.map((item, index) => {
             return (
               <div className="changelog__wrapper">
@@ -46,15 +45,15 @@ class IndexRoute extends React.Component {
                 <h2>{item.node.frontmatter.title}</h2>
                 <div dangerouslySetInnerHTML={{ __html: item.node.html }} />
               </div>
-            )
+            );
           })}
         </div>
       </div>
-    )
+    );
   }
 }
 
-export default IndexRoute
+export default IndexRoute;
 
 export const pageQuery = graphql`
   query changelogIndexQuery {
@@ -75,4 +74,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

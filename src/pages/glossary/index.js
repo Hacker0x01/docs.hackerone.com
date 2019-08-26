@@ -1,14 +1,19 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
-import slugify from 'slugify'
-import GatsbyConfig from '../../../gatsby-config'
+import React from "react";
+import Helmet from "react-helmet";
+import Link from "gatsby-link";
+import GatsbyConfig from "../../../gatsby-config";
+import { graphql } from "gatsby";
+import Slugger from "github-slugger";
 
-import './glossary.scss'
+import "./glossary.scss";
 
 class IndexRoute extends React.Component {
+  slug(value) {
+    return new Slugger().slug(value);
+  }
+
   render() {
-    const { edges } = this.props.data.allMarkdownRemark
+    const { edges } = this.props.data.allMarkdownRemark;
 
     const groupedByAlphabet = {};
 
@@ -30,25 +35,30 @@ class IndexRoute extends React.Component {
         <div className="sidebar">
           <div className="sidebar__wrapper">
             <div className="sidebar__body">
-            {allLetters.map((letter, index) => {
-              return (
-                <div className="sidebar__section" key={index}>
-                  <h3 className="sidebar__title sidebar__title--active">
-                    {letter}
-                  </h3>
-                  <ul className="sidebar__items sidebar__items--active">
-                    {groupedByAlphabet[letter].map((item, index) => {
-                      return (
-                        <li className="sidebar__item" key={index}>
-                          <a href={`#${slugify(item.node.frontmatter.path)}`}>
-                            {item.node.frontmatter.title}
-                          </a>
-                        </li>
-                      )
-                    })}
-                  </ul>
-                </div>
-              )})}
+              {allLetters.map((letter, index) => {
+                return (
+                  <div className="sidebar__section" key={index}>
+                    <h3 className="sidebar__title sidebar__title--active">
+                      {letter}
+                    </h3>
+                    <ul className="sidebar__items sidebar__items--active">
+                      {groupedByAlphabet[letter].map((item, index) => {
+                        return (
+                          <li className="sidebar__item" key={index}>
+                            <a
+                              href={`#${this.slug(
+                                item.node.frontmatter.title
+                              )}`}
+                            >
+                              {item.node.frontmatter.title}
+                            </a>
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  </div>
+                );
+              })}
             </div>
           </div>
         </div>
@@ -57,23 +67,24 @@ class IndexRoute extends React.Component {
           <h1>Glossary</h1>
           {edges.map((item, index) => {
             return (
-              <div className="glossary__wrapper">
-                <div
-                  className="glossary__anchor"
-                  id={slugify(item.node.frontmatter.path)}
-                />
-                <h2>{item.node.frontmatter.title}</h2>
+              <div
+                className="glossary__wrapper"
+                key={item.node.frontmatter.title}
+              >
+                <h2 id={this.slug(item.node.frontmatter.title)}>
+                  {item.node.frontmatter.title}
+                </h2>
                 <div dangerouslySetInnerHTML={{ __html: item.node.html }} />
               </div>
-            )
+            );
           })}
         </div>
       </div>
-    )
+    );
   }
 }
 
-export default IndexRoute
+export default IndexRoute;
 
 export const pageQuery = graphql`
   query glossaryIndexQuery {
@@ -93,4 +104,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

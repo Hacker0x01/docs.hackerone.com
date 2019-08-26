@@ -15,15 +15,7 @@ id: "programs/response-target-indicators"
 
 HackerOne utilizes average metrics and colored indicators to show how your program is doing in meeting healthy success criteria.
 
-<div class="background contents" markdown="1">
-
-In this article, you can learn about:|
------------------------------------- |
-[Average Response Efficiency Metrics](#average) |
-[Colored Indicators](#colored) |
-</div>
-
-<h3 id ="average">Average Response Efficiency Metrics</h3>
+### Average Response Efficiency Metrics
 
 HackerOne displays a program's average response efficiency metrics on the security page to enable hackers to see how responsive your program is in:
 * giving a first response
@@ -34,7 +26,7 @@ The average times are calculated on a rolling 3 month basis, and you can configu
 
 ![response-sla-indicator-1](./images/response-indicators-1.png)
 
-<h3 id="colored">Colored Indicators</h3>
+### Colored Indicators
 
 A program’s performance against HackerOne's response standards (Time to First Response = 5 business days; Time to Triage = 10 business days) is displayed on its security page and report submission page. This provides additional context to potential hackers when they're looking to submit reports to your program.
 

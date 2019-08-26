@@ -1,8 +1,8 @@
-import React from 'react'
-import Navigation from '../navigation/navigation'
-import MobileNavigation from '../navigation/mobile_navigation'
+import React from "react";
+import Navigation from "../navigation/navigation";
+import MobileNavigation from "../navigation/mobile_navigation";
 
-import './header.scss'
+import "./header.scss";
 
 const Header = () => {
   return (
@@ -10,7 +10,7 @@ const Header = () => {
       <Navigation />
       <MobileNavigation />
     </div>
-  )
+  );
 };
 
-export default Header
+export default Header;
