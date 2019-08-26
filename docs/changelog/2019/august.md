@@ -4,7 +4,7 @@ path: "/changelog/2019/august"
 date: "2019-08"
 ---
 
-### API enhancements
+### API Enhancements
 
 We've released these new endpoints to our [API](https://api.hackerone.com/docs/v1):
 * [Ability to create a report](https://api.hackerone.com/docs/v1#/reports/create)
