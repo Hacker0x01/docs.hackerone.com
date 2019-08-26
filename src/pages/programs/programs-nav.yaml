@@ -149,6 +149,8 @@
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
+    - title: Integration Variables
+      path: /programs/integration-variables.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Embedded Submission Form
