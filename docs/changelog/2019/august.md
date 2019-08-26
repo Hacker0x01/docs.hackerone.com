@@ -6,10 +6,10 @@ date: "2019-08"
 
 ### API enhancements
 
-We've released a few improvements to [our API](https://api.hackerone.com/docs/v1):
-* [Ability to create a report](https://api.hackerone.com/docs/v1#/reports/create). This endpoint helps you to import (known) vulnerabilities into the platform, to use these for duplicate detection or central vulnerability management. 
-* [Ability to change the weakness on a report](https://api.hackerone.com/docs/v1#/reports/weakness/update).
-* [Ability to fetch all weaknesses for a program](https://api.hackerone.com/docs/v1#/programs/weaknesses/index).
+We've released these new endpoints to our [API](https://api.hackerone.com/docs/v1):
+* [Ability to create a report](https://api.hackerone.com/docs/v1#/reports/create)
+* [Ability to change the weakness on a report](https://api.hackerone.com/docs/v1#/reports/weakness/update)
+* [Ability to fetch all weaknesses for a program](https://api.hackerone.com/docs/v1#/programs/weaknesses/index)
 
 ### Program Hover State Profile
 
