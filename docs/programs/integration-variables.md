@@ -19,7 +19,7 @@ Variable | Description | Example
 `{{jira_severity}}` | The severity of the report in Jira mapping. `none` converts to `1` and `critical` converts to `5`. |
 `{{report_id}}` | The ID of the report |
 `{{report_link}}` | The URL of the report |
-`{{reporter_link}}` | The url of the researcher's HackerOne profile |
+`{{reporter_link}}` | The URL of the researcher's HackerOne profile |
 `{{reporter_name}}` | The name of the researcher that reported the vulnerability (this will fallback to the username if the researcher didn't provide their name) |
 `{{reporter_username}}` | The username of the researcher that reported the vulnerability |
 `{{submission_date_custom_format}}` | The created date of the report in `DD-MM-YYYY` |
