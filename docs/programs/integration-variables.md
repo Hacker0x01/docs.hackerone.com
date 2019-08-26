@@ -11,7 +11,7 @@ Variable | Description | Example
 `{{details_custom_jira}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in a special Jira flavored markdown format. |
 `{{details_markdown}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in markdown format. |
 `{{details_truncated}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in plain text format truncated at 4,000 characters. 
-`{{details}}` | The link, date, reporter, weaknesss, and description of the vulnerability in the report in plain text format. |
+`{{details}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in plain text format. |
 `{{due_date(days_from_now)}}` | Provides a date in the future based on the provided argument. `{{due_date(5)}}` will output a date 5 days from now. |
 `{{email_local_part}}` | The local part of the user creating the Jira issue. The local part of an email address is the part before the @ symbol.
 `{{email}}` | The email address of the user creating the Jira issue |
