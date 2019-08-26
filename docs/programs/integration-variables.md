@@ -7,7 +7,7 @@ id: "programs/integration-variables"
 Variable | Description | Example
 -------- | ------ |
 `{{assignee}}` | The user that's assigned to the report. |
-`{{days_after_report(days)}}` | Provides a date based on the report creation date and the provided arugment on the provided argument. `{{days_after_report(5)}}` will output a date 5 days after the report was created. |
+`{{days_after_report(days)}}` | Provides a date based on the report creation date and the provided argument. `{{days_after_report(5)}}` will output a date 5 days after the report was created. |
 `{{details_custom_jira}}` | The link, date, reporter, weaknesss, and description of the vulnerability in the report in a special Jira flavored markdown format. |
 `{{details_markdown}}` | The link, date, reporter, weaknesss, and description of the vulnerability in the report in markdown format. |
 `{{details_truncated}}` | The link, date, reporter, weaknesss, and description of the vulnerability in the report in plain text format truncated at 4,000 characters. 
