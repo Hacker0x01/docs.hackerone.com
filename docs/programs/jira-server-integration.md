@@ -45,7 +45,7 @@ Display URL | https://hackerone.com
 
 ![jira-server-12](./images/jira-server-12.png)
 
-10. Enter the following information on the Incoming Authentication section of the Configure HackerOne window:
+10. Enter the following information on the **Incoming Authentication** section of the Configure HackerOne window:
 
 Field | Details
 ----- | --------
