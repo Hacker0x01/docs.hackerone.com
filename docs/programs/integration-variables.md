@@ -5,7 +5,7 @@ id: "programs/integration-variables"
 ---
 
 Variable | Description | Example
--------- | ------ | ------
+-------- | ------ |
 `{{assignee}}` | The user that's assigned to the report. |
 `{{days_after_report(days)}}` |
 `{{details_custom_jira}}` | The link, date, reporter, weaknesss, and description of the vulnerability in the report in a special Jira flavored markdown format. |
