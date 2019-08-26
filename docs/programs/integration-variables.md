@@ -1,7 +1,7 @@
 ---
-title: "Jira Variables"
-path: "/programs/jira-variables.html"
-id: "programs/jira-variables"
+title: "Integration Variables"
+path: "/programs/integration-variables.html"
+id: "programs/integration-variables"
 ---
 
 Variable | Description | Example
