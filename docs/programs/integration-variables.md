@@ -23,7 +23,7 @@ Variable | Description | Example
 `{{reporter_name}}` | The name of the researcher that reported the vulnerability (this will fallback to the username if the researcher didn't provide their name) |
 `{{reporter_username}}` | The username of the researcher that reported the vulnerability |
 `{{submission_date_custom_format}}` | The created date of the report in `DD-MM-YYYY` |
-`{{submission_date_y_m_d}}` | The creation date of the report in `YYYY-MM-DD` |
+`{{submission_date_y_m_d}}` | The created date of the report in `YYYY-MM-DD` |
 `{{submission_date}}` | The created date of the report in `DD/MM/YYYY` |
 `{{title}}` | The title of the report |
 `{{vulnerability_information}}` | The description of the vulnerability in the report. |
