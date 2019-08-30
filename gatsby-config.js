@@ -31,6 +31,8 @@ module.exports = {
         head: false,
         anonymize: true,
         respectDNT: true,
+        forceSSL: true,
+        transport: "beacon",
       },
     },
     {

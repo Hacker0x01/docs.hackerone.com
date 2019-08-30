@@ -6,7 +6,7 @@ date: "2018-08"
 
 ### Publishing External Vulnerabilities
 We now enable hackers to publish their findings from external sources that don't have HackerOne programs. Click [here](/hackers/publishing-external-vulnerabilities.html) to learn more.
-![aug-2018-publishing](./images/aug-2018-hacktivity++.png)
+![aug-2018-publishing](./images/aug-2018-hacktivity-plus-plus.png)
 
 ### Two-Factor Authentication
 Hackers now have the ability to set up [two-factor authentication](/hackers/two-factor-authentication.html) to add an extra layer of protection to their accounts.
