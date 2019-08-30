@@ -10,6 +10,7 @@ We've released these new endpoints to our [API](https://api.hackerone.com/docs/v
 * [Ability to create a report](https://api.hackerone.com/docs/v1#/reports/create)
 * [Ability to change the weakness on a report](https://api.hackerone.com/docs/v1#/reports/weakness/update)
 * [Ability to fetch all weaknesses for a program](https://api.hackerone.com/docs/v1#/programs/weaknesses/index)
+* [Ability to update policy of a program](https://api.hackerone.com/docs/v1#/programs/policy/update)
 
 ### Program Hover State Profile
 
