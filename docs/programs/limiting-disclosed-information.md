@@ -26,16 +26,26 @@ To redact information from a report:
 2. Find the **Visibility** field in the report metadata.
 3. Click **Redact**.
 
-![limiting-disclosed-information-1](./images/limited-disclosure-2.png)
+![limiting-disclosed-information-1](./images/limited-disclosure-2a.png)
 
 4. Enter the string that you want to redact from the report.
 
 ![limiting-disclosed-information-5](./images/limiting-disclosure-info-5.png)
 
 5. <i>(Optional)</i> Click **Preview** to see how the redactions will look in the report.
-6. Click **Redact**.
+7. Click **Redact**.
 
 If you have multiple strings that you want to redact, repeat steps 2-6.
+
+### Convert Attachments to Internal-Only
+
+Some reports may have attachments that are accessible to all participants of the report. If you choose to limit access to these attachments, you can convert your attachments to be internal-only so that only internal members of your program can view them.
+
+To convert attachments to be internal-only:
+1. Follow steps 1-3 in the section above.
+2. Select **Convert to internal-only** for any attachment that you want to limit for your internal team. 
+
+![converting attachments to be internal-only](./images/limiting-disclosed-info-6.png)
 
 ### Limited Disclosure
 
