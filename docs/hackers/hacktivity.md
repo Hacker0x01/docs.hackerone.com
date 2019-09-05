@@ -10,11 +10,11 @@ id: "hackers/hacktivity"
 * The associated program
 * The awarded bounty amount
 
-![hacktivity-1a](./images/hacktivity-1a.png)
+![hacktivity-1a](./images/hacktivity-1b.png)
 
-There are 2 pages to Hacktivity:
+You can sort your hacktivity feed by:
 
-Page | Details
+Option | Details
 ---- | --------
 Popular | The activity that is currently trending
 New | The latest activity
