@@ -60,3 +60,6 @@ Offers bounties | Programs that offer bounties as rewards for finding vulnerabil
 Invite-only | Programs that only allow you to submit vulnerabilities through an invitation.
 High response efficiency | Programs that have a [response efficiency](/programs/response-target-indicators.html) of at least 80%.
 Managed | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
+
+
+https://hackerone.com/h33t
