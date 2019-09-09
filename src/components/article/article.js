@@ -130,7 +130,7 @@ class IndexRoute extends React.Component {
                       <span>Thanks for your feedback!</span>
                     ) : (
                       <span>
-                        Was this article useful?{" "}
+                        Was this article helpful?{" "}
                         <a
                           href=""
                           onClick={this.handleVote("up")}
