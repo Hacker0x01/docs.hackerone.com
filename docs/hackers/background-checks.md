@@ -9,7 +9,7 @@ Background checked hackers have satisfied strict background and identity checks.
 
 ### What are the benefits of being a background checked hacker?
 Being a background-checked hacker makes you eligible to participate in:
-* HackerOne Clear programs (programs that require you to have Clearance in order to participate in)
+* HackerOne Clear programs (programs that require you to be background checked in order to participate)
 * Live hacking events that require background-checks
 * [Retesting](/hackers/retesting.html)
 
