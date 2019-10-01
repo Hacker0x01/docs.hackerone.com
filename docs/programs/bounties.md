@@ -67,7 +67,7 @@ To start paying hackers:
 6. Click **Manage groups** next to the API identifier to grant reward permissions to various groups.
 7. Select the groups you want to give reward permissions to. By default, the Standard group has Reward permissions.
 8. Make sure your billing methods have been complete so that there's a way to pay out bounties in **Settings > General > Billing**.
-9. Configure how to award a bounty. Go to [this page](https://api.hackerone.com/docs/v1#/programs/bounties) to see the documentation on how to award a bounty. See the code example in cURL and Ruby that'll help you. <i>Note: the 1337 program ID used in the example below is not real and should be replaced with your own program ID. You can find your program ID in report objects or by asking your HackerOne program manager.</i>
+9. Configure how to award a bounty. Go to [this page](https://api.hackerone.com/#programs-award-bounty) to see the documentation on how to award a bounty. See the code example in cURL and Ruby that'll help you. <i>Note: the 1337 program ID used in the example below is not real and should be replaced with your own program ID. You can find your program ID in report objects or by asking your HackerOne program manager.</i>
 
 cURL | Ruby
 ---- | ----

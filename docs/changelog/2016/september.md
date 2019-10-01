@@ -9,7 +9,7 @@ You can now lock reports to prevent new comments on publicly disclosed reports.
 ![sep_2016_lock_report](./images/sep_2016_lock_report.png)
 
 ### Assign Report Through API
-Programs can now assign reports to team members using the API. See the API documentation for how to assign a report [here](https://api.hackerone.com/docs/v1#/reports/assignee).
+Programs can now assign reports to team members using the API. See the API documentation for how to assign a report [here](https://api.hackerone.com/#reports-update-assignee).
 
 ### Notifications Page
 We’ve created a notifications page so that you can have a clear overview of your notifications. Go to https://hackerone.com/notifications to see your notifications.

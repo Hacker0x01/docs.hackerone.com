@@ -6,5 +6,5 @@ date: "2019-09"
 
 ### API Enhancements
 
-We've released this new endpoint to our [API](https://api.hackerone.com/docs/v1):
-* [Ability to mark a report as ineligible for a bounty](https://api.hackerone.com/docs/v1#/reports/ineligible_for_bounty)
+We've released this new endpoint to our [API](https://api.hackerone.com/#introduction):
+* [Ability to mark a report as ineligible for a bounty](https://api.hackerone.com/#reports-mark-as-ineligible-for-bounty)

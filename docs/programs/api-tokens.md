@@ -21,7 +21,7 @@ To generate an API token:
 
 You’ll get a confirmation email stating that you’ve created a new API token. You can manage the groups that have access to the API tokens and revoke the token as well.
 
-To learn more about the HackerOne API check out our [API docs](https://api.hackerone.com/docs/v1).
+To learn more about the HackerOne API check out our [API docs](https://api.hackerone.com/#introduction).
 
 ### Managing Groups
 To manage which groups have access to the API tokens:

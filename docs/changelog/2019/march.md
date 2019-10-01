@@ -10,7 +10,7 @@ We introduce [custom fields](/programs/custom-fields.html) to enable programs to
 ![custom fields page](./images/mar_2019_custom_fields.png)
 
 ### Custom Fields on the API
-We've also added custom fields to the API to enable programs to search and filter reports by [custom field values](https://api.hackerone.com/docs/v1#custom-field-value).     
+We've also added custom fields to the API to enable programs to search and filter reports by [custom field values](https://api.hackerone.com/#reports-manage-custom-field-values).     
 
 ### Program Notifications (beta)
 Select hackers now receive program notifications to all program updates via the product and email for changes to the:
@@ -26,4 +26,4 @@ We've also implemented a new **Subscribe** button on the policy page to enable h
 ![subscribe button](./images/mar_2019_program_notifications-2.png)
 
 ### Deprecation of Custom Recipients for Messaging Hackers
-We've deprecated the *Custom* recipient field on the Message Hackers page as the feature wasn't found to be very valuable for programs. 
+We've deprecated the *Custom* recipient field on the Message Hackers page as the feature wasn't found to be very valuable for programs.
