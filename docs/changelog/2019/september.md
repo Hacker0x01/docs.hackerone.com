@@ -6,6 +6,6 @@ date: "2019-09"
 
 ### API Enhancements
 
-We've released this new endpoint to our [API](https://api.hackerone.com/#introduction):
+We've released these new endpoints to our [API](https://api.hackerone.com/#introduction):
 * [Ability to mark a report as ineligible for a bounty](https://api.hackerone.com/#reports-mark-as-ineligible-for-bounty)
-* [Added endpoint for marking swag as sent](https://api.hackerone.com/#programs-mark-swag-as-sent)
+* [Marking swag as sent](https://api.hackerone.com/#programs-mark-swag-as-sent)
