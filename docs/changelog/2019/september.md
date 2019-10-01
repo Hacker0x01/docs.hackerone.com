@@ -8,3 +8,4 @@ date: "2019-09"
 
 We've released this new endpoint to our [API](https://api.hackerone.com/#introduction):
 * [Ability to mark a report as ineligible for a bounty](https://api.hackerone.com/#reports-mark-as-ineligible-for-bounty)
+* [Added endpoint for marking swag as sent](https://api.hackerone.com/#programs-mark-swag-as-sent)
