@@ -2,6 +2,7 @@
 title: "HackerOne Platform Accessibility Conformance Report Revised Section 508 Edition"
 path: "/accessibility/vpat.html"
 id: "accessibility/vpat"
+bookIndexFor: "accessibility"
 ---
 
 **VPAT® Version 2.3 (Revised) – April 2019**
