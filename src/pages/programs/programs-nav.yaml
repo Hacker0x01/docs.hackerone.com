@@ -236,7 +236,3 @@
       path: /programs/disclosure-assistance.html
     - title: HackerOne VPN
       path: /programs/hackerone-vpn.html
-- title: Accessibility
-  items:
-    - title: VPAT
-      path: /programs/vpat.html

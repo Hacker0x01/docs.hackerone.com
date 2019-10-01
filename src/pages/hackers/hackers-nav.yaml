@@ -116,7 +116,3 @@
       path: /hackers/disclosure.html
     - title: Keyboard Shortcuts
       path: /hackers/keyboard-shortcuts.html
-- title: Accessibility
-  items:
-    - title: VPAT
-      path: /hackers/vpat.html

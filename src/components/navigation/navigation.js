@@ -45,6 +45,7 @@ export default ({ pathname }) => {
           </a>
         </li>
         <NavItem linkTo="/changelog" title="Changelog" />
+        <NavItem linkTo="/accessibility" title="Accessibility" />
       </ul>
 
       <Status />
