@@ -114,7 +114,7 @@ Criteria | Conformance Level | Remarks and Explanations
 ### Chapter 4: [Hardware](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#401-general)
 Notes: Section removed.  Not applicable.  HackerOne is a web only application.
 
-### Chapter 5: Software(https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#501-general)
+### Chapter 5: [Software](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#501-general)
 Notes: Section removed.  Not applicable.  HackerOne is a web only application.
 
 ### Chapter 6: [Support Documentation and Services](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#601-general)
