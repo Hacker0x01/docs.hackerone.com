@@ -32,9 +32,9 @@ module.exports = {
         mergeStyleHashes: false,
         mergeDefaultDirectives: true,
         directives: {
-          "script-src": "'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com cdn.jsdelivr.net",
+          "script-src": "'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com cdn.jsdelivr.net *.algolia.net *.algolianet.com",
           "style-src": "'self' 'unsafe-inline' cdn.jsdelivr.net",
-          "connect-src": "'self' www.google-analytics.com fbhzv4f2nk7b.statuspage.io"
+          "connect-src": "'self' www.google-analytics.com fbhzv4f2nk7b.statuspage.io *.algolia.net *.algolianet.com"
         }
       }
     },
