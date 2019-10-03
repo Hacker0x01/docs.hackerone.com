@@ -36,9 +36,12 @@ These are the event names that you can use to search:
 
 Event Name | Description
 --------- | ------------
+`teams.agile_accelerator_integration.delete` | Triggered when a new Agile Accelerator connection is created for your program.
+`teams.agile_accelerator_integration.update` | Triggered when a new Agile Accelerator connection is updated for your program.
 `teams.api_users.create` | Triggered when a new API token is created.
 `teams.api_users.destroy` | Triggered when an existing API token is destroyed.
 `teams.audit_log_items.export` | Triggered when a member creates an export of your program audit log.
+`teams.bounties.create` | Triggered when a new bounty is awarded.
 `teams.groups.create` | Triggered when an admin creates a new team member group with permissions and members.
 `teams.groups.update` | Triggered when an admin updates the name and/or permissions of an existing member group. Also triggered when members are added to or removed from this group.
 `teams.groups.destroy` | Triggered when an admin destroys an existing team member group.
@@ -50,8 +53,10 @@ Event Name | Description
 `teams.members.destroy` | Triggered when an admin or your SAML provisioner removes a member from your program. Also triggered when a member removes themselves from your program.
 `teams.phabricator_integration.update` | Triggered when the configuration of your program’s Phabricator integration is updated.
 `teams.phabricator_integration.destroy` | Triggered when your program’s Phabricator integration is destroyed.
+`teams.reports.escalate` |  Triggered when you escalate a report to Jira or Phabricator. Events won't be created for the Slack and AgileAccelerator integration.  
 `teams.reports.export` | Triggered when a member exports one or more of your program’s vulnerability reports.
 `teams.reports.export_lifetime` | Triggered when a member exports all of your program’s vulnerability reports.
+`teams.reports.reassign` | Triggered when a report is reassigned to another team.
 `teams.saml_settings.update` | Triggered when your program’s SAML provider settings are updated.
 `teams.slack_integration.create` | Triggered when a new Slack integration is created for your program.
 `teams.slack_integration.destroy` | Triggered when an existing Slack integration is destroyed.
@@ -61,7 +66,7 @@ Event Name | Description
 
 ### Search based on the user
 You can also search your audit log based on the user that performed the event. To search based on the user, use the user qualifier. For example:
-* `user:@hackbot` finds all events performed by hackbot
+* `user:@hackbot` finds all events performed by hackbot.
 * `user:@hackbot user:data_migration` finds all events performed by both hackbot and system user data_migration.
 
 You can also use asterisks as a wildcard to broaden your search results to a defined subset of all possible characters. For example:
