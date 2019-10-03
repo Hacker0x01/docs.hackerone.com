@@ -56,7 +56,7 @@ Event Name | Description
 `teams.reports.escalate` |  Triggered when you escalate a report to Jira or Phabricator. Events won't be created for the Slack and AgileAccelerator integration.  
 `teams.reports.export` | Triggered when a member exports one or more of your program’s vulnerability reports.
 `teams.reports.export_lifetime` | Triggered when a member exports all of your program’s vulnerability reports.
-`teams.reports.reassign` | Triggered when a report is reassigned to another team.
+`teams.report.reassign` | Triggered when a report is reassigned to another team.
 `teams.saml_settings.update` | Triggered when your program’s SAML provider settings are updated.
 `teams.slack_integration.create` | Triggered when a new Slack integration is created for your program.
 `teams.slack_integration.destroy` | Triggered when an existing Slack integration is destroyed.
