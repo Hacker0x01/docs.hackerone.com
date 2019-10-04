@@ -9,7 +9,7 @@ As a hacker, you’ll receive notifications (via the product and email) when pro
 
 You can subscribe to receive program update notifications by subscribing to receive notifications via a program's Security Page by clicking **Subscribe**.
 
-![subscribe button on policy page](./images/program-notifications-2.png)
+![subscribe button on policy page](./images/subscribe_button.png)
 
 Updates to these program settings will trigger notifications:
 * Policy
