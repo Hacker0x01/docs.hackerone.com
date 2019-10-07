@@ -22,7 +22,7 @@ Updates to these program settings will trigger notifications:
 #### Notification Preferences
 You can manage your notification preferences on the Notification Preferences page under **Settings > Notification Preferences**.
 
-![notification preferences](./images/notification-preferences.png)
+![notification preferences](./images/notification-preferences-2.png)
 
 #### Program Preferences
 You can also manage what programs you can receive notifications from on the Program Preferences page under **Settings > Program Preferences**. On this page, you can view the full list of programs you belong to as well as the programs you're subscribed to receive notifications for. You can select to turn your notifications to be either **On** or **Off** for each program you're a part of.
