@@ -4,6 +4,11 @@ path: "/changelog/2019/october"
 date: "2019-10"
 ---
 
+### New Settings on Notification Preferences
+We've revamped the Notification Preferences page and added new settings so that all users can better customize their report notifications to reduce noise from unwanted notifications.
+
+![notification preferences](./images/oct_2019_notification_preferences.png)
+
 ### Program Page Bookmark and Subscribe Buttons
 We've deprecated the **Follow** button on the Program Page and replaced it with a **Bookmark** button. We also moved the **Subscribe** button from the bottom of the Program Page and moved it to the top next to the new **Bookmark** button so that hackers can easily subscribe to program updates and add programs to their bookmarked program list on their dashboard.   
 
