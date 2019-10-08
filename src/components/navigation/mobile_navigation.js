@@ -25,6 +25,11 @@ const MobileNavigationMenu = handleClick => {
           title="Programs"
           handleClick={handleClick}
         />
+        <NavItem
+          linkTo="/glossary"
+          title="Glossary"
+          handleClick={handleClick}
+        />
         <li className="mobile-navigation__item">
           <a
             className="mobile-navigation__link"
@@ -37,6 +42,11 @@ const MobileNavigationMenu = handleClick => {
         <NavItem
           linkTo="/changelog"
           title="Changelog"
+          handleClick={handleClick}
+        />
+        <NavItem
+          linkTo="/accessibility"
+          title="Accessibility"
           handleClick={handleClick}
         />
       </ul>
