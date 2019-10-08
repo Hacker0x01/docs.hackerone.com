@@ -20,3 +20,5 @@ We've deprecated the **Follow** button on the Program Page and replaced it with 
 We've released the following improvements to our [API](https://api.hackerone.com/#introduction):
 * [Enabled filtering reports by weaknesses](https://api.hackerone.com/#reports-get-all-reports)
 * [Fetching program payment transactions](https://api.hackerone.com/#programs-get-payment-transactions)
+* [Added endpoint for getting program's balance](https://api.hackerone.com/#programs-get-balance)
+* [Added endpoint for fetching program thanks items](https://api.hackerone.com/#programs-get-thanks-to-hackers)
