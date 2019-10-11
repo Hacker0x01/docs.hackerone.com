@@ -27,3 +27,4 @@ We've released the following improvements to our [API](https://api.hackerone.com
 * [Endpoint for filtering reports by keywords](https://api.hackerone.com/#reports-get-all-reports)
 * [Endpoint to fetch awarded program swag](https://api.hackerone.com/#programs-get-awarded-swag)
 * [Endpoint for fetching bounty suggestions](https://api.hackerone.com/#reports-get-bounty-suggestions)
+* [Ability to fetch program policy and attachments](https://api.hackerone.com/#programs-get-program)
