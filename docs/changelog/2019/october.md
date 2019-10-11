@@ -22,3 +22,8 @@ We've released the following improvements to our [API](https://api.hackerone.com
 * [Endpoint for fetching program payment transactions](https://api.hackerone.com/#programs-get-payment-transactions)
 * [Endpoint for getting a program's balance](https://api.hackerone.com/#programs-get-balance)
 * [Endpoint for fetching a program's thanks items](https://api.hackerone.com/#programs-get-thanks-to-hackers)
+* [Added endpoint for updating report structured scope](https://api.hackerone.com/#reports-update-structured-scope)
+* [Enabled filtering reports by severities](https://api.hackerone.com/#reports-get-all-reports)
+* [Added endpoint for filtering reports by keywords](https://api.hackerone.com/#reports-get-all-reports)
+* [Added endpoint to fetch awarded program swag](https://api.hackerone.com/#programs-get-awarded-swag)
+* [Added endpoint for fetching bounty suggestions](https://api.hackerone.com/#reports-get-bounty-suggestions)
