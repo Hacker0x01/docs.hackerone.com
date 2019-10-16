@@ -4,6 +4,11 @@ path: "/changelog/2019/october"
 date: "2019-10"
 ---
 
+### Hacker Profile Redesign
+We've redesigned the hacker profile page to simplify the UI. In doing so, we've deprecated the **Thanks** tab and put the **Thanks** section at the bottom of the profile page.
+
+![profile page](./images/oct_2019_profile_page.png)
+
 ### New Settings on Notification Preferences
 We've revamped the Notification Preferences page and added new settings so that all users can better customize their report notifications to reduce noise from unwanted notifications.
 
