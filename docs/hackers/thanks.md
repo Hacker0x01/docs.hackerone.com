@@ -4,7 +4,7 @@ path: "/hackers/thanks.html"
 id: "hackers/thanks"
 ---
 
-Your Thanks page lists out all of the programs you’ve submitted valid reports to. Every hacker has their own Thanks page where the programs you’ve participated in are listed by your reputation gained for each program. The page is automatically updated after a report is resolved and reputation is gained.
+Your Thanks section lists out all of the programs you’ve submitted valid reports to. Every hacker has their own Thanks section where the programs you’ve participated in are listed by your reputation gained for each program. The section is automatically updated after a report is resolved and reputation is gained.
 
 ![thanks](./images/thanks-1.png)
 
