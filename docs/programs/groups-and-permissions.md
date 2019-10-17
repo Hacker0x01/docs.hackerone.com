@@ -31,8 +31,8 @@ To edit your group name and permissions, click **Edit** next to the group you wa
 ### Adding or Removing Users
 To add or remove users:
 1. Click **Add/Remove users**.
-2. Select the check box of the users you want to add to the group.
-3. Deselect the check boxes of the users you want to remove from the group.
+2. Select the checkbox of the users you want to add to the group.
+3. Deselect the checkboxes of the users you want to remove from the group.
 3. Click **Update**.  
 
 ### Tutorial Video

@@ -17,4 +17,4 @@ You’ll receive Invitations to claim your reports through email. To claim your 
 
 ![Claiming the report](./images/claiming-report-2.png)
 
-If you accept to claim your report, you’ll have access to your report in HackerOne where you can take [actions](report-actions.html) on the report. Depending on the [report state](report-states.html), you’ll also properly be awarded with [reputation](reputation.html).  If you select to reject the invitation, you won't be able to participate
+If you accept to claim your report, you’ll have access to your report in HackerOne where you can take [actions](report-actions.html) on the report. Depending on the [report state](report-states.html), you’ll also properly be awarded with [reputation](reputation.html).  If you select to reject the invitation, you won't be able to contribute to the report.

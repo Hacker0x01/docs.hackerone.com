@@ -53,7 +53,7 @@ The downloaded file provides the:
 
 ### Export Select Reports to .csv File  
 To export select reports as a .csv file:
-1. Select the check box of the reports you'd like to export in your inbox. You can select as many reports as you'd like.
+1. Select the checkbox of the reports you'd like to export in your inbox. You can select as many reports as you'd like.
 2. Click the **Download as CSV** link to download the selected reports.
 
 ![export-reports](./images/export-reports.png)
