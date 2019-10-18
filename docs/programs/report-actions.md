@@ -22,7 +22,7 @@ To add a comment:
 2) Make sure the action picker is set to **Add comment**.
 3) Select who you would like to make the comment visible to. You can select from these options:
 
-Option | Detail
+Option | Details
 ------ | -------
 Team only | Only the members of your program will be able to view the comment.
 All participants | All participants of the report will be able to view the comment.
@@ -55,7 +55,7 @@ To change the state of a report:
 2) Change the action picker from **Add comment** to **Change state** from the drop-down.  
 3) Select the state of the report. You can choose from:
 
-Option | Detail
+Option | Details
 ------ | -------
 Triaged | The report has passed the initial validation and is pending resolution. You can briefly describe the next steps in the comments section such as further investigation, escalation, engineer preparing a fix. *(Optional) When you select triage, you can enter the reference ID to your integration in the **Reference ID** field.*
 New | The report is pending triage and validation.
@@ -95,7 +95,7 @@ To set an award to a hacker for the report:
 2) Change the action picker from **Add comment** to **Set award** from the drop-down.  
 3) Select the type of award you want to reward the hacker with. You can choose from these options:
 
-Option | Detail
+Option | Details
 ------ | ------
 Amount | Mark that you've rewarded the hacker with a specific dollar amount for the vulnerability.
 None ( ineligible) | The report is ineligible for a bounty. It's best to explain the reasons to hackers in the comments section, why the report is ineligible.

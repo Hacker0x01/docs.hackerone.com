@@ -37,7 +37,7 @@ Each time an action is made on your program, the action is tagged with a corresp
 
 These are the event names that you can use to search:
 
-Event Name | Description
+Event Name | Details
 --------- | ------------
 `teams.agile_accelerator_integration.delete` | Triggered when a new Agile Accelerator connection is created for your program.
 `teams.agile_accelerator_integration.update` | Triggered when a new Agile Accelerator connection is updated for your program.
@@ -77,7 +77,7 @@ You can also use asterisks as a wildcard to broaden your search results to a def
 
 Events can also be performed by the internal system on behalf of a user. You can search by these system users:
 
-System User | Description
+System User | Details
 ----------- | ------------
 `atlassian_uninstaller` | Initiated to destroy your program’s bidirectional integration to the JIRA cloud application.
 `data_migration` | Initiated when an event is performed through data migration.

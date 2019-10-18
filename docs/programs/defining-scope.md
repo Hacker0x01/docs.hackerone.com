@@ -18,7 +18,7 @@ To view and edit your existing scope:
 
 3. Fill out the different fields. For each asset, you can fill out:
 
-Option | Detail
+Option | Details
 ----- | -----
 Types | The asset type. <br>You can choose from these options: CIDR, Domain, iOS: App Store, iOS: Testflight, iOS: .ipa, Android: Play Store, Android: .apk, Windows: Microsoft Store, Source Code, Executable, Hardware/loT, Other.
 Identifier | How hackers will know that they are at the correct asset that you specified.

@@ -33,7 +33,7 @@ To add new triggers:
 6. *(Optional)* Select **add another rule for this trigger** to add more conditions for your trigger.
 7. In the **THEN** section, set the action you'd like your trigger to take. You can choose from: 
 
-Option | Detail
+Option | Details
 ------ | ------
 Show warning: Ask for submission confirmation | Hackers will be asked for submission confirmation
 Add Comment: all participants | A public comment will be posted on the report

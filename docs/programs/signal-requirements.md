@@ -12,7 +12,7 @@ To enable Signal Requirements:
 1. Go to **Settings > Program > Submission**.
 2. Choose from 1 of these 4 options in the **Signal Requirements** section:
 
-Option | Detail
+Option | Details
 ------ | ------
 Strict (≥ 1.0 Signal) | Hackers with a proven record are unrestricted, while hackers who don't meet this requirement will have a limited number of allowed submissions to your program. A strict setting makes sense for teams that prefer fewer, higher quality reports or that can only handle a smaller flow of reports  as it most tightly limits hacker participation based on high Signal. This is the recommended setting for new programs.
 Standard (≥ 0.0 Signal) | The recommended setting for most programs.

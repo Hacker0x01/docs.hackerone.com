@@ -6,7 +6,7 @@ id: "programs/billing"
 
 HackerOne makes it easy to pay hackers. You can choose from these 2 options to pay a hacker:
 
-Option | Detail
+Option | Details
 ------ | ------
 Credit Card | Add a credit card to your HackerOne account that is charged to pay out bounties.<br>To set up go to **Settings > General > Billing > Credit Card**.
 Prepayment | Make an advanced deposit which bounties can be paid out from. Whenever your program decides on a bounty, you simply set the amount you'd like to pay on the report, and it's withdrawn from your balance. When funds are running low, HackerOne will request another advanced deposit. HackerOne recommends depositing 3 months' worth of bounty budget at a time. Most programs use this method to pay out bounties.<br>To set up go to **Settings > General > Billing > Prepayment**.

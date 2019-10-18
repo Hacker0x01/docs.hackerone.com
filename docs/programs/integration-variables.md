@@ -4,7 +4,7 @@ path: "/programs/integration-variables.html"
 id: "programs/integration-variables"
 ---
 
-Variable | Description | Example
+Variable | Details | Example
 -------- | ------ |
 `{{assignee}}` | The user that's assigned to the report. |
 `{{days_after_report(days)}}` | Provides a date based on the report creation date and the provided argument. `{{days_after_report(5)}}` will output a date 5 days after the report was created. |
