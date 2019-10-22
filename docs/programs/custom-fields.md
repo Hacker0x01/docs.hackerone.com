@@ -41,7 +41,7 @@ All of your reports will now have a Custom Fields section. You can edit the sect
 
 ![Custom Fields section on the report](./images/custom-fields-4.png)
 
-The custom field will also be added into your inbox filter so that you can filter your reports by the custom field you created. The image below shows the filter 2 custom fields that were created: Squad and Root Cause Analysis. To filter on **Text** types for reports that do not have the custom field set, focus in the custom field input box and press the **Return** key without entering a value. For **List** types, focus in the custom field and select the *Empty* option.
+The custom field will also be added into your inbox filter so that you can filter your reports by the custom field you created. The image below shows the filter 2 custom fields that were created: Squad and Root Cause Analysis. To filter on **Text** types for reports that don't have the custom field set, click in the custom field input box and press the **Return** key without entering a value. For **List** types, click on the custom field and select the Empty option.
 
 ![Custom fields inbox filter](./images/custom-fields-5.png)
 
