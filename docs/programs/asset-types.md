@@ -10,7 +10,7 @@ HackerOne supports the following types of assets:
 Type | Details | Examples |
 ---- | ------- | -------- |
 CIDR | Any valid IPv4 or IPv6 CIDR range. | <br>172.200.0.0/16<br>2001:db8::/48<br>fe80:0000:0000:0000:0204:61ff:fe9d:f156/3</li></ul> |
-Domain | Domain of the asset. Wild card (*) may be used. | www.example.com<br>myprogram.com |
+Domain | Domain of the asset. Wild card (`*`) may be used. | www.example.com<br>myprogram.com |
 iOS: App Store | The identifier in the Apple Store to locate your App. | com.domainname.appname <br>com.example.myapp |
 iOS: Testflight | A standard apple identifier (https://developer.apple.com/testflight/). <br><br>Note: If you'll be providing a different version than the one available in the App Store, please detail the invitation process in the instructions. | com.domainname.myapp |
 iOS: .ipa | A standard apple identifier. <br><br>Note: If you'll be providing a different version than the one available in the App Store or Testflight, please detail where they can be located. | com.domainname.myapp |
@@ -20,7 +20,7 @@ Windows: Microsoft Store | The identifier in the Microsoft Store used to locate 
 Source code | Link to the repository of an open source project. | |
 Executable | Packaged executable on Linux, Windows, or Mac. Open source projects with releases can and should link as a Downloadable executable too. | |
 Hardware/IoT | Identifiable model number and make. Be sure to explain in the instructions how to locate the model details and what they may look like. | 100-440-0.750-3434-A |
-Other | Any other type of asset that is not contained within the existing taxonomy. | | 
+Other | Any other type of asset that is not contained within the existing taxonomy. | |
 
 Source Code, Downloadable Executables, and Hardware Identifiers aren't validated. You're free to use this in whatever suits your naming conventions.
 
