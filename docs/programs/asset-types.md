@@ -16,7 +16,7 @@ iOS: Testflight | A standard apple identifier (https://developer.apple.com/testf
 iOS: .ipa | A standard apple identifier. <br><br>Note: If you'll be providing a different version than the one available in the App Store or Testflight, please detail where they can be located. | com.domainname.myapp |
 Android Play Store | The id in Play Store used to locate your application (https://developer.android.com/studio/build/application-id.html). | com.example.myapp |
 Android: .apk | A standard APK identifier. <br><br>Note: If you'll be providing a different version than the one available in the Play Store, please detail where they can be located. | com.domainname.myapp |
-Windows: Microsoft Store | The identifier in the Microsoft Store used to locate your app. It can be either a store ID like '9WZDNCRFHVJL' or an identifier name like 'Microsoft.SDKSamples.ApplicationDataSample'. |  9WZDNCRFHVJL<br>Microsoft.SDKSamples.ApplicationDataSample</li></ul> |
+Windows: Microsoft Store | The identifier in the Microsoft Store used to locate your app. It can be either a store ID like '9WZDNCRFHVJL' or an identifier name like 'Microsoft.SDKSamples.ApplicationDataSample'. |  9WZDNCRFHVJL<br>Microsoft.SDKSamples.ApplicationDataSample |
 Source code | Link to the repository of an open source project. | |
 Executable | Packaged executable on Linux, Windows, or Mac. Open source projects with releases can and should link as a Downloadable executable too. | |
 Hardware/IoT | Identifiable model number and make. Be sure to explain in the instructions how to locate the model details and what they may look like. | 100-440-0.750-3434-A |
