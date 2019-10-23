@@ -28,6 +28,21 @@ Eligibility for Bounty | Whether you intend on providing bounties for this asset
 Instruction | If you have any detail descriptions or comments on the asset, this field will surface that on both your program profile page and your report submission form.
 4. Click **Add Asset**.
 
+### Asset types
+
+| Type | Description | Example |
+| CIDR| Classless Inter-Domain Routing for denoting your IP ranges. | e.g. 192.168.100.14/24 |
+| Domain | Domain of the asset. Wild card (*) may be used. | e.g. www.example.com, *.myprogram.com |
+| iOS: App Store | The identifier on Apple Store to locate your App. | e.g. com.example.myapp |
+| iOS: Testflight | If you will be providing a different version than available on the App Store, please detail the invitation process in the instructions. | |
+| iOS: .ipa | If you will be providing a different version than available on the App Store or Testflight, please detail where they can be located. | e.g. com.example.myapp |
+| Android: Play Store | The id on Play Store used to locate your App. | e.g. com.example.myapp |
+| Android: .apk | If you will be providing a different version than available on the Play Store, please detail where they can be located. | e.g. com.example.myapp |
+| Windows: Microsoft Store | The identifier on Microsoft Store used to locate your App. | e.g. 9WZDNCRFHVJL, Microsoft.SDKSamples.ApplicationDataSample |
+| Executable | Packaged executable on linux, windows or mac. Open source projects with releases can/should link as a Downloadable executable too. | e.g. example.exe |
+| Hardware/IoT | Identifiable model number and make. Please explain in instructions how to locate the model details, and what they may look like. | e.g. 100-440-0.750-3434-A | 
+| Other | Any other type of asset that is not contained within the existing taxonomy. | e.g. Anything you want, really. |
+
 ### Tutorial Video
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/9l1yZJAk1Fg?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
 
