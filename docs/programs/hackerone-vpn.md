@@ -6,7 +6,7 @@ id: "programs/hackerone-vpn"
 
 You can require hackers to set up a virtual private network (VPN) instance with the HackerOne VPN in order to find vulnerabilities in your program. The HackerOne VPN enables you to have granular visibility into hacker activities on your program and assets.   
 
-To learn more about adding the HackerOne VPN to your program, contact your program manager.
+To learn more about adding the HackerOne VPN to your program, contact your account manager.
 
 ### FAQs
 Question | Answer
