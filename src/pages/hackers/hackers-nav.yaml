@@ -74,7 +74,7 @@
       path: /hackers/hacker-mediation.html
     - title: Disclosure Assistance
       path: /hackers/disclosure-assistance.html
-    - title: HackerOne VPN
+    - title: HackerOne Gateway
       path: /hackers/configure-the-hackerone-vpn.html
       items:
         - title: Installing the VPN Root CA
