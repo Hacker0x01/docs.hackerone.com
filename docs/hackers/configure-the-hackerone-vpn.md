@@ -1,5 +1,5 @@
 ---
-title: "HackerOne Gateway"
+title: "HackerOne Gateway (VPN)"
 path: "/hackers/configure-the-hackerone-vpn.html"
 id: "hackers/configure-the-hackerone-vpn"
 ---
