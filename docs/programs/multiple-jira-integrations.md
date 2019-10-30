@@ -115,4 +115,4 @@ Synchronize attachments | Synchronize attachments linked with reports and commen
 
    ![jira-server-6a](./images/jira-server-6a.png)
 
-You're all set in setting up the 1st integration! For each subsequent program you need to add an integration for, follow steps 20-24. You only need to follow steps 20-24 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.
+25. Follow steps 20-24 for each subsequent program you need to add an integration for. *Note:You only need to follow steps 20-24 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
