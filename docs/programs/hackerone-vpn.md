@@ -4,20 +4,25 @@ path: "/programs/hackerone-vpn.html"
 id: "programs/hackerone-vpn"
 ---
 
-You can require finders to set up a virtual private network (VPN) instance with HackerOne Gateway (VPN) in order to find vulnerabilities in your program. HackerOne Gateway (VPN) enables you to have granular visibility into finder activities on your program and assets.   
+You can require finders to set up a virtual private network (VPN) instance with HackerOne Gateway (VPN) in order to find vulnerabilities in your program. The HackerOne Gateway (VPN) enables you to have granular control over finder activities on your program and assets.
 
-> This feature isn't available in all plans. To learn more about adding HackerOne Gateway(VPN) to your program, contact your account manager.
+> Gateway (VPN) is available as an add-on. To learn more about adding HackerOne Gateway(VPN) to your program, contact your account manager.
 
-### FAQs
-Question | Answer
--------- | ------
-What's captured and logged by HackerOne Gateway (VPN)? | All packets and netflow are captured. HTTPS is automatically decrypted, all other protocols (SMTPS, SSH, etc.) are captured but if encrypted, aren't decrypted by HackerOne.
-Does Gateway (VPN) log each keystroke? | No, Gateway (VPN) uses split tunnel technology which doesn't log keystrokes.
-What additional information about finder activity does Gateway (VPN) provide? | Gateway (VPN) provides session-level detail on URLs hit by each participating finder, including when, how often, and the duration.
-How can the data captured by Gateway (VPN) be accessed? | Access is based on guidelines established by HackerOne.<br><br>Authorized program personnel may make specific data requests which must include the data requested and its intended use.
-How will access to Gateway (VPN) data be made available? | Data is made available via a password-protected Google Drive folder.
-Where is the data log stored? | Data is stored in dedicated AWS S3 buckets that are unique for each program or Challenge.
-How long is the data retained? | Data is stored for 12 months from the end of the program or Challenge.
-Does Gateway (VPN) allow site to site tunnels? | No, Gateway (VPN) does not support dedicated connections directly to one or more assets.
-How do I revoke access for a specific finder on my program? | Make the revoke request to HackerOne and we’ll disable the finder’s unique IP address.
-How can we whitelist testing-related traffic on our IDS? | Each Bounty program and Challenge is assigned a dedicated range of IP addresses to add to your IDS whitelist.
+![Gateway program UI](./images/gateway-1.png)
+
+To manage your Gateway settings:
+1. Go to **Program Settings > Program > Hacker Management > Gateway**.
+2. Check to see if your Gateway is connected under the **Manage Global Gateway Access** section. You’ll see a green **Connected** icon to notify you that traffic is able to successfully flow through the HackerOne VPN instances. If traffic through the VPN is disrupted, you’ll see a grey **Disconnected** icon.
+3. *(Optional)* Click **Disconnect Gateway** if you want to close your gateway to finders. Keep in mind that disconnecting your gateway will prevent finders from finding vulnerabilities on your Gateway-protected targets until you reconnect the gateway.
+4. *(Optional)* Click **Reconnect Gateway** if you want finders to connect to your servers via Gateway.
+
+### Manage Individual Finder Access
+You can also manage which finders are able to access your Gateway. You can view the username of the finder and their Gateway Instance IP.
+
+![UI for manage individual finder access](./images/gateway-2.png)
+
+To manage individual finder access under the **Manage Individual Finder Access** section:
+1. Click **Pause** for any finders that you want to prevent from accessing your servers via the Gateway.
+2. Click **Resume** to enable Gateway access for the finder.
+
+To receive complete traffic logs, contact your program manager.

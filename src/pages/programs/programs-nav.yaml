@@ -238,3 +238,6 @@
       path: /programs/disclosure-assistance.html
     - title: HackerOne Gateway
       path: /programs/hackerone-vpn.html
+      items:
+        - title:
+          path: /programs/vpn-faqs.html
