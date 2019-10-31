@@ -6,8 +6,6 @@ id: "programs/multiple-jira-integrations"
 
 If you have multiple HackerOne programs, you can integrate them to the same Jira instance.
 
-> These instructions are specifically for Jira Cloud users.
-
 To integrate multiple HackerOne programs to the same Jira instance:
 
 1. Remove the “HackerOne for Jira” plugin if you’re using Jira Cloud.
