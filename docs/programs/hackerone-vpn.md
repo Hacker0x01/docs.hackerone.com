@@ -8,7 +8,7 @@ You can require finders to set up a virtual private network (VPN) instance with 
 
 > Gateway (VPN) is available as an add-on. To learn more about adding HackerOne Gateway(VPN) to your program, contact your account manager.
 
-![Gateway program UI](./images/gateway-1.png)
+![Gateway program UI](/Users/stacy/desktop/docs.hackerone.com/docs/programs/images/gateway-1.png)
 
 To manage your Gateway settings:
 1. Go to **Program Settings > Program > Hacker Management > Gateway**.
@@ -19,7 +19,7 @@ To manage your Gateway settings:
 ### Manage Individual Finder Access
 You can also manage which finders are able to access your Gateway. You can view the username of the finder and their Gateway Instance IP.
 
-![UI for manage individual finder access](./images/gateway-2.png)
+![UI for manage individual finder access](/Users/stacy/desktop/docs.hackerone.com/docs/programs/images/gateway-2.png)
 
 To manage individual finder access under the **Manage Individual Finder Access** section:
 1. Click **Pause** for any finders that you want to prevent from accessing your servers via the Gateway.
