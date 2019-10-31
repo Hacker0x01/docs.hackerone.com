@@ -239,5 +239,5 @@
     - title: HackerOne Gateway
       path: /programs/hackerone-vpn.html
       items:
-        - title:
+        - title: FAQs 
           path: /programs/vpn-faqs.html
