@@ -12,11 +12,11 @@ To access your Advanced Vetting settings:
 1. Go to: **Program > Hacker Management > Clear**.
 2. Click **View the full list of clear finders that have been invited to your program** to see which invited finders are Clear verified. Clear verified finders will be marked with this icon:
 
-![advanced vetting icon](./images/advanced-vetting-2.png)
+![advanced vetting icon](/Users/stacy/desktop/docs.hackerone.com/docs/programs/images/advanced-vetting-2.png)
 
 Clear verified finders are invited to your program through the [invitation](https://docs.hackerone.com/programs/invitations.html) process in which invites are geared specifically toward background checked finders.
 
-![advanced vetting UI](./images/advanced-vetting-1.png)
+![advanced vetting UI](/Users/stacy/desktop/docs.hackerone.com/docs/programs/images/advanced-vetting-1.png)
 
 ### How background checks work
 HackerOne partners with Sterling Talent Solutions to conduct all global background checks. For all countries, identification document verification and the maximum criminal background check allowed by law are performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
@@ -47,4 +47,4 @@ To manage your Digital Customizable Agreements:
 <li>Country
 <li>Date they signed the agreement
 
-![Digital Customizable Agreements](./images/advanced-vetting-3.png)
+![Digital Customizable Agreements](/Users/stacy/desktop/docs.hackerone.com/docs/programs/images/advanced-vetting-3.png)
