@@ -236,8 +236,10 @@
       path: /programs/hacker-reviews.html
     - title: Disclosure Assistance
       path: /programs/disclosure-assistance.html
-    - title: HackerOne Gateway
+    - title: Advanced Vetting
+      path: /programs/advanced-vetting.html
+    - title: Gateway
       path: /programs/hackerone-vpn.html
       items:
-        - title: FAQs 
+        - title: FAQs
           path: /programs/vpn-faqs.html
