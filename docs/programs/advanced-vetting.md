@@ -9,7 +9,7 @@ Advanced Vetting enables your program to have access to an exclusive community o
 > **Note:** Advanced Vetting is available as an add-on. To opt-in to Advanced Vetting, contact your account manager.
 
 To access your Advanced Vetting settings:
-1. Go to: **Program > Hacker Management > Clear**.
+1. Go to: **Program > Hacker Management > Advanced Vetting**.
 2. Click **View the full list of clear finders that have been invited to your program** to see which invited finders are Clear verified. Clear verified finders will be marked with this icon:
 
 ![advanced vetting icon](./images/advanced-vetting-2.png)
