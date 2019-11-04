@@ -11,38 +11,27 @@ Checklists are a way for organizations to meet compliance requirements by enlist
 ### How it works
 To participate in a security check:
 
-1. Go to a program’s **Security Checks** tab on their security page. The security checks tab is only available if the program has opted into compliance.
+1. Click on the **Discover** tab to explore what security research opportunities are available.  
+2. Review the description, instructions, and scope for the security checks you’re interested in.
+3. Click **Claim security check** when you’ve found a security check you want to work on.
+<ul><li> You can claim one check per program  at a time (once you’ve submitted results, you can claim another check for that program). Once you’ve claimed a check, you’ll have 72 hours to complete it. For each security check, you must test all assets in scope for the relevant vulnerability type.</ul>
 
-![security-check-image 1](./images/security-checks-1.png)
+4. Go to a program’s **Security Checks** tab on their security page. Note: The **Security checks** tab is only available if the program has opted into compliance.
+5. Submit your findings by filling out the submission form.
 
-2. Click **View Details** for the task that you’re interested in on the checklist.
-3. Review the description, instruction, and scope for the task.
-4. Select **Claim this check** if you’re interested in completing the task.  
-     * You can claim 1 check per program  at a time. After you've submitted your results, you can claim another check for that same program. Once you’ve claimed a check, you’ll have 72 hours to complete it. For each security check, you must test all assets in scope for the relevant vulnerability type.
+![security check submission form](./images/security-checks-12.png)
 
-![security check image 2](./images/security-checks-2.png)
-
-5. Select **Submit results** on the Security Checks page of the program when you’re ready to submit your findings.
-
-![security check iamge 3](./images/security-checks-3.png)
-
-6. Input your findings in the required fields on the submission form.
-
-![security check image 4](./images/security-checks-4.png)
-
-7. *(Optional)* Submit a report and link it to your results if you find vulnerabilities during your check.
+6. *(Optional)* Submit a report and link it to your results if you find vulnerabilities during your check.
 
 ![security check image 5](./images/security-checks-5.png)
 
-8. Click **Submit**.
+7. Click **Submit**.
 
-Once you’ve submitted your results, HackerOne will review your findings.  If your findings aren’t approved, your check will be marked as *Rejected*. If your check is rejected, you can reclaim the security check under **Hacker Dashboard > Security Checks**. 
+Once you’ve submitted your results, HackerOne will review your findings.  If your findings aren’t approved, your check will be marked as *Rejected*. If your check is rejected, you can reclaim the security check under **Hacker Dashboard > Security Checks**.
 
 ![security check image 6](./images/security-checks-6.png)
 
 If your check is approved, you’ll automatically be paid the reward amount.
-
-![security check image 7](./images/security-checks-7.png)
 
 ### Managing Security Checks
 
