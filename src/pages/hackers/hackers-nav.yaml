@@ -36,6 +36,8 @@
       path: /hackers/manage-notifications.html
     - title: Background Checks
       path: /hackers/background-checks.html
+    - title: HackerOne Clear
+      path: /hackers/hackerone-clear.html
     - title: Hacker Email Alias
       path: /hackers/hacker-email-alias.html
     - title: Sessions
