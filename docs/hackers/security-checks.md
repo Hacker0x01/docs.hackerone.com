@@ -33,6 +33,8 @@ Once you’ve submitted your results, HackerOne will review your findings.  If y
 
 If your check is approved, you’ll automatically be paid the reward amount.
 
+> **Note:** Duplicate vulnerabilities aren't rewarded with a bounty. 
+
 ### Managing Security Checks
 
 You can manage your claimed security checks on the Security Checks tab under your Hacker Dashboard.
