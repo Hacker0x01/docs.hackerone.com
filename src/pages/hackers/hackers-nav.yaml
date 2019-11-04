@@ -36,8 +36,6 @@
       path: /hackers/manage-notifications.html
     - title: Background Checks
       path: /hackers/background-checks.html
-    - title: HackerOne Clear
-      path: /hackers/hackerone-clear.html
     - title: Hacker Email Alias
       path: /hackers/hacker-email-alias.html
     - title: Sessions
@@ -91,6 +89,8 @@
       path: /hackers/decline-invites-and-leave-programs.html
     - title: Invitations Priority Queue
       path: /hackers/invitations-priority-queue.html
+    - title: HackerOne Clear
+      path: /hackers/hackerone-clear.html
 - title: Reports
   items:
     - title: Submitting Reports
