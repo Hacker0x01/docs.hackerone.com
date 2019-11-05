@@ -14,6 +14,7 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 * [Azure Active Directory](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/aad.hackerone)
 * Ping Identity
 * [Duo](https://duo.com/docs/hackerone)
+* [JumpCloud](http://jumpcloud.desk.com/customer/portal/articles/2518965-single-sign-on-sso-with-hackerone)
 
 [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) if you have another SAML provider.
 
