@@ -11,7 +11,10 @@ Checklists are a way for organizations to meet compliance requirements by enlist
 ### How it works
 To participate in a security check:
 
-1. Click on the **Discover** tab to explore what security research opportunities are available.  
+1. Click on the **Discover** tab to explore what security research opportunities are available.
+
+![Discover Page](./images/security-checks-13.png)
+
 2. Review the description, instructions, and scope for the security checks you’re interested in.
 3. Click **Claim security check** when you’ve found a security check you want to work on.
 <ul><li> You can claim one check per program  at a time (once you’ve submitted results, you can claim another check for that program). Once you’ve claimed a check, you’ll have 72 hours to complete it. For each security check, you must test all assets in scope for the relevant vulnerability type.</ul>
@@ -33,7 +36,9 @@ Once you’ve submitted your results, HackerOne will review your findings.  If y
 
 If your check is approved, you’ll automatically be paid the reward amount.
 
-> **Note:** Duplicate vulnerabilities aren't rewarded with a bounty. 
+![approval and payout confirmation page](./images/security-checks-14.png)
+
+> **Note:** Duplicate vulnerabilities aren't rewarded with a bounty.
 
 ### Managing Security Checks
 
