@@ -42,11 +42,11 @@ If your check is approved, you’ll automatically be paid the reward amount.
 
 ### Managing Security Checks
 
-You can manage your claimed security checks on the Security Checks tab under your Hacker Dashboard.
+You can manage your claimed security checks on the **Security Checks** tab under your Hacker Dashboard.
 
 ![security check image 8](./images/security-checks-8.png)
 
-You can also keep track of your Security Check rewards on your Hacker Dashboard.
+You can also keep track of your Security Check rewards on your Hacker Dashboard under the **My top earning programs** section.
 
 ![security check image 9](./images/security-checks-9.png)
 
