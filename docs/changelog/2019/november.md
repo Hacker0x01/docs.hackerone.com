@@ -4,6 +4,11 @@ path: "/changelog/2019/november"
 date: "2019-11"
 ---
 
+### Inbox Program Search
+If you're managing or are a part of many programs, you can now search the inbox by program name with our new search field. The search field is visible for everyone who is a part of 5 or more programs.
+
+![Inbox Search Field](./images/nov_2019_inbox_search.png)
+
 ### New Program Filter: Bookmarked
 We added the new **Bookmarked** program filter to the **My Programs** tab so that hackers can view their bookmarked programs on the same page.
 
