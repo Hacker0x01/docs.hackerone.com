@@ -36,4 +36,4 @@ We've released the following improvements to our [API](https://api.hackerone.com
 * [Requesting and cancelling report disclosure](https://api.hackerone.com/#core-resources-reports-manage-disclosure-request)
 * [Redacting reports](https://api.hackerone.com/#core-resources-reports-redact)
 * [Groups attribute to member object](https://api.hackerone.com/#core-resources-programs-get-program)
-* [Uploading attachments to policy page](https://api.hackerone.com/core-resources/#programs-upload-policy-attachment)
+* [Uploading attachments to the policy page](https://api.hackerone.com/core-resources/#programs-upload-policy-attachment)
