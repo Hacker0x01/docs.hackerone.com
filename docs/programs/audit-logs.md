@@ -4,10 +4,6 @@ path: "/programs/audit-logs.html"
 id: "programs/audit-logs"
 ---
 
-<div class="betanote" markdown="1">
-<b>Note:</b> This feature is currently in beta. Please send comments and questions to feedback@hackerone.com.
-</div>
-
 Audit logs enable you to view all changes and actions done on your program so that you can review critical changes, find suspect actions, and investigate incidents for your program on HackerOne. Each log includes these details:
 * The user that performed the action
 * A description of the action that was performed
