@@ -13,6 +13,8 @@ Audit logs enable you to view all changes and actions done on your program so th
 
 To access your audit log, go to **Program Settings > General > Audit Log**.
 
+![program audit log](./images/program-audit-log.png)
+
 You can also access the audit log via the API. See this article from the HackerOne API documentation to learn more: https://api.hackerone.com/core-resources/#programs-get-audit-log
 
 > **Note:** You must be an administrator of your program in order to access this feature.
