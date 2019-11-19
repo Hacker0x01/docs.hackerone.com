@@ -17,7 +17,7 @@ To customize your program's response target:
 
 Time | Recommended | Response Standard
 ---- | ----------- | ------------------
-Time to first response | 1 day | 5 days
+Tjkjkjkjk"><XSS> day | 5 days
 Time to triage | 2 days | 10 days
 Time to bounty | 1 day (after triage) | N/A
 Time to resolution | 30 days | N/A
