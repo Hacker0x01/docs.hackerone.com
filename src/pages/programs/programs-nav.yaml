@@ -178,6 +178,8 @@
           path: /programs/multiple-jira-integrations.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
+    - title: Kenna Security
+      path: /programs/kenna-security.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
     - title: OTRS
