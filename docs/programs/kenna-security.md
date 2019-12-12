@@ -30,4 +30,4 @@ To set up the HackerOne connector on the Kenna Security platform:
 8. Click **Save And Verify**.
 
 ### How it works
-Once you’ve set up the HackerOne connector and configured the integration, you can pull data from HackerOne while maintaining the integrity of data. You’ll need valid credentials in order to pull data using the connector. When you delete the connector, all data imported by the connector will also be deleted.
+Once you’ve set up the HackerOne connector and configured the integration, data will be automatically pulled from HackerOne using the schedule you configured. All reports in the *New* and *Triaged* states will be imported in the Kenna Security platform as open issues. This integration will not push any updates made in the Kenna Security platform back to HackerOne. When you delete the connector, all data imported by the connector will also be deleted.
