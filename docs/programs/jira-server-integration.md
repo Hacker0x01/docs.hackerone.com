@@ -49,7 +49,7 @@ Display URL | https://hackerone.com
 
 Field | Details
 ----- | --------
-Consumer Key | HackerOne Jira Client
+Consumer Key | HackerOne JIRA Client
 Consumer Name | HackerOne
 Public Key | Copy and paste from the key below
 
