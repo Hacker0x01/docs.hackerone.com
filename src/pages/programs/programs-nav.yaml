@@ -178,6 +178,8 @@
           path: /programs/multiple-jira-integrations.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
+    - title: JupiterOne
+      path: https://jupiterone.com/features/integrations/hackerone-integration/
     - title: Kenna Security
       path: /programs/kenna-security.html
     - title: MantisBT
