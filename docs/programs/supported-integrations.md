@@ -12,6 +12,7 @@ HackerOne currently supports these integrations:
 * [GitHub](github-integration.html)
 * [GitLab](gitlab-integration.html)
 * [Jira](jira-integration.html)
+* [JupiterOne](https://jupiterone.com/features/integrations/hackerone-integration/)
 * [Kenna Security](kenna-security.html)
 * [MantisBT](mantisbt-integration.html)
 * [OTRS](otrs-integration.html)
