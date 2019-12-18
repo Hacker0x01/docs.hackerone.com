@@ -11,6 +11,7 @@ HackerOne currently supports these integrations:
 * [Freshdesk](freshdesk-integration.html)
 * [GitHub](github-integration.html)
 * [GitLab](gitlab-integration.html)
+* [IBM Resilient](ibm-resilient.html)
 * [Jira](jira-integration.html)
 * [JupiterOne](https://jupiterone.com/features/integrations/hackerone-integration/)
 * [Kenna Security](kenna-security.html)
