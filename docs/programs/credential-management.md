@@ -49,4 +49,4 @@ The <b>Credentials</b> window will then display with instructions where the hack
 
 ![credential-management-6](./images/credential-management-6a.png)
 
-Hackers can only claim 1 set of credentials. If they want a second set of credentials, you can revoke their first set and then have them request for another. 
+Hackers can only claim 1 set of credentials. If they want a second set of credentials, you can revoke their first set and then have them request for another.
