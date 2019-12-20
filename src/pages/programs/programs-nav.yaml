@@ -17,6 +17,8 @@
       path: /programs/private-vs-public-programs.html
     - title: Parent/Child Programs
       path: /programs/parent-child-programs.html
+    - title: Password Best Practices
+      path: /programs/passwords.html
     - title: Using Markdown
       path: /programs/using-markdown.html
 - title: Your Program
