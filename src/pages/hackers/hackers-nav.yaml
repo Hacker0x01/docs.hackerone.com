@@ -6,6 +6,8 @@
       path: /hackers/edit-the-doc-site.html
     - title: Hacker Start-Up Guide
       path: /hackers/hacker-start-up-guide.html
+    - title: Password Best Practices
+      path: /hackers/passwords.html
     - title: Private vs Public Programs
       path: /hackers/private-vs-public-programs.html
 - title: Your Profile
