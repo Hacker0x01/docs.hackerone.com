@@ -22,8 +22,8 @@ Turn off Signal Requirements | Any hacker with any level of Signal will be able 
 ><i>Note: Turning Signal Requirements down or off is better for teams that value having the maximum number of hackers to help find issues.</i>
 
 When hackers don't meet the Signal Requirement:
-* They can submit a capped number of important vulnerability reports.
-* The number of reports they can submit will be capped based on their Signal.
+* They can submit a capped number of vulnerability reports.
+* They are capped to submit only 5 reports every 30 days.
 * The number of capped reports they can submit resets every 30 days.
 
 There is a program limit for capped reports and a total platform limit for reports sent to programs by these hackers. This provides all hackers with the opportunity to participate in a program, even if their Signal doesn't meet the program requirements.
