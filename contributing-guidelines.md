@@ -22,7 +22,7 @@ When adding a new article to the program book, make sure you format the file suc
 `---`
 
 #### Changelog Entry For a New Month
-You can also add a changelog entry for a new month that isn't listed on the changelog yet. To add a changelog entry for a new month, make sure you format the file such that the firs several lines of the markdown file are:
+You can also add a changelog entry for a new month that isn't listed on the changelog yet. To add a changelog entry for a new month, make sure you format the file such that the first several lines of the markdown file are:
 
 `---`<br>
 `title: "Month Year"`<br>
@@ -43,7 +43,7 @@ How do I... | Answer
 Add a link to a page within the docs site of the same book | `[Start H1 Response](start-h1-response.html)` or `[Start H1 Bounty](start-h1-bounty.html)`.
 Add a link to a page within the docs site to an article in another book | `[Start H1 Bounty](/programs/start-h1-bounty.html)`
 Add an image | `![image name](./images/signal-impact-2.png)`
-Referencing the HackerOne blog link | Use `https://hackerone.com/blog` not www.hackerone.com/blog
+Reference the HackerOne blog link | Use `https://hackerone.com/blog` not www.hackerone.com/blog
 
 ### Active Voice
 We use active voice at HackerOne as active voice is more personal and engaging vs. passive voice. In active voice, the subject does or acts upon the verb, while in passive voice, the subject is being acted upon.
@@ -60,7 +60,7 @@ In order to convey a personal and less formal voice, it's best to use contractio
 Contraction - (Yes, please use this!) | Non-Contracted Phrases (Steer away from this)
 ------------------------------------- | -----------------------------------
 can't | cannot
-don't | do no
+don't | do not
 won't | will not
 it's | it is
 they're | they are
