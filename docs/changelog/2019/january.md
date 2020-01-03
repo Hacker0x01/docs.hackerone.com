@@ -25,7 +25,7 @@ Jira users can also now select from multiple projects they want their Jira task 
 ![selecting projects](./images/jan_2019_jira_projects.png)
 
 ### Indian Rupee Payments
-Hackers in India will no longer lose a portion of their bounty to transfer fees as we now support payments to [Indian Rupees](https://hackerone.com/blog/Introducing-Indian-Rupee-payments-Cheaper-and-faster-bank-transfers).
+Hackers in India will no longer lose a portion of their bounty to transfer fees as we now support payments to [Indian Rupees](https://www.hackerone.com/blog/Introducing-Indian-Rupee-payments-Cheaper-and-faster-bank-transfers).
 
 ![adding Indian Rupee](./images/jan_2019_indian_rupee.png)
 

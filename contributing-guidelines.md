@@ -45,13 +45,13 @@ date: "2016-11"
 ---
 ```
 
-### Github Formatting
+### GitHub Formatting
 How do I... | Answer
 ----------- | -------
 Add a link to a page within the docs site of the same book | `[Start H1 Response](start-h1-response.html)` or `[Start H1 Bounty](start-h1-bounty.html)`.
 Add a link to a page within the docs site to an article in another book | `[Start H1 Bounty](/programs/start-h1-bounty.html)`
 Add an image | `![image name](./images/signal-impact-2.png)`
-Reference the HackerOne blog link | Use `https://hackerone.com/blog` not www.hackerone.com/blog
+Reference the HackerOne blog link | Use `https://www.hackerone.com/blog` not www.hackerone.com/blog
 
 ### Active Voice
 We use active voice at HackerOne as active voice is more personal and engaging vs. passive voice. In active voice, the subject does or acts upon the verb, while in passive voice, the subject is being acted upon.

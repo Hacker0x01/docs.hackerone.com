@@ -5,7 +5,7 @@ date: "2015-09"
 ---
 
 ### Vulnerability Coordination Maturity Model
-We introduce the Vulnerability Coordination Maturity Model which helps programs increase their dependence on internet-connected software. Learn more about this model in our [blog post](https://hackerone.com/blog/vulnerability-coordination-maturity-model
+We introduce the Vulnerability Coordination Maturity Model which helps programs increase their dependence on internet-connected software. Learn more about this model in our [blog post](https://www.hackerone.com/blog/vulnerability-coordination-maturity-model
 ).
 ![sep_2015_maturity_model](./images/sep_2015_maturity_model.png)
 
