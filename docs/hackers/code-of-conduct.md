@@ -1,12 +1,10 @@
 ---
-title: "Examples of Misconduct"
-path: "/hackers/examples-of-misconduct.html"
-id: "hackers/examples-of-misconduct"
+title: "Code of Conduct"
+path: "/hackers/code-of-conduct.html"
+id: "hackers/code-of-conduct"
 ---
 
-As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate.
-
-HackerOne doesn't tolerate the following and will ban hackers who violate them:
+As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate. You can read the full [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct). The following are examples of intolerable behaviors that can result in full platform bans:  
 
 ### Extortion Tactics
 HackerOne doesn't tolerate any communication that manipulates a developer by withholding information about a vulnerability. This includes:
