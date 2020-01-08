@@ -39,6 +39,15 @@ Hacktivity only showcases activity for public programs. Hacker activity populate
 
 You and other hackers can also publish your findings from external sources outside of HackerOne. To learn more, see: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html).
 
+### How are Activities Ranked on Hacktivity?
+Activities on each page are ranked differently.
+
+On the **Popular** page, vulnerabilities are ranked primarily by their aggregated upvotes. The vote is weighted slightly more if it comes from a hacker with high Signal. Additionally, each activity gets an initial boost if it is resolved and/or receives an above average bounty.
+
+On the **New** page, activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
+
+If you want to see downvoting, a commenting feature, or a new feature request, send [HackerOne a feature request](mailto:feedback@hackerone.com).
+
 ### Search
 You can search for reports regarding programs and weaknesses you're interested to read about in the search bar to better learn how specific weaknesses were exploited in various programs.
 
@@ -49,11 +58,5 @@ There is currently no downvoting capability, but you can retract your upvote by 
 
 ![hacktivity-2](./images/hacktivity-2-update.png)
 
-### How are Activities Ranked on Hacktivity?
-Activities on each page are ranked differently.
-
-On the **Popular** page, vulnerabilities are ranked primarily by their aggregated upvotes. The vote is weighted slightly more if it comes from a hacker with high Signal. Additionally, each activity gets an initial boost if it is resolved and/or receives an above average bounty.
-
-On the **New** page, activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
-
-If you want to see downvoting, a commenting feature, or a new feature request, send [HackerOne a feature request](mailto:feedback@hackerone.com).
+### Bounty Visibility
+If you don't want to display the bounty amount you've earned on Hacktivity, you can choose to hide your earnings by going to your profile **Settings > Account Preferences** and selecting *Hide* for your bounty earnings.
