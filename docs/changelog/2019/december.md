@@ -10,4 +10,4 @@ To better protect your sensitive information, we now provide a suggested redacti
 ![redaction notification](./images/dec_2019_redaction_notification.png)
 
 ### Ability to Remove Jira References
-Jira users can now remove a Jira reference on a report in case they linked the wrong Jira ticket or they need to escalate the report to Jira again. 
+Jira users can now remove a Jira reference on a report in case they linked the wrong Jira ticket or they need to escalate the report to Jira again.
