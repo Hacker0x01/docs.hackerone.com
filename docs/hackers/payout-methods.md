@@ -15,7 +15,6 @@ Payout Method | Processing Time | Description
 PayPal | Every day at 11:30pm UTC | Payout time is 1-2 days.<br>As soon as the payment is initiated, you'll receive your award instantly, given that your PayPal account is set up to properly receive the amount of money HackerOne is trying to send.</br>
 Bitcoin via Coinbase | Every day at 11pm UTC | Payout time is 1-2 days.<br>As soon as the payment is processed, you'll receive your award instantly.</br>
 Bank Transfer (Currencycloud) | Every weekday at 9am UTC | Payout time is 1-10 days.<br>You can choose between using Normal (local) or Priority (SWIFT) payments. How fast you receive your payout depends on the type of payment you're using as well as your bank. There's cases where hackers have received payments on the same day and cases where hackers have had to wait the full 10 business days. Bank transfers can be done in your own local currency. To convert bounties to your local currency, the mid-market rate is used to convert money. This saves you up to 5% compared to relying on your bank to convert the money to your local currency.</br><br>Make sure your bank isn’t on the sanctions list. Go to https://sanctionssearch.ofac.treas.gov/ to check to see if your bank is on the list. Banks on this list don’t qualify for bank transfers. Examples include VTB and SBERBANK.</br>
-Payoneer | Every weekday at 9am UTC | Functions the same as Currencycloud. <br><br>In order to receive bounties through Payoneer, after registering for a Payoneer account: <br><br>1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences). <br>2. Click **Add payout method**. <br>3. Select **Bank Transfer**. <br>4. Enter your Payoneer account information for the relevant fields.  
 
 ### More Info on Bank Transfers (Currencycloud)
 For bank transfers, we currently support conversions to the following currencies:
@@ -47,3 +46,13 @@ Keep in mind that:
      * Swift payment minimum: $100
      * Local payment minimum: $50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.
+
+### Other Common Payout Methods 
+#### Payoneer
+You can choose Payoneer as your preferred payment provider, which functions the same as Currencycloud. 
+
+In order to receive bounties through Payoneer, after registering for a Payoneer account: 
+1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences). 
+2. Click **Add payout method**.
+3. Select **Bank Transfer**.
+4. Enter your Payoneer account information for the relevant fields.  
