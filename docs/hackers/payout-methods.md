@@ -49,7 +49,7 @@ Keep in mind that:
 
 ### Other Common Payout Methods 
 #### Payoneer
-You can choose Payoneer as your preferred payment provider, which functions the same as Currencycloud. 
+You can choose Payoneer as your preferred payment provider, which functions the same as Bank Transfer (Currencycloud). 
 
 In order to receive bounties through Payoneer, after registering for a Payoneer account: 
 1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences). 
