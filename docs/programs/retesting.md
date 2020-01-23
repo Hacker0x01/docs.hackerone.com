@@ -6,11 +6,12 @@ id: "programs/retesting"
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Asking hackers to verify whether a vulnerability has been fixed is a good way to secure the protection of your asset’s data. You can elect to invite hackers to retest your vulnerabilities to verify fixes. Each hacker that participates in the retest will receive a $50 bounty upon completion.
 
-> Retesting is available as an add-on. To learn more about adding Retesting to your program, contact your account manager. 
+> Retesting is available as an add-on. To learn more about adding Retesting to your program, contact your account manager.
 
 ### How It Works
 To have hackers retest a vulnerability:
-1. Choose a resolved report in your inbox that you want to assign hackers to retest.
+1. Choose the <b><i>Resolved</i></b> report in your inbox that you want to assign hackers to retest. **Note:** Your report must be [closed and marked as Resolved](report-actions.html#close-a-report) in order to retest.
+
 2. Change the action picker to <b>Request retest</b>.
 3. Click <b>Request retest</b>.
 
