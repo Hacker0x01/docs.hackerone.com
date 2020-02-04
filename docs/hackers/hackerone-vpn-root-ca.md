@@ -10,7 +10,7 @@ Refer to these installation and configuration instructions for your platform:
 
 * [Windows](#windows)
 * [macOS](#macos)
-* [Ubuntu/Debian Linux](#ubuntu)
+* [Ubuntu/Debian Linux](#ubuntudebian-linux)
 * [Firefox](#firefox)
 
 ><i>Note: Firefox manages its own trusted certificate list, so you always need to add the root authority certificate to the browser even if you've installed it system wide.</i>
