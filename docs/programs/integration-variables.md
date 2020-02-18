@@ -17,12 +17,12 @@ Variable | Details | Example
 `{{email}}` | The email address of the user creating the Jira issue. |
 `{{escalation_time}}` | The date and time of when the report was escalated to Jira. |
 `{{jira_severity}}` | The severity of the report in Jira mapping. `none` converts to `1` and `critical` converts to `5`. |
-`{{jira_severity_name}}` | The severity name of the report in Jira mapping. Possible values: `none`, `low`, `medium`, `high`, and `critical`. |
 `{{report_id}}` | The ID of the report. |
 `{{report_link}}` | The URL of the report. |
 `{{reporter_link}}` | The URL of the hacker's HackerOne profile. |
 `{{reporter_name}}` | The name of the hacker that reported the vulnerability. This will fall back to the username if the hacker didn't provide their name. |
 `{{reporter_username}}` | The username of the hacker that reported the vulnerability. |
+`{{severity_rating}}` | The severity rating of the report. Possible values: `none`, `low`, `medium`, `high`, and `critical`. |
 `{{submission_date_custom_format}}` | The date the report was created in `DD-MM-YYYY` format. |
 `{{submission_date_y_m_d}}` | The date the report was created in `YYYY-MM-DD` format. |
 `{{submission_date}}` | The date the report was created in `DD/MM/YYYY` format. |
