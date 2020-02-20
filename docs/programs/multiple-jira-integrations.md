@@ -54,7 +54,7 @@ To integrate multiple HackerOne programs to the same Jira instance:
 
 Field | Details
 ----- | --------
-Consumer Key | HackerOne Jira Client
+Consumer Key | HackerOne JIRA Client
 Consumer Name | HackerOne
 Public Key | Copy and paste from the key below
 
