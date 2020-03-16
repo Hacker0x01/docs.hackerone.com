@@ -33,29 +33,29 @@ To set up the integration between PagerDuty and each time a high or critical rep
 6. Edit the code that gets executed when the integration gets triggered by pasting the code below
 
 `var webhook = PD.inputRequest;`
-`var event_type = PD.Trigger;`
-`var severity = webhook.body.data.report.relationships.severity;`
-`var severity_rating = severity ? severity.data.attributes.rating : null;`
+<br>`var event_type = PD.Trigger;`
+<br>`var severity = webhook.body.data.report.relationships.severity;`
+<br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
 
-`if (severity_rating == "high" || severity_rating == "critical") {
-  var normalized_event = {
-    event_type: event_type,
-    incident_key: webhook.body.data.report.id,
-    client: 'HackerOne',
-    client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,
-    description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',
-    details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title
-  };
-  PD.emitGenericEvents([normalized_event]);
-}
-`
+`if (severity_rating == "high" || severity_rating == "critical") {`
+  <br> `var normalized_event = {`
+    <br> `event_type: event_type,`
+    <br> `incident_key: webhook.body.data.report.id,`
+    <br> `client: 'HackerOne',`
+    <br> `client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
+    <br>`description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
+    <br> `details: 'The '+ severity_rating + ' report title is ' + <Bwebhook.body.data.report.attributes.title`
+  <br> `};`
+  <br> `PD.emitGenericEvents([normalized_event]);`
+<br>`}`
+
 
 If you want to be notified for all reports that get created (regardless of severity) you can use the following code instead:
 
 `var webhook = PD.inputRequest;`
-`var event_type = PD.Trigger;`
-`var severity = webhook.body.data.report.relationships.severity;`
-`var severity_rating = severity ? severity.data.attributes.rating : null;`
+<br>`var event_type = PD.Trigger;`
+<br>`var severity = webhook.body.data.report.relationships.severity;`
+<br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
 
 `var normalized_event = {
   event_type: event_type,
