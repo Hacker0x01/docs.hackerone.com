@@ -76,6 +76,6 @@ If you want to be notified for all reports that get created (regardless of sever
 12. Paste the URL that was copied from the Pagerduty integration page in step 8.
 13. Select **Report created** and **Report triaged** as the events you want to trigger the webhook on.
 14. *(Optional)* Select any other events you want to trigger the webhook on.
-15. Click **Add webhook** to save the webhook. 
+15. Click **Add webhook** to save the webhook.
 
 Each new and triaged report that has a high or critical severity will now create an incident on Pagerduty and page the appropriate teams based on your Pagerduty policies.
