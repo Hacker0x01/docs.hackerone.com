@@ -57,14 +57,14 @@ If you want to be notified for all reports that get created (regardless of sever
 <br>`var severity = webhook.body.data.report.relationships.severity;`
 <br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
 
-`var normalized_event = {
-  event_type: event_type,
-  incident_key: webhook.body.data.report.id,
-  client: 'HackerOne',
-  client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,
-  description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',
-  details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title
-};`
+`var normalized_event = {`
+  <br> `event_type: event_type,`
+  <br> `incident_key: webhook.body.data.report.id,`
+  <br> `client: 'HackerOne',`
+  <br> `client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
+  <br> `description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
+  <br> `details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
+<br> `};`
 
 `PD.emitGenericEvents([normalized_event]);`
 
