@@ -58,17 +58,17 @@ If you want to be notified for all reports that get created (regardless of sever
 <br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
 
 `var normalized_event = {`
-  <br> `event_type: event_type,`
-  <br> `incident_key: webhook.body.data.report.id,`
-  <br> `client: 'HackerOne',`
-  <br> `client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
-  <br> `description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
-  <br> `details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`event_type: event_type,`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`incident_key: webhook.body.data.report.id,`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client: 'HackerOne',`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
 <br> `};`
 
 `PD.emitGenericEvents([normalized_event]);`
 
-7. Click **Save Changes**. You’ll be redirected to the View page of the integration.
+7. Click **Save Changes**. You’ll be redirected to the *View* page of the integration.
 8. Copy the *Integration URL* on the view page.
 9. Log in to your account on hackerone.com.
 10. Navigate to your webhooks settings on **Program Settings > Program > Webhooks**.
@@ -78,4 +78,4 @@ If you want to be notified for all reports that get created (regardless of sever
 14. *(Optional)* Select any other events you want to trigger the webhook on.
 15. Click **Add webhook** to save the webhook.
 
-Each new and triaged report that has a high or critical severity will now create an incident on Pagerduty and page the appropriate teams based on your Pagerduty policies.
+Each new and triaged report that has a high or critical severity will now create an incident on PagerDuty and page the appropriate teams based on your PagerDuty policies.
