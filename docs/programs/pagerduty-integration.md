@@ -39,14 +39,14 @@ To set up the integration between PagerDuty and each time a high or critical rep
 
 `if (severity_rating == "high" || severity_rating == "critical") {`
   <br> `var normalized_event = {`
-    <br>      `event_type: event_type,`
-    <br>      `incident_key: webhook.body.data.report.id,`
-    <br>      `client: 'HackerOne',`
-    <br>      `client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
-    <br>      `description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
-    <br>      `details: 'The '+ severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
-  <br>        `};`
-  <br>        `PD.emitGenericEvents([normalized_event]);`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`event_type: event_type,`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`incident_key: webhook.body.data.report.id,`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client: 'HackerOne',`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`details: 'The '+ severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`};`
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`PD.emitGenericEvents([normalized_event]);`
 <br>`}`
 
 
