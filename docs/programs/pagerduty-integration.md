@@ -13,7 +13,7 @@ id: "programs/pagerduty-integration"
 }
 </style>
 
-The PagerDuty integration enables incidents to be created each time a new high or critical report is submitted or triaged onto HackerOne.
+The PagerDuty integration enables incidents to be created each time a new (high or critical severity) report is submitted or triaged onto HackerOne.
 
 <div class="betanote" markdown="1">
 <b>Note:</b> This integration is currently in beta and only available to select programs. If you’d like to use this integration please reach out to your program manager.
