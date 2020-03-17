@@ -4,15 +4,6 @@ path: "/programs/pagerduty-integration.html"
 id: "programs/pagerduty-integration"
 ---
 
-<style>
-.contents {
-  margin-left: 1.45rem;
-  margin-right: 1.45rem;
-  border-radius: 0.3em;
-  width: 60%;
-}
-</style>
-
 The PagerDuty integration enables incidents to be created each time a new (high or critical severity) report is submitted or triaged onto HackerOne.
 
 <div class="betanote" markdown="1">
