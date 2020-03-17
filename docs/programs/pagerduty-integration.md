@@ -41,7 +41,7 @@ if (severity_rating == "high" || severity_rating == "critical") {
 }
 ```
 
-If you want to be notified for all reports that get created (regardless of severity) you can use the following code instead:
+If you want to be notified for all reports that get created or triaged (regardless of severity) you can use the following code instead:
 
 ```
 var webhook = PD.inputRequest;
