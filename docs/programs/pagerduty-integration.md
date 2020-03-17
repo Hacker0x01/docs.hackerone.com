@@ -21,8 +21,6 @@ The PagerDuty integration enables incidents to be created each time a new high o
 
 ### Set up
 
-> **Note:** You can tailor the configuration of your integration for different use cases by adjusting the steps below.
-
 To set up the integration between PagerDuty and each time a high or critical report is created on HackerOne:
 
 1. Navigate to **Configuration > Services** on PagerDuty.
@@ -81,4 +79,4 @@ PD.emitGenericEvents([normalized_event]);
 14. *(Optional)* Select any other events you want to trigger the webhook on.
 15. Click **Add webhook** to save the webhook.
 
-Each new and triaged report that has a high or critical severity will now create an incident on PagerDuty and page the appropriate teams based on your PagerDuty policies.
+Each new and triaged report that has a high or critical severity will now create an incident on PagerDuty and page the appropriate teams based on your PagerDuty policies. You can tailor the configuration of your integration for different use cases by adjusting the events in step 13.
