@@ -38,7 +38,7 @@ Both hackers and program members can request for disclosure. To request for disc
 Option | Details
 ------ | -------
 Full | Upon disclosure, the full contents of the report are visible including the:<li>Vulnerability information</li><li>Summary</li><li>Timeline (this includes comments and attachments)</li><br>*Note: Internal comments are kept hidden.*  
-Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information.
+Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. <br><br>Hackers still have the ability to add a hacker hacker summary to the report unless the report is [locked](locking-reports.html).
 
 5. *(Optional)* Enter a comment to describe your reasons for disclosure.
 
@@ -88,3 +88,8 @@ This diagram illustrates HackerOne's disclosure process:
 ![disclosure flowchart](./images/disclosure-4.png)
 
 For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
+
+### Hacker Interactions with Disclosed Reports
+After reports have been disclosed, hackers can still add their own report summary in the *hacker summary** section. Hackers can only edit the hacker summary portion of the report as they won't be able to edit the official program report summary.
+
+Locking reports will prevent hackers from being able to add or edit their hacker summary. If a hacker already provided a summary for the report, you can't remove it from the report.
