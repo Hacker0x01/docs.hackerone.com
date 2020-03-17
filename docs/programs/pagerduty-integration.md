@@ -32,42 +32,45 @@ To set up the integration between PagerDuty and each time a high or critical rep
 5. Click the settings gear next to the integration and select **Edit**.
 6. Edit the code that gets executed when the integration gets triggered by pasting the code below
 
-`var webhook = PD.inputRequest;`
-<br>`var event_type = PD.Trigger;`
-<br>`var severity = webhook.body.data.report.relationships.severity;`
-<br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
+```
+var webhook = PD.inputRequest;
+var event_type = PD.Trigger;
+var severity = webhook.body.data.report.relationships.severity;
+var severity_rating = severity ? severity.data.attributes.rating : null;
 
-`if (severity_rating == "high" || severity_rating == "critical") {`
-  <br> `var normalized_event = {`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`event_type: event_type,`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`incident_key: webhook.body.data.report.id,`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client: 'HackerOne',`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`details: 'The '+ severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`};`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`PD.emitGenericEvents([normalized_event]);`
-<br>`}`
+if (severity_rating == "high" || severity_rating == "critical") {
+  var normalized_event = {
+    event_type: event_type,
+    incident_key: webhook.body.data.report.id,
+    client: 'HackerOne',
+    client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,
+    description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',
+    details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title
+  };
 
+  PD.emitGenericEvents([normalized_event]);
+}
+```
 
 If you want to be notified for all reports that get created (regardless of severity) you can use the following code instead:
 
-`var webhook = PD.inputRequest;`
-<br>`var event_type = PD.Trigger;`
-<br>`var severity = webhook.body.data.report.relationships.severity;`
-<br>`var severity_rating = severity ? severity.data.attributes.rating : null;`
+```
+var webhook = PD.inputRequest;
+var event_type = PD.Trigger;
+var severity = webhook.body.data.report.relationships.severity;
+var severity_rating = severity ? severity.data.attributes.rating : null;
 
-`var normalized_event = {`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`event_type: event_type,`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`incident_key: webhook.body.data.report.id,`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client: 'HackerOne',`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',`
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title`
-<br> `};`
+var normalized_event = {
+  event_type: event_type,
+  incident_key: webhook.body.data.report.id,
+  client: 'HackerOne',
+  client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,
+  description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',
+  details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title
+};
 
-`PD.emitGenericEvents([normalized_event]);`
-
+PD.emitGenericEvents([normalized_event]);
+```
 7. Click **Save Changes**. You’ll be redirected to the *View* page of the integration.
 8. Copy the *Integration URL* on the view page.
 9. Log in to your account on hackerone.com.
