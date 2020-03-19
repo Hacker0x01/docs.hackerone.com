@@ -4,7 +4,7 @@ path: "/programs/response-target-benchmarks.html"
 id: "programs/response-target-benchmarks"
 ---
 
-[Response Target](response-target-metrics.html) Benchmarks enable you to compare your response times to those of other programs. This will help you see what areas you need to focus on to improve your program. You can specify the kinds of programs you want to compare your program to by selecting different program requirements and creating benchmarks.
+[Response Target](response-targets.html) Benchmarks enable you to compare your response times to those of other programs. This will help you see what areas you need to focus on to improve your program. You can specify the kinds of programs you want to compare your program to by selecting different program requirements and creating benchmarks.
 
 > **Note:** This feature is currently only available for Enterprise programs.
 
