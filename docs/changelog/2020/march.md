@@ -24,6 +24,8 @@ Programs can add asset labels to these categories:
 
 ![asset labeling ui](./images/march_2020_asset_labeling.png)
 
+The labels will appear on your program policy page under *Scopes*.  
+
 ![asset labels on HackerOne](./images/march_2020_asset_labels.png)
 
 ### Updates to CVE IDs
