@@ -10,16 +10,13 @@ If you have [signal requirements](signal-requirements.html) set up for your prog
 
 ### Set Up an Embedded Submission Form  
 To have an embedded submission form on your website:
-1. Go to <b>Program Settings > Integrations > Embedded Submission</b>.
+1. Go to <b>Program Settings > Embedded Submission Form</b>.
 
-![embedded-submissions-1](./images/embedded-submissions-1.png)
-
-2. Click <b>Set up</b>.
-3. Identify the domains where you want the submission form to be embedded on the <b>Embedded Submission Configuration</b> form. You must add a Fully Qualified Domain Name (FQDN). You can add up to 100 domains.
+2. Identify the domains where you want the submission form to be embedded on the <b>Embedded Submission Configuration</b> form. You must add a Fully Qualified Domain Name (FQDN). You can add up to 100 domains.
 
 ![embedded-submissions-2](./images/embedded-submissions-2.png)
 
-4. Copy and paste the script tag to your website. The script tag is used to include a JavaScript file served by HackerOne to generate the iframe necessary to embed the report submission page.  As the script tag is replaced by the iframe, you can insert the tag wherever you want the iframe to be included.
+3. Copy and paste the script tag to your website. The script tag is used to include a JavaScript file served by HackerOne to generate the iframe necessary to embed the report submission page.  As the script tag is replaced by the iframe, you can insert the tag wherever you want the iframe to be included.
 
 ![embedded-submissions-3](./images/embedded-submissions-3.png)
 
