@@ -234,10 +234,6 @@
       path: /programs/banning-hackers.html
     - title: Hacker Email Alias
       path: /programs/hacker-email-alias.html
-    - title: Email Forwarding
-      path: /programs/email-forwarding.html
-    - title: Embedded Submission Form
-      path: /programs/embedded-submissions-form.html
     - title: Hacker Mediation
       path: /programs/hacker-mediation.html
     - title: Hacker Reviews
@@ -251,3 +247,9 @@
       items:
         - title: FAQs
           path: /programs/vpn-faqs.html
+- title: Helpful Tools 
+  items:
+    - title: Email Forwarding
+      path: /programs/email-forwarding.html
+    - title: Embedded Submission Form
+      path: /programs/embedded-submissions-form.html
