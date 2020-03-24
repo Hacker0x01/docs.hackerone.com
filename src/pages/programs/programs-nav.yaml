@@ -153,10 +153,6 @@
       path: /programs/supported-integrations.html
     - title: Integration Variables
       path: /programs/integration-variables.html
-    - title: Email Forwarding
-      path: /programs/email-forwarding.html
-    - title: Embedded Submission Form
-      path: /programs/embedded-submissions-form.html
     - title: API Tokens
       path: /programs/api-tokens.html
     - title: Assembla
@@ -238,6 +234,10 @@
       path: /programs/banning-hackers.html
     - title: Hacker Email Alias
       path: /programs/hacker-email-alias.html
+    - title: Email Forwarding
+      path: /programs/email-forwarding.html
+    - title: Embedded Submission Form
+      path: /programs/embedded-submissions-form.html
     - title: Hacker Mediation
       path: /programs/hacker-mediation.html
     - title: Hacker Reviews
