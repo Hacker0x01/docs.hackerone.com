@@ -4,6 +4,25 @@ path: "/changelog/2020/march"
 date: "2020-03"
 ---
 
+### Asset Labeling
+Programs can now add specific labels pertaining to their assets. These asset labels provide more granular data about each program and the assets associated with it, which will help with matching hackers to specific programs.
+
+Programs can add asset labels to these categories:
+* Coding Language
+* Framework
+* Cloud and Infrastructure
+* Database
+* Content Management System
+* Country
+* Spoken Language
+* Cryptocurrency
+
+![asset labeling ui](./images/march_2020_asset_labeling.png)
+
+The labels will appear on your program policy page under *Scopes*.  
+
+![asset labels on HackerOne](./images/march_2020_asset_labels.png)
+
 ### Response Target Benchmarks
 We introduce the new [response target benchmarks](/programs/response-target-benchmarks.html) dashboard that enables programs to compare their response times to those of other programs. This will help programs see what areas they need to focus on to improve their program.
 
