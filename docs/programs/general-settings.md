@@ -1,14 +1,10 @@
 ---
-title: "Start HackerOne Bounty"
-path: "/programs/start-h1-bounty.html"
-id: "programs/start-h1-bounty"
+title: "General Settings"
+path: "/programs/general-settings.html"
+id: "programs/general-settings"
 ---
 
-Bounty programs incentivize hackers to test for critical vulnerabilities. You can choose between 2 types of programs:
-* A managed program enables HackerOne to design, manage, and support your program from end to end.
-* A hosted program enables you to run and manage your own program.
-
-If you elect to **Start H1 Bounty**, to get your bounty program up and running, follow these steps:
+To change the settings of your bounty program follow these steps:
 
 1. Configure your general settings under **Settings > General**. You can set up these settings:
 

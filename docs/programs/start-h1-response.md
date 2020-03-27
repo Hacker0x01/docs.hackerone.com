@@ -1,5 +1,5 @@
 ---
-title: "Start HackerOne Response"
+title: "Response Programs"
 path: "/programs/start-h1-response.html"
 id: "programs/start-h1-response"
 ---

@@ -18,6 +18,8 @@
       path: /programs/using-markdown.html
 - title: Your Program
   items:
+    - title: General Settings
+      path: /programs/general-settings.html
     - title: Security Page
       path: /programs/security-page.html
       items:
@@ -96,6 +98,8 @@
       path: /programs/credential-management.html
     - title: Notifications
       path: /programs/notifications.html
+    - title: Response Programs
+      path: /programs/start-h1-response.html
 - title: Reports
   items:
     - title: Inbox
