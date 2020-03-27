@@ -4,15 +4,10 @@
       path: /programs.html
     - title: Edit the Doc Site
       path: /programs/edit-the-doc-site.html
-    - title: Overview
-      path: /programs/overview.html
-    - title: Program Start-Up Guide
-      path: /programs/program-start-up-guide.html
-      items:
-        - title: Start HackerOne Response
-          path: /programs/start-h1-response.html
-        - title: Start HackerOne Bounty
-          path: /programs/start-h1-bounty.html
+    - title: Product Offerings
+      path: /programs/product-offerings.html
+    - title: Program Starting Point
+      path: /programs/program-starting-point.html
     - title: Private vs Public Programs
       path: /programs/private-vs-public-programs.html
     - title: Parent/Child Programs
@@ -247,7 +242,7 @@
       items:
         - title: FAQs
           path: /programs/vpn-faqs.html
-- title: Helpful Tools 
+- title: Helpful Tools
   items:
     - title: Email Forwarding
       path: /programs/email-forwarding.html

@@ -1,12 +1,12 @@
 ---
-title: "Overview"
+title: "Product Overview"
 path: "/programs/overview.html"
 id: "programs/overview"
 ---
 
 HackerOne is the #1 hacker-powered security platform that helps organizations find and fix critical vulnerabilities before they're criminally exploited.
 
-HackerOne offers 3 different products that you can choose from:
+HackerOne offers 4 different products that you can choose from:
 * HackerOne Response
 * HackerOne Challenge
 * HackerOne Bounty
