@@ -1,7 +1,7 @@
 ---
-title: "Program Start-Up Process"
-path: "/programs/program-start-up-guide.html"
-id: "programs/program-start-up-guide"
+title: "Program Starting Point"
+path: "/programs/program-starting-point.html"
+id: "programs/program-starting-point"
 ---
 
 Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:
@@ -12,4 +12,4 @@ Congratulations on deciding to set up your hacker-powered security program on Ha
 4. Fill out all fields on the form.
 5. Click **Submit**.
 
-A HackerOne sales representative will be in touch with you to help guide you through the process in setting up your HackerOne program. 
+A HackerOne sales representative will be in touch with you to help guide you through the process in setting up your HackerOne program.
