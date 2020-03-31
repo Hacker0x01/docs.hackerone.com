@@ -4,6 +4,14 @@ path: "/changelog/2020/march"
 date: "2020-03"
 ---
 
+### Dark Mode
+You can now customize your HackerOne interface by choosing to view everything in dark mode. You can toggle your view experience by going to your profile drop-down.
+
+![dark mode drop-down](./images/march_2020_dark_mode_3.png)
+
+![dark mode hacktivity](./images/march_2020_dark_mode.png)
+
+
 ### Asset Labeling
 Programs can now add specific labels pertaining to their assets. These asset labels provide more granular data about each program and the assets associated with it, which will help with matching hackers to specific programs.
 
