@@ -55,6 +55,16 @@ Generally, if the charity accepts donations in USD through PayPal or Credit Card
 
 Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. At this time, we can only donate bounties in full as we can't do partial or split donations.
 
+##### Donating through Bounty Splitting
+You can also donate your bounties through [bounty splitting](payments.html#bounty-splitting). To do this:
+
+1. Follow [steps 1-2](payments.html#bounty-splitting) in the bounty splitting section above.
+2. Enter `hackforgood` as the username you want to collaborate with.
+3. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>. The explanation for splitting is in [step 4](payments.html#bounty-splitting).
+4. Click <b>Invite</b>.
+
+Once a month, HackerOne will donate to the charity of our choice. Currently, the charity is set for The World Health Organization COVID-19 Solidarity Response Fund.
+
 ### Swag
 
 Your program can elect to award you with various swag in addition to or instead of bounties. Swag includes merchandise as well as free coupons or vouchers for the services or products the program offers. Some programs also offer to host hackers near their office or cover admissions fees to conferences you're invited to attend.
