@@ -18,7 +18,7 @@ You can only lock closed reports. Program members with report management permiss
 
 ![lock-report](./images/lock-report.png)
 
-After a report has been locked, the hacker can no longer comment on the report, but can still request or agree to public disclosure or request mediation. Your program team members can still comment both publicly and privately on the report. 
+After a report has been locked, the hacker can no longer comment on the report or add a hacker summary, but can still request or agree to public disclosure or request mediation. Your program team members can still comment both publicly and privately on the report.
 
 ![lock-report-2](./images/lock-report-2.png)
 

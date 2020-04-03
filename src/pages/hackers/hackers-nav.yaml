@@ -34,6 +34,8 @@
           path: /hackers/external-payments.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
+    - title: Following
+      path: /hackers/following.html
     - title: Notifications
       path: /hackers/manage-notifications.html
     - title: Background Checks
