@@ -5,7 +5,7 @@ date: "2020-04"
 ---
 
 ### Hacker Following
-In order to keep up-to-date with your favorite hackers, we introduce the new Hacker Following feature. This enables you to keep track of your favorite hackers and to quickly see their activity on HackerOne.
+In order to keep up-to-date with your favorite hackers, we introduce the new [Hacker Following](/hackers/following.html) feature. This enables you to keep track of your favorite hackers and to quickly see their activity on HackerOne.
 
 ![hacker following](./images/april_2020_following.png)
 
