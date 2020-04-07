@@ -1,12 +1,21 @@
 ---
-title: "Payout Methods"
+title: "Payout Preferences"
 path: "/hackers/payout-methods.html"
 id: "hackers/payout-methods"
 ---
 
-As hackers are awarded bounties every day, HackerOne initiates the payment process each day. Depending on which of the 3 payout methods you elect, payments are processed at different times each day, and the expected retrieval time of your monetary award also varies.
+You can manage your payout settings by going to your profile's <b>[Settings > Payout Methods](https://hackerone.com/settings/payment_preferences)</b>.
 
-Go to your profile's <b>[Settings > Payout Methods](https://hackerone.com/settings/payment_preferences)</b> to add or remove payout methods.
+You can choose between these 2 processing times in receiving your payouts:
+
+Option | Details
+------ | --------
+Daily | Your payouts will be processed daily.
+Monthly | Your payouts will be processed on the 28th of every month. <br><br>If the 28th falls on a weekend, the payout will be processed on the next business day. If February 28th is a Sunday, the payout will be processed on March 1. <br><br>*Charity payments aren't able to be processed monthly.*
+
+You can also choose between 3 payout methods.
+
+Depending on which of the 3 payout methods you elect, payments are processed at different times each day, and the expected retrieval time of your monetary award also varies depending on the method.
 
 HackerOne offers these 3 payout methods for monetary awards:
 
@@ -47,12 +56,12 @@ Keep in mind that:
      * Local payment minimum: $50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.
 
-### Other Common Payout Methods 
+### Other Common Payout Methods
 #### Payoneer
-You can choose Payoneer as your preferred payment provider, which functions the same as Bank Transfer (Currencycloud). 
+You can choose Payoneer as your preferred payment provider, which functions the same as Bank Transfer (Currencycloud).
 
-In order to receive bounties through Payoneer, after registering for a Payoneer account: 
-1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences). 
+In order to receive bounties through Payoneer, after registering for a Payoneer account:
+1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences).
 2. Click **Add payout method**.
 3. Select **Bank Transfer**.
 4. Enter your Payoneer account information for the relevant fields.  

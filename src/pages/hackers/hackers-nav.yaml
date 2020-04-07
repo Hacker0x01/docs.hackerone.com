@@ -26,7 +26,7 @@
     - title: Payments
       path: /hackers/payments.html
       items:
-        - title: Payout Methods
+        - title: Payout Preferences
           path: /hackers/payout-methods.html
         - title: Tax Forms
           path: /hackers/tax-forms.html

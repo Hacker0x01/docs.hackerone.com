@@ -13,6 +13,8 @@ id: "hackers/payments"
 }
 </style>
 
+You can receive payments through bounties, swag, and bonuses.
+
 ### Bounties
 
 A bounty is money you get rewarded with for reported and resolved bugs. They're used to attract the best hackers and to keep them incentivized to hack their programs. Bounties are used to encourage you to focus on particular assets by altering the reward amount for different vulnerability types. You won't get rewarded for every report you send in, but only for useful, valid reports.
