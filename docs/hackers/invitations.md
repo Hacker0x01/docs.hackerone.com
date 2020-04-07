@@ -37,10 +37,12 @@ To choose when to receive invitations to private programs, you can navigate to *
 
 You can choose from these options:
 
-Option | Detail
+Field | Detail
 ------ | ------
-Always | Receive invitations for every private program you're invited to.
-Only bug bounty programs | Only receive invitations for private programs that award bounties.
-Never | Exclude yourself from receiving invitations from any private program.
+I want to receive invitations to private programs | Select *yes* to receive invitations from private programs.
+Pause private program invitations | Select *yes* to stop receiving invitations from private programs.
+Pause private program invitations until | Enter the date you want to stop receiving invitations until.  
+Cryptocurrency preferences | Select *yes* to opt-out from receiving cryptocurrency program invitations. <br><br>*This field is currently in beta*
+Bounty preferences | Select *yes* to only receive invitations to programs that award a bounty. <br><br>*(Currently in beta)* Move the slider to indicate the minimum bounty amount for programs you’d like to receive invitations from.
 
-![invitation-hackers-1](./images/invitations-hackers-1.png)
+![invitation-preferences](./images/invitation-preferences.png)
