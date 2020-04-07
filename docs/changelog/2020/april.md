@@ -4,6 +4,16 @@ path: "/changelog/2020/april"
 date: "2020-04"
 ---
 
+### Monthly Payouts
+Hackers can now choose to receive their [payouts](/hackers/payout-methods.html) monthly instead of daily, so that they can receive all their payments from the month in 1 batch payment.
+
+![payout settings options](./images/april_2020_monthly_payouts.png)
+
+### Revamped Invitation Preferences
+We've revamped the [Invitation Preferences](/hackers/invitations.html#invitation-preferences) page with more options to specify and control your invitation settings. 
+
+![invitation preferences](./images/april_2020_invitation_preferences.png)
+
 ### Hacker Following
 In order to keep up-to-date with your favorite hackers, we introduce the new [Hacker Following](/hackers/following.html) feature. This enables you to keep track of your favorite hackers and to quickly see their activity on HackerOne.
 
