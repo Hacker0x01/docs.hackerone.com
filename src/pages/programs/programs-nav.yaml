@@ -246,11 +246,13 @@
       items:
         - title: FAQs
           path: /programs/vpn-faqs.html
+- title: Pentests
+  path: /programs/pentests.html
 - title: Helpful Tools
   items:
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Embedded Submission Form
       path: /programs/embedded-submissions-form.html
-    - title: Slack Shared Channels 
+    - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
