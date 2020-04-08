@@ -1,5 +1,5 @@
 ---
-title: "Two-Factor Authentication"
+title: "Thacked"
 path: "/programs/two-factor-authentication.html"
 id: "programs/two-factor-authentication"
 ---
