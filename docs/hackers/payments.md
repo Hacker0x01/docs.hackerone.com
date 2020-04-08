@@ -57,7 +57,7 @@ Generally, if the charity accepts donations in USD through PayPal or Credit Card
 
 Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. At this time, we can only donate bounties in full as we can't do partial or split donations.
 
-##### Donating through Bounty Splitting
+#### Donating through Bounty Splitting
 You can also donate your bounties through [bounty splitting](payments.html#bounty-splitting). To do this:
 
 1. Follow [steps 1-2](payments.html#bounty-splitting) in the bounty splitting section above.
