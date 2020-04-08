@@ -25,6 +25,10 @@ A private, project-based, and time-bound vulnerability assessment program. Chall
 ### HackerOne Bounty
 A program where trusted hackers are incentivized to continuously test for critical vulnerabilities. Bounty programs can be private and invite-only or fully public, and all incentives will reflect the organization’s priorities.
 
+You can choose between 2 types of programs:
+* A managed program enables HackerOne to design, manage, and support your program from end to end.
+* A hosted program enables you to run and manage your own program.
+
 ![overview-3](./images/overview-3.png)
 
 ### HackerOne Clear
@@ -34,5 +38,5 @@ A program that requires proven hackers to be background-checked in order to part
 
 ### Next Steps
 If you've decided to:
-* Start a HackerOne Bounty or Response program, see: [Program Start-Up Guide](program-start-up-guide.html).
+* Start a HackerOne Bounty or Response program, see: [Program Starting Point](program-starting-point.html).
 * Start a HackerOne Challenge program, send a note to challenge@hackerone.com.
