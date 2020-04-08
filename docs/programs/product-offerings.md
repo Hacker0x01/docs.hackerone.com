@@ -11,6 +11,7 @@ HackerOne offers 4 different products that you can choose from:
 * HackerOne Challenge
 * HackerOne Bounty
 * HackerOne Clear
+* HackerOne Pentests
 
 ### HackerOne Response
 Establish an ISO 29147 compliant disclosure policy to safely receive and act on vulnerabilities discovered by external third-parties. This welcomes a "See Something, Say Something" process that helps ensure that security reports end up with your security team instead of unreliable channels like social media.  
@@ -35,6 +36,11 @@ You can choose between 2 types of programs:
 A program that requires proven hackers to be background-checked in order to participate in them. Only hackers that are background-checked are able to participate in such programs due to the sensitive nature of their systems.
 
 ![HackerOne Clear overview](./images/overview-4.png)
+
+### HackerOne Pentests
+Authorized hackers simulate a cyberattack on a specific application to test how secure the application is. HackerOne pentests are performed by select hackers with skills and experience from the HackerOne community that best match your applications in scope.
+
+![HackerOne Pentests](./images/hackerone-pentests.png)
 
 ### Next Steps
 If you've decided to:
