@@ -38,7 +38,7 @@ A program that requires proven hackers to be background-checked in order to part
 ![HackerOne Clear overview](./images/overview-4.png)
 
 ### HackerOne Pentests
-Authorized hackers simulate a cyberattack on a specific application to test how secure the application is. HackerOne pentests are performed by select hackers with skills and experience from the HackerOne community that best match your applications in scope.
+Authorized hackers simulate a cyberattack on a specific application to test how secure the application is. HackerOne pentests are performed by select hackers from the HackerOne community with skills and experience that best match your applications in scope.
 
 ![HackerOne Pentests](./images/hackerone-pentests.png)
 
