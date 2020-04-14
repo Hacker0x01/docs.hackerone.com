@@ -19,6 +19,8 @@ Hackers that have already submitted past reports before 2FA was required will st
 ### Enabling Bounty Splitting
 [Bounty splitting](/hackers/payments.html#bounty-splitting) enables hackers to split the bounty with other hackers that helped collaborate on a report. This enables each hacker to be rewarded for their findings on the report.  
 
+> **Note:** Bounty splitting can only be enabled if your program uses the [prepayment](billing.html) billing option.
+
 To enable bounty splitting for your program:
 1. Go to <b>Program Settings > Program > Submission</b>.
 2. Click the toggle so that it's set to <b>Yes</b> for <b>Enable bounty splitting</b>.
