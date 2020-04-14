@@ -133,6 +133,8 @@
       items:
         - title: Limiting Disclosed Information
           path: /programs/limiting-disclosed-information.html
+    - title: Retesting
+      path: /programs/retesting.html
     - title: Automation
       path: /programs/automation.html
       items:
