@@ -19,7 +19,7 @@ Clear verified finders are invited to your program through the [invitation](http
 ![Advanced Vetting hacker section in the UI](./images/advanced-vetting-1.png)
 
 ### How background checks work
-HackerOne partners with Sterling Talent Solutions to conduct all global background checks. For all countries, identification document verification and the maximum criminal background check allowed by law are performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
+HackerOne partners with Sterling Talent Solutions to conduct all global background checks. For all countries, the maximum criminal background check allowed by law is performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
 
 For finders based in the United States, these investigations are performed:
 
