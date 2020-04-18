@@ -1,6 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
-import { Link, withPrefix } from "gatsby-link";
+import { withPrefix } from "gatsby-link";
 import GatsbyConfig from "../../../gatsby-config";
 
 import Sidebar from "../../components/sidebar/sidebar";
@@ -13,7 +13,7 @@ const findActiveSectionByPath = (pathname, sections) => {
   let activeSection;
 
   sections.forEach(section => {
-    const match = section.items.some(
+    match = section.items.some(
       item =>
         pathname === withPrefix(item.path) ||
         (item.items &&
