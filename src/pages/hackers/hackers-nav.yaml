@@ -5,6 +5,8 @@
       items:
         - title: Edit the Doc Site
           path: /hackers/edit-the-doc-site.html
+    - title: Hacker Success Guide
+      path: /hackers/hacker-success-guide.html
     - title: Create an Account
       path: /hackers/create-an-account.html
     - title: Password Best Practices
