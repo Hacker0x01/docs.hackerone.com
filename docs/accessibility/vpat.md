@@ -119,7 +119,7 @@ Notes: Section removed.  Not applicable.  The HackerOne Platform is a web-only a
 ### Chapter 6: [Support Documentation and Services](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#601-general)
 Notes: Section removed.  Not applicable.  The HackerOne Platform is a web-only application.
 
-### Legal Disclaimer:
+### Legal Disclaimer
 This document is provided for information purposes only and the contents hereof are subject to change without notice. HackerOne does not warrant that this document is error free, nor does it provide any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. HackerOne specifically disclaims any liability with respect to this document and no contractual obligations are formed either directly or indirectly by this document. HackerOne further makes no representation concerning the ability of assistive technologies or other products to interoperate with HackerOne products.
 
 [^1]: "Voluntary Product Accessibility Template" and "VPAT" are registered service marks of the Information Technology Industry Council (ITI).
