@@ -1,7 +1,7 @@
 ---
-title: "Hacker Start-Up Guide"
-path: "/hackers/hacker-start-up-guide.html"
-id: "hackers/hacker-start-up-guide"
+title: "Create an Account"
+path: "/hackers/create-an-account.html"
+id: "hackers/create-an-account"
 ---
 
 Congratulations on deciding to use HackerOne as your platform in submitting vulnerabilities! Here are the steps that'll get you up and hacking:
