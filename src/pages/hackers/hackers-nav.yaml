@@ -2,8 +2,9 @@
   items:
     - title: Welcome
       path: /hackers.html
-    - title: Edit the Doc Site
-      path: /hackers/edit-the-doc-site.html
+      items:
+        - title: Edit the Doc Site
+          path: /hackers/edit-the-doc-site.html
     - title: Create an Account
       path: /hackers/create-an-account.html
     - title: Password Best Practices
