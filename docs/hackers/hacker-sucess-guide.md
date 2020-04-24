@@ -24,14 +24,7 @@ New to hacking or want to sharpen your skills? We’ve created this leveling up 
    * For starters, we suggest: IBM, GM, DoD, and Verizon Media as good programs to start with.
 10. Start hacking and apply all that you’ve learned from Hacker101.
 
-> **Helpful tips:** Keep in mind that there are a lot of differences between hacking in the CTF and hacking in an actual bug bounty program. We understand that the scope is much larger when hacking in a live program, and that it’s hard figuring out where to start or look, but we encourage you to just keep practicing. Here are some recommended reads and resources that may help in your journey to hacking:
-* *Web Hacking 101* by Peter Yaworski
-* *The Web Application Hacker's Handbook* by Dafydd Stuttard and Marcus Pinto
-* *The Hacker Playbook 2: Practical Guide To Penetration Testing* by Peter Kim
-* *Hacking: The Art of Exploitation* by Jon Erickson
-* *The Basics of Hacking and Penetration Testing* by Patrick Engebretson
-* *RTFM: Red Team Field Manual* by Ben Clark
-* Frans Rosen provides some insight as to how to win over security teams and gain influence as a hacker on https://hackerone.com/fransvisitsvegas.
+> **Helpful tips:** Keep in mind that there are a lot of differences between hacking in the CTF and hacking in an actual bug bounty program. We understand that the scope is much larger when hacking in a live program, and that it’s hard figuring out where to start or look, but we encourage you to just keep practicing. Here are some recommended reads and resources that may help in your journey to hacking: <br>* *Web Hacking 101* by Peter Yaworski<br>* *The Web Application Hacker's Handbook* by Dafydd Stuttard and Marcus Pinto <br>* *The Hacker Playbook 2: Practical Guide To Penetration Testing* by Peter Kim <br>* *Hacking: The Art of Exploitation* by Jon Erickson <br>* *The Basics of Hacking and Penetration Testing* by Patrick Engebretson <br>* *RTFM: Red Team Field Manual* by Ben Clark <br>* Frans Rosen provides some insight as to how to win over security teams and gain influence as a hacker on https://hackerone.com/fransvisitsvegas.
 
 11. [Submit a report](submitting-reports.html) once you’ve found a vulnerability.  Submitting valid reports is important for building up your [Reputation](reputation.html), [Signal and Impact](signal-and-impact.html).
    * Here’s a guide on what constitutes a [quality report](quality-reports.html).
