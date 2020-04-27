@@ -4,7 +4,7 @@ path: "/programs/advanced-vetting.html"
 id: "programs/advanced-vetting"
 ---
 
-Advanced Vetting enables your program to have access to an exclusive community of background-checked finders. Background checked finders are active, high performing members of the HackerOne community that have satisfied strict background and identity checks. Having these finders participate in your program ensures that trusted finders are partnered with you in finding vulnerabilities.
+Advanced Vetting enables your program to have access to an exclusive community of background-checked finders. Background checked finders are active, high performing members of the HackerOne community that have satisfied strict background checks. Having these finders participate in your program ensures that trusted finders are partnered with you in finding vulnerabilities.
 
 > **Note:** Advanced Vetting is available as an add-on. To opt-in to Advanced Vetting, contact your account manager.
 
