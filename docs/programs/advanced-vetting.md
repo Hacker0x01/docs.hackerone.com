@@ -25,7 +25,7 @@ For finders based in the United States, these investigations are performed:
 
 Investigation | Details
 ------------- | --------
-Social Security Number Trace and Identity Verification | Identifies residential address history and aliases.
+Social Security Number Trace | Identifies residential address history and aliases.
 Country Criminal Records Check | Identifies addresses and jurisdictions, including felony and misdemeanor criminal records.
 State Criminal Records Check | Identifies addresses and jurisdictions, including felony and misdemeanor criminal records in Puerto Rico and 46 states.
 Federal Criminal Records Check | Identifies addresses and jurisdictions, including felony and misdemeanor criminal records.
