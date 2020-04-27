@@ -29,7 +29,10 @@ Spam | -10
 
 Duplicates of your own reports don't influence your reputation. This enables programs to close multiple reports that have the same root cause as duplicates without affecting a hacker's reputation.
 
-><i><b>Note:</b> There are situations where duplicates can be "chained" together. For example: report #911 is a duplicate of report #888 which is a duplicate of report #311 which was marked as N/A. In this example, report #911 would get -5 reputation because it was the duplicate of a duplicate N/A report. However, we end the chain at the third duplicate. This means that any other duplicate reports that are added after the third report in the chain will automatically get 0 reputation no matter the state of the report for which it's a duplicate of.</i>
+> **Note:** Here's a common situation to keep in mind when calculating your reputation:
+Report #123 is triaged and the hacker gains +7 reputation. You submit report #321 which is also triaged and you gain +7 reputation. Your report #321 is closed as a duplicate of report #123. While report #123 is still open, you still get to keep the +7 reputation. But, once report #123 is closed, your +7 reputation will be deducted.  
+
+**There are situations where duplicates can be "chained" together.** For example: report #911 is a duplicate of report #888 which is a duplicate of report #311 which was marked as N/A. In this example, report #911 would get -5 reputation because it was the duplicate of a duplicate N/A report. However, we end the chain at the third duplicate. This means that any other duplicate reports that are added after the third report in the chain will automatically get 0 reputation no matter the state of the report for which it's a duplicate of.</i>
 
 You'll always have access to a detailed log of reputation history, and reputation will never be necessary to access core functionality on the platform to ensure it remains accessible to new or anonymous users.
 
