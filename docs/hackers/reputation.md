@@ -49,3 +49,6 @@ Reputation | Details
 Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation. After 10 bounties have been paid out, hackers will gain reputation through bounty according to the system above.
 
 ><i><b>Note:</b> We don't award reputation when rewarded with a bonus and not a bounty.</i>
+
+### Effects of Retesting on Reputation
+If you participate in retesting a report, you'll receive +2 to your reputation. 
