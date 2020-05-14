@@ -38,5 +38,8 @@ Action | Scenario | Details
 **Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
 
 If the original hacker declines to take part in the retest and your program is:
-* Private, then another hacker that’s part of your program will have the opportunity to claim and perform the retest.
-* Public, then any hacker with at least 1 resolved or triaged report will be able to claim the retest.
+
+Program Type | Details
+------------ | --------
+Private | Another hacker that's part of your program will have the opportunity to claim and perform the retest. 
+Public | Any hacker with at least 1 *Resolved* or *Triaged* report will be able to claim the retest.
