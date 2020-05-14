@@ -8,7 +8,7 @@ As programs receive vulnerability reports and work on deploying fixes, they need
 
 Upon successful completion of a retest, you’ll receive $50 in bounty as well as +2 reputation.
 
-### How it works
+### How it Works
 
 If you’ve submitted a valid vulnerability for a report, the program can request to have you retest the vulnerability to make sure it’s been fixed.
 
