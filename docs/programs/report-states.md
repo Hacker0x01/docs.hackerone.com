@@ -15,6 +15,7 @@ State | Details
 Pre-submission | This report state is only applicable when Human-Augmented Signal is enabled for the program. The report starts in the pre-submission state when it has been flagged as potentially invalid. A HackerOne security analyst will first review the report before it's sent to the program.
 New | The report is in an unread state.
 Triaged | The report is evaluated but hasn't been resolved. It's in the state of being fixed.
+Retesting | The vulnerability is in the process of being [retested](retesting.html).
 Needs More Info | More information is needed from the hacker about the vulnerability. Reports that are in the *Needs More Info* state for more than 30 days will automatically close and won't have a negative impact on the hacker's reputation.
 
 There are impacts to hacker reputation when the program changes the report state. Reputation isn't impacted when the hacker changes the report state themselves. They can self-close a report until it's marked as triaged.
