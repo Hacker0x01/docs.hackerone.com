@@ -80,6 +80,8 @@
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
+        - title: Domain Verification
+          path: /programs/verified-domains.html
         - title: Google
           path: /programs/google-sso-saml-setup.html
         - title: Okta
