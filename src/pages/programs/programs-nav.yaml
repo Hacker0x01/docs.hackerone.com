@@ -219,8 +219,8 @@
           path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
-        - title: Response Target Benchmarks
-          path: /programs/response-target-benchmarks.html
+        - title: Explore
+          path: /programs/explore.html
     - title: Audit Logs
       path: /programs/audit-logs.html
 - title: Hacker Engagement
