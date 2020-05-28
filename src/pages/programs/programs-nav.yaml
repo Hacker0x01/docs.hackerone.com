@@ -80,6 +80,8 @@
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
+        - title: JIT Provisioning
+          path: /programs/sso-jit.html
         - title: Domain Verification
           path: /programs/domain-verification.html
         - title: Google
