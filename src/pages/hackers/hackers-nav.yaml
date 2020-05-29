@@ -125,3 +125,7 @@
       path: /hackers/disclosure.html
     - title: Keyboard Shortcuts
       path: /hackers/keyboard-shortcuts.html
+- title: Pentests
+  items: 
+    - title: Pentest Overview
+      path: /hackers/pentest-overview.html
