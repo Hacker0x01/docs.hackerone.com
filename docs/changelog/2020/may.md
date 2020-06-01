@@ -5,7 +5,7 @@ date: "2020-05"
 ---
 
 ### Explore
-We've revamped the Response Targets dashboard and now call it [Explore](/programs/explore.html). Programs can now analyze their response targets, submissions and spend data, and also create benchmarks to see how they're doing in comparison to other programs.
+We've revamped the Response Targets dashboard and now call it [Explore](/programs/explore.html). Enterprise programs can now analyze their response targets, submissions and spend data, and also create benchmarks to see how they're doing in comparison to other programs.
 
 ![Explore](./images/may_2020_explore.png)
 
