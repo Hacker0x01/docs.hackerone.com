@@ -23,7 +23,7 @@ User Interaction | Whether the vulnerability can be exploited solely at the will
 Scope | Whether a successful attack impacts a component other than the vulnerable component.
 Confidentiality | The impact of the bug as it relates to confidential information being accessed.
 Integrity | Whether the data can be modified due to the vulnerability.
-Availability | Whether data or functionality can be rendered inaccessible. The impact to the availability of the impacted component.  
+Availability | Whether functionality can be rendered inaccessible. The impact to the availability of the impacted component.  
 
 ![severity-2](./images/severity-calculator.png)
 
