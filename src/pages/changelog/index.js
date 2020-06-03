@@ -1,5 +1,5 @@
 import React from "react";
-import Helmet from "react-helmet";
+import { Helmet } from "react-helmet";
 import slugify from "slugify";
 import GatsbyConfig from "../../../gatsby-config";
 import { graphql } from "gatsby";
