@@ -12,7 +12,7 @@ To change the settings of your bounty program follow these steps:
  ------ | ------
  Information | Configure what information shows on your program's Security Page. You can choose from these fields: <br> * Name <br> * Handle <br> * Website <br> * Twitter handle <br> * About <br> * Cover color
  Product Edition | Select your product editions. You can choose between Bounty Professional and Bounty Enterprise.
- Authentication | Configure your authentication settings. You can set up SAML and IP allowlisting.
+ Authentication | Configure your authentication settings. You can set up SAML and IP allowlists.
  User Management | Invite and manage users in your program. You can manage which groups each member is a part of.
  Group Management | Add and Edit various groups in your program. You can also add and remove users to these groups.
  Billing | Enter your billing info in the **Overview, Credit Card**, and **Prepayment** tabs.
