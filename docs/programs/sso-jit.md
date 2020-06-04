@@ -1,10 +1,10 @@
 ---
-title: "SSO and JIT Provisioning"
+title: "JIT Provisioning"
 path: "/programs/sso-jit.html"
 id: "programs/sso-jit"
 ---
 
-HackerOne offers Just-in-time (JIT) provisioning with [SSO via SAML](single-sign-on-sso-via-saml.html). JIT provisioning enables you to automatically create user accounts by using the information from the SAML protocol.
+HackerOne offers Just-in-time (JIT) provisioning with [SSO via SAML](single-sign-on-sso-via-saml.html) with System for Cross-domain Identity Management(SCIM). JIT provisioning enables you to automatically create user accounts by using the information from the SAML protocol.
 
 When SSO via SAML has been set up, each time a new user from your organization logs in to HackerOne, their account will automatically be created. There are 2 types of provisioning that are associated in the creation of each account: Attribute Provisioning and Program Membership.
 
