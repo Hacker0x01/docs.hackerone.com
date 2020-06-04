@@ -15,4 +15,4 @@ Where is the data log stored? | Data is stored in dedicated AWS S3 buckets that 
 How long is the data retained? | Data is stored for 12 months from the end of the program or Challenge.
 Does Gateway (VPN) allow site to site tunnels? | No, Gateway (VPN) does not support dedicated connections directly to one or more assets.
 How do I revoke access for a specific finder on my program? | Make the revoke request to HackerOne and we’ll disable the finder’s unique IP address.
-How can we whitelist testing-related traffic on our IDS? | Each Bounty program and Challenge is assigned a dedicated range of IP addresses to add to your IDS whitelist.
+How can we allowlist testing-related traffic on our IDS? | Each Bounty program and Challenge is assigned a dedicated range of IP addresses to add to your IDS allowlist.
