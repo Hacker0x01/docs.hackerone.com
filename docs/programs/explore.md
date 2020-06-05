@@ -12,7 +12,7 @@ li ul {
 
 The Explore dashboard enables you to compare your [response times](response-targets.html), submissions, and spend data to those of other programs. This enables you to take a deep dive into your data to see what areas you need to focus on to improve your program. You can also create benchmarks and specify the kinds of programs you want to compare your program to based on program type, industry, and company headcount.
 
-> **Note:** This feature is currently only available for Enterprise programs.
+> **Note:** Creating benchmarks is currently only available for Enterprise programs.
 
 
 To access your response targets dashboard:
@@ -28,7 +28,7 @@ End date | The date you want to stop measuring from.
 View by | How you want to view your data. <br><br>You can choose from:<li>Submission date: The date the report was submitted (*displays for all Median time metrics and Submission activity*)<li>Resolution date: The date the report was resolved (*displays when Median time to resolution is the metric*)
 Interval | The time between each data point.<br><br>You can choose from:<li>Week <li>Month <li>Quarter <li>Year
 Filter | You can filter your metrics by: <li>Severities<li>Assets<li>Weaknesses<li>Current report state<li>Disclosed state<li>Engaged by your H1 triage team <li>Custom fields
-Benchmarks | A filter you can create of different program characteristics that you want to compare your program to. <br><br>Each benchmark is an aggregate measure of data of other programs on HackerOne. All data is anonymous so that no program's data will be exposed.
+Benchmarks | *Only available for Enterprise programs* <br><br>A filter you can create of different program characteristics that you want to compare your program to. <br><br>Each benchmark is an aggregate measure of data of other programs on HackerOne. All data is anonymous so that no program's data will be exposed.
 
 Once you’ve specified how you’d like to view your data, you’ll be able to drill-down into your data to see how your program has been performing. You’ll get a holistic view of what is and isn’t going well, and be able to discern what areas need improvement.
 
