@@ -12,7 +12,7 @@ li ul {
 
 The Explore dashboard enables you to compare your [response times](response-targets.html), submissions, and spend data to those of other programs. This enables you to take a deep dive into your data to see what areas you need to focus on to improve your program. You can also create benchmarks and specify the kinds of programs you want to compare your program to based on program type, industry, and company headcount.
 
-> **Note:** Creating benchmarks is currently only available for Enterprise programs.
+> **Note:** Benchmarks is currently only available for Enterprise programs.
 
 
 To access your response targets dashboard:
