@@ -30,9 +30,6 @@ Instruction | If you have any detail descriptions or comments on the asset, thi
 
 4. Click **Save**.
 
-### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/9l1yZJAk1Fg?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
-
 ### Why Should I Define My Scope?
 * **Defining assets clearly helps you communicate with hackers easily.**
   * For an asset you don't want reports to, list it as out of scope. Hackers can't submit to that asset and will see a red warning when they select that asset.
