@@ -6,10 +6,10 @@ id: "programs/jira-server-integration"
 
 > <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
 
-You can integrate with Jira Server in order to sync information between your HackerOne report and your Jira issue. 
+You can integrate with Jira Server in order to sync information between your HackerOne report and your Jira issue.
 
 To integrate with Jira Server:
-1. Go to **Settings > Program > Integrations**.
+1. Go to **Program Settings > Program > Integrations**.
 2. Click the **Connect with Jira** link.
    ![jira-server-1](./images/jira-server-1.png)
 

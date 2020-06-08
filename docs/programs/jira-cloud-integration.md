@@ -6,10 +6,10 @@ id: "programs/jira-cloud-integration"
 
 > <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  
 
-You can integrate with Jira Cloud in order to sync information between your HackerOne report and your Jira issue. 
+You can integrate with Jira Cloud in order to sync information between your HackerOne report and your Jira issue.
 
 To integrate with Jira Cloud:
-1. Go to **Settings > Program > Integrations**.
+1. Go to **Program Settings > Program > Integrations**.
 2. Click the **Connect with Jira** link.
    ![jira-server-1](./images/jira-server-1.png)
 
@@ -75,4 +75,3 @@ To create Jira issues from your HackerOne report:
 3. Click **Create Jira Issue**. A Jira ID will automatically generate.
 
   ![jira-cloud-works-2](./images/jira-cloud-works-2.png)
-
