@@ -22,3 +22,6 @@ Did a hacker help you verify that an issue was resolved appropriately? Did the h
 
 #### Promotions
 The bonus feature makes it easy for programs to run a promotion during a specific time frame or to add extra incentives for issues found within a desired product or feature. Use bonuses to offer additional incentives to focus hackers on the scope you care most about.
+
+### Tutorial Video
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/HtQ9cvkOb0M{{ site.url }}" frameborder="0"></iframe>
