@@ -11,6 +11,7 @@ HackerOne provides dashboards on these pages:
 * [Statistics](/programs/statistics-dashboard.html)
 * Response Efficiency
 * [Hacker Feedback](hacker-feedback-dashboard.html)
+* [Explore](explore.html) 
 
 For each dashboard, you can customize the data you see by choosing the dates you want to see the metrics for.
 
