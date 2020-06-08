@@ -12,7 +12,7 @@ The environmental score customizes the [severity](severity.html) of a vulnerabil
 <i>You can read more on these metrics in the section below on <b>Environmental Score Components</b>.</i>
 
 To set the environmental score for an asset:
-1. Go to <b>Settings > Program > Scope</b>.
+1. Go to <b>Program Settings > Program > Scope</b>.
 2. Edit an existing asset to change the environmental score by selecting the degree of importance (None, Low, Medium, High) to each component.
 
 ### Effects to the CVSS v.3 Calculator on HackerOne

@@ -8,7 +8,7 @@ You can have customized groups with different access rights on your program. Hac
 
 ### Adding a New Group
 To add a new group and set access rights:
-1. Go to your program's **Settings > General > Group Management**.
+1. Go to your program's **Program Settings > General > Group Management**.
 2. Click **Add Group**.
 3. Write the name of the group in the **Name** field.
 4. Select the permissions you want to enable for the group. You can select from these options:

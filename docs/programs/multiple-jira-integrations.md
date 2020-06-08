@@ -17,7 +17,7 @@ To integrate multiple HackerOne programs to the same Jira instance:
 ![uninstall Jira plugin](./images/multiple-jira-integrations-1.png)
 
 2. Navigate back to HackerOne.
-3. Go to **Settings > Program > Integration**.
+3. Go to **Program Settings > Program > Integration**.
 4. Click the **Connect with Jira** link.
 5. Choose **Jira Server** and you’ll be redirected to this 4-step setup screen where you can configure your Jira integration.
 

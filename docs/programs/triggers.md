@@ -14,7 +14,7 @@ When you go to Settings > Program > Automation > Triggers, you'll notice a list 
 
 ### Adding Triggers
 To add new triggers:
-1. Go to **Settings > Program > Automation > Triggers**.
+1. Go to **Program Settings > Program > Automation > Triggers**.
 2. Click **Add new Trigger**.
 ![triggers-1](./images/triggers-1.png)
 3. In the first dropdown of the **IF** section, you can choose to have your trigger be within:

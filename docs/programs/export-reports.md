@@ -17,7 +17,7 @@ You can also export reports through utilizing the API. See these articles from t
 You can export all of your vulnerability reports within your program. This enables you to keep and run analytics on your program's vulnerability report data in an organized spreadsheet. You can also export reports for any [child programs](parent-child-programs.html) associated with your program as well. The .csv file doesn't include the comments.
 
 To export all of your reports:
-1. Go to your program's **Settings > Automation > Export**.
+1. Go to your program's **Program Settings > Program > Automation > Export Reports**.
 
 ![export reports](./images/export-lifetime-reports-1.png)
 

@@ -10,7 +10,7 @@ With the Slack integration, your team can stay up to date on HackerOne report ac
 
 ### Set Up Slack Integration
 To set up your slack integration:
-1. Go to **Settings > Program > Integrations**.
+1. Go to **Program Settings > Program > Integrations**.
 2. Click the **Connect with Slack** link.
     ![slack-integration-2](./images/slack-integration-2.png)
 3. Click **Authenticate with Slack**.
@@ -26,7 +26,7 @@ Check out the FAQ section at the bottom of this page to understand why HackerOne
 You can configure specific HackerOne activities you'd like to receive Slack notifications for.
 
 To set up your notification configuration:
-1. Go to your Slack integration settings in **Settings > Program > Integrations**.
+1. Go to your Slack integration settings in **Program Settings > Program > Integrations**.
 2. Click **Create your first Notification Configuration**.
 3. Select the public channel to post to in the **Post to Channel** field.
 4. <i>(Optional)</i> Select **I want to use a private channel** to post your notification to a private channel, and manually type in the name of the private channel.  
