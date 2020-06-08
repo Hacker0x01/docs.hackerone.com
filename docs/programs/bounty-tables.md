@@ -23,3 +23,6 @@ Your security page will now have a Rewards section that showcases your bounty ta
 ![bounty-tables-2](./images/bounty-tables-2.png)
 
 To remove the bounty table from your security page, select **Remove bounty table** under **Program Settings > Program > Rewards > Bounties**.
+
+### Tutorial Video
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Sar_ze4nL3U" frameborder="0" allowfullscreen></iframe>
