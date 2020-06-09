@@ -6,7 +6,7 @@ id: "hackers/signal-and-impact"
 
 Signal provides a means of identifying hackers who have had consistently valid reports while Impact highlights those with the greatest severity. HackerOne displays a hacker's percentile rank for their Signal and Impact relative to other hackers on the platform. Understanding both Signal and Impact will help you understand your performance relative to other hackers.
 
-![how signal and impact look on a HackerOne profile](./images/signal-impact-1.png)
+![how signal and impact look on a HackerOne profile](./images/sig-impact-rep-stats.png)
 
 ### Signal and Impact Facts
 Question  | Signal | Impact
