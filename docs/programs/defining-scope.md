@@ -25,7 +25,7 @@ Identifier | How hackers will know that they are at the correct asset that you s
 Eligibility for Submission | Whether you want hackers to submit to reports about this asset. If you select "no", hackers will see the asset on a report form with a red warning and won't be able to submit reports marked for this asset.
 Eligibility for Bounty | Whether you intend on providing bounties for this asset or not. If you have a mixed Bug Bounty - Vulnerability Disclosure program, you'll want to explicitly mark the assets you will or will not pay for. This is also surfaced to hackers on both your team profile and the report submission form.
 [Environmental Score](environmental-score.html) | These metrics determine the [severity](severity.html) of the vulnerability for the asset. You can adjust the severity of each vulnerability submission based on the environment by specifying the maximum impact to Confidentiality, Integrity, or Availability of that asset's data.
-Asset Labels | Add specific labels to the different categories pertaining to the asset. You can add asset labels to these fields: Coding Language, Framework,  Cloud and Infrastructure, Database, Content Management System, Country, Spoken Language, Cryptocurrency. <br><br>The labeled descriptors provide more granular data about the program and the assets associated with it. This helps with matching the right hackers to your program. 
+Asset Labels | Add specific labels to the different categories pertaining to the asset. You can add asset labels to these fields: Coding Language, Framework,  Cloud and Infrastructure, Database, Content Management System, Country, Spoken Language, Cryptocurrency. <br><br>The labeled descriptors provide more granular data about the program and the assets associated with it. This helps with matching the right hackers to your program.
 Instruction | If you have any detail descriptions or comments on the asset, this field will surface that on both your program profile page and your report submission form.
 
 4. Click **Save**.
@@ -39,3 +39,6 @@ Instruction | If you have any detail descriptions or comments on the asset, thi
 * **Your reports will be tagged by the selected asset.**
   * You can sort through your reports by asset, such as differentiating the reports for your mobile app vs. your web app.
   * Do data analysis per domain - Is it time to switch your marketing site provider, because all your vulnerabilities stem from that area? Is one particular engineering team responsible for 90% of your Cross-Site Scripting vulnerabilities?
+
+### Tutorial Video
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/4gK2_OAmiwI" frameborder="0" allowfullscreen></iframe>
