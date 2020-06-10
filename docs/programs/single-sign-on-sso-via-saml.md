@@ -35,7 +35,7 @@ To configure Single Sign-On via SAML:
 
 Field | Details
 ------ | ------
-Domain | The  domain for users that will be required to use SAML authentication. The domain must be verified before entering. If you don't have a verified domain, see [Domain Verification](verified-domains.html) to set up a verified domain.  *Note: Please use your own domain, not the HackerOne domain.*
+Domain | The  domain for users that will be required to use SAML authentication. The domain must be verified before entering. If you don't have a verified domain, see [Domain Verification](domain-verification.html) to set up a verified domain.  *Note: Please use your own domain, not the HackerOne domain.*
 Single Sign On URL | The URL from your SAML provider to initiate a single sign-on attempt, sometimes called the login URL.
 X509 Certificate | The certificate from your SAML provider to verify the single sign-on response.
 
