@@ -4,7 +4,7 @@ path: "/programs/signal-requirements.html"
 id: "programs/signal-requirements"
 ---
 
-A hacker's reputation measures how likely their finding is to be immediately relevant and actionable. Signal is the average reputation hackers receive per report. The higher a hacker's signal is, the more reputable their report will be.
+A hacker's [reputation](/hackers/reputation.html) measures how likely their finding is to be immediately relevant and actionable. [Signal](/hackers/signal-and-impact.html) is the average reputation hackers receive per report. The higher a hacker's signal is, the more reputable their report will be.
 
 Signal Requirements enable a program to set a Signal threshold that hackers must reach in order to submit reports to the program. If a hacker falls below the threshold, they will have a restricted number of reports they can submit to your program. This will improve the quality of reports programs can expect to receive from hackers.
 
