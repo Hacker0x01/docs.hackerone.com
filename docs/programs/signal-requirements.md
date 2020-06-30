@@ -4,9 +4,9 @@ path: "/programs/signal-requirements.html"
 id: "programs/signal-requirements"
 ---
 
-A hacker's [reputation](/hackers/reputation.html) measures how likely their finding is to be immediately relevant and actionable. [Signal](/hackers/signal-and-impact.html) is the average reputation hackers receive per report. The higher a hacker's signal is, the more reputable their report will be.
+Signal Requirements enable a program to set a [signal](/hackers/signal-and-impact.html) threshold that hackers must reach in order to submit reports to the program. If a hacker falls below the threshold, they will have a restricted number of reports they can submit to your program. This will improve the quality of reports programs can expect to receive from hackers.
 
-Signal Requirements enable a program to set a Signal threshold that hackers must reach in order to submit reports to the program. If a hacker falls below the threshold, they will have a restricted number of reports they can submit to your program. This will improve the quality of reports programs can expect to receive from hackers.
+The signal used for signal requirements is calculated based on a rolling 365-day window. This means that a hacker’s signal is based on their activity from the last 365 days. 
 
 To enable Signal Requirements:
 1. Go to **Program Settings > Program > Hacker Management > Submission**.

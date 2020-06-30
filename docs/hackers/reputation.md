@@ -46,9 +46,9 @@ Reputation | Details
 +15 | Known as BOUNTY_MEDIUM. <br>Received when Bounty Amount ≥ mean - 1 standard deviation
 +10 | Known as BOUNTY_LOW. <br>Received when Bounty Amount < mean - 1 standard deviation
 
-Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_MEDIUM reputation. After 10 bounties have been paid out, hackers will gain reputation through bounty according to the system above.
+Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY_LOW reputation. After 10 bounties have been paid out, a hacker’s reputation will be recalculated based on the standard deviation of the program’s mean bounty.
 
 ><i><b>Note:</b> We don't award reputation when rewarded with a bonus and not a bounty.</i>
 
 ### Effects of Retesting on Reputation
-If you participate in retesting a report, you'll receive +2 to your reputation. 
+If you participate in retesting a report, you'll receive +2 to your reputation.
