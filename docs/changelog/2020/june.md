@@ -16,3 +16,5 @@ We've added a new [**Resolution Target**](/programs/response-target-metrics.html
 
 ### HackerOne Pentest
 We've officially launched [Pentests](/programs/pentests.html) as a new product offering to help companies better secure their applications and meet regulatory compliance standards.
+
+![pentest overview page](./images/june_2020_pentests.jpg)
