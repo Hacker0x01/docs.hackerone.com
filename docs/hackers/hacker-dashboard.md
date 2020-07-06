@@ -31,6 +31,8 @@ After you've submitted your first vulnerability, you'll be able to keep track of
 
 ![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
 
+![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
+
 The My Programs page enables you to better manage all of the programs you're a part of. You can view the private programs you've accepted to participate in and the public programs you've hacked on.
 
 For each program, you can view:
