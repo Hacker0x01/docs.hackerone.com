@@ -20,9 +20,9 @@ To set up the integration between PagerDuty and each time a high or critical rep
 
 4. Click **Add Service**.
 5. Go to the **Integrations** tab on the **Services** page.
-6. Click the settings gear next to the integration and select **View**.
+6. Click on **HackerOne**.
 
-![pagerduty selecting the settings gear](./images/pagerduty-step-6.png)
+![pagerduty selecting the settings gear](./images/pagerduty-step-6-new.png)
 
 7. Copy the **Integration URL** and store that for later.
 
