@@ -27,4 +27,4 @@ After your Zendesk integration has been set up:
 
 2. Click **Escalate**.
 3. You’ll be taken to your Zendesk account where the report is pre-populated. Submit the issue to create the report in Zendesk.
-4. Copy the Zendesk report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in Zendesk.  
+4. Copy the Zendesk report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in Zendesk..  
