@@ -17,6 +17,7 @@ HackerOne currently supports these integrations:
 * [Kenna Security](kenna-security.html)
 * [MantisBT](mantisbt-integration.html)
 * [OTRS](otrs-integration.html)
+* [PagerDuty](pagerduty-integration.html)
 * [Phabricator](phabricator-integration.html)
 * [ServiceNow](servicenow-integration.html)
 * [Slack](slack-integration.html)
