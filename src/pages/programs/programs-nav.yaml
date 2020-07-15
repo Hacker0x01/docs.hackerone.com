@@ -190,6 +190,8 @@
       path: /programs/mantisbt-integration.html
     - title: OTRS
       path: /programs/otrs-integration.html
+    - title: PagerDuty
+      path: /programs/pagerduty-integration.html
     - title: Phabricator
       path: /programs/phabricator-integration.html
     - title: ServiceNow

@@ -6,9 +6,7 @@ id: "programs/pagerduty-integration"
 
 The PagerDuty integration enables incidents to be created each time a new (high or critical severity) report is submitted or triaged onto HackerOne. This integration is flexible and can be used to create a PagerDuty incident for any of the [events](https://api.hackerone.com/webhooks/#events) listed.
 
-<div class="betanote" markdown="1">
-<b>Note:</b> This integration is currently in beta and only available to select programs. If you’d like to use this integration, please reach out to your program manager.
-</div>
+> **Note:** The PagerDuty integration is only available for Enterprise programs.
 
 ### Set up
 
