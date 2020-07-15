@@ -157,6 +157,8 @@
       path: /programs/supported-integrations.html
     - title: Integration Variables
       path: /programs/integration-variables.html
+    - title: Webhooks
+      path: /programs/webhooks.html
     - title: API Tokens
       path: /programs/api-tokens.html
     - title: Assembla
