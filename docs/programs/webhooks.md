@@ -45,7 +45,7 @@ To manage your webhooks:
 4. (Optional) Select **Test request** to send an example request to the configured Payload URL .
 5. Click **Update webhook**.
 
-[comment]: <> (![update webhook image goes here])
+![Test request button on Webhooks](./images/webhooks-3.png)
 
 ### View Recent Deliveries
 You can view recent deliveries that have been made under the **Recent deliveries** section. Click on any of the deliveries to view the POST payload request.
