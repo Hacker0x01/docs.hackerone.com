@@ -28,5 +28,4 @@ Admin | This group has Admin and Program permissions.
 
 If your program has more groups, you can choose from those groups as well.
 
-
 Once you've generated your API token, you'll receive a confirmation email stating that you’ve created a new API token. To learn more about the HackerOne API, check out our [API docs](https://api.hackerone.com/#introduction).
