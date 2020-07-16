@@ -1,3 +1,4 @@
+#NEWS
 ---
 title: "Reputation"
 path: "/hackers/reputation.html"
