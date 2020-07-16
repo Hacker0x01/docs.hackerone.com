@@ -19,7 +19,7 @@ Establish an ISO 29147 compliant disclosure policy to safely receive and act on 
 ![overview-2](./images/overview-2.png)
 
 ### HackerOne Challenge
-A private, project-based, and time-bound vulnerability assessment program. Challenges are perfect for organizations looking to supplement or replace traditional penetration tests with ethical hackers looking for severe vulnerabilities. Every Challenge  includes a detailed report to help meet compliance requirements. [Learn more](https://www.hackerone.com/sites/default/files/2017-12/Traditional%20Pentesting%20versus%20Hacker-Powerd%20Pentesting.pdf) about hacker-powered pen testing versus traditional pen testing.
+A private, project-based, and time-bound vulnerability assessment program. Challenges are perfect for organizations looking to supplement or replace traditional penetration tests with ethical hackers looking for severe vulnerabilities. Every Challenge  includes a detailed report to help meet compliance requirements. 
 
 ![overview-1](./images/overview-1.png)
 
