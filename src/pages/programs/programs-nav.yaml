@@ -259,7 +259,7 @@
   items:
     - title: Pentest Overview
       path: /programs/pentests.html
-    - title: Pentest FAQs
+    - title: FAQs
       path: /programs/pentest-faqs.html
 - title: Helpful Tools
   items:
