@@ -259,6 +259,8 @@
   items:
     - title: Pentest Overview
       path: /programs/pentests.html
+    - title: Pentest FAQs
+      path: /programs/pentest-faqs.html
 - title: Helpful Tools
   items:
     - title: Email Forwarding
