@@ -4,7 +4,7 @@ path: "/hackers/hackerone-vpn-root-ca.html"
 id: "hackers/hackerone-vpn-root-ca"
 ---
 
-In order to use the HackerOne VPN, you need to install the HackerOne VPN Root CA.
+In order to use the HackerOne Gateway, you need to install the HackerOne VPN Root CA.
 
 Refer to these installation and configuration instructions for your platform:
 
@@ -105,6 +105,6 @@ To install the HackerOne VPN Root CA to Firefox:
 
 ![Screenshot](./images/vpn-firefox-4.png)
 
-The "Hackerone - Hacker VPN Service" certificate is now visible in your list of certificates.
+The "HackerOne - Hacker VPN Service" certificate is now visible in your list of certificates.
 
 ![Screenshot](./images/vpn-firefox-5.png)
