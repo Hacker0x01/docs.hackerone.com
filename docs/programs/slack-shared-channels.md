@@ -22,7 +22,7 @@ You can join HackerOne’s Customer Slack workspace (https://hackerone-customer.
 
 > **Note:** It’s your responsibility to inform HackerOne in a timely manner when a member’s access is to be revoked.
 
-To join Hackerone’s Slack workspace as a guest:
+To join HackerOne’s Slack workspace as a guest:
 1. Click the Join Now button in your Slack invitation email.
 
 ![Join HackerOne on Slack screen](./images/slack-shared-channels-1.png)
