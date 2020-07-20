@@ -8,8 +8,8 @@ HackerOne is the #1 hacker-powered security platform that helps organizations fi
 
 HackerOne offers 5 different products that you can choose from:
 * HackerOne Response
-* HackerOne Challenge
 * HackerOne Bounty
+* HackerOne Challenge
 * HackerOne Clear
 * HackerOne Pentests
 
