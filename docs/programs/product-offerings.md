@@ -18,14 +18,11 @@ Establish an ISO 29147 compliant disclosure policy to safely receive and act on 
 
 ![overview-2](./images/overview-2.png)
 
-<<<<<<< HEAD
-=======
 ### HackerOne Challenge
 A private, project-based, and time-bound vulnerability assessment program. Challenges are perfect for organizations looking to supplement or replace traditional penetration tests with ethical hackers looking for severe vulnerabilities. Every Challenge includes a detailed report to help meet compliance requirements. 
 
 ![overview-1](./images/overview-1.png)
 
->>>>>>> 6644bf47d6d8d2a0cda89a1719db9bc467243782
 ### HackerOne Bounty
 A program where trusted hackers are incentivized to continuously test for critical vulnerabilities. Bounty programs can be private and invite-only or fully public, and all incentives will reflect the organization’s priorities.
 
