@@ -14,7 +14,7 @@ The CVSS Calculator provides a way to capture the principal characteristics of a
 
 There are 8 metrics defined for CVSS v3. The first 5 are about the attack method itself, while the latter three are dependent on how your program assesses impact - the direct consequence of a successful exploit. These are the different components to the CVSS Calculator:
 
-Option | Detail
+Option | Details
 ------ | -------
 Attack Vector | How exploitable the vulnerability is. The score increases the more remote an attacker can be in order to exploit the vulnerability.
 Attack Complexity | The conditions beyond the attacker's control that must exist in order to exploit the vulnerability.

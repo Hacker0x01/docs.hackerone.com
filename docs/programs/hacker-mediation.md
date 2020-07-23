@@ -34,3 +34,6 @@ Requesting hacker mediation triggers the following actions:
 While HackerOne can't guarantee resolution or override a security team's assessment, hacker mediation has been used to successfully bring items to the security teams' attention, resulting in a more favorable outcome for everyone involved.
 
 As a reminder, hacker mediation is a privilege that is reserved for hackers with 200 reputations point and signal ≥ 1. In most cases, HackerOne won't be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary.
+
+### Tutorial Video
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ie5nuTJrMNA" frameborder="0" allowfullscreen></iframe>

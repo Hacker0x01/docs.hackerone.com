@@ -14,12 +14,14 @@ Noise from invalid or low-impact reports creates a burden for programs and reduc
     * Does the report match earlier reported issues?
 3. If a report is determined to be invalid, it'll be closed as **Not Applicable**.
 
-HackerOne's systems are constantly improving to detect and eliminate noise across the platform. Don't hesitate to [reach out](support@hackerone.com) if you have feedback on the common noise you see in your program.
+*Note: If a hacker comments on their report marked as N/A, the report will reopen so that additional comments can be addressed.*
+
+HackerOne's systems are constantly improving to detect and eliminate noise across the platform. Don't hesitate to [reach out](mailto:support@hackerone.com) if you have feedback on the common noise you see in your program.
 
 ### Can HackerOne View all of my Reports
 No. By enabling this feature, you grant authorized HackerOne staff members temporary access to only flagged reports for the sole purpose of providing this service. Our Human-Augmented Signal services are governed by the same [Terms & Conditions](https://www.hackerone.com/terms) you have with HackerOne.
 
 ### How Do I Enable It?
 To enable Human-Augmented Signal:
-1. Go to your program's **Settings > Program > Submission**.
+1. Go to your program's **Program Settings > Program > Hacker Management > Submission**.
 2. Select **Enabled**.

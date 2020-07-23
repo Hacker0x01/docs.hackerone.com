@@ -7,7 +7,7 @@ id: "programs/hacker-feedback-dashboard"
 ### What is the Feedback Dashboard?
 When hackers see an invitation to your program, they can choose whether they'll accept it and participate, or reject it. If they reject the invite, they can optionally provide feedback on why they were not interested in your program. Hackers can also provide this feedback when leaving a program they’ve previously accepted an invite to. Learn more about how hackers decline invites and leave programs [here](/hackers/decline-invites-and-leave-programs.html).
 
-The Feedback Dashboard shows the total feedback your program has received from hackers, with the reasons they’ve declined to participate in your program. You can view this feedback for your program under **Dashboard > Feedback**.  
+The Feedback Dashboard shows the total feedback your program has received from hackers, with the reasons they’ve declined to participate in your program. You can view this feedback for your program under **Program Dashboard > Feedback**.  
 
 ### Why don't I have any data yet?
 If you don't see any data in your feedback dashboard, it’s possible that no hackers have:

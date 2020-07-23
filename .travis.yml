@@ -2,13 +2,15 @@ language: node_js
 
 node_js:
   - "lts/*"
+  - node
 
 cache:
+  yarn: true
   directories:
   - node_modules
 
 before_script:
-  - npm install
+  - yarn install
 
 script:
-  - npm run lint
+  - yarn run lint

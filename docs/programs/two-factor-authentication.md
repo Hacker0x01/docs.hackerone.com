@@ -4,7 +4,7 @@ path: "/programs/two-factor-authentication.html"
 id: "programs/two-factor-authentication"
 ---
 
-Two-factor authentication enables you to add an extra layer of protection from getting your account compromised. You can set up two-factor authentication using any device capable of generating Time-based One-Time Password (TOTP) authentication codes (RFC-6238) to log in to your HackerOne account. You can use Google Authenticator or Duo Mobile or any other compatible application to generate the codes.
+Two-factor authentication (2FA) enables you to add an extra layer of protection from getting your account compromised. You can set up two-factor authentication using any device capable of generating Time-based One-Time Password (TOTP) authentication codes (RFC 6238) to log in to your HackerOne account. You can use Google Authenticator or Duo Mobile or any other compatible application to generate the codes.
 
 To set up two-factor authentication for your account:
 1. Go your profile’s  **Settings > Authentication**.
@@ -23,13 +23,13 @@ To set up two-factor authentication for your account:
 Once your two-factor authentication is successfully enabled, you’ll be prompted to enter a 6-digit verification code from your authenticator app to log in to your HackerOne account.
 ![2fa-8](./images/2fa-8.png)
 
-You can choose to change your account recovery phone number, turn off two-factor authentication or regenerate your backup codes.
+You can choose to change your account recovery phone number, turn off two-factor authentication, or regenerate your backup codes.
 ![2fa-9](./images/2fa-9.png)
 
 Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6-digit verification code from your authentication application. You must enter the verification code in order to successfully log in to HackerOne.
 
-On your user management settings, under <b>Settings > General > User Management</b> you'll be able to see those with 2FA off and on. Users with N/A means that they have 2FA through a 3rd party.
+On your user management settings, under <b>Settings > General > User Management</b>, you'll be able to see those with two-factor authentication on or off via the 2FA column. Users with **N/A** mean that they are authenticating via Single Sign-On (SSO) using a third-party identity provider. For example, HackerOne Security Analysts will have a 2FA status of N/A because they use SSO.
 
 ![2fa-10](./images/2fa-10.png)
 
-><i>Note: Two-factor Authentication is on a per-user basis. You can’t have single-source sign-on (SSO) and 2FA simultaneously.</i>
+><i>Note: Two-factor Authentication is on a per-user basis. You can’t have SSO and 2FA simultaneously.</i>

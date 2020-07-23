@@ -10,6 +10,6 @@ Keyboard Shortcut | Action
 ----------------- | ---------
 j | Shows the next report
 k | Shows the previous report
-x | Select or deselect the check box of the report
+x | Select or deselect the checkbox of the report
 / | Jump to the Search box
 alt + n | Open the report associated with the next unread notification

@@ -1,32 +1,49 @@
-import React from 'react'
+import React from "react";
 
-import './search.scss'
-import './algolia.css'
+import "./search.scss";
+import "./algolia.css";
 
 class Search extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
 
     this.state = {
-      enabled: true,
-    }
+      enabled: true
+    };
   }
-
   componentDidMount() {
     if (window.docsearch) {
       window.docsearch({
-        apiKey: 'acfb7def12803db2cd4ac0539b2b571a',
-        indexName: 'hackerone',
-        inputSelector: '#algolia-doc-search',
-      })
+        // the following information is copied from the gatsby-config.js file
+        // if you change anything below, make sure to also change it in that
+        // file. We're duplicating this code to avoid a race condition in the
+        // MutationObserver logic, where the docsearch script (npm package)
+        // was loaded *before* this component was loaded.
+        apiKey: "acfb7def12803db2cd4ac0539b2b571a",
+        indexName: "hackerone",
+        inputSelector: "#algolia-doc-search",
+        transformData: suggestions => {
+          // ideally, we'd have an `id` or `name` attribute for all headers, so that DocSearch
+          // properly indexes the anchors. Since we don't have that yet, we've went with this
+          // temporary workaround to remove the ___gatsby anchor from the URL. This code can be
+          // removed when the appropriate attributes are added. Ref T19586.
+          return suggestions.map(suggestion => {
+            delete suggestion.anchor;
+
+            suggestion.url = suggestion.url.replace(/#gatsby-focus-wrapper$/, "");
+
+            return suggestion;
+          });
+        }
+      });
     } else {
-      console.warn('Search has failed to load and now is being disabled')
-      this.setState({ enabled: false })
+      console.warn("Search has failed to load and now is being disabled");
+      this.setState({ enabled: false });
     }
   }
 
   render() {
-    const { enabled } = this.state
+    const { enabled } = this.state;
 
     return enabled ? (
       <form className="search">
@@ -38,8 +55,8 @@ class Search extends React.Component {
           aria-label="Search docs"
         />
       </form>
-    ) : null
+    ) : null;
   }
 }
 
-export default Search
+export default Search;

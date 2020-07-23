@@ -49,10 +49,10 @@ We now enable you to cancel disclosure requests. You can cancel your own request
 ![Hacker101 CTF Login Page](./images/nov_2018_hacker101_CTF.png)
 
 ### Activities API Endpoint
-We added a new activities API endpoint that enables you to fetch all activities of your program incrementally by time. Learn more about the [activities endpoint](https://api.hackerone.com/docs/v1#/activities).
+We added a new activities API endpoint that enables you to fetch all activities of your program incrementally by time. Learn more about the [activities endpoint](https://api.hackerone.com/#activities-query-activities).
 
-### HackerOne VPN
-Hackers can now configure the [HackerOne VPN](/hackers/configure-the-hackerone-vpn.html) and access their VPN credentials for VPN enabled programs.
+### HackerOne Gateway (VPN)
+Hackers can now configure the [HackerOne Gateway (VPN)](/hackers/configure-the-hackerone-vpn.html) and access their Gateway (VPN) credentials for Gateway (VPN) enabled programs.
 
 ![VPN](./images/nov_2018_vpn.png)
 

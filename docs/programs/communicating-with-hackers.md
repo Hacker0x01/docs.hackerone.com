@@ -23,7 +23,7 @@ The hacker will get a notification in their HackerOne profile and will also be n
 ### Commenting on Multiple Reports
 You can add comments to multiple reports simultaneously. To add comments to multiple reports:
 
-1. Select the reports you want the comments to be applied to in your inbox by selecting the check box next to the report titles. A list of the titles of the selected reports populate in the center of the screen above the **Comment** field.
+1. Select the reports you want the comments to be applied to in your inbox by selecting the checkbox next to the report titles. A list of the titles of the selected reports populate in the center of the screen above the **Comment** field.
 2. Select whether you want the comment to go to **All participants** or to your internal **Team only**.
 3. Type your comment in the **Comment** box.
 4. Click the **Post comment**.

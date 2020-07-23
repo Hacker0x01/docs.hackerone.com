@@ -488,8 +488,9 @@ blockquote {
   padding-right: 4px;
   padding-top: 12px;
   margin-bottom: 1.45rem;
-  background-color: #C5FFE8;
+  background-color: rgba(197,255,232,0.9);
   border-left: 6px solid #02C996;
+  border-radius: 0.3em;
 }
 
 button {

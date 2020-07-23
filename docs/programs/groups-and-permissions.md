@@ -8,14 +8,14 @@ You can have customized groups with different access rights on your program. Hac
 
 ### Adding a New Group
 To add a new group and set access rights:
-1. Go to your program's **Settings > General > Group Management**.
+1. Go to your program's **Program Settings > General > Group Management**.
 2. Click **Add Group**.
 3. Write the name of the group in the **Name** field.
 4. Select the permissions you want to enable for the group. You can select from these options:
 
 Option | Details
 ------ | ------
-Report | Users in the group can: <ul><li>Post comments</li><li>Change report states</li><li>Edit report titles and vulnerability types</li><li>Suggest bounties</li><li>Add/Remove external participants from reports</li><li>Edit common responses</li><li>Edit triggers</li><li>Request public disclosure</li><li>Agree to public disclosure request</li>
+Report | Users in the group can: <ul><li>Post comments</li><li>Change report states</li><li>Edit report titles and vulnerability types</li><li>Suggest bounties</li><li>Add/Remove external participants from reports</li><li>Edit common responses</li><li>Edit triggers</li><li>Request public disclosure</li><li>Agree to public disclosure request</li><li>Create CVE ID Requests</li><li>Transfer reports</li>
 Program | Users in the group can: <ul><li>Edit profile, program and bounty settings</li><li>Invite hackers</li><li>View billing information</li><li>Edit inbox views</li>
 Reward | Users in the group can: <ul><li>Grant rewards</li><li>Post comments</li><li>Suggest bounties</li>
 Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permissions</li>
@@ -31,8 +31,8 @@ To edit your group name and permissions, click **Edit** next to the group you wa
 ### Adding or Removing Users
 To add or remove users:
 1. Click **Add/Remove users**.
-2. Select the check box of the users you want to add to the group.
-3. Deselect the check boxes of the users you want to remove from the group.
+2. Select the checkbox of the users you want to add to the group.
+3. Deselect the checkboxes of the users you want to remove from the group.
 3. Click **Update**.  
 
 ### Tutorial Video

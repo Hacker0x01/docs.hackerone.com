@@ -2,25 +2,25 @@
   items:
     - title: Welcome
       path: /programs.html
-    - title: Edit the Doc Site
-      path: /programs/edit-the-doc-site.html
-    - title: Overview
-      path: /programs/overview.html
-    - title: Program Start-Up Guide
-      path: /programs/program-start-up-guide.html
       items:
-        - title: Start HackerOne Response
-          path: /programs/start-h1-response.html
-        - title: Start HackerOne Bounty
-          path: /programs/start-h1-bounty.html
+        - title: Edit the Doc Site
+          path: /programs/edit-the-doc-site.html
+    - title: Product Offerings
+      path: /programs/product-offerings.html
+    - title: Program Starting Point
+      path: /programs/program-starting-point.html
     - title: Private vs Public Programs
       path: /programs/private-vs-public-programs.html
     - title: Parent/Child Programs
       path: /programs/parent-child-programs.html
+    - title: Password Best Practices
+      path: /programs/passwords.html
     - title: Using Markdown
       path: /programs/using-markdown.html
 - title: Your Program
   items:
+    - title: General Settings
+      path: /programs/general-settings.html
     - title: Security Page
       path: /programs/security-page.html
       items:
@@ -80,6 +80,10 @@
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
+        - title: JIT Provisioning
+          path: /programs/sso-jit.html
+        - title: Domain Verification
+          path: /programs/domain-verification.html
         - title: Google
           path: /programs/google-sso-saml-setup.html
         - title: Okta
@@ -90,12 +94,17 @@
           path: /programs/sso-faqs.html
     - title: Two-Factor Authentication
       path: /programs/two-factor-authentication.html
+      items:
+        - title: Invalid OTP Code
+          path: /programs/invalid-otp-code.html
     - title: Sessions
       path: /programs/sessions.html
     - title: Credential Management
       path: /programs/credential-management.html
     - title: Notifications
       path: /programs/notifications.html
+    - title: Response Programs
+      path: /programs/start-h1-response.html
 - title: Reports
   items:
     - title: Inbox
@@ -122,11 +131,15 @@
           path: /programs/response-labels.html
         - title: Keyboard Shortcuts
           path: /programs/keyboard-shortcuts.html
+    - title: Custom Fields
+      path: /programs/custom-fields.html
     - title: Disclosure
       path: /programs/disclosure.html
       items:
         - title: Limiting Disclosed Information
           path: /programs/limiting-disclosed-information.html
+    - title: Retesting
+      path: /programs/retesting.html
     - title: Automation
       path: /programs/automation.html
       items:
@@ -136,18 +149,16 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
-    - title: Retesting
-      path: /programs/retesting.html
     - title: Reducing Noise
       path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
       path: /programs/supported-integrations.html
-    - title: Email Forwarding
-      path: /programs/email-forwarding.html
-    - title: Embedded Submission Form
-      path: /programs/embedded-submissions-form.html
+    - title: Integration Variables
+      path: /programs/integration-variables.html
+    - title: Webhooks
+      path: /programs/webhooks.html
     - title: API Tokens
       path: /programs/api-tokens.html
     - title: Assembla
@@ -160,19 +171,27 @@
       path: /programs/github-integration.html
     - title: GitLab
       path: /programs/gitlab-integration.html
+    - title: IBM Resilient
+      path: /programs/ibm-resilient.html
     - title: Jira
       path: /programs/jira-integration.html
       items:
-        - title: Jira-Cloud Integration
+        - title: Jira Cloud Setup
           path: /programs/jira-cloud-integration.html
-        - title: Jira-Server Integration
+        - title: Jira Server Setup
           path: /programs/jira-server-integration.html
+        - title: Multiple Integrations
+          path: /programs/multiple-jira-integrations.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
+    - title: Kenna Security
+      path: /programs/kenna-security.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
     - title: OTRS
       path: /programs/otrs-integration.html
+    - title: PagerDuty
+      path: /programs/pagerduty-integration.html
     - title: Phabricator
       path: /programs/phabricator-integration.html
     - title: ServiceNow
@@ -200,8 +219,16 @@
     - title: Dashboards
       path: /programs/dashboards.html
       items:
+        - title: Submissions Dashboard
+          path: /programs/submissions-dashboard.html
+        - title: Statistics Dashboard
+          path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
+        - title: Explore
+          path: /programs/explore.html
+    - title: Audit Logs
+      path: /programs/audit-logs.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
@@ -221,3 +248,26 @@
       path: /programs/hacker-reviews.html
     - title: Disclosure Assistance
       path: /programs/disclosure-assistance.html
+    - title: Advanced Vetting
+      path: /programs/advanced-vetting.html
+    - title: Gateway
+      path: /programs/hackerone-vpn.html
+      items:
+        - title: FAQs
+          path: /programs/vpn-faqs.html
+- title: Pentests
+  items:
+    - title: Pentest Overview
+      path: /programs/pentests.html
+    - title: FAQs
+      path: /programs/pentest-faqs.html
+- title: Helpful Tools
+  items:
+    - title: Email Forwarding
+      path: /programs/email-forwarding.html
+    - title: Embedded Submission Form
+      path: /programs/embedded-submissions-form.html
+    - title: IP Allowlists
+      path: /programs/ip-allowlists.html
+    - title: Slack Shared Channels
+      path: /programs/slack-shared-channels.html

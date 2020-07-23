@@ -4,7 +4,7 @@ path: "/programs/bugzilla-integration.html"
 id: "programs/bugzilla-integration"
 ---
 
-With the Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on the HackerOne.
+With the Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on HackerOne.
 
 In order to configure the Bugzilla integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information to start the integration process:
 

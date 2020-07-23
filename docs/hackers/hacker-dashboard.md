@@ -4,21 +4,42 @@ path: "/hackers/hacker-dashboard.html"
 id: "hackers/hacker-dashboard"
 ---
 
-The Hacker Dashboard enables you to view and manage all of your invitations. There are 2 tabs that you can view:
-* Accepted Invitations
-* Pending Invitations
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
 
-### Accepted Invitations
+The Hacker Dashboard enables you to view and manage all of your invitations.
 
-![hacker dashboard accepted invitations](./images/hacker-dashboard-1.png)
+### Overview
 
-The Accepted Invitations tab enables you to keep track of all of the programs that you’ve accepted an invitation to. For each program, you can view:
-* The total number of reports you submitted
-* The total number of valid reports you have
-* The amount of bounties you earned
-* The date you accepted the invitation to the program
+The Overview page is your guide to help you get started on HackerOne. You'll be directed to the right pages to help you get the information you need to successfully start out on HackerOne.
 
-You can also elect to leave the programs that you no longer have interest in participating in. Simply click <b>Leave Program</b> next to the program you want to leave.
+We also provide you with a getting started checklist with 4 tasks to complete. Completion of the tasks will help guide you to be more successful on the platform.
+
+![hacker dashboard overview page with checklist](./images/hackerdashboard_checklist.png)
+
+After you've submitted your first vulnerability, you'll be able to keep track of your statistics regarding the amount of bounties you've earned, the number of reports you've submitted, and your reputation. You can also view your top earning programs.  
+
+![hacker dashboard statistics](./images/hacker-stats-v2.png)
+
+### My Programs
+
+![hacker dashboard my programs](./images/hacker-dashboard-my-programs.png)
+
+The My Programs page enables you to better manage all of the programs you're a part of. You can view the private programs you've accepted to participate in and the public programs you've hacked on.
+
+For each program, you can view:
+* The total number of reports resolved
+* The minimum bounty
+* The average bounty
+* Your stats: The total number of reports you've submitted, the number of  reports that were valid, and the total amount of bounties you've earned
+
+You can elect to leave the private programs that you no longer have interest to participate in by clicking **Leave Program** next to the program you want to leave.
 
 ### Pending Invitations
 
@@ -40,6 +61,7 @@ Average Bounty | The average bounty that will be given for a valid vulnerability
 Click <b>View Invitation</b> to review the invitation and take action to accept or reject it.
 
 ### Bookmarked Programs
+
 The Bookmarked Programs tab enables you to view the list of programs that you've marked as your favorites in the directory. This enables you to better keep track of the programs you're most interested in.
 
 ![bookmarked programs](./images/bookmarked.png)

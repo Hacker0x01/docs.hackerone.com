@@ -22,15 +22,11 @@ By publishing vulnerabilities to HackerOne, you acknowledge that you’ve met al
 
 ### Publishing a Vulnerability on HackerOne
 Once you’ve met all of the requirements above, you’re ready to publish your vulnerability. To publish an external vulnerability on HackerOne:
-1. Go to [Hacktivity](https://hackerone.com/hacktivity).
-2. Click the pink <b>Publish</b> button.
-
-![publish vulnerability button](./images/publishing-vulnerability-1.png)
-
-3. Enter the program you reported the vulnerability to and select it from the populated list. <i>Note: This field searches all known disclosure programs from the [Directory](https://hackerone.com/directory).</i><ul><li>If the program doesn't populate in the list, manually enter the entire program name.</li><li>To publish without disclosing the organization, enter `redact` to select the Redacted program.</li></ul>
-4. Fill out the rest of the <b>Publish a Vulnerability</b> report form.
-5. Click <b>Publish Vulnerability</b>.
-6. <i>(Optional)</i> Add a severity rating for the vulnerability.
+1. Go to [Publish a Vulnerability](https://hackerone.com/hacktivity/publish).
+2. Enter the program you reported the vulnerability to and select it from the populated list. <i>Note: This field searches all known disclosure programs from the [Directory](https://hackerone.com/directory).</i><ul><li>If the program doesn't populate in the list, manually enter the entire program name.</li><li>To publish without disclosing the organization, enter `redact` to select the Redacted program.</li></ul>
+3. Fill out the rest of the <b>Publish a Vulnerability</b> report form.
+4. Click <b>Publish Vulnerability</b>.
+5. <i>(Optional)</i> Add a severity rating for the vulnerability.
 
 The report will publish onto the <b>New</b> page of Hacktivity and have a <b>Published</b> icon on it to distinguish it from other reports. Users can upvote your report in Hacktivity, and the report will also display on your hacker profile.
 
@@ -43,4 +39,4 @@ To publish without disclosing the organization, when selecting the program in st
 
 All mentions of the organization and assets will be redacted when it’s published onto the <b>New</b> page of Hacktivity.
 
-<br><i>Publishing currently doesn’t influence [Reputation](https://docs.hackerone.com/>hackers/reputation.html) or your eligibility for any bounties.</i>
+<br><i>Publishing currently doesn’t influence [Reputation](/hackers/reputation.html) or your eligibility for any bounties.</i>

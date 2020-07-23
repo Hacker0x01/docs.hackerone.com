@@ -28,6 +28,8 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 5. You will then be notified of a new vulnerability submitted by the hacker in your inbox where you can use the platform tools to comment, triage, and pay bounties.
 
 ### Set Up
+
+To set up email forwarding in HackerOne:
 1. Go to **Settings > Program > Hacker Management > Email Forwarding**.
 2. Click on **Add email address**.
 3. Enter the email address the vulnerability reports should be sent to. A common example is: security@example.org.
@@ -35,6 +37,8 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 ![email-forwarding-5](./images/email-forwarding-5.png)
 
 4. The inbox address that your email will be configured to will automatically generate. Upon configuration, emails sent to security@example.org will be forwarded to the inbox address given.
+
+> **Note:** Please make sure you've configured email forwarding for your email provider. Don't know how to set up email forwarding for your email provider? Check out these resources for:<br><li>[Microsoft Outlook 365](https://support.office.com/en-US/article/Forward-email-to-another-email-account-1ED4EE1E-74F8-4F53-A174-86B748FF6A0E)<br><li>[Microsoft Exchange Server](https://technet.microsoft.com/en-us/library/dd351134(v=exchg.141).aspx)<br><li>[G Suite (formerly Google Apps)](https://support.google.com/a/answer/4524505)
 
 ![email-forwarding-6](./images/email-forwarding-6.png)
 
@@ -46,8 +50,3 @@ When a hacker discovers a vulnerability and sends their finding in an email to s
 ><i>Note: You can add multiple email addresses to forward to the same inbox.</i>
 
 ![email-forwarding-9](./images/email-forwarding-9.png)
-
-Don't know how to set up email forwarding for your email provider? Check out these resources for:
-- [Microsoft Outlook 365](https://support.office.com/en-US/article/Forward-email-to-another-email-account-1ED4EE1E-74F8-4F53-A174-86B748FF6A0E)
-- [Microsoft Exchange Server](https://technet.microsoft.com/en-us/library/dd351134(v=exchg.141).aspx)
-- [G Suite (formerly Google Apps)](https://support.google.com/a/answer/175745?hl=en)

@@ -5,7 +5,7 @@ date: "2015-12"
 ---
 
 ### Signal & Impact
-We introduce Signal and Impact so that there can be a more granular understanding of hacker performance. Read our [blog post](https://hackerone.com/blog/introducing-signal-and-impact) or check out our [doc](https://docs.hackerone.com/hackers/signal-and-impact.html) to learn more.
+We introduce Signal and Impact so that there can be a more granular understanding of hacker performance. Read our [blog post](https://www.hackerone.com/blog/introducing-signal-and-impact) or check out our [doc](https://docs.hackerone.com/hackers/signal-and-impact.html) to learn more.
 ![dec_2015_signal_impact](./images/dec_2015_signal_impact.png)
 
 ### New Default Views

@@ -5,11 +5,11 @@ date: "2015-11"
 ---
 
 ### HackerOne Success Index
-We introduce the HackerOne Success Index - a method to measure the effectiveness of HackerOne-powered vulnerability disclosure programs. The index calculates 6 dimensions by which programs can benchmark their success each month. Learn more [here](https://hackerone.com/blog/success-in-vulnerability-disclosure).
+We introduce the HackerOne Success Index - a method to measure the effectiveness of HackerOne-powered vulnerability disclosure programs. The index calculates 6 dimensions by which programs can benchmark their success each month. Learn more [here](https://www.hackerone.com/blog/success-in-vulnerability-disclosure).
 ![nov_2015_success_index](./images/nov_2015_success_index.png)
 
 ### Disclosure Assistance
-We provide hackers with the ability to request help in contacting an organization with a vulnerability through Disclosure Assistance. This enables HackerOne to take steps to identify the organization’s official vulnerability reporting process. Read more in our [blog](https://hackerone.com/blog/vulnerability-disclosure-assistance).
+We provide hackers with the ability to request help in contacting an organization with a vulnerability through Disclosure Assistance. This enables HackerOne to take steps to identify the organization’s official vulnerability reporting process. Read more in our [blog](https://www.hackerone.com/blog/vulnerability-disclosure-assistance).
 ![nov_2015_disclosure_assistance](./images/nov_2015_disclosure_assistance.jpg)
 
 ### Trigger: Show Interstitial
