@@ -17,10 +17,7 @@ Here are some practical guidelines to help you define and set up your scope:
   * The common best practice is to only offer bug bounties for specific assets, and to slowly expand that list over time. Set proper expectations with hackers by explicitly white-listing those assets that are eligible for bounties.
   * If possible, explain why in the instructions field. Over communication helps prevent future disagreements. 
 * **Set the Environmental Score for the Asset**.
-  * The [environmental score](environmental-score.html) determines the severity of the vulnerability for the asset. You can set the environmental score for these 3 metrics:
-    * 1) Confidentiality: Whether the data being obtained is actually confidential to their business, i.e., if there is a business risk when the data is leaked.
-    * 2) Integrity: What the business risk is if the data is modified
-    * 3) Availability: Business risk depending on if the component is on or offline
+  * The [environmental score](environmental-score.html) determines the severity of the vulnerability for the asset. You can set the environmental score for these 3 metrics: <br>1) Confidentiality: Whether the data being obtained is actually confidential to their business, i.e., if there is a business risk when the data is leaked.<br>2) Integrity: What the business risk is if the data is modified <br>3) Availability: Business risk depending on if the component is on or offline
   * Not all of your assets are created equal. You should take the time to assess potential business impact and configure these fields in order to:
       * Create alignment in expectations by prioritizing business critical assets.
       * Constrain maximum severity for the asset so that hackers can't give you alerts that there's a "critical" vulnerability in your static marketing site.
