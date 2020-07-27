@@ -13,7 +13,7 @@ To customize your program's response target:
    * Select the checkbox for **Advanced: Set target by severity**.
    * Input the target in days for each severity level.
 
-*Keep in mind that: it's recommended that your targets fall within the Recommended and Response Standard times.*
+*It's recommended that your targets fall within the Recommended and Response Standard times.*
 
 Time | Recommended | Response Standard
 ---- | ----------- | ------------------
