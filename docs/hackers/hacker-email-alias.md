@@ -28,4 +28,4 @@ What happens if I change my username? | The email alias will automatically updat
 What happens if I change my email address on HackerOne? | The emails will be forwarded to your new, correct email.
 How do I disable my alias? | To disable your alias, you must disable your account.
 
-<span style="font-size:10px">`flag{0ne_0f_1337_us}`  </span>
+<sub>`flag{0ne_0f_1337_us}`</sub>
