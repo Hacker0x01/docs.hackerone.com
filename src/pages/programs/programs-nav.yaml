@@ -17,6 +17,8 @@
       path: /programs/passwords.html
     - title: Using Markdown
       path: /programs/using-markdown.html
+    - title: How to Run a Good Prgram
+      path: /programs/good-program.html
 - title: Your Program
   items:
     - title: General Settings
