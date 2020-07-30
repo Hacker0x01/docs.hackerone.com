@@ -1,5 +1,5 @@
 ---
-title: "How to Run a Good Program"
+title: "Running a Good Program"
 path: "/programs/good-program.html"
 id: "programs/good-program"
 ---
@@ -21,4 +21,4 @@ Set up [bounty tables](programs/bounty-tables.html) as they help hackers to see 
 ### Tip #5: Keep your policy up-to-date
 Make sure all helpful and important information is written on your [policy](policy-and-scope.html) and that you follow the [best practices for good policies](programs/good-policies.html).
 
-Keep in mind that these short tips don’t guarantee success for your program, but they do help in increasing engagement with hackers. There are a lot of other factors that can affect the success of your program such as the types of assets, the bounty amounts, 
+Keep in mind that these short tips don’t guarantee success for your program, but they do help in increasing engagement with hackers. There are a lot of other factors that can affect the success of your program such as the types of assets, the bounty amounts,
