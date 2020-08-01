@@ -20,3 +20,4 @@ To suggest edits:
 ![welcome-2](./images/welcome-2.png)
 
 Your edits and suggestions will be submitted as a pull request in which documentation administrators can accept or reject your changes.
+lisans var hepsi
