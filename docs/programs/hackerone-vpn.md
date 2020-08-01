@@ -28,3 +28,4 @@ To manage individual finder access under the **Manage Individual Finder Access**
 2. Click **Resume** to enable Gateway access for the finder.
 
 To receive complete traffic logs, contact your program manager.
+hackerone
