@@ -27,3 +27,4 @@ When hackers don't meet the Signal Requirement:
 * The number of capped reports they can submit resets every 30 days.
 
 There is a program limit for capped reports and a total platform limit for reports sent to programs by these hackers. This provides all hackers with the opportunity to participate in a program, even if their Signal doesn't meet the program requirements.
+HİLAL
