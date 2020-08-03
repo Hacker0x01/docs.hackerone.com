@@ -30,7 +30,7 @@ In order to submit reports:
      * What kind of impact an attacker can make if they were to exploit the vulnerability.
 
 ![proof of concept](./images/submit-reports-5.png)
-
+    "author_type": "User",
 7. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed.
 
 ![attach screenshots](./images/submit-reports-6.png)
