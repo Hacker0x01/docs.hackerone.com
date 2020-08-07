@@ -22,7 +22,7 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 
 ### Set Up
 To configure Single Sign-On via SAML:
-1. Go to: **Program Settings > General > Authentication**.
+1. Go to **Program Settings > General > Authentication**.
 2. Click **Setup SAML** in the *Single Sign-on with SAML* section.
 
 ![saml setup](./images/saml-daisy-1.png)
@@ -69,3 +69,27 @@ Here are some screenshots that provide additional details on Service Provider an
 ![saml1](./images/saml-1.png)
 
 ![saml_2](./images/saml-2.png)
+
+### Configure an Alternative Certificate
+If you need to switch your identity provider or if your current SAML certificate is expiring, you can configure an alternative SAML certificate to avoid having to disable your SSO integration during the update.
+
+> **Note:** Only the admin of the program has the ability to configure the alternative certificate.
+
+To configure an alternative certificate:
+
+1. Go to **Program Settings > General > Authentication**.
+2. Click **configure** next to **X509 alternative certificate**.
+
+![Authentication settings page with SAML configured](./images/alt-certificate-1.png)
+
+3. Enter the alternative certificate in the **Configure alternative certificate** window. 
+
+![configure alternative certificate modal ](./images/alt-certificate-2.png)
+
+4. Click **Save**.
+
+After the alternative certificate has been configured, users will be able to authenticate through the new SAML certificate.
+
+When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative. 
+
+![authentication settings page with alt certificate configured](./images/alt-certificate-3.png)
