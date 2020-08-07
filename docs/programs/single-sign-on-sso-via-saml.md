@@ -71,7 +71,7 @@ Here are some screenshots that provide additional details on Service Provider an
 ![saml_2](./images/saml-2.png)
 
 ### Configure an Alternative Certificate
-If you need to switch your identity provider or if your current X509 certificate fingerprint is expiring, you can configure an alternative certificate to avoid having your users reset their passwords during the update.
+If you need to switch your identity provider or if your current SAML certificate is expiring, you can configure an alternative SAML certificate to avoid having to disable your SSO integration during the update.
 
 > **Note:** Only the admin of the program has the ability to configure the alternative certificate.
 
@@ -88,6 +88,8 @@ To configure an alternative certificate:
 
 4. Click **Save**.
 
-You can choose to make your alternative certificate to become your primary by clicking **Promote alternative certificate to primary certificate**.
+After the alternative certificate has been configured, users will be able to authenticate through the new SAML certificate.
+
+When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative. 
 
 ![authentication settings page with alt certificate configured](./images/alt-certificate-3.png)
