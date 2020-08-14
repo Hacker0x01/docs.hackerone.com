@@ -31,4 +31,4 @@ Availability | Whether functionality can be rendered inaccessible. The impact to
 
 You can read more details about CVSS [here](https://www.first.org/cvss/user-guide).
 
-If the program has a custom methodology for determining severity, it should be described on their Security Page.
+If the program has a custom methodology for determining severity, it should be described it on their Security Page.
