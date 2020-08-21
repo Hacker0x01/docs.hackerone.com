@@ -121,6 +121,8 @@
           path: /programs/report-actions.html
         - title: Report States
           path: /programs/report-states.html
+        - title: Report Components
+          path: /programs/report-components.html
         - title: Quality Reports
           path: /programs/quality-reports.html
         - title: Locking Reports
