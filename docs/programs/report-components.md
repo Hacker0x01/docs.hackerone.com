@@ -12,7 +12,7 @@ The top of the report shows the hacker that submitted the report as well as thei
 ![hacker info](./images/report-timeline-hacker-info.png)
 
 ### Report ID and Title
-Below the hacker information is the report ID number and title. You can change the report title to your internal naming conventions. The color behind the report number represents the state the report is in. These are the different colors and the [report states](report-states.html) they represent: 
+Below the hacker information is the report ID number and title. You can change the report title to your internal naming conventions. The color behind the report number represents the state the report is in. These are the different colors and the [report states](report-states.html) they represent:
 
 Color | Report State
 ----- | ---------
@@ -24,8 +24,6 @@ Orange | Triaged
 Brown | Duplicate
 Grey | Informative
 Red | Not Applicable
-
-![Report ID and Title](./images/report-timeline-report-id-title.png)
 
 ### Report Metadata
 You’ll be able to view these metadata fields underneath the title of your report:
@@ -49,8 +47,6 @@ Visibility | Indicates the status of disclosure of the vulnerability. You can al
 
 ### Summary
 Either your security team or the hacker(s) involved with the report can choose to provide an optional summary of the report. Including a summary helps future viewers of the report to understand the context without having to scroll through the entire report. Click **ADD SUMMARY** to add a summary to the report.
-
-![report summary section](./images/report-timeline-summary.png)
 
 ### Timeline
 The report timeline shows all of the activity that occurs in the report between you and the hackers involved. It will show when:
