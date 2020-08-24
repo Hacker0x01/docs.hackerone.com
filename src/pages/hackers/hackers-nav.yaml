@@ -110,6 +110,8 @@
       path: /hackers/report-actions.html
     - title: Report States
       path: /hackers/report-states.html
+    - title: Report Components
+      path: /hackers/report-components.html
     - title: Quality Reports
       path: /hackers/quality-reports.html
     - title: Using Markdown
@@ -126,6 +128,6 @@
     - title: Keyboard Shortcuts
       path: /hackers/keyboard-shortcuts.html
 - title: Pentests
-  items: 
+  items:
     - title: Pentest Overview
       path: /hackers/pentest-overview.html
