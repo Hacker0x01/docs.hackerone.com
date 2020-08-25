@@ -17,4 +17,4 @@ What happens to users on my team that don't belong to our claimed domain? | Turn
 What is your NameID format? | `urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress`
 What is your Entity ID? | hackerone.com
 What is your ACS URL? | https://hackerone.com/users/saml/auth
-What are your attribute fields? | `User.firstName`, `User.lastName` more details available in [JIT Provisioning here](/programs/sso-jit.html).
+What are your attribute fields? | Primarily you would use `User.firstName` and `User.lastName`. You can read more details about what is available in [JIT Provisioning here](/programs/sso-jit.html).
