@@ -16,7 +16,7 @@ Programs that engage in [disclosure](disclosure.html) find themselves having hig
 It’s best practice to actively [communicate with your hackers](communicating-with-hackers.html) by commenting on reports and answering any questions or concerns they have in a timely manner and letting them know of any updates or changes to your program by using the [message hackers](programs/message-hackers.html) feature.
 
 ### Tip #4: Utilize Bounty Tables
-Set up [bounty tables](programs/bounty-tables.html) as they help hackers to see how much is rewarded based on the severity level of the vulnerability.  Additionally, it’s important that you set your bounties to fair amounts that don’t underpay hackers.  
+Set up [bounty tables](bounty-tables.html) as they help hackers to see how much is rewarded based on the severity level of the vulnerability.  Additionally, it’s important that you set your bounties to fair amounts that don’t underpay hackers.  
 
 ### Tip #5: Keep your policy up-to-date
 Make sure all helpful and important information is written on your [policy](policy-and-scope.html) and that you follow the [best practices for good policies](programs/good-policies.html).
