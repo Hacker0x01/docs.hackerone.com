@@ -1,7 +1,7 @@
 ---
-title: "Code of Conduct"
-path: "/hackers/code-of-conduct.html"
-id: "hackers/code-of-conduct"
+title: "Misconduct"
+path: "/hackers/misconduct.html"
+id: "hackers/misconduct"
 ---
 
 As HackerOne is a place for collaboration and mutual respect between programs and hackers, there are behaviors that we don't tolerate. You can read the full [Code of Conduct](https://www.hackerone.com/policies/code-of-conduct). The following are examples of intolerable behaviors that can result in full platform bans:  
