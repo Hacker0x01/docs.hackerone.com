@@ -30,6 +30,6 @@ HackerOne doesn't tolerate harassment of programs or hackers on the platform.
 
 HackerOne is mutually beneficial for both parties to collaborate within the platform where features like public disclosure and mediation exist. In the event of a conflict or disagreement, HackerOne will not support either party that begins harassment as a means to their desired outcome.
 
-Examples of harassment include repeated, direct contact with participants of a disclosure program ie: complaining to personal accounts on Twitter or repeatedly emailing executives) to complain or beg for a different result of a submission. This behavior discourages programs from opening disclosure programs and damages research opportunities in the community.
+Examples of harassment include repeated, direct contact with participants of a disclosure program (i.e. complaining to personal accounts on Twitter or repeatedly emailing executives) to complain or beg for a different result of a submission. This behavior discourages programs from opening disclosure programs and damages research opportunities in the community.
 
 Generally, it’s important to understand that security teams operating disclosure programs aren't representing a customer service function. Hackers are also not required to perform research for any program that they find themselves in disagreement with or aren't offering the incentives they would prefer.
