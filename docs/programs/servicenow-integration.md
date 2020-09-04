@@ -10,10 +10,10 @@ HackerOne offers a bi-directional ServiceNow integration that enables you to syn
 
 ### Set up
 To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 4 steps:
-1. Configure incoming requests in your ServiceNow instance
-2. Configure outgoing requests in your ServiceNow instance
-3. Configure a “close report” request from ServiceNow to HackerOne
-4. Configure the integration on HackerOne (Set up the integration from the HackerOne platform using the setup wizard)
+1. [Configure incoming requests in your ServiceNow instance](#configure-incoming-requests)
+2. [Configure outgoing requests in your ServiceNow instance](#configure-outgoing-requests)
+3. [Configure a “close report” request from ServiceNow to HackerOne](#configure-close-report-event)
+4. [Configure the integration on HackerOne](#configure-on-hackerone)
 
 ### Configure Incoming Requests
 Configuring incoming requests requires you to post to a custom REST API endpoint in ServiceNow. This will enable you to add comments from HackerOne to your ServiceNow instance.
@@ -176,7 +176,7 @@ Filter Conditions | Value is not empty: AND : Name : is : incident
 ```
 Make sure that the arguments for RESTMessageV2 matches the name you gave to the Outbound REST Message.
 
-### Send Close Report Event
+### Configure Close Report Event
 The The close report event from ServiceNow to HackerOne is set up in a similar fashion to configuring the outgoing requests. You only need to change the content in the Outbound REST Message and the trigger action in the Business Rule.
 
 To set up the close report event:
