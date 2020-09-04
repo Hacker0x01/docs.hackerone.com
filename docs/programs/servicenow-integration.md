@@ -6,7 +6,7 @@ id: "programs/servicenow-integration"
 
 HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow incidents and vice versa, from ServiceNow to HackerOne.  This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
 
-> **Note:** This integration is currently only enabled for select users. If you’re interested in using this integration, please reach out to your program manager.
+> **Note:** This integration is currently only enabled to select Enterprise programs. If you’re interested in using this integration, please reach out to your program manager.
 
 ### Set up
 To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 4 steps:
@@ -227,8 +227,6 @@ Make sure the arguments for RESTMessageV2 match the name you gave the Outbound R
 
 ### Configure on HackerOne
 After configuring all of the steps above, you’re now ready to configure the integration on HackerOne.
-
-> **Note:** The HackerOne ServiceNow integration is currently only available to “Enterprise” customers.
 
 To set up the integration on HackerOne:
 1. Navigate to **Program Settings > Program > Integrations**.
