@@ -23,7 +23,7 @@ To configure adding comments from HackerOne to ServiceNow:
 
 ![servicenow-1](./images/servicenow-1.png)
 
-2. Click **NEW** to create a new Scripted REST API.
+2. Click **New** to create a new Scripted REST API.
 
 ![servicenow-2](./images/servicenow-2.png)
 
@@ -177,13 +177,13 @@ Filter Conditions | Value is not empty: AND : Name : is : incident
 Make sure that the arguments for RESTMessageV2 matches the name you gave to the Outbound REST Message.
 
 ### Configure Close Report Event
-The The close report event from ServiceNow to HackerOne is set up in a similar fashion to configuring the outgoing requests. You only need to change the content in the Outbound REST Message and the trigger action in the Business Rule.
+The close report event from ServiceNow to HackerOne is set up in a similar fashion to configuring the outgoing requests. You only need to change the content in the Outbound REST Message and the trigger action in the Business Rule.
 
 To set up the close report event:
 1. Search for the HackerOne REST Message that was set up in the previous section.
-2. Click **New** to edit the message.
+2. Click **New** to add a new message.
 
-![servicenow-13](./images/servicenow-13.png)
+![servicenow-13](./images/servicenow-10.png)
 
 3. Enter these values to these fields:
 
@@ -196,7 +196,7 @@ Content | `{"event_name":"close_report","element_id":"${sys_id}"}`
 
 4. Navigate to  **System Definition > Business Rules**.
 5. Click **New** to create a new business rule.
-6. Enter these values for these fields:
+6. Enter these values for these fields on the **When to run** tab:
 
 Field | Value
 ----- | -----
@@ -205,8 +205,6 @@ Table | Incident [incident]
 When | Async
 Update | Make sure the box is checked
 Filter Conditions | State: changes to : Closed
-
-![servicenow-15](./images/servicenow-15.png)
 
 7. Enter this script on the **Advanced** tab:
 
