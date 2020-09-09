@@ -58,6 +58,8 @@ The report timeline shows all of the activity that occurs in the report between 
 * A hacker requests mediation
 * You or the hacker requests public disclosure  
 
+The report timeline will also show who is in charge of the next pending action within the report.
+
 Internal comments and actions made within your program security team will be surrounded with a red box and a lock icon to denote that the comment will only be seen by internal members and not by hackers.
 
 If you have [hackbot](hackbot.html) enabled, you’ll also be able to view your suggestions from hackbot, which will also be internal.
