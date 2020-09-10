@@ -4,6 +4,16 @@ path: "/changelog/2020/september"
 date: "2020-09"
 ---
 
+### Report Transparency
+We've increased report transparency for hackers by showing who is slated to perform the next action within the report. This helps hackers to clearly see who is responsible for acting upon their report, giving them a better understanding of what to expect next in the triaging process.
+
+![report transparency - who's pending action](./images/sept_2020_report_transparency.png)
+
+### Triage Ratings
+Programs managed by HackerOne can now rate their triage experience. The ratings will be used to improve the triage experience for managed programs.
+
+![triage rating](./images/sept_2020_triage_rating.png)
+
 ### Pentest Ratings
 We now enable pentesters to provide feedback about their pentest experience. Both pentesters and pentest programs can also provide feedback on the pentesters they worked with. This will enable pentesters and pentest programs to see what they've done well and/or how they can better improve.
 
