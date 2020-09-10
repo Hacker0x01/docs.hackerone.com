@@ -53,5 +53,8 @@ The report timeline shows all of the activity that occurs in the report between 
 * A bounty has been given
 * A hacker requests mediation
 * A hacker or program member requests public disclosure  
+* An internal activity has been made
+
+The report timeline will also show who is in charge of the next pending action within the report.
 
 ![report timeline](./images/report-components-timeline.png)
