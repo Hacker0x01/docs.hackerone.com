@@ -54,6 +54,7 @@ The report timeline shows all of the activity that occurs in the report between 
 * A hacker requests mediation
 * A hacker or program member requests public disclosure  
 * An internal activity has been made
+* The severity level has changed
 
 The report timeline will also show who is in charge of the next pending action within the report.
 
