@@ -5,7 +5,11 @@ date: "2020-09"
 ---
 
 ### Report Transparency
-We've increased report transparency for hackers by showing who is slated to perform the next action within the report. This helps hackers to clearly see who is responsible for acting upon their report, giving them a better understanding of what to expect next in the triaging process.
+We've increased report transparency for hackers by actively showing that their report is being looked at. This helps hackers to have more visibility in the triage process. To increase report transparency we show:
+* The timestamp of the latest internal activity
+* Defined labels of who is interacting with the report such as *HackerOne staff*
+* Who is responsible for acting upon the report next
+* Individual parameters used to calculate the CVSS score
 
 ![report transparency - who's pending action](./images/sept_2020_report_transparency.png)
 
