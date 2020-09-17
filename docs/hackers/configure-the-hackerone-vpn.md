@@ -32,7 +32,7 @@ To join a program that uses VPN and to set up the HackerOne Gateway (VPN):
 5. Wait a couple of seconds for HackerOne to create your VPN configurations and add Gateway locations. You’ll see these 2 Gateway locations once your VPNs have been configured:
 <ul><li>Oregon, USA
 <li>Mumbai, India</li></ul>
-*These are currently the only 2 regions where HackerOne has Gateways instances available. Your latency is determined by how close you are to a Gateway location. The closer you are to a location, the better your latency.*
+<i>These are currently the only 2 regions where HackerOne has Gateways instances available. Your latency is determined by how close you are to a Gateway location. The closer you are to a location, the better your latency.<i<
 
 ![image](./images/gateway-2.png)
 
