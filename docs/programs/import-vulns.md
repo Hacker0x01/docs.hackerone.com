@@ -3,6 +3,11 @@ title: "Import Vulnerabilities"
 path: "/programs/import-vulnerabilities.html"
 id: "programs/import-vulnerabilities"
 ---
+<style>
+td, th {
+  max-width: 0px;
+}
+</style>
 
 Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to properly identify duplicate reports when they are reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager.
 
