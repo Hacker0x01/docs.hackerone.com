@@ -4,7 +4,7 @@ path: "/programs/import-vulnerabilities.html"
 id: "programs/import-vulnerabilities"
 ---
 
-Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to prevent duplicate reports from being reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager.
+Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to properly identify duplicate reports when they are reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager.
 
 > **Note:** All vulnerabilities to be imported should currently be un-remediated and be in scope for your program.
 
@@ -25,7 +25,7 @@ substate | Yes | The specific [substate](report-states.html) of the report - whe
 hacker_email | No | The email address of the hacker. By including the email address, HackerOne is able to send an invite to the hacker to claim any report they've submitted. | A valid email address | user@example.com
 severity_score | No | The [severity](severity.html) rating of the report. | A decimal number between 0-10 | 7.2
 priority | No | The severity rating description label. | You can choose from: *none, low, medium, high, critical* | medium
-view_reference_url | No | The link to the report in your ticketing system (when the reference URL integration is not set up). | A valid URL | https://example.jira.com/eng/BBP-1234
+view\_reference\_url | No | The link to the report in your ticketing system (when the reference URL integration is not set up). | A valid URL | https://example.jira.com/eng/BBP-1234
 reference | No | The reference to the report in your ticketing system. | A string | BBP-1234
 asset_identifier | No| The asset identifier that can be linked to an asset defined on HackerOne. | A string | ".hackerone.com"
 weakness_name | No | The name of the [weakness](/hackers/weakness.html) for the vulnerability. You can choose from HackerOne's subset list from the Common Weakness Enumeration (CWE)list. | A string matching the name from the CWE list | Cross-Site Request Forgery (CSRF)
