@@ -1,0 +1,34 @@
+---
+title: "Import Vulnerabilities"
+path: "/programs/import-vulnerabilities.html"
+id: "programs/import-vulnerabilities"
+---
+
+Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to prevent duplicate reports from being reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager.
+
+> **Note:** All vulnerabilities to be imported should currently be un-remediated and be in scope for your program.
+
+Your CSV file should follow the format listed below:
+
+![importing file format](./images/importing-format.png)
+
+> **Note:** You don't need to include all columns when importing your vulnerabilities, unless you want to provide the additional details. But, be sure to include all of the required columns.  
+
+Here’s a table to help you see which fields are required and what should go underneath each field:
+
+Field | Required? | Details | Accepted Values | Example
+----------- | -------- | ------- | --------------- | --------
+title | Yes | The title of the vulnerability report | Any string < 150 characters | Reflected XSS on q parameter at search.example.com
+description | Yes | All information required in order to reproduce the vulnerability and understand the impact. Include any relevant endpoints and parameters. As this is a multi-line field, wrap your input in quotes. | Any multi-line string | "# Summary <p><p>The endpoint at `xxx` is vulnerable to refected cross-site scripting on the `xxx` parameter. <p><p> # Steps to reproduce <li>Go to `xxx.com`<li>Notice the alert"
+state | Yes | Whether the report is open or closed | The word *Open* or *Closed* | Open  
+substate | Yes | The specific [substate](report-states.html) of the report - whether the report is *new, triaged, resolved,* etc. | You can choose from: *new, triaged, needs-more-info, resolved, not applicable, duplicate* | triaged
+hacker_email | No | The email address of the hacker. By including the email address, HackerOne is able to send an invite to the hacker to claim any report they've submitted. | A valid email address | user@example.com
+severity_score | No | The [severity](severity.html) rating of the report. | A decimal number between 0-10 | 7.2
+priority | No | The severity rating description label. | You can choose from: *none, low, medium, high, critical* | medium
+view_reference_url | No | The link to the report in your ticketing system (when the reference URL integration is not set up). | A valid URL | https://example.jira.com/eng/BBP-1234
+reference | No | The reference to the report in your ticketing system. | A string | BBP-1234
+asset_identifier | No| The asset identifier that can be linked to an asset defined on HackerOne. | A string | ".hackerone.com"
+weakness_name | No | The name of the [weakness](/hackers/weakness.html) for the vulnerability. You can choose from HackerOne's subset list from the Common Weakness Enumeration (CWE)list. | A string matching the name from the CWE list | Cross-Site Request Forgery (CSRF)
+created_at | Yes if the report state is not *closed* | The timestamp of when the report was submitted | Timestamp in the format: YYYY-MM-DD <p><p>You can also include hours/minutes in 24-hour format: HH:MM | 2020-09-18
+triaged_at | Yes if the report state is not *closed* | The timestamp of when the submission was triaged. | Timestamp in the format: YYYY-MM-DD <p><p>You can also include hours/minutes in 24-hour format: HH:MM | 2020-09-18
+closed_at | No | The timestamp the submission was closed. | Timestamp in the format: YYYY-MM-DD <p><p>You can also include hours/minutes in 24-hour format: HH:MM | 2020-09-18
