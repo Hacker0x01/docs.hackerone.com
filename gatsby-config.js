@@ -85,6 +85,11 @@ module.exports = {
             id: 'https://docs.hackerone.com/changelog',
             createLinkInHead: /^\/changelog/,
             match: '^/changelog/',
+            output: {
+              rss2: '/changelog/rss.xml',
+              atom: '/changelog/atom.xml',
+              json: '/changelog/feed.json',
+            },
           },
         ],
       },
