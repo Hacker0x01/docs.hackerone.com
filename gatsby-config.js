@@ -83,7 +83,7 @@ module.exports = {
             description: "See what's changed or new in HackerOne.",
             link: 'https://docs.hackerone.com/changelog',
             id: 'https://docs.hackerone.com/changelog',
-            createLinkInHead: /^\changelog/,
+            createLinkInHead: /^\/changelog/,
             match: '^/changelog/',
           },
         ],
