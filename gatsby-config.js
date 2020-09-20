@@ -3,7 +3,9 @@ module.exports = {
     title: 'HackerOne Platform Documentation',
     siteUrl: 'https://docs.hackerone.com',
     description: 'Get instant answers to the most common questions and learn how to use HackerOne.',
-    author: 'HackerOne',
+    author: {
+      name: 'HackerOne',
+    },
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -12,6 +14,7 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-layout',
+    'gatsby-plugin-slug',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -67,6 +70,21 @@ module.exports = {
               maxWidth: 500,
               linkImagesToOriginal: false
             },
+          },
+        ],
+      },
+    },
+    {
+      resolve: '@fec/gatsby-plugin-advanced-feed',
+      options: {
+        feeds: [
+          {
+            title: 'HackerOne Platform Changelog',
+            description: "See what's changed or new in HackerOne.",
+            link: 'https://docs.hackerone.com/changelog',
+            id: 'https://docs.hackerone.com/changelog',
+            createLinkInHead: /^\changelog/,
+            match: '^/changelog/',
           },
         ],
       },
