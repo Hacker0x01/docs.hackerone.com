@@ -21,7 +21,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 ### Running locally
 
-1. `yarn run gatsby develop` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
+1. `yarn develop` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
 1. `open http://localhost:8000` to open the site in your favorite browser
 
 ### Deploy
@@ -34,7 +34,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 ### Guidelines
 
-The documentation is divided into several sections with a different tone and purpose. If you plan to write more than a few sentences, you might find it helpful to get familiar with the [contributing guidelines](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/contributing-guidelines.md) for the appropriate sections.
+The documentation is divided into several sections with a different tone and purpose. If you plan to write more than a few sentences, you might find it helpful to get familiar with the [contributing guidelines](https://github.com/Hacker0x01/docs.hackerone.com/blob/master/CONTRIBUTING.md) for the appropriate sections.
 
 ### Create a branch
 
@@ -58,10 +58,11 @@ The documentation is divided into several sections with a different tone and pur
 
 1. `git add -A && git commit -m "My message"` (replacing `My message` with a commit message, such as `Fixed header logo on Android`) to stage and commit your changes
 1. `git push my-fork-name the-name-of-my-branch`
-1. Go to the [docs.hackerone.com repo](https://github.com/Hacker0x01/docs.hackerone.com) and you should see recently pushed branches.
+1. Go to the [docs.hackerone.com repo](https://github.com/Hacker0x01/docs.hackerone.com), and you should see recently pushed branches.
 1. Follow GitHub's instructions.
 1. If possible, include screenshots of visual changes.
 
 ## Troubleshooting
 
-- `yarn reset` to clear the local cache
+- `yarn clean` to clear the local gatsby cache
+- `yarn reset` to clear the local node.js cache
