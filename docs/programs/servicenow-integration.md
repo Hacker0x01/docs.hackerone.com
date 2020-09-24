@@ -92,7 +92,7 @@ HTTP Method | POST
 ```
 Make sure you enter the correct table name, as in this case, it's *incident*.
 
-9. Get the full URL to your endpoint. <ul><li>The full URL to the “/hackerone/new_comment” endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the “Resources” section at the bottom. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment
+9. Get the full URL to your endpoint. <ul><li>The full URL to the “/hackerone/new_comment” endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the “Resources” section at the bottom. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: `https://dev100796.service-now.com/api/514345/hackerone/new_comment`.
 
 ![servicenow-6](./images/servicenow-6.png)
 ![servicenow-7](./images/servicenow-7.png)
