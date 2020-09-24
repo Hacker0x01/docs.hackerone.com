@@ -4,7 +4,7 @@ path: "/programs/retesting.html"
 id: "programs/retesting"
 ---
 
-As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. The hacker that participates in the retest will receive a $50 bounty upon completion.
+As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. The hacker that participates in the retest will receive a bounty upon completion.
 
 > Retesting is available as an add-on. To learn more about adding Retesting to your program, contact your account manager.
 
@@ -37,7 +37,7 @@ Action | Scenario | Details
 ------ | -------- | --------
 **Approve and resolve** the retest | The hacker says the vulnerability is fixed. | The report will close and will be marked as *Resolved*. The hacker will also be awarded a $50 bounty.
 **Reject** the retest | The hacker says the vulnerability is fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
-**Approve** the retest | The hacker says the vulnerability is not fixed. | The report will move back to *Triaged* and will stay open for the team to implement a fix. The hacker will be awarded a $50 bounty.
+**Approve** the retest | The hacker says the vulnerability is not fixed. | The report will move back to *Triaged* and will stay open for the team to implement a fix. The hacker will be awarded a bounty.
 **Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
 
 If the original hacker declines to take part in the retest and your program is:
