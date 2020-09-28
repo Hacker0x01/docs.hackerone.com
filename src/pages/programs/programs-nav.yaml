@@ -203,7 +203,9 @@
     - title: Slack
       path: /programs/slack-integration.html
     - title: Splunk
-      path: /programs/splunk-integration.html 
+      path: /programs/splunk-integration.html
+    - title: Sumo Logic
+      path: /programs/sumo-logic-integration.html
     - title: Redmine
       path: /programs/redmine-integration.html
     - title: Trac
