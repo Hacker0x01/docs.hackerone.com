@@ -136,7 +136,7 @@ Authentication Type | Inherit from parent
 {"event_name":"new_comment","message":"${message}","sys_id":"${sys_id}","element_id":"${element_id}"}
 ```
 
-9. On the same HTTP Request tab add two HTTP Headers:
+9. Add these two HTTP Headers on the same HTTP Request tab:
 
 Name | Value
 ----- | -----
