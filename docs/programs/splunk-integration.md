@@ -13,8 +13,7 @@ To configure the Splunk integration:
 2. Go to **Program Settings > Program > Webhooks**.
 3. Click **New webhook**.
 4. Enter the full HTTP event collector endpoint in Payload URL.
-5. Enter your webhook secret in the **Secret** field. The secret is used to validate that the request came from HackerOne. Learn how to [validate the payload using a secret](https://api.hackerone.com/webhooks/#payloads-validating-payloads-from-hackerone).
-6. Select which events you’d like to trigger the webhook. You can choose between:
+5. Select which events you’d like to trigger the webhook. You can choose between:
 
 Option | Details
 ------ | -------
