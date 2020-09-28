@@ -136,12 +136,19 @@ Authentication Type | Inherit from parent
 {"event_name":"new_comment","message":"${message}","sys_id":"${sys_id}","element_id":"${element_id}", "comment_id":"${comment_id}"}
 ```
 
-9. Navigate to **System Definition > Business Rules**.
+9. On the same HTTP Request tab add two HTTP Headers:
+
+Name | Value
+----- | -----
+Accept | application/json
+Content-Type | application/json
+
+10. Navigate to **System Definition > Business Rules**.
 
 ![servicenow-12](./images/servicenow-12.png)
 
-10. Click **New** to create a new business rule.
-11. Enter these values for these fields:
+11. Click **New** to create a new business rule.
+12. Enter these values for these fields:
 
 Field | Value
 ----- | ------
@@ -149,7 +156,7 @@ Name | Add Comment
 Table | Journal Entry [sys_journal_field]
 Advanced | Make sure the box is checked
 
-12. Enter these values for these fields on the **When to run** tab:
+13. Enter these values for these fields on the **When to run** tab:
 
 Field | Value
 ----- | ------
@@ -157,13 +164,14 @@ When | async
 Insert | Make sure the box is checked
 Filter Conditions | Value is not empty: AND : Name : is : incident
 
-13. Enter this script in the **Advanced** tab:
+14. Enter this script in the **Advanced** tab:
 
 ```
 (function executeRule(current, previous /*null when async*/) {
    try {
      var r = new sn_ws.RESTMessageV2('HackerOne', 'New Comment');
-     r.setStringParameterNoEscape('message', current.value);
+     var encoded_message = GlideStringUtil.base64Encode(current.value.toString());
+     r.setStringParameterNoEscape('message', encoded_message);
      r.setStringParameterNoEscape('sys_id', current.sys_id);
      r.setStringParameterNoEscape('element_id', current.element_id);
      r.execute();
