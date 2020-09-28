@@ -133,7 +133,7 @@ Authentication Type | Inherit from parent
 8. Enter this in the **Content** field in the HTTP Request tab:
 
 ```
-{"event_name":"new_comment","message":"${message}","sys_id":"${sys_id}","element_id":"${element_id}", "comment_id":"${comment_id}"}
+{"event_name":"new_comment","message":"${message}","sys_id":"${sys_id}","element_id":"${element_id}"}
 ```
 
 9. On the same HTTP Request tab add two HTTP Headers:
