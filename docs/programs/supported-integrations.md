@@ -22,6 +22,7 @@ HackerOne currently supports these integrations:
 * [ServiceNow](servicenow-integration.html)
 * [Slack](slack-integration.html)
 * [Splunk](splunk-integration.html)
+* [Sumo Logic](sumo-logic-integration.html)
 * [Redmine](redmine-integration.html)
 * [Trac](trac-integration.html)
 * [Zendesk](zendesk-integration.html)
