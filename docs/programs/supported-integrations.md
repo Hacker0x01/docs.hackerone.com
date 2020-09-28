@@ -21,6 +21,7 @@ HackerOne currently supports these integrations:
 * [Phabricator](phabricator-integration.html)
 * [ServiceNow](servicenow-integration.html)
 * [Slack](slack-integration.html)
+* [Splunk](splunk-integration.html)
 * [Redmine](redmine-integration.html)
 * [Trac](trac-integration.html)
 * [Zendesk](zendesk-integration.html)
