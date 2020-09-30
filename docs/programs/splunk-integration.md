@@ -4,7 +4,9 @@ path: "/programs/splunk-integration.html"
 id: "programs/splunk-integration"
 ---
 
-You can configure a Splunk integration using webhooks to log events from HackerOne in Splunk. The Splunk integration enables data to be logged based on the configured event trigger. This integration is flexible and can be used to log data for any of the [events listed](https://api.hackerone.com/webhooks/#events).
+You can configure a Splunk integration using webhooks to log events from HackerOne in Splunk. The Splunk integration enables data to be logged based on the configured event trigger. This integration is flexible and can be used to log data for any of the events listed.
+
+> This integration is only available to Enterprise programs. 
 
 ### Set up
 
@@ -13,7 +15,8 @@ To configure the Splunk integration:
 2. Go to **Program Settings > Program > Webhooks**.
 3. Click **New webhook**.
 4. Enter the full HTTP event collector endpoint in Payload URL.
-5. Select which events you’d like to trigger the webhook. You can choose between:
+5. Enter your webhook secret in the **Secret** field. The secret is used to validate that the request came from HackerOne. Learn how to [validate the payload using a secret](https://api.hackerone.com/webhooks/#payloads-validating-payloads-from-hackerone).
+6. Select which events you’d like to trigger the webhook. You can choose between:
 
 Option | Details
 ------ | -------
