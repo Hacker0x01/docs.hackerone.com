@@ -202,9 +202,16 @@ Endpoint | The Public ServiceNow URL visible in configuration wizard on the Hack
 Authentication Type | No authentication
 Content | `{"event_name":"close_report","element_id":"${sys_id}"}`
 
-4. Navigate to  **System Definition > Business Rules**.
-5. Click **New** to create a new business rule.
-6. Enter these values for these fields on the **When to run** tab:
+4. Add these two HTTP Headers on the same HTTP Request tab:
+
+Name | Value
+----- | -----
+Accept | application/json
+Content-Type | application/json
+
+5. Navigate to  **System Definition > Business Rules**.
+6. Click **New** to create a new business rule.
+7. Enter these values for these fields on the **When to run** tab:
 
 Field | Value
 ----- | -----
@@ -214,7 +221,7 @@ When | Async
 Update | Make sure the box is checked
 Filter Conditions | State: changes to : Closed
 
-7. Enter this script on the **Advanced** tab:
+8. Enter this script on the **Advanced** tab:
 
 ```
 (function executeRule(current, previous /*null when async*/) {
