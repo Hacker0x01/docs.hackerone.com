@@ -11,7 +11,7 @@ Passwords are used to protect access to your account from unauthorized users. Wh
 * Use a minimum of 12 characters in your passphrase. The longer your password, the better.
 * Use a different password for each site you log into. This ensures that if another site is breached or your password is leaked somewhere, it can’t be used to log into another site.
 * Avoid these mistakes:
-     * Using single dictionary words, spatial patterns (i.e. qwerty, asdf), repeating letters, or sequences (for example: abcd, 1234).
+     * Using single dictionary words, spatial patterns (for example: qwerty, asdf), repeating letters, or sequences (for example: abcd, 1234).
      * Making the first letter an uppercase.
      * Substituting letters with common numbers and symbols.
      * Using years, dates, zip codes.
