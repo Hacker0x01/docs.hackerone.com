@@ -4,6 +4,15 @@ path: "/changelog/2020/september"
 date: "2020-09"
 ---
 
+### Revamped Gateway (VPN) for Hackers
+We’ve revamped the HackerOne Gateway (VPN) for hackers so that hackers can now choose to connect between these 2 different Gateway locations:
+* Oregon, USA
+* Mumbai, India
+
+This gives hackers the ability to work on a VPN instance with a lower latency, which improves their Gateway experience with a faster connection.
+
+![Gateway page for Hackers](./images/sept_2020_gateway.png)
+
 ### Report Transparency
 We've increased report transparency for hackers by actively showing that their report is being looked at. This helps hackers to have more visibility in the triage process. To increase report transparency we show:
 * The timestamp of the latest internal activity
