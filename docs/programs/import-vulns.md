@@ -15,7 +15,7 @@ Before launching a program with HackerOne, it’s important that known un-remedi
 
 Your CSV file should follow the format listed below:
 
-![required fields importing file format](./images/import_template_required_fields.png)
+![required fields importing file format](./images/import_template_required_fields_2.png)
 
 > **Note:** You don't need to include all columns when importing your vulnerabilities, unless you want to provide the additional details. But, be sure to include all of the required columns.  
 
