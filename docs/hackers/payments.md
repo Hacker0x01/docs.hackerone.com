@@ -71,7 +71,7 @@ Once a month, HackerOne will donate to the charity of our choice. Currently, the
 
 Your program can elect to award you with various swag in addition to or instead of bounties. Swag includes merchandise as well as free coupons or vouchers for the services or products the program offers. Some programs also offer to host hackers near their office or cover admissions fees to conferences you're invited to attend.
 
-The program is responsible for fulfillment and delivery of swag to you.
+The program is responsible for fulfillment and delivery of swag to hackers. If you'd like to ship swag to hackers you can use the [swag feature](https://docs.hackerone.com/programs/swag.html) to request hacker mailing addresses. 
 
 ### Bonuses
 
