@@ -94,7 +94,7 @@ The program has **3** valid reports. | The program has **three** valid reports.
 
 ### Error Messages
 The purpose of error messages isn’t to tell users that they’ve made a mistake. The goal is to give them instructions with how to fix an error.
-
+Good error
 Good Error Message | Bad Error Message
 ------------------ | -----------------
 Enter a date that isn’t before the reported date. | The resolved date can’t be before the reported date.
