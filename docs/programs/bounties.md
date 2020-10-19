@@ -56,7 +56,7 @@ Here are some best practices to follow when awarding bounties:
 
 When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. Keep in mind that this API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 
-><i>Note: This option is only available for HackerOne Professional, Enterprise, and Community editions.</i>
+><i>Note: This option is only available for HackerOne Enterprise editions.</i>
 
 To start paying hackers:
 1. Go to **Settings > Program > Automation > API**.
