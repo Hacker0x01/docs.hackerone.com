@@ -11,9 +11,9 @@ HackerOne offers a bi-directional ServiceNow integration that enables you to syn
 ### Set up
 To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 4 steps:
 1. [Configure incoming requests in your ServiceNow instance](#configure-incoming-requests)
+2. [Configure the integration on HackerOne](#configure-on-hackerone)
 2. [Configure outgoing requests in your ServiceNow instance](#configure-outgoing-requests)
-3. [Configure a “close report” request from ServiceNow to HackerOne](#configure-close-report-event)
-4. [Configure the integration on HackerOne](#configure-on-hackerone)
+4. [Configure a “close report” request from ServiceNow to HackerOne](#configure-close-report-event)
 
 ### Configure Incoming Requests
 Configuring incoming requests requires you to post to a custom REST API endpoint in ServiceNow. This will enable you to add comments from HackerOne to your ServiceNow instance.
@@ -97,6 +97,49 @@ Make sure you enter the correct table name, as in this case, it's *incident*.
 ![servicenow-6](./images/servicenow-6.png)
 ![servicenow-7](./images/servicenow-7.png)
 
+### Configure on HackerOne
+
+To set up the integration on HackerOne:
+1. Navigate to **Program Settings > Program > Integrations**.
+2. Click **Connect with ServiceNow**.
+
+![servicenow-16](./images/servicenow-16.png)
+
+3. Click **Edit** to start the setup process.
+
+![servicenow-17](./images/servicenow-17.png)
+
+4. Authenticate your ServiceNow instance by entered information to these fields:
+
+Field | Details
+----- | -------
+ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
+Username & Password | Enter the credentials for a user that has access to the ServiceNow instance.
+
+5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
+
+![servicenow-18](./images/servicenow-18.png)
+
+6. Click **Next**.
+
+7. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
+
+![servicenow-19](./images/servicenow-19.png)
+
+![servicenow-20](./images/servicenow-20.png)
+
+8. Click **Next**.
+9. Copy the public listener URL in the configuration wizard.
+10. Go back to ServiceNow and open the Outbound REST Message,
+11. Paste the copied public listener URL in the **Endpoint** field.
+
+![servicenow-21](./images/servicenow-21.png)
+
+12. Click **Enable** to finish enable the integration.
+
+![servicenow-22](./images/servicenow-22.png)
+
+
 ### Configure Outgoing Requests
 After configuring incoming requests, you’ll need to configure outgoing requests in ServiceNow which will enable you to post comments from ServiceNow to HackerOne. You’ll need to use Outbound REST Messages and Business Rules in the configuration process.
 
@@ -153,7 +196,7 @@ Content-Type | application/json
 Field | Value
 ----- | ------
 Name | Add Comment
-Table | Journal Entry [sys_journal_field]
+Table | Journal Entry [sys\_journal\_field]
 Advanced | Make sure the box is checked
 
 13. Enter these values for these fields on the **When to run** tab:
@@ -188,8 +231,12 @@ Make sure that the arguments for RESTMessageV2 matches the name you gave to the 
 The close report event from ServiceNow to HackerOne is set up in a similar fashion to configuring the outgoing requests. You only need to change the content in the Outbound REST Message and the trigger action in the Business Rule.
 
 To set up the close report event:
-1. Search for the HackerOne REST Message that was set up in the previous section.
-2. Click **New** to add a new message.
+1. 1. Navigate to: **System Web Services > Outbound > REST Message**.
+
+![servicenow-8](./images/servicenow-8.png)
+
+2. Search for the HackerOne REST Message that was set up in the previous section.
+3. Click **New** to add a new method.
 
 ![servicenow-13](./images/servicenow-10.png)
 
@@ -237,43 +284,3 @@ Filter Conditions | State: changes to : Closed
 )(current, previous);
 ```
 Make sure the arguments for RESTMessageV2 match the name you gave the Outbound REST Message and HTTP Method.
-
-### Configure on HackerOne
-After configuring all of the steps above, you’re now ready to configure the integration on HackerOne.
-
-To set up the integration on HackerOne:
-1. Navigate to **Program Settings > Program > Integrations**.
-2. Click **Connect with ServiceNow**.
-
-![servicenow-16](./images/servicenow-16.png)
-
-3. Click **Edit** to start the setup process.
-
-![servicenow-17](./images/servicenow-17.png)
-
-4. Authenticate your ServiceNow instance by entered information to these fields:
-
-Field | Details
------ | -------
-ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
-Username & Password | Enter the credentials for a user that has access to the ServiceNow instance.
-
-5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to ServiceNow incident short description.
-
-![servicenow-18](./images/servicenow-18.png)
-
-6. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint**. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
-
-![servicenow-19](./images/servicenow-19.png)
-
-![servicenow-20](./images/servicenow-20.png)
-
-7. Copy the public listener URL in the configuration wizard.
-8. Go back to ServiceNow and open the Outbound REST Message,
-9. Paste the copied public listener URL in the **Endpoint** field.
-
-![servicenow-21](./images/servicenow-21.png)
-
-10. Click **Enable** to finish enable the integration.
-
-![servicenow-22](./images/servicenow-22.png)
