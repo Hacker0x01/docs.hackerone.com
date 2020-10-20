@@ -16,6 +16,7 @@ HackerOne currently supports these integrations:
 * [JupiterOne](https://jupiterone.com/features/integrations/hackerone-integration/)
 * [Kenna Security](kenna-security.html)
 * [MantisBT](mantisbt-integration.html)
+* [Microsoft Teams](/programs/microsoft-teams.html)
 * [OTRS](otrs-integration.html)
 * [PagerDuty](pagerduty-integration.html)
 * [Phabricator](phabricator-integration.html)
