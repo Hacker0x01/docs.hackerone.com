@@ -192,6 +192,8 @@
       path: /programs/kenna-security.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
+    - title: Microsoft Teams
+      path: /programs/microsoft-teams.html
     - title: OTRS
       path: /programs/otrs-integration.html
     - title: PagerDuty
