@@ -135,7 +135,7 @@ Username & Password | Enter the credentials for a user that has access to the Se
 
 ![servicenow-21](./images/servicenow-21.png)
 
-12. Click **Enable** to finish enable the integration.
+12. Click **Enable** to enable the integration.
 
 ![servicenow-22](./images/servicenow-22.png)
 
