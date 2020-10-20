@@ -109,7 +109,7 @@ To set up the integration on HackerOne:
 
 ![servicenow-17](./images/servicenow-17.png)
 
-4. Authenticate your ServiceNow instance by entered information to these fields:
+4. Authenticate your ServiceNow instance by entering information to these fields:
 
 Field | Details
 ----- | -------
