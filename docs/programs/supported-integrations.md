@@ -10,7 +10,7 @@ HackerOne currently supports these integrations:
 Type of Application | Integration
 ---- | ------------
 Issue Tracking | [Assembla](assembla-integration.html)<br>[Bugzilla](bugzilla-integration.html)<br>[Freshdesk](freshdesk-integration.html)<br> [GitHub](github-integration.html)<br>[GitLab](gitlab-integration.html)<br>[IBM Resilient](ibm-resilient.html) <br>[Jira](jira-integration.html)<br>[MantisBT](mantisbt-integration.html)<br>[OTRS](otrs-integration.html)<br>[Phabricator](phabricator-integration.html)<br>[Redmine](redmine-integration.html)<br>[ServiceNow](servicenow-integration.html)<br>[Trac](trac-integration.html)<br>[Zendesk](zendesk-integration.html)
-Notification | [Phabricator](phabricator-integration.html)<br>[Slack](slack-integration.html)
+Notification | [Microsoft Teams](/programs/microsoft-teams.html)<br>[PagerDuty](/programs/pagerduty-integration.html)<br>[Slack](slack-integration.html)
 Data Aggregation | [Splunk](splunk-integration.html) <br>[Sumo Logic](sumo-logic-integration.html)
 Vulnerability Management | [JupiterOne](https://jupiterone.com/features/integrations/hackerone-integration/) <br>[Kenna Security](kenna-security.html)
 
