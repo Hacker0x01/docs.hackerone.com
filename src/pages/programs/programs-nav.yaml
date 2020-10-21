@@ -200,6 +200,8 @@
       path: /programs/pagerduty-integration.html
     - title: Phabricator
       path: /programs/phabricator-integration.html
+    - title: Redmine
+      path: /programs/redmine-integration.html
     - title: ServiceNow
       path: /programs/servicenow-integration.html
     - title: Slack
@@ -208,8 +210,6 @@
       path: /programs/splunk-integration.html
     - title: Sumo Logic
       path: /programs/sumo-logic-integration.html
-    - title: Redmine
-      path: /programs/redmine-integration.html
     - title: Trac
       path: /programs/trac-integration.html
     - title: Zendesk
