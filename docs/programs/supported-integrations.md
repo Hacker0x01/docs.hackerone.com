@@ -7,7 +7,7 @@ HackerOne integrates with many issue tracking tools. The integration ensures tha
 
 HackerOne currently supports these integrations:
 
-Type of Application | Integration
+Type of Application | Supported Integration
 ---- | ------------
 Issue Tracking | [Assembla](assembla-integration.html)<br>[Bugzilla](bugzilla-integration.html)<br>[Freshdesk](freshdesk-integration.html)<br> [GitHub](github-integration.html)<br>[GitLab](gitlab-integration.html)<br>[IBM Resilient](ibm-resilient.html) <br>[Jira](jira-integration.html)<br>[MantisBT](mantisbt-integration.html)<br>[OTRS](otrs-integration.html)<br>[Phabricator](phabricator-integration.html)<br>[Redmine](redmine-integration.html)<br>[ServiceNow](servicenow-integration.html)<br>[Trac](trac-integration.html)<br>[Zendesk](zendesk-integration.html)
 Notification | [Microsoft Teams](/programs/microsoft-teams.html)<br>[PagerDuty](/programs/pagerduty-integration.html)<br>[Slack](slack-integration.html)
