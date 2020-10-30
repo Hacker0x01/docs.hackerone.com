@@ -4,6 +4,13 @@ path: "/changelog/2020/october"
 date: "2020-10"
 ---
 
+### Revamped Assigned To Filter
+The `Me` filter for the **Assigned to** filter category now only shows reports that you are directly assigned to.
+
+To see all of the reports that are assigned to you and the groups you are a part of, you can select the new `Me and my groups` filter. 
+
+![assigned to filter](./images/oct_2020_assigned_to_filter.png)
+
 ### Microsoft Teams Integration
 We introduce the [Microsoft Teams integration](/programs/microsoft-teams.html) to all Enterprise programs. This enables Microsoft Teams users to keep up-to-date with what's happening in their program as they can now receive notifications of HackerOne report activities directly in their selected channels.
 
