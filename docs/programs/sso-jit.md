@@ -11,10 +11,12 @@ When SSO via SAML has been set up, each time a new user from your organization l
 Provisioning Type | Details
 ----------------- | --------
 Attribute Provisioning | By default, all accounts will be provisioned with and keep up-to-date these attributes: <li>First Name <li>Last name
-Program Membership | All SAML users have access to the platform by default, but don't necessarily have access to programs. The options for program membership can be set to: None, Basic or Advanced. See below to learn more about these options.
+Program Membership | All SAML users have access to the platform by default, but don't necessarily have access to programs. The options for program membership can be set to: None (default), Basic or Advanced. See below to learn more about these options.
 
 ### Program Membership Options
-You can configure your program membership options to None, Basic or Advanced. Each option enables the user different permissions.
+You can configure your program membership options to None (default), Basic or Advanced. Each option enables the user different permissions.
+
+> For Basic or Advanced configuration, please contact HackerOne
 
 Option Type | Details
 ----------- | -------
