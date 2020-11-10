@@ -11,7 +11,7 @@ In order to submit reports:
 
 ![h1 security page](./images/submit-reports-1.png)
 
-2. Click the green **Submit Report** button.
+2. Click the pink **Submit Report** button.
 3. Select the asset type of the vulnerability on the **Submit Vulnerability Report** form.
 
 ![asset](./images/submit-reports-2.png)
