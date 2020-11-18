@@ -92,7 +92,7 @@ HTTP Method | POST
 ```
 Make sure you enter the correct table name, as in this case, it's *incident*.
 
-9. Get the full URL to your endpoint. <ul><li>The full URL to the `/hackerone/new_comment` endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the “Resources” section at the bottom. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment.
+9. Copy the full URL to your endpoint and save it to be used for later. <ul><li>The full URL to the `/hackerone/new_comment` endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the Resources tab underneath the Resource path column. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment.
 
 ![servicenow-6](./images/servicenow-6.png)
 ![servicenow-7](./images/servicenow-7.png)
@@ -186,12 +186,14 @@ Name | Value
 Accept | application/json
 Content-Type | application/json
 
-10. Navigate to **System Definition > Business Rules**.
+10. Click **Submit**.
+
+11. Navigate to **System Definition > Business Rules**.
 
 ![servicenow-12](./images/servicenow-12.png)
 
-11. Click **New** to create a new business rule.
-12. Enter these values for these fields:
+12. Click **New** to create a new business rule.
+13. Enter these values for these fields:
 
 Field | Value
 ----- | ------
@@ -199,7 +201,7 @@ Name | Add Comment
 Table | Journal Entry [sys\_journal\_field]
 Advanced | Make sure the box is checked
 
-13. Enter these values for these fields on the **When to run** tab:
+14. Enter these values for these fields on the **When to run** tab:
 
 Field | Value
 ----- | ------
@@ -207,7 +209,7 @@ When | async
 Insert | Make sure the box is checked
 Filter Conditions | Value is not empty: AND : Name : is : incident
 
-14. Enter this script in the **Advanced** tab:
+15. Enter this script in the **Advanced** tab:
 
 ```
 (function executeRule(current, previous /*null when async*/) {
@@ -225,6 +227,9 @@ Filter Conditions | Value is not empty: AND : Name : is : incident
  }
 )(current, previous);
 ```
+
+15. Click **Submit**.
+
 Make sure that the arguments for RESTMessageV2 matches the name you gave to the Outbound REST Message.
 
 ### Configure Close Report Event
@@ -235,40 +240,47 @@ To set up the close report event:
 
 ![servicenow-8](./images/servicenow-8.png)
 
-2. Search for the HackerOne REST Message that was set up in the previous section.
+2. Search for *HackerOne*.
 3. Click **New** to add a new method.
 
 ![servicenow-13](./images/servicenow-10.png)
 
-3. Enter these values to these fields:
+4. Enter these values to these fields:
 
 Field | Value
 ----- | -----
 Name | Close Report
 Endpoint | The Public ServiceNow URL visible in configuration wizard on the HackerOne platform
+HTTP Method | POST
 Authentication Type | No authentication
-Content | `{"event_name":"close_report","element_id":"${sys_id}"}`
 
-4. Add these two HTTP Headers on the same HTTP Request tab:
+5. Enter this in the **Content** field in the HTTP Request tab:
+```
+{"event_name":"close_report","element_id":"${sys_id}"}
+```
+
+6. Add these two HTTP Headers on the same HTTP Request tab:
 
 Name | Value
 ----- | -----
 Accept | application/json
 Content-Type | application/json
 
-5. Navigate to  **System Definition > Business Rules**.
-6. Click **New** to create a new business rule.
-7. Enter these values for these fields on the **When to run** tab:
+7. Click **Submit**.
+8. Navigate to  **System Definition > Business Rules**.
+9. Click **New** to create a new business rule.
+10. Enter these values for these fields on the **When to run** tab:
 
 Field | Value
 ----- | -----
 Name | Close Report
 Table | Incident [incident]
+Advanced | Make sure the box is checked
 When | Async
 Update | Make sure the box is checked
 Filter Conditions | State: changes to : Closed
 
-8. Enter this script on the **Advanced** tab:
+11. Enter this script on the **Advanced** tab:
 
 ```
 (function executeRule(current, previous /*null when async*/) {
@@ -283,4 +295,7 @@ Filter Conditions | State: changes to : Closed
  }
 )(current, previous);
 ```
+
+12. Click **Submit**.
+
 Make sure the arguments for RESTMessageV2 match the name you gave the Outbound REST Message and HTTP Method.
