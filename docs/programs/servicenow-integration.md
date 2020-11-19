@@ -92,7 +92,9 @@ HTTP Method | POST
 ```
 Make sure you enter the correct table name, as in this case, it's *incident*.
 
-9. Copy the full URL to your endpoint and save it to be used for later. <ul><li>The full URL to the `/hackerone/new_comment` endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the Resources tab underneath the Resource path column. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment.
+9. Click **Submit**.
+
+10. Copy the full URL to your endpoint and save it to be used for later. <ul><li>The full URL to the `/hackerone/new_comment` endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the Resources tab underneath the Resource path column. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment.
 
 ![servicenow-6](./images/servicenow-6.png)
 ![servicenow-7](./images/servicenow-7.png)
@@ -130,12 +132,7 @@ Username & Password | Enter the credentials for a user that has access to the Se
 
 8. Click **Next**.
 9. Copy the public listener URL in the configuration wizard.
-10. Go back to ServiceNow and open the Outbound REST Message,
-11. Paste the copied public listener URL in the **Endpoint** field.
-
-![servicenow-21](./images/servicenow-21.png)
-
-12. Click **Enable** to enable the integration.
+10. Click **Enable** to enable the integration.
 
 ![servicenow-22](./images/servicenow-22.png)
 
@@ -252,7 +249,7 @@ Field | Value
 Name | Close Report
 Endpoint | The Public ServiceNow URL visible in configuration wizard on the HackerOne platform
 HTTP Method | POST
-Authentication Type | No authentication
+Authentication Type | Inherit from parent
 
 5. Enter this in the **Content** field in the HTTP Request tab:
 ```
