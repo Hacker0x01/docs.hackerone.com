@@ -284,9 +284,9 @@ Filter Conditions | State: changes to : Closed
    try {
      var r = new sn_ws.RESTMessageV2('HackerOne', 'Close Report');
      r.setStringParameterNoEscape('sys_id', current.sys_id);
-	 // Set the HackerOne report state.
-	 // Possible state changes can be found here https://api.hackerone.com/core-resources/#reports-change-state
-	 r.setStringParameterNoEscape('hackerone_report_state', 'resolved');
+     // Set the HackerOne report state.
+     // Possible state changes can be found here https://api.hackerone.com/core-resources/#reports-change-state
+     r.setStringParameterNoEscape('hackerone_report_state', 'resolved');
      var response = r.execute();
    }
    catch(ex) {
