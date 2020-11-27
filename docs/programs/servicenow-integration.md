@@ -253,7 +253,7 @@ Authentication Type | Inherit from parent
 
 5. Enter this in the **Content** field in the HTTP Request tab:
 ```
-{"event_name":"close_report","element_id":"${sys_id}"}
+{"event_name":"close_report","element_id":"${sys_id}","hackerone_report_state": "${hackerone_report_state}"}
 ```
 
 6. Add these two HTTP Headers on the same HTTP Request tab:
@@ -284,6 +284,9 @@ Filter Conditions | State: changes to : Closed
    try {
      var r = new sn_ws.RESTMessageV2('HackerOne', 'Close Report');
      r.setStringParameterNoEscape('sys_id', current.sys_id);
+     // Set the HackerOne report state.
+     // Possible state changes can be found here https://api.hackerone.com/core-resources/#reports-change-state
+     r.setStringParameterNoEscape('hackerone_report_state', 'resolved');
      var response = r.execute();
    }
    catch(ex) {
