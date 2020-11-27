@@ -253,7 +253,7 @@ Authentication Type | Inherit from parent
 
 5. Enter this in the **Content** field in the HTTP Request tab:
 ```
-{"event_name":"close_report","element_id":"${sys_id}"}
+{"event_name":"close_report","element_id":"${sys_id}","hackerone_report_state": "${hackerone_report_state}"}
 ```
 
 6. Add these two HTTP Headers on the same HTTP Request tab:
