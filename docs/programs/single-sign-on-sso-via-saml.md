@@ -82,7 +82,7 @@ To configure an alternative certificate:
 
 ![Authentication settings page with SAML configured](./images/alt-certificate-1.png)
 
-3. Enter the alternative certificate in the **Configure alternative certificate** window. 
+3. Enter the alternative certificate in the **Configure alternative certificate** window.
 
 ![configure alternative certificate modal ](./images/alt-certificate-2.png)
 
@@ -90,6 +90,22 @@ To configure an alternative certificate:
 
 After the alternative certificate has been configured, users will be able to authenticate through the new SAML certificate.
 
-When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative. 
+When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative.
 
 ![authentication settings page with alt certificate configured](./images/alt-certificate-3.png)
+
+### Changing Identity Providers
+
+On occasion, you need to switch your identity provider. In order to provide a more seamless self service configuration, we suggest following the following steps:
+
+ 1. Be sure to record the information from your prior identity provider configuration
+ 2. Preconfigure your new identity provider with HackerOne information
+ 3. Go to **Program Settings > General > Authentication**.
+> **Note:** Steps 4 - 7 will make your SAML authentications temporarily unavailable, be sure to communicate this to the program members as needed
+ 4. Disable your current configuration by clicking "Disable SAML"
+ 5. When prompted uncheck the "Send password reset to affected users"
+![SAML Disable modal](./images/saml-disable-modal.png)
+ 6. Re-configure your SAML configuration with the new identity provider information, run a test and verify the settings
+ 7. When enabling SAML for your setup again, indicate to NOT notify users
+ ![SAML Enable modal](./images/saml-enable-modal.png)
+ 8. If at anytime testing doesn't work or you encounter issues, revert to the recorded information for the prior identity provider
