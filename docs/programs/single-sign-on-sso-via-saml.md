@@ -115,13 +115,13 @@ X509 Certificate | The certificate from your SAML provider to verify the single 
 
  4. Disable your current configuration by clicking **Yes, disable SAML**.
 
- 5. Uncheck the check box for **Send password reset emails to affected users."
+ 5. Uncheck the check box for **Send password reset emails to affected users**.
 
 ![SAML Disable modal](./images/saml-disable-modal.png)
 
  6. Re-configure your SAML configuration with the new identity provider information by following steps 1-12 [here](single-sign-on-sso-via-saml.html#set-up).
 
- 7. Make sure the checkbox for *Notify existing users that SAML is enabled** is unchecked when the **Enable SAML** window pops up.
+ 7. Make sure the checkbox for **Notify existing users that SAML is enabled** is unchecked when the **Enable SAML** window pops up.
 
  8. Click **Enable**.
 
