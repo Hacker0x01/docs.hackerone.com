@@ -13,8 +13,6 @@
       path: /programs/private-vs-public-programs.html
     - title: Parent/Child Programs
       path: /programs/parent-child-programs.html
-    - title: Password Best Practices
-      path: /programs/passwords.html
     - title: Using Markdown
       path: /programs/using-markdown.html
     - title: Running a Good Program
@@ -283,5 +281,7 @@
       path: /programs/import-vulnerabilities.html
     - title: IP Allowlists
       path: /programs/ip-allowlists.html
+    - title: Password Best Practices
+      path: /programs/passwords.html
     - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
