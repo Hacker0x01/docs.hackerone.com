@@ -1,4 +1,4 @@
----
+---welcome-to-hackerone-docs.md
 title: "Welcome to HackerOne Docs"
 path: "/hackers.html"
 id: "hackers/welcome-to-hackerone-docs"
