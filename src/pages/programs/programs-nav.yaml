@@ -9,10 +9,13 @@
       path: /programs/product-offerings.html
     - title: Program Starting Point
       path: /programs/program-starting-point.html
-    - title: Private vs Public Programs
-      path: /programs/private-vs-public-programs.html
-    - title: Parent/Child Programs
-      path: /programs/parent-child-programs.html
+    - title: Program Types
+      path: /programs/program-types.html
+      items:
+        - title: Private vs. Public Programs
+          path: /programs/private-vs-public-programs.html
+        - title: Parent/Child Programs
+          path: /programs/parent-child-programs.html
     - title: Using Markdown
       path: /programs/using-markdown.html
     - title: Running a Good Program
