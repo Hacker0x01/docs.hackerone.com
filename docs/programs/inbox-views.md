@@ -36,7 +36,10 @@ To permanently remove a View from your inbox:
 
 ### Showing and Hiding Views
 To show and hide Views:
-1. In **Settings > Program > Inbox Views**, select **Shown** next to the View you want to hide. The View will then be hidden. *Note: Shown means that the inbox view currently appears in your Inbox.*
+1. In **Settings > Program > Inbox Views**, select **Shown** next to the View you want to hide. The View will then be hidden.
+
+><i>Note: Shown means that the inbox view currently appears in your Inbox.</i>
+
 2. When a View is hidden, select **Hidden** to show the View.
 
 ><i>Note: There is a Preview section at the bottom of the page that enables you to see a preview of what your Views will look like in the inbox.</i>
