@@ -10,6 +10,7 @@ All captured packet data will be securely deleted from all HackerOne systems aft
 * Troubleshooting and debugging
 * Incident responses
 * Generating statistics for reports to programs
+* Improving delivery of programs and services
 
 HackerOne will not use the captured packet data for any other purposes and will only be shared with the program. The program may retain the data for compliance and auditing.
 
