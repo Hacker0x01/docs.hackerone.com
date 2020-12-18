@@ -16,6 +16,8 @@
           path: /programs/private-vs-public-programs.html
         - title: Parent/Child Programs
           path: /programs/parent-child-programs.html
+        - title: VDP vs. BBP
+          path: /programs/vdp-vs-bbp.html
     - title: Using Markdown
       path: /programs/using-markdown.html
     - title: Running a Good Program
