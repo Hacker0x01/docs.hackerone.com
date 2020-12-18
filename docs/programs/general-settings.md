@@ -17,8 +17,6 @@ To change the settings of your bounty program follow these steps:
  Group Management | Add and Edit various groups in your program. You can also add and remove users to these groups.
  Billing | Enter your billing info in the **Overview, Credit Card**, and **Prepayment** tabs.
 
- ![start-bounty-1](./images/general-settings.png)
-
 2. Under **Program Settings > Program** configure these settings for your program:
 
  Option | Detail
@@ -38,7 +36,5 @@ To change the settings of your bounty program follow these steps:
  [Integrations](supported-integrations.html) | Configure your integrations with other services to streamline your workflow.
  API | Create API tokens.
  Hackbot | Hackbot is HackerOne's free automated service that provides you with guidance regarding your reports by providing contextual advice and actionable items to improve your user experience. Configure which actions you want Hackbot to suggest.
-
- ![start-bounty-2](./images/program-settings.png)
 
 Once your program settings have been configured and you exit the setup environment, your program will be live as a confidential, invitation-only program.
