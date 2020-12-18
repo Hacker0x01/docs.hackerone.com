@@ -1,5 +1,5 @@
 ---
-title: "VDP vs. BBP"
+title: "VDP vs BBP"
 path: "/programs/vdp-vs-bbp.html"
 id: "programs/vdp-vs-bbp"
 ---
@@ -25,4 +25,4 @@ How reports will be evaluated | A descriptive outline that sets expectations for
 ### BBP
 A bug bounty program incentivizes external third parties to find security vulnerabilities in a company’s software and report them directly to the company so they can be safely resolved. In return, the finders of the vulnerabilities are rewarded with monetary prizes.
 
-BBPs have the option to be [private or public](private-vs-public-programs.html), where you can choose which will work best for you. BBPs are also a bit more complex than VDPs as there are a lot more components and settings to configure such as a bounty structure and response targets. You can see all the settings that need to be configured for BBPs under [general settings](general-settings.html). 
+BBPs have the option to be [private or public](private-vs-public-programs.html), where you can choose which will work best for you. BBPs are also a bit more complex than VDPs as there are a lot more components and settings to configure such as a bounty structure and response targets. You can see all the settings that need to be configured for BBPs under [general settings](general-settings.html).
