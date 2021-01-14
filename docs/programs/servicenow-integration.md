@@ -10,7 +10,7 @@ HackerOne offers a bi-directional ServiceNow integration that enables you to syn
 
 ### Set up
 To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 5 steps:
-1. [Configure oauth for your ServiceNow instance](#configure-oauth)
+1. [Configure OAuth for your ServiceNow instance](#configure-oauth)
 2. [Configure incoming requests in your ServiceNow instance](#configure-incoming-requests)
 3. [Configure the integration on HackerOne](#configure-on-hackerone)
 4. [Configure outgoing requests in your ServiceNow instance](#configure-outgoing-requests)
@@ -144,7 +144,7 @@ To set up the integration on HackerOne:
 Field | Details
 ----- | -------
 ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
-Username & Password | Enter the credentials for a user that has access to the ServiceNow instance.
+Client ID & Client secret | Enter the `Client ID` and `secret` from step 4 in [Configure OAuth](#configure-oauth)
 
 5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
 
