@@ -144,7 +144,7 @@ To set up the integration on HackerOne:
 Field | Details
 ----- | -------
 ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
-Client ID & Client secret | Enter the `Client ID` and `secret` from step 4 in [Configure OAuth](#configure-oauth)
+Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 4 in [Configure OAuth](#configure-oauth)
 
 5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
 
