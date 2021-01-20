@@ -4,11 +4,11 @@ path: "/programs/retesting.html"
 id: "programs/retesting"
 ---
 
-As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. The hacker that participates in the retest will receive a bounty upon completion.
+As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. 
 
-> Retesting is available as an add-on. To learn more about adding Retesting to your program, contact your account manager.
+> HackerOne Response programs will have access to triage retesting, where HackerOne's triage team will retest the vulnerabilities to verify the fixes instead of hackers.
 
-### How it Works
+### How it Works  
 To have hackers retest a vulnerability:
 1. Choose the report in your inbox that you want to assign a hacker to retest.
 2. Change the action picker to **Request retest**.
