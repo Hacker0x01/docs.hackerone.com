@@ -4,7 +4,7 @@ path: "/programs/azure-devops-integration.html"
 id: "programs/azure-devops-integration"
 ---
 
-HackerOne offers a bi-directional Azure DevOps integration that enables you to synchronize your HackerOne events to Azure DevOps and vice versa, from Azure DevOps to HackerOne. This integration enables your development and security teams to stay aligned as it contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between Azure DevOps and HackerOne. 
+HackerOne offers a bi-directional Azure DevOps integration that enables you to synchronize your HackerOne events to Azure DevOps and vice versa, from Azure DevOps to HackerOne. This integration enables your development and security teams to stay aligned as it contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between Azure DevOps and HackerOne.
 
 > **Note:** This integration is currently in beta and only available to select Enterprise programs. If you're part of an Enterprise program and would like to opt-in to this beta integration, please let your program manager know.
 
@@ -86,7 +86,7 @@ To configure synchronizing events from Azure DevOps to HackerOne:
 
 6. *(Optional)* Apply any of the filters you'd like to use.
 7. Click **Next**.
-8. Fill out the **URL** field with your **AzureDevOpsListener Public URL** from Step 18 in [Configure the Integration on HackerOne].
+8. Fill out the **URL** field with your **AzureDevOpsListener Public URL** from Step 18 in [Configure the Integration on HackerOne](#configure-the-integration-on-hackerone).
 
 ![image](./images/azure-12.png)
 
