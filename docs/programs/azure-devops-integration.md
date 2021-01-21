@@ -49,8 +49,10 @@ Option | Details
 ------ | --------
 Comments | When someone comments on a report, an update will be posted on the associated Azure DevOps work item.
 State Changes | When someone changes the state of a report, an update will be posted on the associated Azure DevOps item.
+Work Item Closed State | You can choose from these options:<br><li>Done (Completed)
 Rewards | When someone awards a suggests a bounty and/or bonus, an update will be posted on the associated Azure DevOps item.
-Disclosure | When a report is disclosed, an update will be posted on the associate Azure DevOps item.
+Disclosure | When disclosure is requested or approved, an update will post on the associated Azure DevOps item.
+Synchronize Attachments | You can synchronize attachments linked with reports and comments to the associated Azure DevOps work item.
 
 17. Click **Next**.
 18. Select the events you want to sync from Azure DevOps to HackerOne. You can choose from:
@@ -58,6 +60,7 @@ Disclosure | When a report is disclosed, an update will be posted on the associa
 Option | Details
 ------ | -------
 Status changed | Post an internal comment when a work item changes status.
+When status changes to done | You can choose from these options: <br><li>Close HackerOne report <li>Do nothing
 Priority changed | Post an internal comment when a work item changes status.
 Assignee changed | Post an internal comment when a work item changes the assignee.
 Comment added | Post an internal comment when someone comments on a work item.
