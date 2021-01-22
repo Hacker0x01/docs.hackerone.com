@@ -49,7 +49,7 @@ Option | Details
 ------ | --------
 Comments | When someone comments on a report, an update will be posted on the associated Azure DevOps work item.
 State Changes | When someone changes the state of a report, an update will be posted on the associated Azure DevOps item.
-Work Item Closed State | You can choose from these options:<br><li>Done (Completed)
+Work Item Closed State | You can choose from these options:<br><li>*To Do*<li>*Doing*<li>*Done*
 Rewards | When someone awards a suggests a bounty and/or bonus, an update will be posted on the associated Azure DevOps item.
 Disclosure | When disclosure is requested or approved, an update will post on the associated Azure DevOps item.
 Synchronize Attachments | You can synchronize attachments linked with reports and comments to the associated Azure DevOps work item.
