@@ -4,7 +4,7 @@ path: "/programs/retesting.html"
 id: "programs/retesting"
 ---
 
-As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. 
+As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes.
 
 > Retesting for HackerOne Response programs will be available through our triage services, where HackerOne's triage team will retest the vulnerabilities to verify the fixes instead of hackers.
 
@@ -46,3 +46,6 @@ Program Type | Details
 ------------ | --------
 Private | Another hacker that's part of your program will have the opportunity to claim and perform the retest.
 Public | Any hacker with at least 1 *Resolved* or *Triaged* report will be able to claim the retest.
+
+### Payments
+Hackers will be awarded a $50 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier.   
