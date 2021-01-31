@@ -1,3 +1,4 @@
+
 ---
 title: "Private vs Public Programs"
 path: "/hackers/private-vs-public-programs.html"
@@ -5,6 +6,8 @@ id: "hackers/private-vs-public-programs"
 ---
 
 There are 2 types of programs you can hack on: private and public programs.  
+
+### Nurdin jaelani
 
 ### Private Programs
 
