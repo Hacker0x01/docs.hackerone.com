@@ -5,6 +5,7 @@ id: "hackers/private-vs-public-programs"
 ---
 
 There are 2 types of programs you can hack on: private and public programs.  
+### Nurdin Jaelani
 
 ### Private Programs
 
