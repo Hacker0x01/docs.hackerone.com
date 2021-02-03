@@ -32,3 +32,4 @@ Variable | Details | Example
 `{{title}}` | The title of the report. |
 `{{vulnerability_information}}` | The description of the vulnerability in the report. |
 `{{weakness}}` | The CWE weakness of the report. |
+`{{remediation_advice}}` | The remediation advice created from the custom remediation advice with a fall back to the automated remediation advice. |
