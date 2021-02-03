@@ -20,6 +20,7 @@ Variable | Details | Example
 `{{email}}` | The email address of the user creating the Jira issue. |
 `{{escalation_time}}` | The date and time of when the report was escalated to Jira. |
 `{{jira_severity}}` | The severity of the report in Jira mapping. `none` converts to `1` and `critical` converts to `5`. |
+`{{remediation_advice}}` | The remediation advice created from the custom remediation advice with a fall back to the automated remediation advice. |
 `{{report_id}}` | The ID of the report. |
 `{{report_link}}` | The URL of the report. |
 `{{reporter_link}}` | The URL of the hacker's HackerOne profile. |
@@ -32,4 +33,3 @@ Variable | Details | Example
 `{{title}}` | The title of the report. |
 `{{vulnerability_information}}` | The description of the vulnerability in the report. |
 `{{weakness}}` | The CWE weakness of the report. |
-`{{remediation_advice}}` | The remediation advice created from the custom remediation advice with a fall back to the automated remediation advice. |
