@@ -20,6 +20,7 @@ Variable | Details | Example
 `{{email}}` | The email address of the user creating the Jira issue. |
 `{{escalation_time}}` | The date and time of when the report was escalated to Jira. |
 `{{jira_severity}}` | The severity of the report in Jira mapping. `none` converts to `1` and `critical` converts to `5`. |
+`{{remediation_advice}}` | The customized remediation advice from MITRE. This will fall back to the automated remediation advice if there is no guidance from MITRE. |
 `{{report_id}}` | The ID of the report. |
 `{{report_link}}` | The URL of the report. |
 `{{reporter_link}}` | The URL of the hacker's HackerOne profile. |
