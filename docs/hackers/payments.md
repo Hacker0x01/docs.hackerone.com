@@ -55,7 +55,7 @@ Upon receiving your request, HackerOne will do a quick check to see if a donatio
 
 Generally, if the charity accepts donations in USD through PayPal or Credit Card, HackerOne should be able to fulfill your request quickly. If the charity provides an electronic receipt, HackerOne will forward this to you as proof of payment.
 
-Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. At this time, we can only donate bounties in full as we can't do partial or split donations.
+Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. You can choose to donate your bounties in full, or you can choose to donate a part of your bounty.
 
 #### Donating through Bounty Splitting
 You can also donate your bounties through [bounty splitting](payments.html#bounty-splitting). To do this:
