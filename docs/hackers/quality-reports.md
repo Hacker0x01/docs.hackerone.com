@@ -17,8 +17,10 @@ It’s best to be comprehensive, yet concise as security teams need to have all 
 
 ### Examples
 Here are some examples of publicly disclosed examples of good reports:
-* [Twitter disclosed on HackerOne: URGENT - Subdomain Takeover](https://hackerone.com/reports/32825)
-* [Shopify disclosed on HackerOne: Attention! Remote Code Execution](https://hackerone.com/reports/73567)
+* [Shopify disclosed on HackerOne: Remote Code Execution on kitcrm using bulk customer update of Priority Products](https://hackerone.com/reports/422944)
+* [Semrush disclosed on HackerOne: XXE in Site Audit function exposing file and directory contents](https://hackerone.com/reports/312543)
+* [Shopify disclosed on HackerOne: Stored XSS in blog comments through Shopify API](https://hackerone.com/reports/192210)
+* [QIWI disclosed on HackerOne: SQL injection on contactws.contact-sys.com in TScenObject action ScenObjects leads to remote code execution](https://hackerone.com/reports/816254)
 
 Some great resources for vulnerability report best practices are:
 * [Dropbox Bug Bounty Program: Best Practices](https://blogs.dropbox.com/tech/2015/08/dropbox-bug-bounty-program-best-practices-2/)
