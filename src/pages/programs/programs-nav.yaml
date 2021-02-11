@@ -147,17 +147,6 @@
           path: /programs/limiting-disclosed-information.html
     - title: Retesting
       path: /programs/retesting.html
-    - title: Automation
-      path: /programs/automation.html
-      items:
-        - title: Common Responses
-          path: /programs/common-responses.html
-        - title: Triggers
-          path: /programs/triggers.html
-        - title: Hackbot
-          path: /programs/hackbot.html
-    - title: Reducing Noise
-      path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
@@ -280,6 +269,15 @@
       path: /programs/pentest-faqs.html
 - title: Helpful Tools
   items:
+    - title: Automation
+      path: /programs/automation.html
+      items:
+        - title: Common Responses
+          path: /programs/common-responses.html
+        - title: Triggers
+          path: /programs/triggers.html
+        - title: Hackbot
+          path: /programs/hackbot.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Embedded Submission Form
@@ -292,3 +290,5 @@
       path: /programs/passwords.html
     - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
+    - title: Reducing Noise
+      path: /programs/reducing-noise.html
