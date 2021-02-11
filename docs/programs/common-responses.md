@@ -20,8 +20,7 @@ The default common response will automatically populate when you select the acti
 ![common-response-2](./images/common-response-2.png)
 
 ### Add Your Own Common Response
-You can write your own common response
-To add a new common response:
+You can write your own common response. To add a new common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
 2. Select the **Add Common Response** button.
 3. Type the title of your response in the **Common Response Title** field. This title will show up in the list of common responses to choose from.
