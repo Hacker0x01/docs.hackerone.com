@@ -48,3 +48,5 @@ Once you’ve set up credential management, hackers participating in your progra
 The <b>Credentials</b> window will then display with instructions where the hacker can claim one of the credentials you’ve provided. They’ll be prompted to enter the username of the account they created using the credentials provided.
 
 ![credential-management-6](./images/credential-management-6a.png)
+
+Hackers can only claim 1 set of credentials. If they want a second set of credentials, you can revoke their first set and then have them request for another.

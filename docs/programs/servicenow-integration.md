@@ -4,23 +4,269 @@ path: "/programs/servicenow-integration.html"
 id: "programs/servicenow-integration"
 ---
 
-With the ServiceNow integration, HackerOne makes it easy for you to track ServiceNow issues as references on the platform.
+HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow incidents and vice versa, from ServiceNow to HackerOne.  This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
 
-In order to configure the ServiceNow integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+> **Note:** This integration is currently only enabled to select Enterprise programs. If you’re interested in using this integration, please reach out to your program manager.
 
-- The base URI of the ServiceNow instance (e.g. https://company.service-now.com/)
-- Whether you use “Description” or “Additional Comments” for more details
-- Category (the “choice value”) you’d like issues to default to
-- Any other custom/specific fields you’d like pre-populated such as: contact type, subcategory, priority, caller, assignment group
+### Set up
+To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 4 steps:
+1. [Configure incoming requests in your ServiceNow instance](#configure-incoming-requests)
+2. [Configure outgoing requests in your ServiceNow instance](#configure-outgoing-requests)
+3. [Configure a “close report” request from ServiceNow to HackerOne](#configure-close-report-event)
+4. [Configure the integration on HackerOne](#configure-on-hackerone)
 
-With all of the provided information, HackerOne will be able to set up your requested integration. As ServiceNow is highly customizable, HackerOne may need to set up a discussion to set your integration so it works best for your team. You’ll get an email notification letting you know that your integration has been set up within 1-2 business days.
+### Configure Incoming Requests
+Configuring incoming requests requires you to post to a custom REST API endpoint in ServiceNow. This will enable you to add comments from HackerOne to your ServiceNow instance.
 
-### How the Integration Works
-After your ServiceNow integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report.
+To configure adding comments from HackerOne to ServiceNow:
+1. Navigate to **Scripted REST APIs** in your ServiceNow settings.
 
-![integrations](./images/integrations.png)
+![servicenow-1](./images/servicenow-1.png)
 
-2. Click **Escalate**.
-3. You’ll be taken to your ServiceNow account where the report is pre-populated. Submit the issue to create the report in ServiceNow.
-4. Copy the ServiceNow report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in ServiceNow.  
+2. Click **New** to create a new Scripted REST API.
+
+![servicenow-2](./images/servicenow-2.png)
+
+3. Enter these values for these fields:
+
+Field | Value
+----- | -----
+Name | HackerOne
+API ID | hackerone
+
+![servicenow-3](./images/servicenow-3.png)
+
+4. Click **Submit**.
+5. Open the HackerOne Scripted REST API you just created.   
+6. Click **New** to add a new resource to the Scripted REST API.
+
+![servicenow-4](./images/servicenow-4.png)
+
+7. Enter these values for these fields:
+
+Field | Value
+----- | -----
+Name | New Comment
+Relative Path | /new_comment
+HTTP Method | POST
+
+![servicenow-5](./images/servicenow-5.png)
+
+8. Enter this code in the Script field:
+
+```
+(
+ function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+   // Retrieve the incident with the passed in sys_id
+   var sys_id = request.body.data.sys_id;
+   var incident = new GlideRecord('incident');
+   incident.get(sys_id);
+   // Add comment to incident item
+   incident['work_notes'].setJournalEntry(request.body.data.message);
+   // Update the incident item
+   incident.update();
+   // Retrieve the last added comment on this incident
+   var comment = new GlideRecord('sys_journal_field');
+   comment.addQuery('element_id', sys_id);
+   comment.addQuery('name', 'incident');
+   comment.addQuery('element', 'work_notes');
+   comment.addQuery('value', request.body.data.message);
+   comment.orderByDesc('sys_created_on');
+   comment.setLimit(1);
+   comment.query();
+   if (comment.next()) {
+     //Store last comment in variable
+     var last_comment = comment;
+   }
+   response.setBody(
+     {
+       'sys_id': incident.sys_id,
+       'comment_sys_id': last_comment.sys_id,
+       'comment_value': last_comment.value,
+       'request_sys_id': request.body.data.sys_id,
+       'request_message': request.body.data.message
+     }
+   );
+ }
+)(request, response);
+```
+Make sure you enter the correct table name, as in this case, it's *incident*.
+
+9. Get the full URL to your endpoint. <ul><li>The full URL to the `/hackerone/new_comment` endpoint is required to set up the HackerOne integration. The namespace can be found from within the HackerOne Scripted REST API you just created, in the “Resources” section at the bottom. Combine this with your instance URL found in the address bar to get the full URL.<li>As shown in the images below, this would be: https://dev100796.service-now.com/api/514345/hackerone/new_comment.
+
+![servicenow-6](./images/servicenow-6.png)
+![servicenow-7](./images/servicenow-7.png)
+
+### Configure Outgoing Requests
+After configuring incoming requests, you’ll need to configure outgoing requests in ServiceNow which will enable you to post comments from ServiceNow to HackerOne. You’ll need to use Outbound REST Messages and Business Rules in the configuration process.
+
+To configure posting comments from ServiceNow to HackerOne:
+1. Navigate to: **System Web Services > Outbound > REST Message**.
+
+![servicenow-8](./images/servicenow-8.png)
+
+2. Click **New** to create a new Outbound REST Message.
+3. Enter these values for these fields:  
+
+Field | Value
+----- | -----
+Name | HackerOne
+Endpoint | The Public ServiceNow URL. This is found in the configuration wizard on the HackerOne platform.
+Authentication Type | No authentication  
+
+![servicenow-9](./images/servicenow-9.png)
+
+4. Click **Submit**.
+5. Reopen the HackerOne outbound REST message you just created.
+6. Click **New** to add a new HTTP Method.
+
+![servicenow-10](./images/servicenow-10.png)
+
+7. Enter these values for these fields:
+
+Field | Value
+----- | -----
+Name | New Comment
+HTTP Method | POST
+Authentication Type | Inherit from parent
+
+8. Enter this in the **Content** field in the HTTP Request tab:
+
+```
+{"event_name":"new_comment","message":"${message}","sys_id":"${sys_id}","element_id":"${element_id}"}
+```
+
+9. On the same HTTP Request tab add two HTTP Headers:
+
+Name | Value
+----- | -----
+Accept | application/json
+Content-Type | application/json
+
+10. Navigate to **System Definition > Business Rules**.
+
+![servicenow-12](./images/servicenow-12.png)
+
+11. Click **New** to create a new business rule.
+12. Enter these values for these fields:
+
+Field | Value
+----- | ------
+Name | Add Comment
+Table | Journal Entry [sys_journal_field]
+Advanced | Make sure the box is checked
+
+13. Enter these values for these fields on the **When to run** tab:
+
+Field | Value
+----- | ------
+When | async
+Insert | Make sure the box is checked
+Filter Conditions | Value is not empty: AND : Name : is : incident
+
+14. Enter this script in the **Advanced** tab:
+
+```
+(function executeRule(current, previous /*null when async*/) {
+   try {
+     var r = new sn_ws.RESTMessageV2('HackerOne', 'New Comment');
+     var encoded_message = GlideStringUtil.base64Encode(current.value.toString());
+     r.setStringParameterNoEscape('message', encoded_message);
+     r.setStringParameterNoEscape('sys_id', current.sys_id);
+     r.setStringParameterNoEscape('element_id', current.element_id);
+     r.execute();
+   }
+   catch(ex) {
+     var message = ex.message;
+   }
+ }
+)(current, previous);
+```
+Make sure that the arguments for RESTMessageV2 matches the name you gave to the Outbound REST Message.
+
+### Configure Close Report Event
+The close report event from ServiceNow to HackerOne is set up in a similar fashion to configuring the outgoing requests. You only need to change the content in the Outbound REST Message and the trigger action in the Business Rule.
+
+To set up the close report event:
+1. Search for the HackerOne REST Message that was set up in the previous section.
+2. Click **New** to add a new message.
+
+![servicenow-13](./images/servicenow-10.png)
+
+3. Enter these values to these fields:
+
+Field | Value
+----- | -----
+Name | Close Report
+Endpoint | The Public ServiceNow URL visible in configuration wizard on the HackerOne platform
+Authentication Type | No authentication
+Content | `{"event_name":"close_report","element_id":"${sys_id}"}`
+
+4. Navigate to  **System Definition > Business Rules**.
+5. Click **New** to create a new business rule.
+6. Enter these values for these fields on the **When to run** tab:
+
+Field | Value
+----- | -----
+Name | Close Report
+Table | Incident [incident]
+When | Async
+Update | Make sure the box is checked
+Filter Conditions | State: changes to : Closed
+
+7. Enter this script on the **Advanced** tab:
+
+```
+(function executeRule(current, previous /*null when async*/) {
+   try {
+     var r = new sn_ws.RESTMessageV2('HackerOne', 'Close Report');
+     r.setStringParameterNoEscape('sys_id', current.sys_id);
+     var response = r.execute();
+   }
+   catch(ex) {
+     var message = ex.message;
+   }
+ }
+)(current, previous);
+```
+Make sure the arguments for RESTMessageV2 match the name you gave the Outbound REST Message and HTTP Method.
+
+### Configure on HackerOne
+After configuring all of the steps above, you’re now ready to configure the integration on HackerOne.
+
+To set up the integration on HackerOne:
+1. Navigate to **Program Settings > Program > Integrations**.
+2. Click **Connect with ServiceNow**.
+
+![servicenow-16](./images/servicenow-16.png)
+
+3. Click **Edit** to start the setup process.
+
+![servicenow-17](./images/servicenow-17.png)
+
+4. Authenticate your ServiceNow instance by entered information to these fields:
+
+Field | Details
+----- | -------
+ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
+Username & Password | Enter the credentials for a user that has access to the ServiceNow instance.
+
+5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to ServiceNow incident short description.
+
+![servicenow-18](./images/servicenow-18.png)
+
+6. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint**. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
+
+![servicenow-19](./images/servicenow-19.png)
+
+![servicenow-20](./images/servicenow-20.png)
+
+7. Copy the public listener URL in the configuration wizard.
+8. Go back to ServiceNow and open the Outbound REST Message,
+9. Paste the copied public listener URL in the **Endpoint** field.
+
+![servicenow-21](./images/servicenow-21.png)
+
+10. Click **Enable** to finish enable the integration.
+
+![servicenow-22](./images/servicenow-22.png)

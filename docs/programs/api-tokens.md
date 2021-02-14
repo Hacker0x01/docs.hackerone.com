@@ -18,13 +18,14 @@ To generate an API token:
 4. Store the generated API token.
 5. Click <b>I have stored the API Token</b>.
 ![api-token-4](./images/api-token-4.png)
+6. Click **Manage groups** next to the API token you just generated.
+7. Select which groups you want to give permissions to. When a group isn’t selected, they only have read-only permissions. The default groups you can choose from are:
 
-You’ll get a confirmation email stating that you’ve created a new API token. You can manage the groups that have access to the API tokens and revoke the token as well.
+Option | Details
+------ | -------
+Standard | This group has Report and Reward permissions.
+Admin | This group has Admin and Program permissions.
 
-To learn more about the HackerOne API check out our [API docs](https://api.hackerone.com/docs/v1).
+If your program has more groups, you can choose from those groups as well.
 
-### Managing Groups
-To manage which groups have access to the API tokens:
-1. Click <b>Manage groups</b> on the API settings page for the identifier you want to manage groups for.
-2. Select which groups you want to give permissions to. When a group isn’t selected, they only have read-only permissions.
-3. Click <b>Apply changes</b>.
+Once you've generated your API token, you'll receive a confirmation email stating that you’ve created a new API token. To learn more about the HackerOne API, check out our [API docs](https://api.hackerone.com/#introduction).

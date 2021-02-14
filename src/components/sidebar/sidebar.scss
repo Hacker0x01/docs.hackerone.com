@@ -1,7 +1,7 @@
 @import '../../css/variables';
 
-$sidebar-desktop-width: 300px;
-$sidebar-tablet-width: 240px;
+$sidebar-desktop-width: 220px;
+$sidebar-tablet-width: 160px;
 
 .sidebar {
   display: none;
@@ -17,14 +17,7 @@ $sidebar-tablet-width: 240px;
   }
 }
 
-.sidebar__toggler {
-  color: $daisy-nobel;
-  float: right;
-}
-
 .sidebar__wrapper {
-  margin-left: -999px;
-  padding-left: 999px;
   background-color: $daisy-snow;
   height: calc(100vh - 60px);
   overflow-y: auto;

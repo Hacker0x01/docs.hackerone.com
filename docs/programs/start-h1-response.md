@@ -1,5 +1,5 @@
 ---
-title: "Start HackerOne Response"
+title: "Response Programs"
 path: "/programs/start-h1-response.html"
 id: "programs/start-h1-response"
 ---
@@ -7,9 +7,9 @@ id: "programs/start-h1-response"
 If you elect to start a HackerOne Response program, you'll be taken to the Setup Guide where you can walk through the steps of setting up and successfully launching your program.
 
 There are 3 steps to the guide you must complete:
-1. Program Setup
-2. Controlled Launch
-3. Public Launch
+1. [Program Setup](#program-setup)
+2. [Controlled Launch](#controlled-launch)
+3. [Public Launch](#public-launch)
 
 ![Response Setup Guide](./images/h1-response-1.png)
 

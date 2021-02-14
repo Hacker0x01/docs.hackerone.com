@@ -10,14 +10,14 @@ id: "programs/hacktivity"
 * The associated program
 * The awarded bounty amount
 
-![hacktivity](./images/hacktivity-1a.png)
+![hacktivity](./images/hacktivity-1b.png)
 
-There are 2 pages to Hacktivity:
+You can sort your hacktivity feed by:
 
-Page | Details
+Option | Details
 ---- | --------
-Popular | The activity that is currently trending
-New | The latest activity
+Popular | The activity that is currently trending.
+New | The latest activity.
 
 You can also filter the activity you want to see by these filters:
 

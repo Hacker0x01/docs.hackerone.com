@@ -9,12 +9,11 @@
 .changelog__wrapper {
   border-top: 1px solid $daisy-whisper;
   padding-top: 24px;
-  position: relative;
 }
 
 .changelog__anchor {
-  position: absolute;
-  top: -60px;
+  position: relative;
+  top: -18px;
   left: 0;
   height: 1px;
   width: 1px;

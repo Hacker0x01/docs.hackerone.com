@@ -1,12 +1,12 @@
-import React from 'react'
-import Link from 'gatsby-link'
-import Article from '../../components/article/article'
+import React from "react";
+import { graphql } from "gatsby";
+import Article from "../../components/article/article";
 
-import programsNav from './programs-nav.yaml'
+import programsNav from "./programs-nav.yaml";
 
 class IndexRoute extends React.Component {
   render() {
-    const { markdownRemark } = this.props.data
+    const { markdownRemark } = this.props.data;
 
     return (
       <Article
@@ -19,11 +19,11 @@ class IndexRoute extends React.Component {
         <h1>{markdownRemark.frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: markdownRemark.html }} />
       </Article>
-    )
+    );
   }
 }
 
-export default IndexRoute
+export default IndexRoute;
 
 export const pageQuery = graphql`
   query programsIndexQuery {
@@ -38,4 +38,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

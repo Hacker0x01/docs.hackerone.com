@@ -4,16 +4,20 @@ path: "/hackers/directory.html"
 id: "hackers/directory"
 ---
 
+<style>
+.contents {
+  margin-left: 1.45rem;
+  margin-right: 1.45rem;
+  border-radius: 0.3em;
+  width: 60%;
+}
+</style>
+
 The Directory is a community-curated resource that helps hackers identify the best way to contact an organization's security team. This guides hackers with reporting potential vulnerabilities directly to the organizations that can resolve them. The Directory is comprised of a list of various organizations that both use and don't use HackerOne. It documents the existence of an organization's vulnerability disclosure policy and any associated bug bounty programs.
 
 ![revamped directory page](./images/better-directory-5.png)
 
-In this article you can learn about:
-* [Directory services](#services)
-* [What's on the Directory](#what's)
-* [Directory filters](#filters)
-
-<h3 id="services">Directory Services</h3>
+### Directory Services
 The Directory provides relevant information for both hackers and programs.
 
 The Directory enables Hackers to:
@@ -30,7 +34,7 @@ The Directory enables programs to:
 * Publish contact information for receiving information about potential vulnerabilities in their products or online services, such as a security@ email address or a HackerOne program (See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com))
 * [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/programs/security-page.html) if the program page hasn’t been claimed for editing)
 
-<h3 id="what's">What's on the Directory</h3>
+### What's on the Directory
 You can find this information associated with an organization on the directory:
 
 Option | Detail
@@ -44,7 +48,7 @@ Star Icon<br>![star icon](./images/better-directory-4.png) | Bookmark your favor
 Managed Icon<br>![managed icon](./images/better-directory-2.png) | Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Not Accepting Submissions Icon<br>![not accepting submissions icon](./images/better-directory-3.png) | A program that isn’t accepting any report submissions on HackerOne.
 
-<h3 id="filters">Directory Filters</h3>
+### Directory Filters
 You can filter your list of programs by both program features and by asset type.
 
 The program features you can filter include:

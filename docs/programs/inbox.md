@@ -21,7 +21,7 @@ To navigate through your inbox:
 1. Click <b>Inbox</b> in your header to access your inbox.
 2. Search for your reports by using the:
 
-Option | Description
+Option | Details
 ---- | ------------
 Search bar | Type the name or keywords of a report to search for relevant reports.
 Filters | Click <b>Show filters</b> to view the different options you can select to filter your reports by.

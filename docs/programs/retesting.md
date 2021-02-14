@@ -1,67 +1,48 @@
 ---
-title: "Retesting (beta)"
+title: "Retesting"
 path: "/programs/retesting.html"
 id: "programs/retesting"
 ---
 
-As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Asking hackers to verify whether a vulnerability has been fixed is a good way to secure the protection of your asset’s data. You can elect to invite hackers to retest your vulnerabilities to verify fixes. Each hacker that participates in the retest will receive a $100 bounty upon completion.
+As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes. The hacker that participates in the retest will receive a bounty upon completion.
 
-><i>Inviting hackers to retest your vulnerabilities is a new feature that is currently in the beta phase.</i>
+> Retesting is available as an add-on. To learn more about adding Retesting to your program, contact your account manager.
 
-### Set Up
-There’s currently no set up on your end that’s needed to enable the feature. Your program manager will enable the feature for you.
+### How it Works
+To have hackers retest a vulnerability:
+1. Choose the report in your inbox that you want to assign a hacker to retest.
+2. Change the action picker to **Request retest**.
 
-### How It Works
-Once your program manager has enabled the feature, to have hackers retest a vulnerability:
-1. Choose a resolved report in your inbox that you want to assign hackers to retest.
-2. Change the action picker to <b>Request retest</b>.
+![choosing request a retest](./images/retesting-action-picker.png)
 
-![choosing request retest in dropdown](./images/retesting-1.png)
+3. Click **Confirm retest**.
 
-3. Click <b>Request retest</b>.
+The original hacker that submitted the vulnerability will be invited to take part in the retest.
 
-![request retest button](./images/retesting-2.png)
+After accepting the retest, the hacker will have 24 hours to confirm if the vulnerability has been properly fixed. If the hacker doesn’t finish the retest within 24 hours, their retest opportunity will expire and a different hacker will be able to claim the retest.
 
-Four random hackers with [HackerOne Clearance](/hackers/hackerone-clearance.html) participating in your program will be invited to retest the report through email.
+The hacker will submit their findings in the **Retest findings** form at the bottom of the report. The form consists of these fields:
+* Are you able to reproduce the vulnerability report?
+* Please provide us with a short summary of how you retested the vulnerability and upload any attachments of your validations.
 
-![email to see retest invitation](./images/retesting-3b.png)
+ ![retesting form](./images/retesting-form.png)
 
-In addition, the hacker that originally submitted the report will also be invited to participate in the retest.
+ After the hacker submits their findings, you’ll be prompted to either **Approve and resolve** or **Reject** the retest.
 
-![retest email for original hacker](./images/retesting-3c.png)
+![retesting approval form](./images/retesting-approval-form.png)
 
-When the hacker clicks <b>View retest invitation</b> in the email, they’ll be able to <b>Accept</b> or <b>Reject</b> the invitation.
+If you choose to:
 
-![retest invitation](./images/retesting-4b.png)
+Action | Scenario | Details
+------ | -------- | --------
+**Approve and resolve** the retest | The hacker says the vulnerability is fixed. | The report will close and will be marked as *Resolved*. The hacker will also be awarded a bounty.
+**Reject** the retest | The hacker says the vulnerability is fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
+**Approve** the retest | The hacker says the vulnerability is not fixed. | The report will move back to *Triaged* and will stay open for the team to implement a fix. The hacker will be awarded a bounty.
+**Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
 
- Upon acceptance, participating hackers will be able to familiarize themselves with the vulnerability report and check to see that the vulnerability is properly fixed. After they’ve tested the vulnerability, they can click the <b>answer these questions</b> link in the report banner to submit their findings.
+If the original hacker declines to take part in the retest and your program is:
 
-![answer these questions link in banner](./images/retesting-4.png)
-
-The hacker will be asked to answer the following questions:
-* Are you able to reproduce the vulnerability?
-* Are you able to identify a bypass to the fix?
-
-![retest questionnaire](./images/retesting-5c.png)
-
-If they were able to identify a bypass, they can can submit a new vulnerability report and enter the report ID in the questionnaire.
-
-![submitting a new report through retest](./images/retesting-6b.png)
-
-Hackers are also asked to provide a short summary of how they retested the vulnerability, and are also able to upload any attachments of their validations.
-
-![summary and screenshots](./images/retesting-6d.png)
-
-Upon submission of the questionnaire, you’ll be notified that a hacker has completed a retest of your report within the report timeline and also through email.
-
-![notification that hacker completed retest](./images/retesting-7.png)
-
-Click on <b>View results</b> to see the status and findings of the retest efforts. If the hacker was able to find a bypass to the vulnerability, you can view the new vulnerability report.
-
-![retest results popup](./images/retesting-8.png)
-
-Hackers that completed the retest will automatically be awarded $100. The payment is a regular bounty payment and the transaction for retesting will show in your billing overview statement.
-
-![billing notification](./images/retesting-9.png)
-
-><i>There’s currently no effect to reputation for verifying vulnerability fixes and there’s also no time limit for hackers to complete the retest.</i>
+Program Type | Details
+------------ | --------
+Private | Another hacker that's part of your program will have the opportunity to claim and perform the retest.
+Public | Any hacker with at least 1 *Resolved* or *Triaged* report will be able to claim the retest.

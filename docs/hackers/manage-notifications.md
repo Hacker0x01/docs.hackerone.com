@@ -1,23 +1,25 @@
 ---
-title: "Manage Notifications"
+title: "Notifications"
 path: "/hackers/manage-notifications.html"
 id: "hackers/manage-notifications"
 ---
 
-You can manage email notifications you receive from programs you belong to in **Settings > Programs**. On the Programs page, you can view a list of programs you belong to along with the visibility of that program on your public profile as well as your notification settings.
+### Program Notifications
+As a hacker, you’ll receive notifications (via the product and email) when programs you’re subscribed to make updates. Notifications in the product will appear in the notifications box next to your profile icon.
 
-![manage-notifications-1](./images/manage-notifications-1.png)
+You can subscribe to receive program update notifications by subscribing to receive notifications via a program's Security Page by clicking **Subscribe**.
 
-To change your notification preferences for a program:
-1. Click on the link below **Notifications** for that program. The link will either say *Enabled* or *Disabled* depending on your existing notification preference.
-2. A window will show where you can set your notifications.
-   If you want to disable notifications, the **Disable Notifications** screen will show where you can unsubscribe from reports.
-   ![manage-notifications-3](./images/manage-notifications-3.png)
+![subscribe button on policy page](./images/subscribe_button.png)
 
-   If you want to enable notifications, the **Enable Notifications** screen will show where you can subscribe to reports.
-   ![manage-notifications-2](./images/manage-notifications-2.png)
+Updates to these program settings will trigger notifications:
+* Policy
+* Bounty table
+* Scope
+* Hacker messages
 
-If you disable your notifications, you'll start receiving notifications again when you:
-* Interact with a report
-* Are assigned a report
-* Are mentioned in a report
+### Manage Notifications
+
+#### Notification Preferences
+You can manage your notification preferences on the Notification Preferences page under **Settings > Notification Preferences**.
+
+![notification preferences](./images/notification-preferences-2.png)
