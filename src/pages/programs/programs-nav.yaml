@@ -288,6 +288,8 @@
       path: /programs/ip-allowlists.html
     - title: Password Best Practices
       path: /programs/passwords.html
+    - title: Proof of Compliance
+      path: /programs/proof-of-compliance.html
     - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
     - title: Reducing Noise
