@@ -33,7 +33,7 @@ The program can either approve or reject your results. If they choose to:
 Action | Scenario | Details
 ------ | -------- | -------
 **Approve and resolve** the retest | You say the vulnerability is fixed. | You’ll be awarded a bounty. <br><br>The report will close and will be marked as *Resolved*.
-**Reject** the retest | You say the vulnerability is fixed. | The program will provide you with a summary explaining why they’ve rejected the retest. They can choose to request another retest for the vulnerability. <br><br>The status of the report will be changed to Triaged. the report will be changed to *Triaged*.
+**Reject** the retest | You say the vulnerability is fixed. | The program will provide you with a summary explaining why they’ve rejected the retest. They can choose to request another retest for the vulnerability. <br><br>The status of the report will be changed to *Triaged*.
 **Approve** the retest | You say the vulnerability is not fixed. | You’ll be awarded a bounty. <br><br>The report will move back to *Triaged* and will stay open for the program to implement a fix.
 **Reject** the retest | You say the vulnerability is not fixed. | The program will provide you with a summary explaining why they’ve rejected the retest. The program can choose to request another retest for the report. <br><br>The status of the report will be changed to *Triaged*.
 
@@ -55,5 +55,5 @@ To claim a retest:
 ### Managing and Viewing Retests
 You can keep track of all of your retesting work under Hacker Dashboard > Retesting. You’ll be able to:
 * Claim open retests
-* See which retest you need to complete and the time you have left to complete it.
+* See which retest you need to complete and the time you have left to complete it
 * View all of your completed retests
