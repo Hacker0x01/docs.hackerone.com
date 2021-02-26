@@ -167,7 +167,16 @@ Don't see your issue tracker listed here? [Let us know](https://support.hackeron
 
 ### Using Multiple Integrations
 You can set up multiple integrations with HackerOne. To select which issue tracker you want to escalate the HackerOne report to:
-1. Change the action picker to Change state > Triaged in your report.
+1. Change the action picker to **Change state > Triaged** in your report on HackerOne.
 2. Click **Add reference to issue tracker**.
+
+![add-reference-to-issue-tracker](./images/add-integration-reference.png)
+
 3. Select the issue tracker you want to escalate the report to.
-4. Click **Create**.
+
+![select issue tracker](./images/issue-tracker-reference.png)
+
+4. Click **Generate escalation**. You'll be taken to your integration account where the report will be pre-populated.
+5. Submit the issue to create the report in your integrated issue tracker.
+6. Copy the report issue number in your issue tracker and paste it in the **Ref ID** field in HackerOne.   
+7. Click **Create** to create a direct reference link to the issue in your integrated issue tracker.
