@@ -19,8 +19,14 @@ With all of the provided information, HackerOne will be able to set up your requ
 After your Trac integration has been set up:
 1. Change the action picker to **Change state > Triaged** in your report.
 
-![integrations](./images/integrations.png)
+![integrations](./images/add-integration-reference.png)
 
-2. Click **Escalate**.
-3. You’ll be taken to your Trac account where the report is pre-populated. Submit the issue to create the report in Trac.
-4. Copy the Trac report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in Trac.  
+2. Click **Add reference to issue tracker**.
+3. Make sure your Trac integration is selected.
+
+![integration](./images/issue-tracker-reference.png)
+
+4. Click **Generate escalation**. You’ll be taken to your Trac account where the report is pre-populated.
+3. Submit the issue to create the report in Trac.
+4. Copy the Trac report issue number and paste it in the **Reference ID** field back in the HackerOne.
+5. Click **Create** to create a direct reference link to the issue in Trac.  

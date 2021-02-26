@@ -19,8 +19,14 @@ With all of the provided information, HackerOne will be able to set up your requ
 After your Redmine integration has been set up:
 1. Change the action picker to **Change state > Triaged** in your report.
 
-![integrations](./images/integrations.png)
+![integrations](./images/add-integration-reference.png)
 
-2. Click **Escalate**.
-3. You’ll be taken to your Redmine account where the report is pre-populated. Submit the issue to create the report in Redmine.
-4. Copy the Redmine report issue number and paste it in the **Reference ID** field of the HackerOne report to create a direct reference link to the issue in Redmine.  
+2. Click **Add reference to issue tracker**.
+3. Make sure your Redmine integration is selected.
+
+![integration](./images/issue-tracker-reference.png)
+
+4. Click **Generate escalation**. You’ll be taken to your Redmine account where the report is pre-populated.
+3. Submit the issue to create the report in Redmine.
+4. Copy the Redmine report issue number and paste it in the **Reference ID** field back in the HackerOne.
+5. Click **Create** to create a direct reference link to the issue in Redmine.   

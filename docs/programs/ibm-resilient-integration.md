@@ -4,7 +4,7 @@ path: "/programs/ibm-resilient.html"
 id: "programs/ibm-resilient"
 ---
 
-With the IBM Resilient web URL integration, you can push all of your HackerOne submissions to Resilient so that you can track all of your vulnerability reports on Resilient. 
+With the IBM Resilient web URL integration, you can push all of your HackerOne submissions to Resilient so that you can track all of your vulnerability reports on Resilient.
 
 In order to configure the IBM Resilient integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
@@ -17,8 +17,14 @@ With all of the provided information, HackerOne will be able to set up your requ
 After your Resilient integration has been set up:
 1. Change the action picker to **Change state > Triaged** in your report.
 
-![integrations](./images/integrations.png)
+![integrations](./images/add-integration-reference.png)
 
-2. Click **Escalate**.
-3. You'll be taken to your Resilient account where the report is pre-populated. Submit the issue to create the report in Resilient.
-4. Copy the Resilient report issue number and paste it in the Reference ID field of the HackerOne report to create a direct reference link to the issue in Resilient.
+2. Click **Add reference to issue tracker**.
+3. Make sure your Resilient integration is selected.
+
+![integration](./images/issue-tracker-reference.png)
+
+4. Click **Generate escalation**. You’ll be taken to your Resilient account where the report is pre-populated.
+3. Submit the issue to create the report in Resilient.
+4. Copy the Resilient report issue number and paste it in the **Reference ID** field back in the HackerOne.
+5. Click **Create** to create a direct reference link to the issue in Resilient.
