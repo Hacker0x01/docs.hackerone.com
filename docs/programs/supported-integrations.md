@@ -3,7 +3,7 @@ title: "Supported Integrations"
 path: "/programs/supported-integrations.html"
 id: "programs/supported-integrations"
 ---
-HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You're allowed to have up to 1 issue tracker integration as well as a Slack integration.  
+HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You can set up multiple issue tracker integrations as well as a Slack integration.  
 
 HackerOne currently supports these integrations:
 
@@ -164,3 +164,10 @@ HackerOne currently supports these integrations:
 </div><br>
 
 Don't see your issue tracker listed here? [Let us know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
+
+### Using Multiple Integrations
+You can set up multiple integrations with HackerOne. To select which issue tracker you want to escalate the HackerOne report to:
+1. Change the action picker to Change state > Triaged in your report.
+2. Click **Add reference to issue tracker**.
+3. Select the issue tracker you want to escalate the report to.
+4. Click **Create**.
