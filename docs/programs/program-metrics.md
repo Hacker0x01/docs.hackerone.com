@@ -6,8 +6,8 @@ id: "programs/program-metrics"
 
 Program metrics show how healthy a program is. They enable hackers to see various statistics regarding:
 * Program information
-* [Response efficiency](#response)
-* [Program statistics](#program)
+* [Response efficiency](#response-efficiency-metrics)
+* [Program statistics](#program-statistics)
 
 The metrics are displayed on the right side of the program's security page.
 
@@ -38,7 +38,7 @@ Program statistics are calculated over a program’s lifetime. They set realisti
 Item | Details
 ---- | -------
 Total bounties paid | Total bounties paid can be a strong indicator that a bounty program is active and healthy.
-Average bounty | The average bounty serves as rough guidance for how much a hacker can expect in return for a valid report. It's displayed as a range from the 45th to 55th percentile. 
+Average bounty | The average bounty serves as rough guidance for how much a hacker can expect in return for a valid report. It's displayed as a range from the 45th to 55th percentile.
 Top bounty range | Displayed as a range from the 90th to 100th percentile.
 Reports resolved | The total number of valid reports that have been resolved.
 Hackers thanked | The total number of hackers that have submitted valid reports.
