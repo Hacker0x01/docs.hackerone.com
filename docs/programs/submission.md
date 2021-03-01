@@ -8,8 +8,8 @@ The Submission Requirements page enables you to set specific requirements for ha
 * Require hackers to meet certain [signal requirements](signal-requirements.html)
 * Enable [Human-Augmented Signal](human-augmented-signal.html)
 * Require hackers to have two-factor authentication  
-* Enable bounty splitting
-* Select severity rating options
+* [Enable bounty splitting](#enabling-bounty-splitting)
+* Select [severity rating options](#severity-rating-options)
 
 To access the Submission Requirements page, go to: **Program Settings > Program > Submission**.
 
@@ -43,5 +43,5 @@ To set your severity ratings:
 
 Option | Details
 ------ | -------
-Rating or CVSS Score | Hackers can choose to rate the severity of their vulnerability by using the CVSS calculator or by marking it as *None, Low, Medium, High,* or *Critical* based on their own judgment. <br><br>*This is the default option and is recommended for most users&. 
+Rating or CVSS Score | Hackers can choose to rate the severity of their vulnerability by using the CVSS calculator or by marking it as *None, Low, Medium, High,* or *Critical* based on their own judgment. <br><br>*This is the default option and is recommended for most users&.
 CVSS Score Only | Hackers can only use the CVSS calculator to rate the severity of the vulnerability. <br><br>*This is recommended only for interacting with hackers that understand CVSS*.   
