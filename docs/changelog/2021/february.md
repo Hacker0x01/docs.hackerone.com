@@ -16,3 +16,8 @@ Programs can now set up [multiple integrations](/programs/supported-integrations
 We've updated the reference ID field for adding integrations with a new **Add reference to issue tracker** button to more clearly guide users with adding a reference to their integrated issue tracker.
 
 ![add reference to issue tracker button](./images/feb_2021_add-reference-button.png)
+
+### Filter Programs by Bounty Splitting
+You can now see which programs enable you to collaborate with other hackers in submitting vulnerabilities with the new *Bounty splitting* filter and label in the [Directory](https://hackerone.com/directory/programs).
+
+![bounty splitting filter and label](./images/feb_2021_bounty-splitting-filter.png)
