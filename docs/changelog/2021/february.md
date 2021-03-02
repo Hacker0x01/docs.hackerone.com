@@ -12,7 +12,7 @@ Programs can now set up [multiple integrations](/programs/supported-integrations
 
 ![multiple integrations](./images/feb_2021_mutliple_integrations.png)
 
-### Add reference to issue tracker
+### Add Reference to Issue Tracker
 We've updated the reference ID field for adding integrations with a new **Add reference to issue tracker** button to more clearly guide users with adding a reference to their integrated issue tracker.
 
 ![add reference to issue tracker button](./images/feb_2021_add-reference-button.png)
