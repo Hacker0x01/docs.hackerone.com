@@ -225,6 +225,8 @@
     - title: Dashboards
       path: /programs/dashboards.html
       items:
+        - title: Program Overview 
+          path: /programs/program-overview.html
         - title: Submissions Dashboard
           path: /programs/submissions-dashboard.html
         - title: Statistics Dashboard
