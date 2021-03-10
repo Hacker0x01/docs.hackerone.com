@@ -4,14 +4,7 @@ path: "/hackers/hacktivity.html"
 id: "hackers/hacktivity"
 ---
 
-[Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. You can view:
-* Reports of disclosed vulnerabilities
-* The hacker that submitted the vulnerability
-* The associated program
-* The awarded bounty amount
-* The severity of the vulnerability
-
-It serves as a resource that enables you to search for reports regarding programs and weaknesses you're interested in so that you can see how specific weaknesses were exploited in various programs.
+[Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. It also serves as a resource that enables you to search for reports regarding programs and weaknesses you're interested in so that you can see how specific weaknesses were exploited in various programs.
 
 ![hacktivity page](./images/hacktivity-1c.png)
 
@@ -27,9 +20,9 @@ You can also filter the types of activities and programs you want to see listed 
 Option | Details
 ------------- | --------
 All | Shows all activities that appear on Hacktivity.
-Bug Bounty | Shows activities on reports that are submitted to programs that provide bounties.
-Published | Shows activities on reports that are from external sources outside of HackerOne. See: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html)
-Disclosed | Shows activities on reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
+Bug Bounty | Only shows activities on reports that are submitted to programs that provide bounties.
+Published | Only shows activities on reports that are from external sources outside of HackerOne. See: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html)
+Disclosed | Only shows activities on reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
 Hackers I am following | Only shows the activities associated with hackers that you're following.
 Collaborations | Only shows the activities associated with reports that were collaborated on with multiple hackers.  
 
