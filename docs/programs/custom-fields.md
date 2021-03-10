@@ -4,21 +4,9 @@ path: "/programs/custom-fields.html"
 id: "programs/custom-fields"
 ---
 
-<style>
-.contents {
-  margin-left: 1.45rem;
-  margin-right: 1.45rem;
-  border-radius: 0.3em;
-  width: 60%;
-}
-</style>
-
-
 Program administrators can configure custom fields to add data to their reports. This enables your program members to add additional information to your reports to help you better manage and analyze your internal data by the categories that you define to be important, such as by business unit or by root cause analysis.
 
-<div class="betanote" markdown="1">
-<b>Note:</b> This feature is only available to Enterprise programs.
-</div>
+> This feature is only available to Enterprise programs.
 
 ### Create a Custom Field
 
