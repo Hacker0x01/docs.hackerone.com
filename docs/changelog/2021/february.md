@@ -26,3 +26,8 @@ You can now see which programs enable you to collaborate with other hackers in s
 We've added the new **Collaborations** filter in Hacktivity so that hackers can easily see which reports were collaborated on.  
 
 ![collaborations filter on hacktivity](./images/feb_2021_hacktivity_collaborations_filter.png)
+
+### Export Reports to PDF 
+You can now [export your reports to a PDF](/programs/export-reports.html#export-to-md-zip-or-pdf-files) and choose to include the full timeline, the reporter timeline, or the triage summary when exporting.
+
+![export to pdf](./images/feb_2021_export_pdf.png)
