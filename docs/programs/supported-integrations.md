@@ -128,7 +128,7 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">ServiceNow</div>
   </a>
-  <a class="integration-button" href="slack-integration.htm">
+  <a class="integration-button" href="slack-integration.html">
     <div class="logo">
       <img src="./images/slack_logo.png" />
     </div>
