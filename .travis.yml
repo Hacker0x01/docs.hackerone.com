@@ -14,3 +14,4 @@ before_script:
 
 script:
   - yarn run lint
+  - yarn build
