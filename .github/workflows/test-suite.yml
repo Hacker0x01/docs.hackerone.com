@@ -47,7 +47,7 @@ jobs:
       - name: Lint
         run: yarn run lint
 
-      - name: Build
+      - name: Build Gatsby
         run: yarn build --log-pages
         env:
           GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES: true
