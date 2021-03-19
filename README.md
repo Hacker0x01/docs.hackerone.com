@@ -26,6 +26,8 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 
 ### Deploy
 
+Deploys are automated using GitHub actions. Every commit to the master branch will trigger a script that will build and deploy the site to production. If you want to deploy manually, follow the steps below:
+
 1. `cd docs.hackerone.com` to go into the project root
 1. `yarn deploy`
 1. wait a minute and open `https://docs.hackerone.com/`
