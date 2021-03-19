@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/docs.hackerone.com",
   siteMetadata: {
     title: 'HackerOne Platform Documentation',
     siteUrl: 'https://docs.hackerone.com',
