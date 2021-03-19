@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Hacker0x01/docs.hackerone.com.svg?branch=master)](https://travis-ci.com/Hacker0x01/docs.hackerone.com)
+[![Gatsby Publish](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/Hacker0x01/docs.hackerone.com/actions/workflows/deploy.yml)
 
 # docs.hackerone.com
 
