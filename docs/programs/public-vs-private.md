@@ -15,9 +15,9 @@ As your private program becomes more proficient in handling reports, you can cho
 
 ### Public Programs
 
-When programs become public, they open themselves up to report submissions from the entire hacker community. This means that all hackers on HackerOne are given rights to hack your program. Moving into a public program prematurely can be an overwhelming experience given the large influx of new report submissions and new hackers participating. Report volumes can spike up to 5x-10x, which highlights the importance of ensuring that your security team is prepared before launching publicly. 
+When programs become public, they open themselves up to report submissions from the entire hacker community. This means that all hackers on HackerOne are given rights to hack your program. Moving into a public program prematurely can be an overwhelming experience given the large influx of new report submissions and new hackers participating. Report volumes can spike up to 5x-10x, which highlights the importance of ensuring that your security team is prepared before launching publicly.
 
-Taking your bug bounty program public is completely optional. If your goal is to open up your program to the public, then some recommended success criteria are:
+Taking your bug bounty program public is completely optional. If your goal is to open up your program to the public, then some recommended success criteria to meet first are:
 * You've invited more than 100 hackers
 * You've received 10 vulnerability reports
 * Your program meets HackerOne's response standards
