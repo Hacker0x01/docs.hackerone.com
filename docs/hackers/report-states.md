@@ -14,6 +14,7 @@ State | Detail
 ----- | ------
 Pre-submission | This report state is only applicable when Human-Augmented Signal is enabled for the program. The report starts in the pre-submission state when it has been flagged as potentially invalid. A HackerOne security analyst will first review the report before it's sent to the program.
 New | The report is in an unread state.
+Pending Program Review | *(Currently in beta)* The report has been reviewed by HackerOne triage and is now pending review from the program. This only shows for programs that use HackerOne's triage services.
 Triaged | The report is evaluated but hasn't been resolved. It is in the state of being fixed.
 Retesting | The vulnerability is in the process of being [retested](retesting.html).
 Needs More Info | More information is needed from the hacker about the vulnerability. Reports that are in the *Needs More Info* state for more than 30 days will automatically close and won't have a negative impact on the hacker's reputation.
