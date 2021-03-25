@@ -33,8 +33,10 @@ Metadata Field | Details
 -------------- | --------
 State | The state the report is in.
 Disclosed | The date the report was disclosed. Only shows for reports that were disclosed.
-Reported To | The name of the program the report was submitted to.
+Reported to | The name of the program the report was submitted to.
+Reported at | The date and time the report was submitted.
 Asset | The specific asset the vulnerability was found on.
+CVE ID | The [CVE ID](/programs/cve-requests.html) the vulnerability is linked to.  
 Weakness | The type of weakness of the vulnerability.
 Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.   
 Severity | The severity level of the vulnerability.

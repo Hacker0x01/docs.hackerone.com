@@ -33,14 +33,17 @@ Metadata Field | Details
 -------------- | --------
 State | The state the report is in.
 Disclosed | The date the report was disclosed. Only shows for reports that were disclosed.
-Reported To | The name of the program the report was submitted to.
+Reported to | The name of the program the report was submitted to.
+Reported at | The date and time the report was submitted.
 Asset | The specific asset the vulnerability was found on.
-Reference | Add a reference to the CVE ID and to the ticket associated with the report in your issue tracking tool.
+References | *(An internal field that is only seen by the program’s security team)* The ticket number associated with the report in your issue tracking tool that you've set up an integration for.
+CVE ID | The [CVE ID](cve-requests.html) the vulnerability is linked to.  
 Assigned to | *(An internal field that is only seen by the program’s security team)* The person on your security team that's assigned to triage or manage the report.
 Weakness | The type of weakness of the vulnerability.
+Pentest | *(Shows only if you're partcipating in pentests)* The pentest the report is linked to.
 Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.   
 Severity | The severity level of the vulnerability.
-Participants | All of the hackers involved in finding the vulnerability.
+Participants | All of the hackers involved in finding the vulnerability as well as the program members interacting with the report.
 Notifications | Indicates whether you have notifications enabled or disabled for actions on your program.
 Visibility | Indicates the status of disclosure of the vulnerability. You can also choose to redact private information from the report.
 
