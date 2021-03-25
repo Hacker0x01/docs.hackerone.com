@@ -18,6 +18,7 @@ Color | Report State
 ----- | ---------
 Purple | New
 Light Blue | Needs more info
+Dark Blue | Pending Program Review *(currently in beta)*
 Yellow | [Retesting](retesting.html)
 Green | Resolved
 Orange | Triaged

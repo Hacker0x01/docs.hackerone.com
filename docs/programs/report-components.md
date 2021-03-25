@@ -18,6 +18,7 @@ Color | Report State
 ----- | ---------
 Purple | New
 Light Blue | Needs more info
+Dark Blue | Pending Program Review *(currently in beta)*
 Yellow | [Retesting](retesting.html)
 Green | Resolved
 Orange | Triaged
@@ -58,7 +59,7 @@ The report timeline shows all of the activity that occurs in the report between 
 * A hacker requests mediation
 * You or the hacker requests public disclosure  
 * The report severity has changed
-* The latest internal activity occurred 
+* The latest internal activity occurred
 
 The report timeline will also show who is in charge of the next pending action within the report.
 
