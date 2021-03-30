@@ -91,11 +91,7 @@ You can filter your inbox reports by the custom fields you created as each custo
 
 To filter your inbox by custom fields:
 1. Go to your inbox.
-<<<<<<< HEAD
 2. Click **Show filters**.
-=======
-2. Click **Show filters**. 
->>>>>>> 8a14b98877a1a0c311f0c0e36470d922f8cd35b6
 3. Scroll down to the **Custom fields** filters.
 4. Select the custom fields you want to filter by.
 
