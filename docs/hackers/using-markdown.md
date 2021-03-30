@@ -179,7 +179,7 @@ Output:
 
 <br>
 
-Links to section headings can be made as well. Every heading will get an ID based on the heading content, and prefixed with `user-content-`. A link can be made to a heading using the following markdown:
+Links to section headings can be made as well. Every heading will get an ID based on the heading content and will be prefixed with `user-content-`. A link can be made to a heading using the following markdown:
 
 ```
 # Table of contents
