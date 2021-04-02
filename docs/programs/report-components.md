@@ -43,7 +43,7 @@ Weakness | The type of weakness of the vulnerability.
 Pentest | *(Shows only if you're partcipating in pentests)* The pentest the report is linked to.
 Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.   
 Severity | The severity level of the vulnerability.
-Participants | All of the hackers involved in finding the vulnerability as well as the program members interacting with the report.
+Participants | All of the hackers involved in finding the vulnerability as well as program members involved with triaging the report.
 Notifications | Indicates whether you have notifications enabled or disabled for actions on your program.
 Visibility | Indicates the status of disclosure of the vulnerability. You can also choose to redact private information from the report.
 
