@@ -48,7 +48,7 @@ Alternatively, if you don’t want to include dynamic JavaScript, you can copy a
 
 ![embedded submissions direct iframe](./images/embedded-submissions_april_2021_4.png)
 
-### How it Works
+### How It Works
 Once the integration has been set up, the HackerOne report submission form can be accessed directly on your site. Hackers don't need to access your HackerOne policy page to submit reports, but they can access the report form right from your site.
 
 When hackers submit reports through the embedded form, the form automatically detects if a hacker is signed in to HackerOne and allows them to submit a report. If a hacker isn’t a member or signed in, they can provide their email in the email field to receive status updates on their report.  
