@@ -31,15 +31,19 @@ In order to submit reports:
 
 ![proof of concept](./images/submit-reports-5.png)
 
-7. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed.
+7. Enter any additional information the program asks for in the **Additional information** section. These are custom fields that the program created so that they can collect the specific information they need to better manage and understand the vulnerability. Some fields will be required and some will be optional. *(This section only appears for programs that have enabled [custom fields](/programs/custom-fields.html).)*
+
+![additional information](./images/custom-fields-submit-report.png)
+
+8. *(Optional)* Attach screenshots, demo videos, or any other helpful material. Don't share videos by adding a link to them in the report. You can only include videos if you attach the file directly to the report. This is to ensure the vulnerability isn't accessible to others before being disclosed.
 
 ![attach screenshots](./images/submit-reports-6.png)
 
-8. Review your report details in the preview window. You won't be able to edit your details after submitting the report.  
+9. Review your report details in the preview window. You won't be able to edit your details after submitting the report.  
 
 ![report preview window](./images/submit-reports-7.png)
 
-9. Click **Submit Report**.
+10. Click **Submit Report**.
 
 After you've submitted your report, you must wait for programs to respond to your submission.
 
