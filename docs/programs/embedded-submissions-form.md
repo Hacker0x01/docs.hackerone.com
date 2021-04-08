@@ -30,11 +30,11 @@ Accent Text Color | Select the text color within the design accents.
 Button Color | Select the color of the button on the form.
 Button Text Color | Select the text color within the button.
 
-> **Note:** Customization settings are only for Enterprise programs.
+> **Note:** Customization settings are only for Enterprise programs and are currently in beta.
 
 ![embedded submissions customization section](./images/embedded-submissions_april_2021_2.png)
 
-4. *(Optional)* Click Preview form to see how your form will look.
+4. *(Optional)* Click **Preview form** to see how your form will look.
 
 5. Click **Save changes**.
 
