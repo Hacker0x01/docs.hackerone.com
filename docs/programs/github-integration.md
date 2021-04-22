@@ -6,7 +6,6 @@ id: "programs/github-integration"
 
 HackerOne offers a bi-directional GitHub integration that syncs information between your HackerOne report and the issues you track on your GitHub repository. This means that GitHub users can sync specific workflows from GitHub to HackerOne and vice versa, from HackerOne to GitHub. This integration contributes to a better workflow in managing security vulnerabilities as it minimizes the back and forth between GitHub and HackerOne.
 
-> This integration is currently in beta and is only available to select Professional and Enterprise programs. If you would like to opt-in to this beta integration, please let your program manager know.
 
 ### Set Up
 To set up your integration with GitHub:
