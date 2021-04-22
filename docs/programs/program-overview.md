@@ -6,8 +6,6 @@ id: "programs/program-overview"
 
 The Overview page of the Program Dashboard provides an overarching view of important data and statuses regarding your program. The page is broken up into various sections to help you better understand and get a comprehensive look at valuable details of your program.
 
-> This feature is currently in beta and is only accessible to select programs. If you'd like to participate in the beta, please reach out to your program manager.
-
 ### Report Activity
 
 ![image](./images/program-overview-1.png)
