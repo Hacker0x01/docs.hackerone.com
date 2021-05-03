@@ -87,6 +87,7 @@ HTTP Method | POST
  function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
    // Retrieve the incident with the passed in sys_id
    var sys_id = request.body.data.sys_id;
+   // Create a new record for the table you want to use (in our example `incident`)
    var incident = new GlideRecord('incident');
    incident.get(sys_id);
    // Add comment to incident item
@@ -232,7 +233,7 @@ Name | Add Comment
 Table | Journal Entry [sys\_journal\_field]
 Advanced | Make sure the box is checked
 
-14. Enter these values for these fields on the **When to run** tab:
+14. Enter these values for these fields on the **When to run** tab. In this example, we use the `incident` table, if you use a different escalation table use that name here instead of `incident`.
 
 Field | Value
 ----- | ------
@@ -300,7 +301,7 @@ Content-Type | application/json
 7. Click **Submit**.
 8. Navigate to  **System Definition > Business Rules**.
 9. Click **New** to create a new business rule.
-10. Enter these values for these fields on the **When to run** tab:
+10. Enter these values for these fields on the **When to run** tab. In this example, we use the `incident` table, if you use a different escalation table use that name here instead of `incident`.:
 
 Field | Value
 ----- | -----
