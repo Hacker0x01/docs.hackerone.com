@@ -4,7 +4,9 @@ path: "/programs/servicenow-integration.html"
 id: "programs/servicenow-integration"
 ---
 
-HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow incidents and vice versa, from ServiceNow to HackerOne.  This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
+HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow and vice versa, from ServiceNow to HackerOne. This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
+
+You can use this integration with different ServiceNow tables. The guide below uses the `incident` table that's used in the ServiceNow's [Incident Management](https://docs.servicenow.com/bundle/quebec-it-service-management/page/product/incident-management/concept/c_IncidentManagement.html) product. IF you're using the ServiceNow's [Security Incident Response](https://docs.servicenow.com/bundle/quebec-security-management/page/product/security-incident-response/reference/sir-landing-page.html) product, you can use the following table name: `sn_si_incident`. Alternatively, we support custom tables as well for full flexibility. 
 
 > **Note:** This integration is only available to Enterprise programs.
 
@@ -87,6 +89,7 @@ HTTP Method | POST
  function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
    // Retrieve the incident with the passed in sys_id
    var sys_id = request.body.data.sys_id;
+   // Create a new record for the table you want to use (in our example `incident`)
    var incident = new GlideRecord('incident');
    incident.get(sys_id);
    // Add comment to incident item
@@ -146,21 +149,27 @@ Field | Details
 ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
 Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 4 in [Configure OAuth](#configure-oauth)
 
-5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
+5. Provide the name of the escalation table. By default, the integration uses the ServiceNow `incident` table. If you want to use a a different or a custom table, please enter the table in the field below. If you prefer to use Security Incidents instead, you can use the following table name: `sn_si_incident`. 
 
-![servicenow-18](./images/servicenow-18.png)
+![servicenow-27](./images/servicenow-27.png)
 
 6. Click **Next**.
 
-7. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
+7. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
+
+![servicenow-18](./images/servicenow-18.png)
+
+8. Click **Next**.
+
+9. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
 
 ![servicenow-19](./images/servicenow-19.png)
 
 ![servicenow-20](./images/servicenow-20.png)
 
-8. Click **Next**.
-9. Copy the public listener URL in the configuration wizard.
-10. Click **Enable** to enable the integration.
+10. Click **Next**.
+11. Copy the public listener URL in the configuration wizard.
+12. Click **Enable** to enable the integration.
 
 ![servicenow-22](./images/servicenow-22.png)
 
@@ -226,7 +235,7 @@ Name | Add Comment
 Table | Journal Entry [sys\_journal\_field]
 Advanced | Make sure the box is checked
 
-14. Enter these values for these fields on the **When to run** tab:
+14. Enter these values for these fields on the **When to run** tab. In this example, we use the `incident` table, if you use a different escalation table use that name here instead of `incident`.
 
 Field | Value
 ----- | ------
@@ -294,7 +303,7 @@ Content-Type | application/json
 7. Click **Submit**.
 8. Navigate to  **System Definition > Business Rules**.
 9. Click **New** to create a new business rule.
-10. Enter these values for these fields on the **When to run** tab:
+10. Enter these values for these fields on the **When to run** tab. In this example, we use the `incident` table, if you use a different escalation table use that name here instead of `incident`.:
 
 Field | Value
 ----- | -----
