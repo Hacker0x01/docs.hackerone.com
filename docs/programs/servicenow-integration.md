@@ -146,25 +146,27 @@ Field | Details
 ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
 Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 4 in [Configure OAuth](#configure-oauth)
 
-4. Provide the name of the escalation table. By default, the integration uses the ServiceNow `incident` table. If you want to use a a different or a custom table, please enter the table in the field below. If you prefer to use Security Incidents instead, you can use the following table name: `sn_si_incident`. 
+5. Provide the name of the escalation table. By default, the integration uses the ServiceNow `incident` table. If you want to use a a different or a custom table, please enter the table in the field below. If you prefer to use Security Incidents instead, you can use the following table name: `sn_si_incident`. 
 
-
-
-5. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
-
-![servicenow-18](./images/servicenow-18.png)
+![servicenow-27](./images/servicenow-27.png)
 
 6. Click **Next**.
 
-7. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
+7. Configure data mapping from HackerOne reports to ServiceNow incidents. This uses the API of both systems to retrieve fields that are allowed to be used for these objects. For example, you could map the HackerOne report title to the ServiceNow incident short description.
+
+![servicenow-18](./images/servicenow-18.png)
+
+8. Click **Next**.
+
+9. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.
 
 ![servicenow-19](./images/servicenow-19.png)
 
 ![servicenow-20](./images/servicenow-20.png)
 
-8. Click **Next**.
-9. Copy the public listener URL in the configuration wizard.
-10. Click **Enable** to enable the integration.
+10. Click **Next**.
+11. Copy the public listener URL in the configuration wizard.
+12. Click **Enable** to enable the integration.
 
 ![servicenow-22](./images/servicenow-22.png)
 
