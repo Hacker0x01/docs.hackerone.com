@@ -4,7 +4,9 @@ path: "/programs/servicenow-integration.html"
 id: "programs/servicenow-integration"
 ---
 
-HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow incidents and vice versa, from ServiceNow to HackerOne.  This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
+HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow and vice versa, from ServiceNow to HackerOne. This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.
+
+You can use this integration with different ServiceNow tables. The guide below uses the `incident` table that's used in the ServiceNow's [Incident Management](https://docs.servicenow.com/bundle/quebec-it-service-management/page/product/incident-management/concept/c_IncidentManagement.html) product. IF you're using the ServiceNow's [Security Incident Response](https://docs.servicenow.com/bundle/quebec-security-management/page/product/security-incident-response/reference/sir-landing-page.html) product, you can use the following table name: `sn_si_incident`. Alternatively, we support custom tables as well for full flexibility. 
 
 > **Note:** This integration is only available to Enterprise programs.
 
