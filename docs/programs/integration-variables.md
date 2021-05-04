@@ -31,5 +31,6 @@ Variable | Details | Example
 `{{submission_date_y_m_d}}` | The date the report was created in `YYYY-MM-DD` format. |
 `{{submission_date}}` | The date the report was created in `DD/MM/YYYY` format. |
 `{{title}}` | The title of the report. |
+`{{triage_summary}}` | The triage summary on a report. (*Only for programs with triage*)
 `{{vulnerability_information}}` | The description of the vulnerability in the report. |
 `{{weakness}}` | The CWE weakness of the report. |
