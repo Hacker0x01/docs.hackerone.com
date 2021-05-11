@@ -6,10 +6,11 @@ id: "programs/github-integration"
 
 HackerOne offers a seamless two-way workflow integration that enables tracking and synchronizing vulnerability reports between HackerOne and GitHub. This means that GitHub users can sync specific workflows from GitHub to HackerOne and vice versa, from HackerOne to GitHub. This integration contributes to a better workflow in managing security vulnerabilities as it minimizes the back and forth between GitHub and HackerOne.
 
-- Reduce time to remediation with automated workflows - Simplify the triage and remediation process with a seamless handoff to your development team.
-One-click integration between HackerOne and GitHub - Import the most critical data with one click - and create new GitHub issues in HackerOne with another.
-- Customize synchronization in both directions - Decide what status changes matter most to your team, and sync from HackerOne to GitHub - or vice versa.
-- Stay up to date on changes to your GitHub issues and HackerOne reports. This integration will help your teams build in more protection at every step by automatically syncing activities between HackerOne and GitHub. You’ll be able to create a GitHub issue from your HackerOne report with one click and have all the information from the HackerOne report available in GitHub to track progress and take action.
+- **Reduce time to remediation with automated workflows** - Simplify the triage and remediation process with a seamless handoff to your development team.
+- **One-click integration between HackerOne and GitHub** - Import the most critical data with one click - and create new GitHub issues in HackerOne with another.
+- **Customize synchronization in both directions** - Decide what status changes matter most to your team, and sync from HackerOne to GitHub - or vice versa.
+
+Stay up to date on changes to your GitHub issues and HackerOne reports. This integration will help your teams build in more protection at every step by automatically syncing activities between HackerOne and GitHub. You’ll be able to create a GitHub issue from your HackerOne report with one click and have all the information from the HackerOne report available in GitHub to track progress and take action.
 
 ### Setup
 You can install this integration using the steps below or install it directly from the GitHub Marketplace: https://github.com/marketplace/hackerone-for-github.
