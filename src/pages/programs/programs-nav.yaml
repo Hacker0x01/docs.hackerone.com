@@ -171,8 +171,8 @@
       path: /programs/gitlab-integration.html
     - title: HackEDU
       path: /programs/hackedu-integration.html
-    - title: IBM Resilient
-      path: /programs/ibm-resilient.html
+    - title: IBM Security SOAR
+      path: /programs/ibm-security-soar.html
     - title: Jira
       path: /programs/jira-integration.html
       items:
