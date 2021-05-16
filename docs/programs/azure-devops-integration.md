@@ -8,7 +8,7 @@ HackerOne offers a bi-directional Azure DevOps integration that enables you to s
 
 > **Note:** This integration is only available to HackerOne Enterprise customers.
 
-### Set up
+### Setup
 To set up the bi-directional integration between HackerOne and your Azure DevOps instance, you’ll need to follow these 2 steps:
 1. [Configure the integration on HackerOne](#configure-the-integration-on-hackerone)
 2. [Configure outgoing requests on Azure DevOps](#configure-outgoing-requests)

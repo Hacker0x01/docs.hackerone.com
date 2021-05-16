@@ -8,7 +8,7 @@ With the Microsoft Teams integration, you can keep track of activities happening
 
 > **Note:** This integration is only available to HackerOne Enterprise customers.
 
-### Set Up
+### Setup
 To set up the Microsoft Teams integration, you’ll need to follow these 2 steps:
 1. Configure an incoming webhook in Microsoft Teams
 2. Configure the integration in HackerOne

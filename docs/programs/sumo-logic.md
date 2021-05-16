@@ -8,7 +8,7 @@ You can configure a Sumo Logic integration using webhooks to log events from Hac
 
 > This integration is only available to Enterprise programs.
 
-### Set up
+### Setup
 
 To configure the Sumo Logic integration:
 1. Get the HTTP Event collector endpoint by referencing [this article](https://help.sumologic.com/03Send-Data/Setup-Wizard/Collect-from-Custom-Apps/Collect_Streaming_Data_from_HTTP) from the Sumo Logic.

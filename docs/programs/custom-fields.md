@@ -8,7 +8,7 @@ Program administrators can configure custom fields to add data to their reports.
 
 Administrators can also create hacker facing custom fields to require specific information from hackers regarding the vulnerability and how they found it. This can help speed up the remediation process as it’ll minimize the back-and-forth between the hacker and the program in getting necessary information.
 
-> This feature is only available to Enterprise programs. Hacker facing custom fields are currently in beta.
+> This feature is only available to Enterprise programs.
 
 ### Create a custom field
 

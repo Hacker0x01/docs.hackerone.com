@@ -6,7 +6,7 @@ id: "programs/hackedu-integration"
 
 You can integrate HackEDU with HackerOne which enables your organization to automatically use the vulnerabilities found in your bug bounty programs to build dynamic training plans for your developers.
 
-### Set up
+### Setup
 
 To set up your HackEDU integration with HackerOne:
 

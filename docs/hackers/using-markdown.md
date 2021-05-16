@@ -54,14 +54,13 @@ Markdown Input:
 
 ```
 *This text is italicized*
-_This text is underlined_
 **This text is bold**
 ~~This text is deleted~~
 ==This text is highlighted==
 ```
 
 Output:
-![text emphasis output](./images/markdown-5.png)
+![text emphasis output](./images/markdown-5a.png)
 
 
 ### Lists

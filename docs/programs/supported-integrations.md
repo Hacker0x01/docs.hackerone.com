@@ -53,11 +53,11 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">HackEDU</div>
   </a>
-  <a class="integration-button" href="ibm-resilient.html">
+  <a class="integration-button" href="ibm-security-soar.html">
     <div class="logo">
       <img src="./images/ibm_resilient_logo.png" />
     </div>
-  <div class="logo-text">IBM Resilient</div>
+  <div class="logo-text">IBM Security SOAR</div>
   </a>
 </div>
 

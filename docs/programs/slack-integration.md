@@ -8,7 +8,7 @@ With the Slack integration, your team can stay up to date on HackerOne report ac
 
 ><i>Note: Slack integration is only available to HackerOne Response and HackerOne Bounty Pro (and above) customers. For more details, see product editions. Existing users of the Slack integration will also need to navigate to **Settings > Program > Integrations > Slack** to enable the new settings.</i>
 
-### Set Up Slack Integration
+### Setup  
 To set up your slack integration:
 1. Go to **Program Settings > Program > Integrations**.
 2. Click the **Connect with Slack** link.
