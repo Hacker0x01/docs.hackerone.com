@@ -288,8 +288,6 @@
       path: /programs/import-vulnerabilities.html
     - title: IP Allowlists
       path: /programs/ip-allowlists.html
-    - title: Multi-Party Coordination
-      path: /programs/multi-party-coordination.html
     - title: Password Best Practices
       path: /programs/passwords.html
     - title: Proof of Compliance
