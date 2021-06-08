@@ -34,7 +34,8 @@ To split a bounty with collaborating hackers:
    ![bounty_split](./images/bounty_split.png)
 5. Click <b>Invite</b>.
 
-The calculated bounty amounts will show for each hacker. When the bounty is awarded, the bounty will be split according to the weights assigned. Additionally, all collaborators can now view and comment on the report.
+The calculated bounty amounts will show for each hacker. When the bounty is awarded, the bounty will be split according to the weights assigned. Additionally, all collaborators can now view and comment on the report. Curious about reputation for collaborative reports? See [here](https://docs.hackerone.com/hackers/reputation.html).
+
 
 Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
