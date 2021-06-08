@@ -52,5 +52,9 @@ Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY
 
 ><i><b>Note:</b> We don't award reputation when rewarded with a bonus and not a bounty.</i>
 
+### Effects of Collaboration on Reputation
+* Collaborators will receive full reputation for report state changes (e.g. validity of the report). Reference Effects of Report State on Reputation above.
+* For bounties, collaborators will receive appropriate reputation based on their share of the bounty. Reference Effects of Bounties on Reputation above.
+
 ### Effects of Retesting on Reputation
 If you participate in [retesting](retesting.html) a report, you'll receive +2 to your reputation.
