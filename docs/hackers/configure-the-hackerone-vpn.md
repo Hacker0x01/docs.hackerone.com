@@ -26,7 +26,7 @@ To join a program that uses VPN and to set up the HackerOne Gateway (VPN):
 1. Click **View Invitation** in the email for the Gateway program you’ve been invited to.
 2. Look over the program details on the program page.
 3. Click **Start hacking** to join the program.
-4. Click **Configure VPN** in the banner on the program page. This will take you to the main Gateway (VPN) page where you can configure your VPN on HackerOne. You can also visit the Gateway (VPN) page directly by going to: https://hackerone.com/setting/vpn
+4. Click **Configure VPN** in the banner on the program page. This will take you to the main Gateway (VPN) page where you can configure your VPN on HackerOne. You can also visit the Gateway (VPN) page directly by going to: https://hackerone.com/settings/vpn
 
 ![banner to configure VPN](./images/gateway-1.png)
 
