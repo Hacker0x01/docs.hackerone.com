@@ -1,3 +1,4 @@
+<html><body><a onclick=alert(33)>A</a></body></html>
 ---
 title: "Payout Preferences"
 path: "/hackers/payout-methods.html"
