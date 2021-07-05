@@ -23,9 +23,9 @@ In order to generate a personal access token, please follow these steps:
 
 ### Revoking your API token
 
-In order to revoke a token, you can do the following:
+In order to revoke a token, you can do one of the following:
 
-a. Generate a new API token
-b. Revoke the token by clicking **click here** on the API Token settings page
+1. Generate a new API token
+2. Revoke the token by clicking **click here** on the API Token settings page
 
 ![api token page](./images/api-token-1.png)
