@@ -15,9 +15,8 @@ In order to generate a personal access token, please follow these steps:
 
 ![api token page](./images/api-token-1.png)
 
-3. Click **Generate API Token** to generate a new token.
-   a. This will revoke any previously generated token
-   b. The token will only be shown once, so make sure to store it well
+3. Click **Generate API Token** to generate a new token (This will revoke any previously generated token)
+4. The token will only be shown once, so make sure to store it well
 
 ![api token generated display](./images/api-token-2.png)
 
