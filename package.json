@@ -6,7 +6,7 @@
   "dependencies": {
     "@fec/gatsby-plugin-advanced-feed": "^1.1.0",
     "@reach/router": "^1.1.1",
-    "gatsby": "^2.18.17",
+    "gatsby": "^2.32.13",
     "gatsby-cli": "^2.12.15",
     "gatsby-link": "^2.11.0",
     "gatsby-plugin-algolia-docsearch": "^1.0.5",
