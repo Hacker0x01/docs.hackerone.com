@@ -54,6 +54,8 @@
       items:
         - title: Invalid OTP Code
           path: /hackers/invalid-otp-code.html
+    - title: Api Token
+      path: /hackers/api-token.html
 - title: Hacking
   items:
     - title: Hacktivity
