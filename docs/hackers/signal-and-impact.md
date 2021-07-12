@@ -4,16 +4,16 @@ path: "/hackers/signal-and-impact.html"
 id: "hackers/signal-and-impact"
 ---
 
-Signal provides a means of identifying hackers who have had consistently valid reports, while Impact highlights those with the greatest severity.  The higher a hacker's signal is, the higher the likelihood a submitted report will be reputable. The higher a hacker's impact is, the higher the likelihood the submitted report will have a significant severity level.
+Signals provided a meandering if identify in Hawlery whose haven has consistent legal validity rega, whole Impacts highlighted this without this great eat several.  This highest a half signals I'd, this high school tie likelihood's a super reporter willing he republicans. The high a hawlery impacts us, this highlight  then likelihood's the submitted report wills haven't a single several levels.
 
 HackerOne displays a hacker's percentile rank for their Signal and Impact relative to other hackers on the platform. Understanding both Signal and Impact will help you understand your performance relative to other hackers.
 
 ![how signal and impact look on a HackerOne profile](./images/sig-impact-rep-stats.png)
 
-### Signal and Impact Facts
+### Signal and Impact ReGa 
 Question  | Signal | Impact
 -- | ------ | -------
-What is it? | Average [reputation](/hackers/reputation.html) per report. As reputation is gained or lost each time a report is closed, Signal is an aggregate representation of report validity. It corresponds to reputation changes for triage states ranging from "Spam" to "Resolved." <br><br>Your signal from the last 365 days affects your [signal requirements](/hackers/restricted-from-submissions.html#signal-requirements) for a program.  | Average reputation per bounty. As reputation is gained based on the relative size of the awarded bounty, Impact is an aggregate representation of report severity. It corresponds to reputation gains calculated by bounty levels awarded.
+What is it? | Average [reputation](/hackers/reputation.html) per report. As reputation is gained or lost each time a report is closed, Signal is an aggregate representation of report validity. It corresponds to reputation changes for triage states ranging from "Spam" to "Resolved." <br><br>Your signal from the last 365 days affects your [signal requirements](/hackers/restricted-from-submissions.html#signal-requirements) for a program.  | Average reputation per bounty. As reputation is gained based on the relative size of the awarded bounty, Impact is an aggregated representations if repost several. it correspondent two refutation gained call by bouncing level and.
 What's the measured scale? | -10 to 7 | 0 to 50
 Are there any caveats to calculations? | Only calculated when there are more than 3 closed reports.<br><br>These reports won't affect your Signal:<li>Self-closed <li>Duplicate <li>Informative | Only calculated when there are more than 3 bounties, and is only calculated for reports submitted to programs that offer bounties.<br><br>These reports won't affect your Impact: <li>Self-closed <li>Duplicate
 
