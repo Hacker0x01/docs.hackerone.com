@@ -8,7 +8,7 @@ HackerOne offers a bi-directional ServiceNow integration that enables you to syn
 
 You can use this integration with different ServiceNow tables. The guide below uses the `incident` table that's used in the ServiceNow's [Incident Management](https://docs.servicenow.com/bundle/quebec-it-service-management/page/product/incident-management/concept/c_IncidentManagement.html) product. IF you're using the ServiceNow's [Security Incident Response](https://docs.servicenow.com/bundle/quebec-security-management/page/product/security-incident-response/reference/sir-landing-page.html) product, you can use the following table name: `sn_si_incident`. Alternatively, we support custom tables as well for full flexibility. 
 
-> **Note:** This integration is only available to Enterprise programs.
+> This integration is only available to Enterprise programs.
 
 ### Set up
 To set up the bi-directional integration between HackerOne and your ServiceNow instance, you’ll need to follow these 5 steps:
