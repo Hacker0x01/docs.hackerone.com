@@ -237,6 +237,8 @@
           path: /programs/explore.html
     - title: Audit Logs
       path: /programs/audit-logs.html
+    - title: Industry Benchmarking
+      path: /programs/industry-benchmarking.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
