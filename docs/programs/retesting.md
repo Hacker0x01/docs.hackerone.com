@@ -48,4 +48,4 @@ Private | Another hacker that's part of your program will have the opportunity t
 Public | Any hacker with at least 1 *Resolved* or *Triaged* report will be able to claim the retest.
 
 ### Payments
-Hackers will be awarded a $50 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier.   
+Hackers will be awarded a $500 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier.   
