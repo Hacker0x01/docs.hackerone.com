@@ -12,7 +12,7 @@ As a HackerOne Clear hacker, you'll be eligible to receive private program invit
 Additionally, you'll be invited to join a group Slack channel with the Clear program you're a part of so that you can better communicate with the program through Slack. *(The shared Slack channel is currently in beta. Only select Clear programs offer this.)* 
 
 ### How do I become a part of HackerOne Clear?
-There’s currently no application process for HackerOne Clear. Clear is currently only available to selected hackers based on their performance and stats. You may be contacted to enroll if you are an active member of HackerOne with good stats (impact, signal, reputation) and have zero [Code of Conduct](https://hackerone.com/disclosure-guidelines) violations.
+Interested hackers can [apply to be a member](https://www.hackerone.com/clear/application) of HackerOne Clear. Clear is currently only available to selected hackers based on their performance and stats. You may be contacted to enroll if you are an active member of HackerOne with good stats (impact, signal, reputation) and have zero [Code of Conduct](https://hackerone.com/disclosure-guidelines) violations.
 
 ### How do I know if I’m a Clear member?
 After completing the background check, Clear verified hackers will have this blue checkmark on their profile indicating that they’re Clear verified:
