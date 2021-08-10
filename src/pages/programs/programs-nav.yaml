@@ -22,6 +22,13 @@
       path: /programs/using-markdown.html
     - title: Running a Good Program
       path: /programs/good-program.html
+      items:
+        - title: Authenticated Testing
+          path: /programs/authenticated-testing.html
+        - title: Scoping Considerations
+          path: /programs/scoping-considerations.html
+        - title: Traffic Identification
+          path: /programs/traffic-identification.html
 - title: Your Program
   items:
     - title: General Settings
