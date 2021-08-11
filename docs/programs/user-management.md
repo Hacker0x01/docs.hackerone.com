@@ -26,5 +26,10 @@ Organization Admins have access to all programs and can add other users to progr
 5. Click on "Update User" to save your changes
 
 ### Updating access for existing users
+1. Go the <b>Organization Settings > User Management</b>
+2. Find the user that you want to update
+3. Click the pencil on the right to go into edit mode
+4. Check/uncheck the boxes for the programs where you want to update the access or permissions.
+5. Click on "Update User" to save your changes
 
 ### Removing a user from the organization
