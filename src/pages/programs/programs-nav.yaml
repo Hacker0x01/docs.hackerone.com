@@ -82,8 +82,11 @@
           path: /programs/signal-requirements.html
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal.html
-    - title: Groups and Permissions
-      path: /programs/groups-and-permissions.html
+    - title: User Management
+      path: /programs/user-management.html
+      items:
+      - title: Groups and Permissions
+        path: /programs/groups-and-permissions.html
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:

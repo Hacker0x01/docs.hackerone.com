@@ -27,13 +27,3 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 ![user group](./images/user-group.png)
 
 To edit your group name and permissions, click **Edit** next to the group you want to edit in **Settings > General > Group Management**.
-
-### Adding or Removing Users
-To add or remove users:
-1. Click **Add/Remove users**.
-2. Select the checkbox of the users you want to add to the group.
-3. Deselect the checkboxes of the users you want to remove from the group.
-3. Click **Update**.  
-
-### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/4yQnKcBWIjI?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
