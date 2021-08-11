@@ -33,3 +33,10 @@ Organization Admins have access to all programs and can add other users to progr
 5. Click on "Update User" to save your changes
 
 ### Removing a user from the organization
+To remove a user from the organization:
+1. Go the <b>Organization Settings > User Management</b>
+2. Find the user that you want to remove
+3. Click the trash icon on the right to delete the user from the organization
+4. Click on "Remove User"
+
+The user will now be removed from all programs in your organization. If you wish to remove the user from certain programs instead, click on "Edit user access" instead in step 4.
