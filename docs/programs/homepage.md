@@ -4,7 +4,7 @@ path: "/programs/homepage.html"
 id: "programs/homepage"
 ---
 
-The homepage is the central place for customers to go after they log in. This page shows all programs within your organization and any action items required per program. Regardless of the type of program you're running with HackerOne. This page will show a quick overview of the status and the action items of your vulnerability reports.
+The homepage is the central place for customers to go after they log in. This page shows all programs within your organization and any action items required per program, regardless of the type of program you're running.
 
 ![homepage](./images/homepage.png)
 
