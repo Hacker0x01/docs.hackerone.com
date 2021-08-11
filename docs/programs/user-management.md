@@ -7,6 +7,12 @@ id: "programs/user-management"
 To manage your team members you can go to <b>Organization Settings > User Management</b>. From here you can manage all users across your organization.
 
 ### Adding a user to the organization
+To add a new user to your organization:
+1. Go the <b>Organization Settings > User Management</b>
+2. Click on "Invite User"
+3. Provide the email address of the user that should be invited
+4. Select the programs and groups the user should be added to. Selecting a program without adding a user to a group will give the user read only access to the selected program.
+5. Click on "Invite User" at the bottom of the page to finish.
 
 ###  Marking a user as Organization Admin
 Organization Admins have access to all programs and can add other users to programs of the organization. To mark someone as Organization Admin:
