@@ -24,6 +24,8 @@
       path: /programs/good-program.html
 - title: Your Program
   items:
+    - title: Homepage
+      path: /programs/homepage.html
     - title: General Settings
       path: /programs/general-settings.html
     - title: Security Page
