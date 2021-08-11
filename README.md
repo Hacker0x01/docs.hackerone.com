@@ -9,7 +9,7 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 ### Prerequisites
 
 1. Git
-1. Node: install version 8.4 or greater
+1. Node: install version 12 or greater
 1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
 1. A fork of the repo (for any contributions)
 1. A clone of the [docs.hackerone.com repo](https://github.com/Hacker0x01/docs.hackerone.com) on your local machine
