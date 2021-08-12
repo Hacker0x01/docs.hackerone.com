@@ -5,7 +5,7 @@ date: "2021-08"
 ---
 
 ### Customer Homepage
-The [customer homepage](/programs/homepage.html) is the starting point for customers to see all their programs and activity in their organization. Quickly go to the thing that requires your attention regardless of which program it is in.
+The [customer homepage](/programs/homepage.html) is the starting point for customers to see an overview of all programs and latest report activity and mentions in their organization. Quickly access the area that requires your attention, regardless of the program it's associated with.
 
 ![homepage](./images/aug_2021_homepage.png)
 
@@ -15,6 +15,6 @@ Managing all team members from a central place with our new Organization-level [
 ![user-management](./images/aug_2021_users.png)
 
 ### Report sidebar
-Improving the user experience while viewing reports. Making it easy to see all relevant information at a glance
+Improving the user experience while viewing reports. Making it easy to see all relevant information at a glance while taking action on a report.
 
 ![report-sidebar](./images/aug_2021_sidebar.png)
