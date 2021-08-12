@@ -25,7 +25,7 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 
 5. Click **Add group**.
 
-![user group](./images/user-group.png)
+![user group](./images/user-management-group.png)
 
 To edit your group name and permissions, click **Edit** next to the group you want to edit in **Organization Settings > User Management > Groups**.
 

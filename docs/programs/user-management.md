@@ -39,6 +39,6 @@ To remove a user from the organization:
 3. Click the trash icon on the right to delete the user from the organization
 4. Click on "Remove User"
 
-![Remove from organization](./images/user-management-remove.png)
+![Remove from organization](./images/user-management-remove-user.png)
 
 The user will now be removed from all programs in your organization. If you wish to remove the user from certain programs instead, click on "Edit user access" instead in step 4.
