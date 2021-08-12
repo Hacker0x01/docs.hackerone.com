@@ -6,7 +6,7 @@ id: "programs/authenticated-testing"
 
 * HackerOne recommends providing credentials and contextual information to hackers wherever possible
     * HackerOne recommends offering elevated rewards for unauthenticated vulnerability findings
-* The HackerOne platform includes a secure [credential management feature](https://docs.hackerone.com/programs/credential-management.html) that allows customers to quickly upload many sets of credentials
+* The HackerOne platform includes a secure [credential management feature](https://docs.hackerone.com/programs/credential-management.html) that allows customers to quickly upload multiple sets of credentials
     * Includes the ability to provision multiple roles
         * Essential for PrivEsc, IDOR, broken authentication, data segregation testing, etc.
     * Hackers can claim credentials in the platform and immediately proceed with testing
