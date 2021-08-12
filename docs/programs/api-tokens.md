@@ -13,7 +13,7 @@ To generate an API token:
 2. Click <b>Create API Token</b>.
 
 3. Enter an identifier for the new API token.
-![api-token-3](./images/api-token-3.png)
+![api-token-2](./images/api-token-2.png)
 
 4. Select the programs and groups you want to add this token to. When no groups are selected, they only have read-only permissions. The default groups you can choose from are:
 
@@ -29,6 +29,6 @@ If your program has more groups, you can choose from those groups as well.
 6. Store the generated API token.
 
 7. Click <b>I have stored the API Token</b>.
-![api-token-4](./images/api-token-4.png)
+![api-token-3](./images/api-token-3.png)
 
 Once you've generated your API token, you'll receive a confirmation email stating that you’ve created a new API token. To learn more about the HackerOne API, check out our [API docs](https://api.hackerone.com/#introduction).
