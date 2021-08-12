@@ -7,7 +7,7 @@ id: "programs/traffic-identification"
 There are several ways to identify hacker testing traffic at various layers for testing/feature enablement or testing control & monitoring.
 
 ### Application Layer: User Allowlisting
-* HackerOne provides each hacker with a forwarding email [address](https://docs.hackerone.com/hackers/hacker-email-alias.html)
+* HackerOne provides each hacker with a forwarding [email address](https://docs.hackerone.com/hackers/hacker-email-alias.html)
     * This email can be helpful in identifying hacker testing accounts for allowlisting within the application itself
 ### Session Layer: HTTP Headers
 * Researchers may add headers to requests such as: “X-HackerOne-Research: [H1 username]”
