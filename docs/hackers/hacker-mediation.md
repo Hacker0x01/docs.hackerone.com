@@ -33,6 +33,8 @@ When providing information about the mediation, please be as descriptive as poss
 
 > Note: Please don't share any report details with HackerOne in the initial request without explicit mutual agreement from the program. If more information is required to address the problem, HackerOne will arrange it with the program's security team.
 
+As a reminder, hacker mediation is a privilege that is reserved for hackers with signal ≥ 1. In most cases, HackerOne will not be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary. Abuse of the hacker mediation process will result in this privilege being revoked from your account.
+
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following actions:
 1. An email is sent to the program's security team, requesting that they make their best effort to resolve the issue with the hacker within 3 business days.
