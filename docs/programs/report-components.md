@@ -7,12 +7,12 @@ id: "programs/report-components"
 Reports in your inbox consist of different components to give you a holistic view of the vulnerability.
 
 ### Hacker Info
-The top of the report shows the hacker that submitted the report as well as their hacking statistics by reputation, signal, and impact.
+The hacker that submitted the report is shown in the sidebar metadata. On hover, you can see the hacking statistics by reputation, signal, and impact.
 
 ![hacker info](./images/report-timeline-hacker-info.png)
 
 ### Report ID and Title
-Below the hacker information is the report ID number and title. You can change the report title to your internal naming conventions. The color behind the report number represents the state the report is in. These are the different colors and the [report states](report-states.html) they represent:
+At the top of the report is the report ID number and title. You can change the report title to your internal naming conventions. The color behind the report number represents the state the report is in. These are the different colors and the report states they represent:
 
 Color | Report State
 ----- | ---------
@@ -27,25 +27,33 @@ Grey | Informative
 Red | Not Applicable
 
 ### Report Metadata
-You’ll be able to view these metadata fields underneath the title of your report:
+You’ll be able to view these metadata fields in the right sidebar:
 
 Metadata Field | Details
 -------------- | --------
-State | The state the report is in.
-Disclosed | The date the report was disclosed. Only shows for reports that were disclosed.
-Reported to | The name of the program the report was submitted to.
-Reported at | The date and time the report was submitted.
 Asset | The specific asset the vulnerability was found on.
-References | *(An internal field that is only seen by the program’s security team)* The ticket number associated with the report in your issue tracking tool that you've set up an integration for.
-CVE ID | The [CVE ID](cve-requests.html) the vulnerability is linked to.  
 Assigned to | *(An internal field that is only seen by the program’s security team)* The person on your security team that's assigned to triage or manage the report.
-Weakness | The type of weakness of the vulnerability.
-Pentest | *(Shows only if you're partcipating in pentests)* The pentest the report is linked to.
-Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.   
-Severity | The severity level of the vulnerability.
-Participants | All of the hackers involved in finding the vulnerability as well as program members involved with triaging the report.
+Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.
+Cloned From | Shows which report this was cloned from
+Cloned reports | There is an ability to clone a report on our platform, this metadata item links all the reports that were cloned from the current one.
+Credential Account Details | Related to Credential Management (https://docs.hackerone.com/programs/credential-management.html)
+Custom Fields | Private fields for your company, not seen by hackers see article about custom fields
+CVE ID | The [CVE ID](cve-requests.html) the vulnerability is linked to.
+Disclosed | The date the report was disclosed. Only shows for reports that were disclosed.
+Duplicates | Shows which reports this is duplicate of
+Link Sharing | Ability to generate a secure link to share this report with a third party
 Notifications | Indicates whether you have notifications enabled or disabled for actions on your program.
+Participants | All of the hackers involved in finding the vulnerability as well as program members involved with triaging the report.
+Pentest | *(Shows only if you're participating in pentests)* The pentest the report is linked to.
+References | *(An internal field that is only seen by the program’s security team)* The ticket number associated with the report in your issue tracking tool that you've set up an integration for.
+Reported at | The date and time the report was submitted.
+Reported to | The name of the program the report was submitted to.
+Reporter | The hacker who submitted the report
+Resolution Target | Programs have certain SLA, so this is date/time by which program should resolve the report, so it doesn't miss SLA
+Severity | The severity level of the vulnerability.
+State | The state the report is in.
 Visibility | Indicates the status of disclosure of the vulnerability. You can also choose to redact private information from the report.
+Weakness | The type of weakness of the vulnerability.
 
 ![report metadata](./images/report-timeline-metadata.png)
 
