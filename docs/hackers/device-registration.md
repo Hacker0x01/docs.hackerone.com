@@ -6,8 +6,8 @@ id: "hackers/device-registration"
 
 Device registration provides extra security to ensure that even if attackers acquire information from an info dump, they will not be able to access your account at HackerOne. Only devices registered to you will be able to log in to your account. Each browser and device will require its own registration. Once you register a device or browser, you will not have to do it again.
 
-Registering a Device
---------
+### Registering a Device
+
 To register a device:
 
 Start the login process as normal and you will see a pop-up requiring you to register your device. A message will be sent to your email address with the IP address, user agent, and date. The email must be opened from the same browser that you are registering. This email token will only last for 15 minutes and cannot be reused.
