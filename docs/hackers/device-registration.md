@@ -32,9 +32,7 @@ To manage your registered devices:
 
 2. Click **Settings**
 
-You will see a new tab called **Account Security**. This was previously called **Authentication**.
-
-From here you can manage two-factor authentication settings, registered devices, and see all past and current sessions.
+    * You will see a new tab called **Account Security**. This was previously called **Authentication**. From here you can manage two-factor authentication settings, registered devices, and see all past and current sessions.
 
 If you remove a device that’s no longer in use, any active sessions on that device will be ended right away and a device removed email will be sent to your email address.
 
