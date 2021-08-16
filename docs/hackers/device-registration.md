@@ -24,8 +24,8 @@ Click **Register**.
 
 Click **Sign In** and sign in as normal.
 
-Managing Devices
---------
+### Managing Devices
+
 To manage your registered devices:
 
 In the top right corner of your screen, click the dropdown next to your profile icon.
