@@ -9,7 +9,7 @@ Reports in your inbox consist of different components to give you a holistic vie
 ### Hacker Info
 The hacker that submitted the report is shown in the sidebar metadata. On hover, you can see the hacking statistics by reputation, signal, and impact.
 
-![hacker info](./images/report-timeline-hacker-info.png)
+![hacker info](./images/report-timeline-hacker-sidebar.png)
 
 ### Report ID and Title
 At the top of the report is the report ID number and title. You can change the report title to your internal naming conventions. The color behind the report number represents the state the report is in. These are the different colors and the report states they represent:
