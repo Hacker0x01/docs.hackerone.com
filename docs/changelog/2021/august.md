@@ -20,12 +20,9 @@ Improving the user experience while viewing reports. Making it easy to see all r
 ![report-sidebar](./images/aug_2021_sidebar.png)
 
 ### Ability to search in the program picker
-
 You can now search for programs in the Program picker to easily find the right program you are looking for.
 
 ![progam-picker](./images/aug_2021_program_picker.png)
 
-
 ### New Splunk integration Setup
-
 The [Splunk integration](/programs/splunk-integration.html) is now embedded into the HackerOne platform to make it easier to setup and maintain the integration.
