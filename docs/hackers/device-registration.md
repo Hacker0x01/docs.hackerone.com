@@ -4,7 +4,7 @@ path: "/hackers/device-registration.html"
 id: "hackers/device-registration"
 ---
 
-Device registration provides extra security to ensure that even if attackers acquire your information, they will not be able to access your account at HackerOne. Only devices registered to you will be able to log in to your account. Each browser and device will require its own registration. A browser will only have to registered once.
+Device registration provides extra security to ensure that even if attackers acquire your account credentials, they will not be able to access your account at HackerOne. Only devices registered to you will be able to log in to your account. Each browser and device will require its own registration. A browser will only have to be registered once.
 
 ### Registering a Device
 
