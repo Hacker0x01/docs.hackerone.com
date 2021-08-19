@@ -12,6 +12,8 @@ To register a device:
 
 1. Start the login process as normal and you will see a pop-up requiring you to register your device. A message will be sent to your email address with the IP address, user agent, and date. The email must be opened from the same browser that you are registering. This email token will only last for 15 minutes and cannot be reused.
 
+![device registration prompt](./images/device-registration-1.png)
+
 Note: If you receive one that is not your device, the attacker will be unable to access your account unless you approve. Changing your password is highly recommended. If you accidentally approve one of these, it will still not allow them to enter as the email must be opened from the same browser that you are registering.
 
 
@@ -19,8 +21,12 @@ Note: If you receive one that is not your device, the attacker will be unable to
 
 3. Enter a Device Name (optional) - Example: Jane Doe’s MacBook (Safari)
 
+![device name](./images/device-registration-2.png)
+
 4. Click **Register**.
     A screen will appear saying your device has been registered successfully and an email will be sent to your address confirming the registration.
+
+![device registration confirmed](./images/device-registration-3.png)
 
 5. Click **Sign In** and sign in as normal.
 
@@ -33,6 +39,8 @@ To manage your registered devices:
 2. Click **Settings**
 
     * You will see a tab called **Account Security**. This was previously called **Authentication**. From here you can manage two-factor authentication settings, registered devices, and see all past and current sessions.
+
+![registered devices](./images/device-registration-4.png)
 
 If you remove a device that’s no longer in use, any active sessions on that device will be ended right away and a device removed email will be sent to your email address.
 
