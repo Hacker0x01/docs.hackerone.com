@@ -55,8 +55,6 @@ State | The state the report is in.
 Visibility | Indicates the status of disclosure of the vulnerability. You can also choose to redact private information from the report.
 Weakness | The type of weakness of the vulnerability.
 
-![report metadata](./images/report-timeline-metadata.png)
-
 ### Summary
 Either your security team or the hacker(s) involved with the report can choose to provide an optional summary of the report. Including a summary helps future viewers of the report to understand the context without having to scroll through the entire report. Click **ADD SUMMARY** to add a summary to the report.
 
