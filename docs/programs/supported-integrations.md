@@ -161,6 +161,12 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Zendesk</div>
   </a>
+  <a class="integration-button" href="aws-security-hub-integration.html">
+    <div class="logo">
+      <img src="./images/aws_security_hub_logo.png" />
+    </div>
+    <div class="logo-text">AWS Security Hub</div>
+  </a>
 </div><br>
 
 Don't see your issue tracker listed here? [Let us know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
