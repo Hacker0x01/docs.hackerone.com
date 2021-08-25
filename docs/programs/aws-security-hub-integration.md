@@ -6,10 +6,11 @@ id: "programs/aws-security-hub-integration"
 
 ## Introduction
 
-What each allows, and why.
-When do you want SecHub to H1? Link to section.
-When do you want H1 to SecHub? Link to section.
-When do you want bidirectional? Link to section.
+<What each allows, and why.>
+<Process flow.>
+<When do you want SecHub to H1? Link to section.>
+<When do you want H1 to SecHub? Link to section.>
+<When do you want bidirectional? Link to section.>
 
 ## Prerequisites
 
