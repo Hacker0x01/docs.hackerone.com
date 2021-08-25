@@ -26,7 +26,7 @@ This integration creates a custom action for Security Hub to send findings to Ha
 
 ### Architecture
 
-<image here>
+![sh-h1](./images/sh-h1.png)
 
 The custom action in Security Hub uses EventBridge to forward specific findings to a Lambda. The Lambda then divides and reformats the findings to meet HackerOne’s report format, and sends each finding individually to HackerOne’s Create Report API. As a result, those with access to a specific HackerOne program will be able to see the imported Security Hub findings from within HackerOne.
 
@@ -58,7 +58,7 @@ This integration creates a webhook in HackerOne that sends hacker reports to AWS
 
 ### Architecture
 
-<image here>
+![h1-sh](./images/h1-sh.png)
 
 The HackerOne webhook targets API Gateway, which forwards the request to a Lambda Function. The Lambda then reformats the payload to AWS Security Hub Finding Format (ASFF) and sends each finding to Security Hub. As a result, those with access to a Security Hub will be able to see the imported HackerOne reports from within Security Hub.
 	
@@ -91,7 +91,7 @@ This integration combines the two above so that it is possible to share selected
 
 ### Architecture
 
-<image here>
+![both-aws](./images/both-aws.png)
 
 ### Setup
 
