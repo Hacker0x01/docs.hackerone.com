@@ -49,6 +49,8 @@
       path: /hackers/sessions.html
     - title: Calendar
       path: /hackers/calendar.html
+    - title: Device Registration
+      path: /hackers/device-registration.html
     - title: Two-Factor Authentication
       path: /hackers/two-factor-authentication.html
       items:
