@@ -83,7 +83,7 @@ Ensure that you have met all of the above [Prerequisites](#prerequisites).
 1. Visit Security Hub in the account and region you declared in the deployment.
 1. Navigate to Findings and filter for “Company name” / “is” / “HackerOne” to see all imported reports.
 
-## Bi-DIrectional Integration
+## Bi-Directional Integration
 
 ### Overview
 
