@@ -283,6 +283,8 @@
       path: /programs/pentests.html
     - title: FAQs
       path: /programs/pentest-faqs.html
+    - title: "Retesting Pentest"
+      path: "/programs/retesting-pentest.html"
 - title: Helpful Tools
   items:
     - title: Automation
