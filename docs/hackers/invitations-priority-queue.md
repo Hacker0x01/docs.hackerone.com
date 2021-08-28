@@ -1,5 +1,5 @@
 ---
-title: "Invitations Priority Queue"
+title: "JCS+Charity=Foundation"
 path: "/hackers/invitations-priority-queue.html"
 id: "hackers/invitations-priority-queue"
 ---
