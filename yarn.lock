@@ -5993,10 +5993,10 @@ gatsby-legacy-polyfills@^1.12.0:
   dependencies:
     core-js-compat "3.9.0"
 
-gatsby-link@^3.11.0, gatsby-link@^3.12.0:
-  version "3.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-3.12.0.tgz#19b6fa76e5a6ed1bc1b5dc44dccb384c35beb33a"
-  integrity sha512-rtTcM9lEDE9nrKFqL110fqlBJUvqEwjmZmWSDFTiSjqVk6GpVDkegaWhepqg4bwgbobXYtoJ/f/sEq5RRiMU4A==
+gatsby-link@^3.12.0, gatsby-link@^3.13.0:
+  version "3.13.0"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-3.13.0.tgz#ee1bb589c657ad0a4f729584e37e9a9ba861ffa2"
+  integrity sha512-18KOZEOdsD3wgCozZeT1EWuXVv3ESwHefCkTFKyeL4hjTM9MaLSt64e4tD4EpfDwOaXfDeRM0qY6ABcM3pM8wA==
   dependencies:
     "@babel/runtime" "^7.14.8"
     "@types/reach__router" "^1.3.9"
