@@ -77,3 +77,4 @@ The program is responsible for fulfillment and delivery of swag to you.
 ### Bonuses
 
 Programs can award bonuses to recognize hackers for positive actions beyond finding valid vulnerabilities. Bonuses enable programs to offer more flexible incentives without increasing the market rate for bounties.
+
