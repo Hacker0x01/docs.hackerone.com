@@ -1,4 +1,4 @@
----
+---https://vieclambacninhbacgiangchonguoi.godaddysites.com/
 title: "Installing the HackerOne VPN Root CA"
 path: "/hackers/hackerone-vpn-root-ca.html"
 id: "hackers/hackerone-vpn-root-ca"
