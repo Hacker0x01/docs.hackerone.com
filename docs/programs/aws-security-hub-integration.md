@@ -39,7 +39,7 @@ Ensure that you have met all of the above [Prerequisites](#prerequisites).
 
 In addition, you need the following:
 
-1. Choose an S3 bucket to host the configuration.
+1. Choose an S3 bucket to host the configuration; the bucket should not be public, but the IAM role you are using must have read and write access to it.
 1. Clone the [hackerone-to-security-hub](https://github.com/Hacker0x01/hackerone-to-security-hub) repository.
 1. Use the bash script in the repository to build and deploy the serverless app.
 1. Create a [HackerOne Webhook](https://docs.hackerone.com/programs/webhooks.html).
