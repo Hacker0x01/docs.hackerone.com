@@ -40,7 +40,7 @@ Ensure that you have met all of the above [Prerequisites](#prerequisites).
 In addition, you need the following:
 
 1. Choose an S3 bucket to host the configuration; the bucket should not be public, but the IAM role you are using must have read and write access to it.
-1. Clone the [hackerone-to-security-hub](https://github.com/Hacker0x01/hackerone-to-security-hub) repository.
+1. Clone the [hackerone-to-aws-security-hub](https://github.com/Hacker0x01/hackerone-to-aws-security-hub) repository.
 1. Use the bash script in the repository to build and deploy the serverless app.
 1. Create a [HackerOne Webhook](https://docs.hackerone.com/programs/webhooks.html).
 1. Enter the URL output from build process as the Webhook target.
@@ -72,7 +72,7 @@ The custom action in Security Hub uses EventBridge to forward specific findings 
 Ensure that you have met all of the above [Prerequisites](#prerequisites).
 
 1. Create an API token and identifier for the HackerOne API. (https://docs.hackerone.com/programs/api-tokens.html). Only use the identifier for this integration so it is clear that the API calls are coming from your AWS account and no other source.
-1. Clone the [security-hub-to-hackerone](https://github.com/Hacker0x01/security-hub-to-hackerone) repository.
+1. Clone the [aws-security-hub-to-hackerone](https://github.com/Hacker0x01/aws-security-hub-to-hackerone) repository.
 1. Run `aws cloudformation deploy --template-file eventbridgerule.yml --stack-name <STACK_NAME> --capabilities CAPABILITY_IAM`, and input the identifier and API token from the step above.
 1. Navigate to [AWS Security Hub > Settings > Custom Actions](https://console.aws.amazon.com/securityhub/home#/settings/actions).
 1. Click **Create custom action**.
