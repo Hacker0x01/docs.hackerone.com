@@ -19,7 +19,6 @@ With consolidated vulnerability reports, unified findings for more informed resp
 	1. Install [the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
     	1. Retrieve the AWS Access Key ID and the AWS Secret Access Key for an identity that has permission to create an API Gateway, Lambda, and a new IAM Role for the Lambda to connect to Security Hub.
     	1. Use `aws configure` to set the credentials and the region where you have Security Hub enabled.
-- An S3 bucket to host the configuration.
 - A HackerOne program account with the ability to configure [Webhooks](https://docs.hackerone.com/programs/webhooks.html) to send reports and the ability to generate [API tokens](https://docs.hackerone.com/programs/api-tokens.html) to receive reports.
 
 ## HackerOne to Security Hub
@@ -38,6 +37,9 @@ The HackerOne webhook targets an API Gateway, which forwards the request to a La
 
 Ensure that you have met all of the above [Prerequisites](#prerequisites).
 
+In addition, you need the following:
+
+1. Choose an S3 bucket to host the configuration.
 1. Clone the [hackerone-to-security-hub](https://github.com/Hacker0x01/hackerone-to-security-hub) repository.
 1. Use the bash script in the repository to build and deploy the serverless app.
 1. Create a [HackerOne Webhook](https://docs.hackerone.com/programs/webhooks.html).
