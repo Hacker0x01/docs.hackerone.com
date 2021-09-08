@@ -70,9 +70,11 @@ The custom action in Security Hub uses EventBridge to forward specific findings 
 Ensure that you have met all of the above [Prerequisites](#prerequisites).
 
 1. Create an API token and identifier for the HackerOne API. (https://docs.hackerone.com/programs/api-tokens.html). Only use the identifier for this integration so it is clear that the API calls are coming from your AWS account and no other source.
-1. Input the API keypair securely to your Terraform build, either using secure write-only variables in Terraform Cloud or an ephemeral form when you deploy the build locally. See Terraform’s documentation for guidance on storing credentials in state. (https://www.terraform.io/docs/language/state/sensitive-data.html) As always, do not commit tfstate in git, as it contains secrets in plaintext.
-1. Input the region where you’ve enabled Security Hub, the account ID, and the account secret into Terraform.
-1. <CFT build>
+1. Run `aws cloudformation deploy --template-file eventbridgerule.yml --stack-name <STACK_NAME> --capabilities CAPABILITY_IAM`, and input the identifier and API token from the step above.
+1. Navigate to [AWS Security Hub > Settings > Custom Actions](https://console.aws.amazon.com/securityhub/home#/settings/actions).
+1. Click **Create custom action**.
+1. Set *Action name* to `Send to HackerOne` and the *Description* to anything you like.
+1. Set *Custom action ID* to `SendFindingToH1` ⚠️ Important: you must use this ID in order to connect to the rule in the template ⚠️.
 1. To verify a successful setup, test out the steps below.
 
 ### Usage
@@ -84,4 +86,3 @@ Ensure that you have met all of the above [Prerequisites](#prerequisites).
 1. Switch to your program at HackerOne, and see the findings listed under new reports.
 
 Contact your HackerOne program team if you have any issues creating tokens for the HackerOne API, and contact AWS Support if you have any issues with resources in your AWS account.
-	
