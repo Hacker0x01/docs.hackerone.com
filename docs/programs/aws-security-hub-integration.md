@@ -70,6 +70,7 @@ The custom action in Security Hub uses EventBridge to forward specific findings 
 Ensure that you have met all of the above [Prerequisites](#prerequisites).
 
 1. Create an API token and identifier for the HackerOne API. (https://docs.hackerone.com/programs/api-tokens.html). Only use the identifier for this integration so it is clear that the API calls are coming from your AWS account and no other source.
+1. Clone the [security-hub-to-hackerone](https://github.com/Hacker0x01/security-hub-to-hackerone) repository.
 1. Run `aws cloudformation deploy --template-file eventbridgerule.yml --stack-name <STACK_NAME> --capabilities CAPABILITY_IAM`, and input the identifier and API token from the step above.
 1. Navigate to [AWS Security Hub > Settings > Custom Actions](https://console.aws.amazon.com/securityhub/home#/settings/actions).
 1. Click **Create custom action**.
