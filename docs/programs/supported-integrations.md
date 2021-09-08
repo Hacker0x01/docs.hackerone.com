@@ -14,6 +14,12 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Assembla</div>
   </a>
+  <a class="integration-button" href="aws-security-hub-integration.html">
+    <div class="logo">
+      <img src="./images/aws_security_hub_logo.png" />
+    </div>
+    <div class="logo-text">AWS Security Hub</div>
+  </a>
   <a class="integration-button" href="azure-devops-integration.html">
     <div class="logo">
       <img src="./images/azure-devops-logo.png" />
@@ -26,15 +32,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Bugzilla</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="freshdesk-integration.html">
     <div class="logo">
       <img src="./images/freshdesk_logo.png" />
     </div>
     <div class="logo-text">Freshdesk</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="github-integration.html">
     <div class="logo">
       <img src="./images/github_logo.png" />
@@ -53,15 +59,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">HackEDU</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="ibm-security-soar.html">
     <div class="logo">
       <img src="./images/ibm_resilient_logo.png" />
     </div>
   <div class="logo-text">IBM Security SOAR</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="jira-integration.html">
     <div class="logo">
       <img src="./images/jira_logo.png" />
@@ -80,15 +86,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Kenna Security</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="mantisbt-integration.html">
     <div class="logo">
       <img src="./images/mantisbt-logo.png" />
     </div>
     <div class="logo-text">MantisBT</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="microsoft-teams.html">
     <div class="logo">
       <img src="./images/microsoft_teams_logo.png" />
@@ -107,15 +113,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">PagerDuty</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="phabricator-integration.html">
     <div class="logo">
       <img src="./images/phabricator_logo.png" />
     </div>
     <div class="logo-text">Phabricator</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="redmine-integration.html">
     <div class="logo">
       <img src="./images/redmine_logo.png" />
@@ -134,15 +140,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Slack</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="splunk-integration.html">
     <div class="logo">
       <img src="./images/splunk_logo.png" />
     </div>
     <div class="logo-text">Splunk</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="sumo-logic-integration.html">
     <div class="logo">
       <img src="./images/sumo_logic_logo.png" />

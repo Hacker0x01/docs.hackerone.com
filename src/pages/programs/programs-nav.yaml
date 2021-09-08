@@ -171,6 +171,8 @@
       path: /programs/api-tokens.html
     - title: Assembla
       path: /programs/assembla-integration.html
+    - title: AWS Security Hub
+      path: /programs/aws-security-hub-integration.html
     - title: Azure DevOps
       path: /programs/azure-devops-integration.html
     - title: Bugzilla
