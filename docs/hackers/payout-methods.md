@@ -17,7 +17,7 @@ You can also choose between 3 payout methods.
 
 Depending on which of the 3 payout methods you elect, payments are processed at different times each day, and the expected retrieval time of your monetary award also varies depending on the method.
 
-Please note that payments are not processed on the first or last days of the month. 
+**Note:** Payments are not processed on the first or last days of the month. 
 
 HackerOne offers these 3 payout methods for monetary awards:
 
