@@ -190,12 +190,8 @@
     - title: Jira
       path: /programs/jira-integration.html
       items:
-        - title: Jira Cloud Setup
-          path: /programs/jira-cloud-integration.html
-        - title: Jira Server Setup
-          path: /programs/jira-server-integration.html
-        - title: Multiple Integrations
-          path: /programs/multiple-jira-integrations.html
+        - title: Jira Setup
+          path: /programs/jira-setup.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
     - title: Kenna Security
