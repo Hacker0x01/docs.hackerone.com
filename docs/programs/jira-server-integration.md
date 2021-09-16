@@ -26,9 +26,9 @@ To integrate with Jira:
 
 ![jira-setup-9](./images/jira-setup-9.png)
 
-6. Enter https://hackerone.com and click **Create new link.**
+6. Enter `https://hackerone.com` and click **Create new link.**
 
-7. Enter https://hackerone.com in the New URL field in the Configure Application URL window.
+7. Enter `https://hackerone.com` in the New URL field in the Configure Application URL window.
 
 ![jira-setup-3](./images/jira-setup-3.png)
 
@@ -40,21 +40,21 @@ Application Type | Generic Application
 Service Provider Name | HackerOne
 Consumer key | HackerOne JIRA Client
 Shared secret | Enter any string and save it for later use (case-sensitive).
-Request token URL | https://hackerone.com
-Access token URL | https://hackerone.com
-Authorize URL | https://hackerone.com
+Request token URL | `https://hackerone.com`
+Access token URL | `https://hackerone.com`
+Authorize URL | `https://hackerone.com`
 Create incoming link | Check the checkbox
 
 ![jira-setup-4](./images/jira-setup-4.png)
 
 9. Enter the following information on the next **Link applications** window:
 Fields | Details
+------ | -------   
 Consumer Key | HackerOne JIRA Client
 Consumer Name | HackerOne
 Public Key | Copy and paste from the key below
 
-
-### HackerOne Jira public key
+**HackerOne Jira public key**
 ```
 -----BEGIN PUBLIC KEY-----
 MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDuK1KHVbY7BsmqtNT2iawWLm0b
@@ -72,18 +72,20 @@ Ee69GuatJo5veIMeDwIDAQAB
 
 ![jira-setup-7](./images/jira-setup-7.png)
 
- 13. Click **Next** to finalize the setup between HackerOne and your Jira instance.
- 14. Configure which Jira project and issue type you'd like to escalate HackerOne reports to in the **Jira project and issue type** window and click **Next.**
+13. Click **Next** to finalize the setup between HackerOne and your Jira instance.
+14. Configure which Jira project and issue type you'd like to escalate HackerOne reports to in the **Jira project and issue type** window and click **Next.**
 
- ![jira-setup-10](./images/jira-setup-10.png)
+![jira-setup-10](./images/jira-setup-10.png)
 
- 15. Select the Jira fields you want to map to the corresponding HackerOne fields and click **Next.** Note: only supported Jira field types are shown.
+15. Select the HackerOne fields you want to map to the corresponding Jira fields. As alternative, enter any text using [integration variables](/programs/integration-variables.html). Click **Next**. 
+    
+*Note: only [supported Jira field types](/programs/jira-faqs.html) are shown.*
 
- ![jira-setup-12](./images/jira-setup-12.png)
+![jira-setup-12](./images/jira-setup-12.png)
 
- 16. *(Optional)* Select Jira Priorities you want to map to the corresponding HackerOne Severities. This enables the right priority to be set when escalating a HackerOne report to Jira.
+16. *(Optional)* Select Jira Priorities you want to map to the corresponding HackerOne Severities. This enables the right priority to be set when escalating a HackerOne report to Jira.
 
- ![jira-setup-1](./images/jira-setup-1.png)
+![jira-setup-1](./images/jira-setup-1.png)
 
 17. *(Optional)* Select which actions in HackerOne you'd like to post to Jira in the **Select HackerOne to Jira events** window. You can choose from:
 
@@ -111,10 +113,13 @@ Comment added | Post an internal comment when someone comments on an issue.
 
 ![jira-setup-13](./images/jira-setup-13.png)
 
+You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
+
+### Multiple integrations
+
 If you have multiple HackerOne programs, you can integrate them to the same Jira instance. Follow steps 11-18 for each subsequent program you need to add an integration for.
 
 *Note: You only need to follow steps 11-18 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
 
-If you want to integrate the same program to multiple Jira instances, you can follow all the steps above for each integration.
-
-You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
+### Multiple Jira instances per program
+This feature is available for **Enterprise programs only**. If you want to integrate the same program to multiple Jira instances, you can follow all the steps above for each integration.
