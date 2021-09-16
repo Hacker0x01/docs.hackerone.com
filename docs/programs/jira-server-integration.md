@@ -98,7 +98,7 @@ Assignee changes | When someone assigns a user/group to a report, post an update
 Disclosure | When disclosure is requested or a report becomes public, post an update on the associated Jira issue.
 Synchronize attachments | Synchronize attachments linked with reports and comments to the associated Jira issue.
 
-![jira-setup-13](./images/jira-setup-13.png)
+![jira-setup-6](./images/jira-setup-6.png)
 
 18. *(Optional)* Select which Jira actions you'd like to post onto HackerOne in the **Select Jira to HackerOne events** window. You can choose from:
 
