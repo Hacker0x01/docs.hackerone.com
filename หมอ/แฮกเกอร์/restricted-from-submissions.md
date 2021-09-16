@@ -1,3 +1,5 @@
+[ผู้จัดการใหญ่บล็อค MARS INTERPLST COMPNY CO,.pdf](https://github.com/Hacker0x01/docs.hackerone.com/files/7180419/MARS.INTERPLST.COMPNY.CO.pdf)
+[ผู้จัดการส่งออกถุงมือ ศรีตรัง MARS INTERPLST COMPNY CO,.pdf](https://github.com/Hacker0x01/docs.hackerone.com/files/7180420/MARS.INTERPLST.COMPNY.CO.pdf)
 ---
 title: "Restricted From Submissions"
 path: "/hackers/restricted-from-submissions.html"
