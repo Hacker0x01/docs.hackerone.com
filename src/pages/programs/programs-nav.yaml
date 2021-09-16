@@ -192,6 +192,8 @@
       items:
         - title: Jira Setup
           path: /programs/jira-setup.html
+        - title: Jira Migration Guide
+          path: /programs/jira-migration-guide.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
     - title: Kenna Security
