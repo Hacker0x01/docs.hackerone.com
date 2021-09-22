@@ -25,7 +25,7 @@ To award a bounty:
 3. Select **Set award**.
 4. Enter the bounty amount you wish to award.
 
-![awarding bounties](./images/bounties-1.png)
+![awarding bounties](./images/bounties-suggest.png)
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
 
@@ -83,4 +83,4 @@ For technical questions or help with your implementation, please reach out to su
 
 When your program has a bounty table set up, you will be presented with the bounty calculator when awarding a bounty. The bounty calculator computes the amount according to the table set up for your program, based on the reports’ asset and severity.
 
-![bounty calculator](./images/bounties-1.png)
+![bounty calculator](./images/bounties-2.png)
