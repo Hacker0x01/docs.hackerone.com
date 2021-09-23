@@ -10,11 +10,12 @@ To set up and publish your bounty table on your security page:
 
 1. Go to **Program Settings > Program > Rewards > Bounties**.
 2. <i>(Optional)</i> Edit the column names of the bounty table that best fit the reward structure of your program under the **Bounty Table** section.
-3. Select the asset you want the bounty structure to apply to. If you want it to apply to all assets, the default is already set to **All assets**.
-4. Input your bounty amounts under each column.
-5. <i>(Optional)</i> To add another row to your bounty table, click **+ add another bounty table row**.
-6. <i>(Optional)</i> Add a description about how severity is determined or you can also add examples of what types of bugs fall into which category in the **Optional description** field.
-5. Click <b>Create bounty table</b>.
+3. *(Optional)* Pick the bounty value setting that best fits the reward structure of your program. This can be a **range** or a **fixed** value.
+4. Select the asset you want the bounty structure to apply to. If you want it to apply to all assets, the default is already set to **All assets**.
+5. Input your bounty amounts under each column.
+6. <i>(Optional)</i> To add another row to your bounty table, click **+ add another bounty table row**.
+7. <i>(Optional)</i> Add a description about how severity is determined or you can also add examples of what types of bugs fall into which category in the **Optional description** field.
+8. Click <b>Create bounty table</b>.
 
 ![bounty-tables-1](./images/bounty-tables-1.png)
 
