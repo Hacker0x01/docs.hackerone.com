@@ -25,7 +25,7 @@ To award a bounty:
 3. Select **Set award**.
 4. Enter the bounty amount you wish to award.
 
-![awarding bounties](./images/bounties-suggest.png)
+![awarding bounties](./images/bounties-1.png)
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
 
@@ -37,7 +37,7 @@ If you're unsure of how much to award the hacker, you can communicate a suggeste
 3. Select **Set award**.
 4. Select **Suggest amount** in the next action picker.
 
-![suggesting bounties](./images/bounties-2.png)
+![suggesting bounties](./images/bounties-suggest.png)
 
 5. Enter your suggested bounty amount.
 6. <i>(Optional)</i> Enter your reason of why you suggest that bounty amount.
