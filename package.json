@@ -23,7 +23,7 @@
     "gatsby-remark-images": "^5.8.0",
     "gatsby-source-filesystem": "^3.12.0",
     "gatsby-transformer-remark": "^4.8.0",
-    "gatsby-transformer-sharp": "^3.11.0",
+    "gatsby-transformer-sharp": "^3.14.0",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-helmet": "^6.0.0",
