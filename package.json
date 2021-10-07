@@ -27,7 +27,7 @@
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-helmet": "^6.0.0",
-    "webpack": "^5.51.1"
+    "webpack": "^5.57.1"
   },
   "keywords": [
     "gatsby"
