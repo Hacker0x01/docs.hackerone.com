@@ -1,11 +1,11 @@
 ---
 title: "Connect to Hack The Box Academy"
-path: "/hackers/external-services/hack-the-box.html"
+path: "/hackers/hack-the-box.html"
 id: "hackers/hack-the-box"
 ---
 
-You can connect your Hack the Box Academy account to HackerOne on the [External Services profile settings page](http://localhost:8080/settings/external_services/edit) 
-using your Hack the Box Academy **Student ID**.<br/>
+You can connect your Hack the Box Academy account to HackerOne on the [External Services profile settings page](http://hackerone.com/settings/external_services/edit)
+using your Hack the Box Academy **Student ID**:
 
 ![Connect to Hack The Box](./images/connect-htb.png)
 
