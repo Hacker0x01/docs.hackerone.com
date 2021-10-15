@@ -113,13 +113,17 @@ Comment added | Post an internal comment when someone comments on an issue.
 
 ![jira-setup-13](./images/jira-setup-13.png)
 
-You're all set! Now that you've finished setting up the Jira integration, you can create Jira issues right from your HackerOne report.
+19. Click **Finish**. Once the screen disappears, click **Enable** to enable the integration.
+
+![jira-setup-14](./images/jira-setup-14.png)
+
+You're all set! Now that you've finished setting up the Jira integration, you can [create Jira issues](/programs/jira-integration.html#creating-a-jira-issue) right from your HackerOne report.
 
 ### Multiple integrations
 
-If you have multiple HackerOne programs, you can integrate them to the same Jira instance. Follow steps 11-18 for each subsequent program you need to add an integration for.
+If you have multiple HackerOne programs, you can integrate them to the same Jira instance. Follow steps 11-19 for each subsequent program you need to add an integration for.
 
-*Note: You only need to follow steps 11-18 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
+*Note: You only need to follow steps 11-19 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
 
 ### Multiple Jira instances per program
 This feature is available for **Enterprise programs only**. If you want to integrate the same program to multiple Jira instances, you can follow all the steps above for each integration.
