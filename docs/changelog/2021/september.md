@@ -5,7 +5,7 @@ date: "2021-09"
 ---
 
 ### Multiple Jira Integration
-If you have multiple HackerOne programs, you can integrate them to the [same Jira instance](/programs/multiple-jira-integrations.html) whether you’re using the Jira Server or Jira Cloud integration.
+This feature is available for Enterprise programs only. If you want to integrate the same program to [multiple Jira instances](/programs/multiple-jira-integrations.html), you can follow all the steps above for each integration.
 ![Multiple Jira integrations](./images/sept_2021_multi_jira_integration.png)
 
 ### AWS Security Hub Integration
