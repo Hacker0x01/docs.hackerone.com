@@ -9,5 +9,5 @@ If you have multiple HackerOne programs, you can integrate them to the [same Jir
 ![Multiple Jira integrations](./images/sept_2021_multi_jira_integration.png)
 
 ### AWS Security Hub Integration
-The AWS Security Hub integration [AWS integration](/programs/aws-security-hub-integration.html) exchanges vulnerability findings between HackerOne and Security Hub, streamlining workflows to accelerate security actions. 
+The [AWS Security Hub integration](/programs/aws-security-hub-integration.html) exchanges vulnerability findings between HackerOne and Security Hub, streamlining workflows to accelerate security actions. 
 ![AWS security hub](./images/sept_2021_aws_integration.png)
