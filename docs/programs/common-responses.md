@@ -7,21 +7,20 @@ Common responses provide consistent messaging across the platform and prevent yo
 
 ![common-response-1](./images/common-response-1.png)
 
-<h3><a id="set-up-a-default-common-response">Set Up a Default Common Response</a></h3>
-<br>To set a default common response:
-<br><br>1. Go to <b>Settings > Program > Automation > Common Responses</b>.
-<br>2. You'll find a pre-populated list of responses that HackerOne finds useful.
-<br>3. Click the <b>Set default Common Responses</b> button.
-<br>4. In the <b>Default Common Responses</b> window, select the default response message from the drop-down next to the action.
-<br>5. Click <b>Save</b>.
+### Set Up a Default Common Response
+To set a default common response:
+1. Go to <b>Settings > Program > Automation > Common Responses</b>.
+2. You'll find a pre-populated list of responses that HackerOne finds useful.
+3. Click the <b>Set default Common Responses</b> button.
+4. In the <b>Default Common Responses</b> window, select the default response message from the drop-down next to the action.
+5. Click <b>Save</b>.
 
 The default common response will automatically populate when you select the action for the report.
 
 ![common-response-2](./images/common-response-2.png)
 
-<h3><a id="add-your-own-common-response">Add Your Own Common Response</a></h3>
-You can write your own common response
-To add a new common response:
+### Add Your Own Common Response
+You can write your own common response. To add a new common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
 2. Select the **Add Common Response** button.
 3. Type the title of your response in the **Common Response Title** field. This title will show up in the list of common responses to choose from.
@@ -32,7 +31,7 @@ Your common response will display in the list of common responses to choose from
 
 ![common-response-3](./images/common-response-3.png)
 
-<h3><a id="edit-a-common-response">Edit a Common Response</a></h3>
+### Edit a Common Response
 To edit a common response:
 1. Go to **Settings > Program > Automation > Common Responses**.
 2. Click the title of the response you want to edit.

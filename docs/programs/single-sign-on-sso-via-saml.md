@@ -82,7 +82,7 @@ To configure an alternative certificate:
 
 ![Authentication settings page with SAML configured](./images/alt-certificate-1.png)
 
-3. Enter the alternative certificate in the **Configure alternative certificate** window. 
+3. Enter the alternative certificate in the **Configure alternative certificate** window.
 
 ![configure alternative certificate modal ](./images/alt-certificate-2.png)
 
@@ -90,6 +90,41 @@ To configure an alternative certificate:
 
 After the alternative certificate has been configured, users will be able to authenticate through the new SAML certificate.
 
-When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative. 
+When the primary certificate isn't used anymore, you can promote the alternative certificate to the primary by clicking **Promote alternative certificate to primary certificate**. This will enable your primary certificate to be replaced with the alternative.
 
 ![authentication settings page with alt certificate configured](./images/alt-certificate-3.png)
+
+### Changing Identity Providers
+
+If you need to change your identity provider at any time, to provide a more seamless self-service configuration, you can follow these steps:
+
+ 1. Copy this information from your prior identity provider configuration:
+
+ Field | Details
+------ | ------
+Domain | The  domain for users that was required to use SAML authentication.
+Single Sign On URL | The URL from your SAML provider to initiate a single sign-on attempt, sometimes called the login URL.
+X509 Certificate | The certificate from your SAML provider to verify the single sign-on response.
+
+ 2. Preconfigure your new identity provider on your provider's site with information from HackerOne. Depending on your provider, you may need HackerOne's metadata endpoint and ACS URL. You can find that along with other helpful information [here](sso-faqs.html).
+     * If you're using [Google](google-sso-saml-setup.html), [Okta](okta-sso-saml-setup.html), or [OneLogin](onelogin-sso-saml-setup.html), you can use the resources on our docs site for configuring those identity providers (more links are at the top of this page).
+
+3. Go to **Program Settings > General > Authentication** in HackerOne.
+
+> **Note:** Steps 4 - 7 will make your SAML authentications temporarily unavailable. Be sure to communicate this to your program members as needed.
+
+ 4. Disable your current configuration by clicking **Yes, disable SAML**.
+
+ 5. Uncheck the check box for **Send password reset emails to affected users**.
+
+![SAML Disable modal](./images/saml-disable-modal.png)
+
+ 6. Re-configure your SAML configuration with the new identity provider information by following steps 1-12 [here](single-sign-on-sso-via-saml.html#set-up).
+
+ 7. Make sure the checkbox for **Notify existing users that SAML is enabled** is unchecked when the **Enable SAML** window pops up.
+
+ 8. Click **Enable**.
+
+![SAML Enable modal](./images/saml-enable-modal.png)
+
+ If at anytime testing doesn't work or you encounter issues, revert to the recorded information for the prior identity provider.

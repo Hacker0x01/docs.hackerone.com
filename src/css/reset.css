@@ -488,12 +488,12 @@ blockquote {
   padding-right: 4px;
   padding-top: 12px;
   margin-bottom: 1.45rem;
-  background-color: rgba(197,255,232,0.9);
-  border-left: 6px solid #02C996;
+  background-color: rgba(192,209,251,0.5);
+  border-left: 6px solid #2D68F4;
   border-radius: 0.3em;
 }
 
-button {
+.welcome-button {
   margin-left: 1.45rem;
   margin-right: 1.45rem;
   margin-top: 0;
@@ -513,6 +513,49 @@ button {
   color: #585858;
   border: 1px solid #C4C4C4;
   border-radius:5px;
+}
+
+.integration-button {
+  margin-left: 1.00rem;
+  margin-right: 1.00rem;
+  margin-top: 1.00rem;
+  margin-bottom: 1.00rem;
+  border: none;
+  padding: 10px 10px;
+  text-decoration: none;
+  display: flex;
+  font-size: 16px;
+  margin: 1px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 150px !important;
+  height: 60px !important;
+  vertical-align: top;
+  color: #585858;
+  border: 1px solid #c4c4c4;
+  border-radius:5px;
+  line-height: 40px;
+}
+
+.int-button-container {
+  flex-direction: row;
+  display: flex;
+}
+
+.logo {
+  min-height: 40px;
+  min-width: 40px;
+  display: inline-block;
+  float: left;
+}
+
+.logo-text {
+  display: flex;
+  justify-content: center;
+  float: left;
+  padding-left: 10px;
+  align-items: center;
+  line-height: normal;
 }
 
 button:hover {

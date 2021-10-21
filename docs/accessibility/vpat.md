@@ -5,11 +5,11 @@ id: "accessibility/vpat"
 bookIndexFor: "accessibility"
 ---
 
-**VPAT®[^1] Version 2.4 – March 2020**
+**VPAT®[^1] Version 2.4 – February 2020**
 
 **Name of Product/Version:** HackerOne Bug Bounty & Vulnerability Disclosure Platform ("HackerOne Platform")
 
-**Report Date:** September 26, 2019
+**Report Date:** September 16, 2020
 
 **Product Description:** The HackerOne Platform is a platform for an improved security coordination process. Security teams use HackerOne to implement their vulnerability disclosure policy and host bug bounty programs. The platform will communicate the procedures of how to discover and report security vulnerabilities in accordance with industry best practices.
 

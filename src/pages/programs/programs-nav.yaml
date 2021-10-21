@@ -9,18 +9,30 @@
       path: /programs/product-offerings.html
     - title: Program Starting Point
       path: /programs/program-starting-point.html
-    - title: Private vs Public Programs
-      path: /programs/private-vs-public-programs.html
-    - title: Parent/Child Programs
-      path: /programs/parent-child-programs.html
-    - title: Password Best Practices
-      path: /programs/passwords.html
+    - title: Program Types
+      path: /programs/program-types.html
+      items:
+        - title: Private vs. Public Programs
+          path: /programs/private-vs-public-programs.html
+        - title: Parent/Child Programs
+          path: /programs/parent-child-programs.html
+        - title: VDP vs. BBP
+          path: /programs/vdp-vs-bbp.html
     - title: Using Markdown
       path: /programs/using-markdown.html
-    - title: Running a Good Prgram
+    - title: Running a Good Program
       path: /programs/good-program.html
+      items:
+        - title: Authenticated Testing
+          path: /programs/authenticated-testing.html
+        - title: Scoping Considerations
+          path: /programs/scoping-considerations.html
+        - title: Traffic Identification
+          path: /programs/traffic-identification.html
 - title: Your Program
   items:
+    - title: Homepage
+      path: /programs/homepage.html
     - title: General Settings
       path: /programs/general-settings.html
     - title: Security Page
@@ -77,8 +89,11 @@
           path: /programs/signal-requirements.html
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal.html
-    - title: Groups and Permissions
-      path: /programs/groups-and-permissions.html
+    - title: User Management
+      path: /programs/user-management.html
+      items:
+      - title: Groups and Permissions
+        path: /programs/groups-and-permissions.html
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
@@ -121,6 +136,8 @@
           path: /programs/report-actions.html
         - title: Report States
           path: /programs/report-states.html
+        - title: Report Components
+          path: /programs/report-components.html
         - title: Quality Reports
           path: /programs/quality-reports.html
         - title: Locking Reports
@@ -142,17 +159,6 @@
           path: /programs/limiting-disclosed-information.html
     - title: Retesting
       path: /programs/retesting.html
-    - title: Automation
-      path: /programs/automation.html
-      items:
-        - title: Common Responses
-          path: /programs/common-responses.html
-        - title: Triggers
-          path: /programs/triggers.html
-        - title: Hackbot
-          path: /programs/hackbot.html
-    - title: Reducing Noise
-      path: /programs/reducing-noise.html
 - title: Integrations
   items:
     - title: Supported Integrations
@@ -165,6 +171,10 @@
       path: /programs/api-tokens.html
     - title: Assembla
       path: /programs/assembla-integration.html
+    - title: AWS Security Hub
+      path: /programs/aws-security-hub-integration.html
+    - title: Azure DevOps
+      path: /programs/azure-devops-integration.html
     - title: Bugzilla
       path: /programs/bugzilla-integration.html
     - title: Freshdesk
@@ -173,35 +183,41 @@
       path: /programs/github-integration.html
     - title: GitLab
       path: /programs/gitlab-integration.html
-    - title: IBM Resilient
-      path: /programs/ibm-resilient.html
+    - title: HackEDU
+      path: /programs/hackedu-integration.html
+    - title: IBM Security SOAR
+      path: /programs/ibm-security-soar.html
     - title: Jira
       path: /programs/jira-integration.html
       items:
-        - title: Jira Cloud Setup
-          path: /programs/jira-cloud-integration.html
-        - title: Jira Server Setup
-          path: /programs/jira-server-integration.html
-        - title: Multiple Integrations
-          path: /programs/multiple-jira-integrations.html
+        - title: Jira Setup
+          path: /programs/jira-setup.html
+        - title: Jira Migration Guide
+          path: /programs/jira-migration-guide.html
         - title: Jira FAQs
           path: /programs/jira-faqs.html
     - title: Kenna Security
       path: /programs/kenna-security.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
+    - title: Microsoft Teams
+      path: /programs/microsoft-teams.html
     - title: OTRS
       path: /programs/otrs-integration.html
     - title: PagerDuty
       path: /programs/pagerduty-integration.html
     - title: Phabricator
       path: /programs/phabricator-integration.html
+    - title: Redmine
+      path: /programs/redmine-integration.html
     - title: ServiceNow
       path: /programs/servicenow-integration.html
     - title: Slack
       path: /programs/slack-integration.html
-    - title: Redmine
-      path: /programs/redmine-integration.html
+    - title: Splunk
+      path: /programs/splunk-integration.html
+    - title: Sumo Logic
+      path: /programs/sumo-logic-integration.html
     - title: Trac
       path: /programs/trac-integration.html
     - title: Zendesk
@@ -221,6 +237,8 @@
     - title: Dashboards
       path: /programs/dashboards.html
       items:
+        - title: Program Overview
+          path: /programs/program-overview.html
         - title: Submissions Dashboard
           path: /programs/submissions-dashboard.html
         - title: Statistics Dashboard
@@ -231,6 +249,8 @@
           path: /programs/explore.html
     - title: Audit Logs
       path: /programs/audit-logs.html
+    - title: Industry Benchmarking
+      path: /programs/industry-benchmarking.html
 - title: Hacker Engagement
   items:
     - title: Hacktivity
@@ -250,8 +270,8 @@
       path: /programs/hacker-reviews.html
     - title: Disclosure Assistance
       path: /programs/disclosure-assistance.html
-    - title: Advanced Vetting
-      path: /programs/advanced-vetting.html
+    - title: HackerOne Clear
+      path: /programs/hackerone-clear.html
     - title: Gateway
       path: /programs/hackerone-vpn.html
       items:
@@ -263,13 +283,34 @@
       path: /programs/pentests.html
     - title: FAQs
       path: /programs/pentest-faqs.html
+    - title: "Retesting Pentest"
+      path: "/programs/retesting-pentest.html"
 - title: Helpful Tools
   items:
+    - title: Automation
+      path: /programs/automation.html
+      items:
+        - title: Common Responses
+          path: /programs/common-responses.html
+        - title: Triggers
+          path: /programs/triggers.html
+        - title: Hackbot
+          path: /programs/hackbot.html
     - title: Email Forwarding
       path: /programs/email-forwarding.html
     - title: Embedded Submission Form
       path: /programs/embedded-submissions-form.html
+    - title: Import Vulnerabilities
+      path: /programs/import-vulnerabilities.html
     - title: IP Allowlists
       path: /programs/ip-allowlists.html
+    - title: Multi-Party Coordination
+      path: /programs/multi-party-coordination.html
+    - title: Password Best Practices
+      path: /programs/passwords.html
+    - title: Proof of Compliance
+      path: /programs/proof-of-compliance.html
     - title: Slack Shared Channels
       path: /programs/slack-shared-channels.html
+    - title: Reducing Noise
+      path: /programs/reducing-noise.html

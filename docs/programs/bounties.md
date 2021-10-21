@@ -23,9 +23,9 @@ To award a bounty:
 1. Go to your inbox and open the report you'd like to award a bounty for.
 2. Expand the action picker at the bottom of the report above the comment box.
 3. Select **Set award**.
-4. Enter the bounty amount you wish to award. You can select one of the pre-calculated median, competitive, and top bounty awards for severity level of the bug.
+4. Enter the bounty amount you wish to award.
 
-![awarding bounties](./images/bountystats.png)
+![awarding bounties](./images/bounties-1.png)
 
 Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
 
@@ -56,7 +56,7 @@ Here are some best practices to follow when awarding bounties:
 
 When hackers submit vulnerabilities to your organization outside of HackerOne, you can leverage the HackerOne API to award hackers for their efforts. To start paying hackers, generate an API token on your Program settings page. Keep in mind that this API endpoint is not for awarding bounties for reports on HackerOne itself, but only for reports that were reported outside of HackerOne.
 
-><i>Note: This option is only available for HackerOne Professional, Enterprise, and Community editions.</i>
+><i>Note: This option is only available for HackerOne Enterprise editions.</i>
 
 To start paying hackers:
 1. Go to **Settings > Program > Automation > API**.
@@ -78,3 +78,9 @@ cURL | Ruby
 After the bounty has been awarded, the hacker will receive an email to claim the bounty. HackerOne will collect the person's tax form before processing the payout. The awarded amount, including your applicable fees, will be deducted from your balance immediately. A resolved dummy report will show up in your Bugs overview, which will help you keep track of the bounties you've paid out.
 
 For technical questions or help with your implementation, please reach out to support@hackerone.com or your HackerOne program manager.
+
+### Bounty Calculator
+
+When your program has a bounty table set up, you will be presented with the bounty calculator when awarding a bounty. The bounty calculator computes the amount according to the table set up for your program, based on the reports’ asset and severity.
+
+![bounty calculator](./images/bounties-2.png)

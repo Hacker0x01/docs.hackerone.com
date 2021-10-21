@@ -28,7 +28,7 @@ To transfer reports between programs:
 1. Go to your inbox and select the report you want to transfer.
 2. Expand the action picker at the bottom of the report above the comment box.
 3. Select <b>Transfer report</b>.
-4. Select the name of the program you want to transfer the report to. <i>A list of programs will populate that you can choose from.</i>
+4. Select the name of the program you want to transfer the report to. (A list of programs will populate that you can choose from.)
 5. Click <b>Transfer report</b>.
 
 The report will be transferred to the selected program.

@@ -6,9 +6,11 @@ id: "programs/slack-integration"
 
 With the Slack integration, your team can stay up to date on HackerOne report activities without needing to leave Slack. Activities such as report triaged, bounty paid, and new comments added will trigger notifications in your selected channel. You can customize which activities you want to be notified about in which channels so that teams can only see what’s relevant to them.
 
-><i>Note: Slack integration is only available to HackerOne Response and HackerOne Bounty Pro (and above) customers. For more details, see product editions. Existing users of the Slack integration will also need to navigate to **Settings > Program > Integrations > Slack** to enable the new settings.</i>
+>This integration is only available to HackerOne Response, HackerOne Bounty Pro/Enterprise, HackerOne Challenge, and HackerOne Pentest customers. For more details please see product editions.
 
-### Set Up Slack Integration
+<i>Existing users of the Slack integration will also need to navigate to **Settings > Program > Integrations > Slack** to enable the new settings.</i>
+
+### Setup  
 To set up your slack integration:
 1. Go to **Program Settings > Program > Integrations**.
 2. Click the **Connect with Slack** link.

@@ -34,6 +34,7 @@ class IndexRoute extends React.Component {
         <div className="article__inner">
           <h1>Changelog</h1>
           <p>See what's changed or new in HackerOne.</p>
+          <p>Stay updated: <a href="/changelog/rss.xml">RSS</a> | <a href="/changelog/atom.xml">Atom</a> | <a href="/changelog/feed.json">JSON Feed</a></p>
           {edges.map((item, index) => {
             return (
               <div className="changelog__wrapper" key={index}>

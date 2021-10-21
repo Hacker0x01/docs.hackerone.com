@@ -4,14 +4,15 @@ path: "/programs/groups-and-permissions.html"
 id: "programs/groups-and-permissions"
 ---
 
-You can have customized groups with different access rights on your program. HackerOne program administrators can set these access rights for groups on your team. All security programs start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.
+You can have customized groups with different access rights on your program. HackerOne Organization administrators can set these access rights for groups on your program. All security programs start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.
 
 ### Adding a New Group
 To add a new group and set access rights:
-1. Go to your program's **Program Settings > General > Group Management**.
-2. Click **Add Group**.
+1. Go to **Organization Settings > User Management > Groups**.
+2. Click **Create Group**.
 3. Write the name of the group in the **Name** field.
-4. Select the permissions you want to enable for the group. You can select from these options:
+4. Select the program to which this group applies
+5. Select the permissions you want to enable for the group. You can select from these options:
 
 Option | Details
 ------ | ------
@@ -22,18 +23,11 @@ Admin | Users in the group can: <ul><li>Add/Remove users</li><li>Edit user permi
 
 ><i>Note: All groups have the ability to view reports and post internal comments by default.</i>
 
-5. Click **Create**.
+5. Click **Add group**.
 
-![user group](./images/user-group.png)
+![user group](./images/user-management-group.png)
 
-To edit your group name and permissions, click **Edit** next to the group you want to edit in **Settings > General > Group Management**.
+To edit your group name and permissions, click **Edit** next to the group you want to edit in **Organization Settings > User Management > Groups**.
 
 ### Adding or Removing Users
-To add or remove users:
-1. Click **Add/Remove users**.
-2. Select the checkbox of the users you want to add to the group.
-3. Deselect the checkboxes of the users you want to remove from the group.
-3. Click **Update**.  
-
-### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/4yQnKcBWIjI?rel=0&autoplay=0&origin={{ site.url }}" frameborder="0"></iframe>
+To add or remove users from a group. See [Updating access for existing users](/programs/user-management.html#updating-access-for-existing-users) for more information.

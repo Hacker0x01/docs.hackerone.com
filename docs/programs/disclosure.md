@@ -38,7 +38,7 @@ Both hackers and program members can request for disclosure. To request for disc
 Option | Details
 ------ | -------
 Full | Upon disclosure, the full contents of the report are visible including the:<li>Vulnerability information</li><li>Summary</li><li>Timeline (this includes comments and attachments)</li><br>*Note: Internal comments are kept hidden.*  
-Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. <br><br>Hackers still have the ability to add a hacker hacker summary to the report unless the report is [locked](locking-reports.html).
+Limited | Only the summary and timeline of the activity are visible. All comments and attachments are hidden. Limited disclosure allows for greater control over sensitive or extraneous information. <br><br>Hackers still have the ability to add a hacker summary to the report unless the report is [locked](locking-reports.html).
 
 5. *(Optional)* Enter a comment to describe your reasons for disclosure.
 

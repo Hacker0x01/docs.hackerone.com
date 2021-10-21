@@ -6,6 +6,10 @@ id: "programs/two-factor-authentication"
 
 Two-factor authentication (2FA) enables you to add an extra layer of protection from getting your account compromised. You can set up two-factor authentication using any device capable of generating Time-based One-Time Password (TOTP) authentication codes (RFC 6238) to log in to your HackerOne account. You can use Google Authenticator or Duo Mobile or any other compatible application to generate the codes.
 
+Two-factor authentication is encouraged but not required on HackerOne. It’s our belief that each step throughout the vulnerability submission process introduces another opportunity for the finder to abandon their disclosure efforts. As a platform, HackerOne prioritizes making it as easy as possible to disclose a vulnerability so it can be safely resolved. Reducing barriers for submission helps ensure more vulnerabilities end up in the hands of those that can fix them. Individual programs can choose to require two-factor authentication for all submissions.
+
+### Set Up
+
 To set up two-factor authentication for your account:
 1. Go your profile’s  **Settings > Authentication**.
 ![2fa-1](./images/2fa-1.png)

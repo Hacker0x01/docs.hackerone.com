@@ -67,6 +67,14 @@ $sidebar-tablet-width: 160px;
   word-break: break-word;
 }
 
+.right_sidebar__link {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .sidebar__link {
   text-decoration: none;
   color: $daisy-eclipse;

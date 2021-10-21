@@ -54,9 +54,7 @@ Markdown Input:
 
 ```
 *This text is italicized*
-_This text is underlined_
 **This text is bold**
-__This text is bold__
 ~~This text is deleted~~
 ==This text is highlighted==
 ```
@@ -107,6 +105,14 @@ Markdown Input:
 3. Blue
 ```
 
+and this:
+
+```
+1. Red
+1. Green
+1. Blue
+```
+
 Output:
 
 ![ordered list](./images/markdown-numbered-list.png)
@@ -138,12 +144,6 @@ Output:
 
 ![link](./images/markdown-link-3.png)
 
-Optionally, you may include a title attribute in the parentheses. Hover on the link to see the title:
-```
-This is an [example link](http://example.com/ "With a Title").
-```
-This is an [example link](http://example.com/ "With a Title").
-
 Reference-style links allow you to refer to your links by names, which you define elsewhere in your document:
 
 Markdown Input:
@@ -152,16 +152,16 @@ Markdown Input:
 I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].
 
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+[1]: http://google.com/
+[2]: http://search.yahoo.com/
+[3]: http://search.msn.com/
 ```
 
 Output:
 
 ![multiple links](./images/markdown-links-2.png)
 
-The title attribute is optional. Link names may contain letters, numbers and spaces, but are not case sensitive.
+Link names may contain letters, numbers and spaces, but are not case sensitive:
 
 Markdown Input:
 
@@ -175,6 +175,26 @@ I start my morning with a cup of coffee and
 Output:
 
 ![ny times link](./images/markdown-links.png)
+
+<br>
+
+Links to section headings can be made as well. Every heading will get an ID based on the heading content and will be prefixed with `user-content-`. A link can be made to a heading using the following markdown:
+
+```
+# Table of contents
+* [Introduction](#user-content-introduction)
+* [Another section](#user-content-another-section)
+* [Credits](#user-content-credits)
+
+# Introduction
+Text would go here.
+
+# Another section
+Some more text would go here.
+
+# Credits
+And the credits would go here.
+```
 
 #### Email Links
 You don't need to use markdown to create a `mailto:` link. Simply enter the email as is and it will automatically be converted to a `mailto:` link.
@@ -207,16 +227,11 @@ To use syntax highlighting, specify the content type after the three opening bac
 
 Markdown Input:
 
-```
-```javascript
-document.location = 'https://hackerone.com';
-```
+![markdown code syntax](./images/markdown-code-syntax-input.png)
 
 Output:
 
 ![markdown code syntax](./images/markdown-code-syntax.png)
-
-Go to the following web page to see which content types are available for syntax highlighting: https://github.com/jneen/rouge/tree/master/lib/rouge/demos.
 
 ### User mentions
 You can mention a user by prefixing username with '@' symbol
@@ -224,7 +239,7 @@ You can mention a user by prefixing username with '@' symbol
 Markdown Input:
 
 ```
-@demo-member reported the issue
+@demo-member reported the issue.
 ```
 
 Output:
@@ -234,13 +249,30 @@ Output:
 
 <br>
 
-### Report references
+### Report reference
 
 You can reference a report by prefixing report id with '#' symbol
 ```
-#105887 is a publicly disclosed bug
+#105887 is a publicly disclosed bug.
 ```
-[#105887](https://hackerone.com/reports/105887) is a publicly disclosed bug
+
+Output:
+
+![markdown report reference](./images/markdown-report-reference.png)
+
+<br>
+
+### Auto-linked references
+
+CVE IDs, CWE IDs, and CAPEC IDs are automatically linked to MITRE:
+
+```
+CVE-2011-0242 could perhaps be categorized as CWE-79 of CAPEC-63.
+```
+
+Output:
+
+![autolinking references to MITRE](./images/markdown-auto-link-mitre.png)
 
 ### Attachment references
 
@@ -252,18 +284,14 @@ Example: Consider a user is creating a report and uploads an attachment. Once th
 Now you can reference the attachment in the report by writing 'F1' and the attachment is referenced in the report as shown below.
 ![markdown-2](./images/markdown-2.png)
 
-When the link is clicked, the attachment is displayed in the modal.
-![markdown-3](./images/markdown-3.png)
+### Inline images and video
 
-### Inline images and videos
+You can inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}).
 
-You can insert inline images and videos in the report description, comments and report summary by writing the attachment reference id within curly braces (as in {F:id}).
-
-Example: For the above attachment, the markdown
-
+Example: For the above attachment, the markdown:
 
 ```
- Here is an inlined image of an apple {F1}
+{F1}
 ```
 
 will render the following:

@@ -8,7 +8,7 @@ The PagerDuty integration enables incidents to be created each time a new (high 
 
 > **Note:** The PagerDuty integration is only available for Enterprise programs.
 
-### Set up
+### Setup
 
 To set up the integration between PagerDuty and each time a high or critical report is created on HackerOne:
 

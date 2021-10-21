@@ -1,25 +1,29 @@
 ---
-title: "Advanced Vetting"
-path: "/programs/advanced-vetting.html"
-id: "programs/advanced-vetting"
+title: "HackerOne Clear"
+path: "/programs/hackerone-clear.html"
+id: "programs/hackerone-clear"
 ---
 
-Advanced Vetting enables your program to have access to an exclusive community of background-checked finders. Background checked finders are active, high performing members of the HackerOne community that have satisfied strict background checks. Having these finders participate in your program ensures that trusted finders are partnered with you in finding vulnerabilities.
+HackerOne Clear enables your program to have access to an exclusive community of background-checked finders. Background-checked finders are active, high performing members of the HackerOne community that have satisfied strict background checks. Having these finders participate in your program ensures that trusted finders are partnered with you in finding vulnerabilities.
 
-> **Note:** Advanced Vetting is available as an add-on. To opt-in to Advanced Vetting, contact your account manager.
+> **Note:** HackerOne Clear is available as an add-on. To opt-in to Clear, contact your account manager.
 
-To access your Advanced Vetting settings:
-1. Go to: **Program > Hacker Management > Advanced Vetting**.
-2. Click **View the full list of clear finders that have been invited to your program** to see which invited finders are Clear verified. Clear verified finders will be marked with this icon:
+To access your HackerOne Clear settings:
+1. Go to: **Program Settings > Program > Hacker Management > Clear**.
+2. Click **View the full list of Clear finders that have been invited to your program** to see which invited finders are Clear verified. Clear verified finders will be marked with this icon:
 
-![advanced vetting icon](./images/advanced-vetting-2.png)
+![Clear icon](./images/advanced-vetting-2.png)
 
-Clear verified finders are invited to your program through the [invitation](https://docs.hackerone.com/programs/invitations.html) process in which invites are geared specifically toward background checked finders.
+Clear verified finders are invited to your program through the [invitation](https://docs.hackerone.com/programs/invitations.html) process in which invites are geared specifically toward background-checked finders.
 
-![Advanced Vetting hacker section in the UI](./images/advanced-vetting-1.png)
+![HackerOne Clear hacker section in the UI](./images/hackerone_clear_apr_2021.png)
+
+Members in your program, as well as the invited Clear finders to your program, will be invited to join a group Slack channel together so that you can better communicate while using Slack. *(The shared Slack channel is currently in beta. If you'd like to take part in the beta, please reach out to your program manager)*.
+
+We recommend all Clear programs to set your [bounty tables](bounty-tables.html) so that the minimum for a high vulnerability is $2000 and $5000 for a critical.
 
 ### How background checks work
-HackerOne partners with Sterling Talent Solutions to conduct all global background checks. For all countries, the maximum criminal background check allowed by law is performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
+HackerOne partners with First Advantage to conduct all global background checks and Berbix for ID verification. For all countries, the maximum criminal background check allowed by law is performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
 
 For finders based in the United States, these investigations are performed:
 
@@ -34,7 +38,7 @@ Sex Offender Records Check | Searches the US Department of Justice Sex Offender 
 Office of Foreign Assets Control (OFAC) Watchlist Check | Searches the U.S. Treasury Department watchlist to identify potential threats to national security.
 
 ### Digital Customizable Agreements
-As finders invited to your program will have to review and sign an agreement before joining your program, with Advanced Vetting, you can also opt-in to manage your digital custom agreements and view which finders have accepted your terms.
+As finders invited to your program will have to review and sign an agreement before joining your program, with Clear, you can also opt-in to manage your digital custom agreements and view which finders have accepted your terms.
 
 To manage your Digital Customizable Agreements:
 1. Click **View document** to view your Digital Custom Agreement.

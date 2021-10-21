@@ -4,11 +4,11 @@ path: "/programs/kenna-security.html"
 id: "programs/kenna-security"
 ---
 
-You can import HackerOne reports into the Kenna Security platform using the integration built between HackerOne and Kenna Security. This integration uses the HackerOne API, and you'll need to create a HackerOne API token to get started. 
+You can import HackerOne reports into the Kenna Security platform using the integration built between HackerOne and Kenna Security. This integration uses the HackerOne API, and you'll need to create a HackerOne API token to get started.
 
 > **Note:** This integration is built and maintained by Kenna Security. For questions please reach out to support@kennasecurity.com.
 
-### Set up
+### Setup
 
 To set up the HackerOne connector on the Kenna Security platform:
 1. [Create an API token]( https://docs.hackerone.com/programs/api-tokens.html) on HackerOne.
