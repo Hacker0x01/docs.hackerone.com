@@ -7,7 +7,7 @@ id: "programs/dashboards"
 The Program Dashboard provides information on various metrics for your program. This helps you track the progress of your program and it also gives you a detailed summary and understanding of your program status.
 
 HackerOne provides dashboards on these pages:
-* [Submissions](/programs/submissions-dashboard.html)
+* [Submissions](/programs/submissions-bounty-dashboard.html)
 * [Statistics](/programs/statistics-dashboard.html)
 * Response Efficiency
 * [Hacker Feedback](hacker-feedback-dashboard.html)
