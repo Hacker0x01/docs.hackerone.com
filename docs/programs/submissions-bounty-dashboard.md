@@ -25,7 +25,7 @@ The Submissions & Bounty section shows the amount of valid submissions and the t
 
 ![Submissions and bounty](.images/submission-bounty-dashboard-3.png)
 
-### severity
+### Severity
 The Severity section shows how reports and bounties are distributed by severity. You can view trends on how many valid reports are submitted and paid bounty per severity.
 
 ![severity](.images/submission-bounty-dashboard-4.png)
@@ -62,9 +62,12 @@ Segments allow you to save filtering and date selections that you need to look a
 
 1. Click **Add Segment**
 ![add segment](.images/submission-bounty-dashboard-9.png)
+
 2. Apply desired filters
 ![add filters](.images/submission-bounty-dashboard-10.png)
+
 3. Click Save as Segment
+
 4. When you log in, click the segment tab
 ![select segment](.images/submission-bounty-dashboard-11.png)
 
