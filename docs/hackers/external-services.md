@@ -1,8 +1,10 @@
 ---
-title: "Connect to Hack The Box Academy"
-path: "/hackers/hack-the-box.html"
-id: "hackers/hack-the-box"
+title: "Connect to External Services"
+path: "/hackers/external-services.html"
+id: "hackers/external-services"
 ---
+
+# Hack The Box
 
 You can connect your Hack the Box Academy account to HackerOne on the [External Services profile settings page](http://hackerone.com/settings/external_services/edit)
 using your Hack the Box Academy **Student ID**:
