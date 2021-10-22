@@ -1,4 +1,4 @@
----
+-LamarisSmiley/docs.hackerone.com--
 title: "Signal Requirements"
 path: "/programs/signal-requirements.html"
 id: "programs/signal-requirements"
