@@ -37,6 +37,11 @@
           path: /hackers/external-payments.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
+    - title: External Services
+      path: /hackers/external-services.html
+      items:
+        - title: Hack The Box
+          path: /hackers/hack-the-box.html
     - title: Following
       path: /hackers/following.html
     - title: Notifications
