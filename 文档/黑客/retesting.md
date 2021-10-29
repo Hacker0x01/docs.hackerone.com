@@ -2,7 +2,7 @@
 title: "Retesting"
 path: "/hackers/retesting.html"
 id: "hackers/retesting"
----
+--- 
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting enables programs to ask hackers to verify whether a vulnerability has been fixed in order to secure the protection of their data. If you submit a valid vulnerability report, programs can elect to invite you to retest the vulnerability to verify the fixes.
 
