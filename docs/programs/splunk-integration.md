@@ -47,7 +47,7 @@ You can configure a Splunk integration to log events from HackerOne in Splunk. T
 
 Once you've successfully added the intergration, you'll be able to retrieve data from HackerOne in your Splunk instance.
 
-### Constructing the Even Collector URL
+### Constructing the Event Collector URL
 
 - The standard form for the HEC URI in Splunk Cloud free trials is as follows:
 `<protocol>://inputs.<host>:<port>/<endpoint>`
