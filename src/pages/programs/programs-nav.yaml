@@ -239,8 +239,8 @@
       items:
         - title: Program Overview
           path: /programs/program-overview.html
-        - title: Submissions Dashboard
-          path: /programs/submissions-dashboard.html
+        - title: Submissions & Bounty Dashboard
+          path: /programs/submissions-bounty-dashboard.html
         - title: Statistics Dashboard
           path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
