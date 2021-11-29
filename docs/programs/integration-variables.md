@@ -11,7 +11,8 @@ Variable | Details |
 `{{cvss_score}}` | The CVSS severity score of the report. |
 `{{cvss_vector}}` | The CVSS vector string of the report. |
 `{{days_after_report(days)}}` | Provides a date based on the report creation date and the provided argument. `{{days_after_report(5)}}` will output a date 5 days after the report was created. |
-`{{details_custom_jira}}` | The link, date, reporter, weakness, and description of the vulnerability in the report. These are written in a markdown format customized for Jira. |
+`{{details_custom_jira}}` | The link, date, reporter, weakness, comments and description of the vulnerability in the report. These are written in a markdown format customized for Jira. |
+`{{details_jira}}`  | The link, date, reporter, weakness, and description of the vulnerability in the report. These are written in a markdown format customized for Jira. |
 `{{details_markdown}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in markdown format. |
 `{{details_truncated}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in plain text format.  These details are truncated at 4,000 characters.
 `{{details}}` | The link, date, reporter, weakness, and description of the vulnerability in the report in plain text format. |
