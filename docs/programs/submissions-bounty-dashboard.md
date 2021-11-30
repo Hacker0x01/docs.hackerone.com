@@ -23,7 +23,7 @@ Reports Awarded | The number of reports that received an award during the select
 ### Submissions & Bounty
 The Submissions & Bounty section shows the amount of valid submissions and the total bounty paid out during the selected time period.
 
-![Submissions and bounty](/submission-bounty-dashboard-3.png)
+![Submissions and bounty](./images/submission-bounty-dashboard-3.png)
 
 ### Severity
 The Severity section shows how reports and bounties are distributed by severity. You can view trends on how many valid reports are submitted and paid bounty per severity.
