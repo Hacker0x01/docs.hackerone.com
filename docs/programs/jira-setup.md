@@ -77,8 +77,8 @@ Ee69GuatJo5veIMeDwIDAQAB
 
 ![jira-setup-10](./images/jira-setup-10.png)
 
-15. Select the HackerOne fields you want to map to the corresponding Jira fields. As alternative, enter any text using [integration variables](/programs/integration-variables.html). Click **Next**. 
-    
+15. Select the HackerOne fields you want to map to the corresponding Jira fields. As alternative, enter any text using [integration variables](/programs/integration-variables.html). Click **Next**.
+
 *Note: only [supported Jira field types](/programs/jira-faqs.html) are shown.*
 
 ![jira-setup-12](./images/jira-setup-12.png)
@@ -113,7 +113,11 @@ Comment added | Post an internal comment when someone comments on an issue.
 
 ![jira-setup-13](./images/jira-setup-13.png)
 
-19. Click **Finish**. Once the screen disappears, click **Enable** to enable the integration.
+19. (Optional) Once you complete this integration, a Jira webhook will be automatically created in your Jira instance. If there is no webhook created, you can use this Webhook URL to create a webhook manually with the Issue Updated and Comment Created events.
+![jira-setup-15](./images/jira-setup-15.png)
+
+
+20. Click **Finish**. Once the screen disappears, click **Enable** to enable the integration.
 
 ![jira-setup-14](./images/jira-setup-14.png)
 
@@ -123,7 +127,7 @@ You're all set! Now that you've finished setting up the Jira integration, you ca
 
 If you have multiple HackerOne programs, you can integrate them to the same Jira instance. Follow steps 11-19 for each subsequent program you need to add an integration for.
 
-*Note: You only need to follow steps 11-19 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
+*Note: You only need to follow steps 11-20 for your other programs because the application link has already been created when integrating with your first program, and only 1 application link is needed to set up a Jira integration.*
 
 ### Multiple Jira instances per program
 This feature is available for **Enterprise programs only**. If you want to integrate the same program to multiple Jira instances, you can follow all the steps above for each integration.
