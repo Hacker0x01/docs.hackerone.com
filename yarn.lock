@@ -5640,6 +5640,15 @@ gatsby-link@^3.14.0:
     "@types/reach__router" "^1.3.9"
     prop-types "^15.7.2"
 
+gatsby-link@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-4.3.0.tgz#ddaab81e393f40e65cbd37a6573a77c7cc826cf8"
+  integrity sha512-aYwFQUAajWQbv9F5XsN/NiBk03RGQvXQ5TG6cqFejQv0sn6LUAhPtr4f5dSW3Yh9dZLcLLicYAXa65HcQOkBVw==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+    "@types/reach__router" "^1.3.9"
+    prop-types "^15.7.2"
+
 gatsby-page-utils@^1.14.0:
   version "1.14.0"
   resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-1.14.0.tgz#c7363cf20d43c3d32d5293a5cd1bf9e6be501b09"
