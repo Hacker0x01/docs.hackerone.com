@@ -21,7 +21,11 @@ To require hackers to have two-factor authentication enabled before submitting r
 
 ![submission](./images/submission-2a.png)
 
+#### For Public Programs
 Hackers that have already submitted past reports before 2FA was required will still be able to access and comment on those reports. They, however, won't be able to submit any new reports to your program without enabling 2FA.
+
+#### For Private Programs
+Hackers will be required to have 2FA enabled to participate and submit reports to a private program. Once you turn this feature for a private program all hackers without 2FA will be removed from the program and immediately sent an invitation back to the program. Those hackers and future hackers won't be able to accept the invitation until they have 2FA enabled.
 
 ### Enabling Bounty Splitting
 [Bounty splitting](/hackers/payments.html#bounty-splitting) enables hackers to split the bounty with other hackers that helped collaborate on a report. This enables each hacker to be rewarded for their findings on the report.  
