@@ -159,6 +159,8 @@
           path: /programs/limiting-disclosed-information.html
     - title: Retesting
       path: /programs/retesting.html
+    - title: Vacations
+      path: /programs/vacations.md
 - title: Integrations
   items:
     - title: Supported Integrations
