@@ -28,6 +28,7 @@ Variable | Details |
 `{{reporter_name}}` | The name of the hacker that reported the vulnerability. This will fall back to the username if the hacker didn't provide their name. |
 `{{reporter_username}}` | The username of the hacker that reported the vulnerability. |
 `{{severity_rating}}` | The severity rating of the report. Possible values: `none`, `low`, `medium`, `high`, and `critical`. |
+`{{severity_rating_capitalized}}` | The capitalized severity rating of the report. Possible values: `None`, `Low`, `Medium`, `High`, and `Critical`. |
 `{{submission_date_custom_format}}` | The date the report was created in `DD-MM-YYYY` format. |
 `{{submission_date_y_m_d}}` | The date the report was created in `YYYY-MM-DD` format. |
 `{{submission_date}}` | The date the report was created in `DD/MM/YYYY` format. |
