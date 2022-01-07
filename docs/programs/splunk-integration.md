@@ -73,3 +73,56 @@ Once you've successfully added the intergration, you'll be able to retrieve data
 - `8088` on Splunk Cloud free trials
 - `443` by default on Splunk Cloud instances
 - `<endpoint>` is the HEC endpoint you want to use. In many cases, you use the `/services/collector` endpoint for JavaScript Object Notation (JSON)-formatted events or the `services/collector/raw` endpoint for raw events
+
+### Example event
+Below you can find an example of an event that gets pushed from HackerOne to Splunk.
+
+```
+{
+  "data": {
+    "id": "1337",
+    "type": "activity-comment",
+    "attributes": {
+      "message": "Comment!",
+      "created_at": "2016-02-02T04:05:06.000Z",
+      "updated_at": "2016-02-02T04:05:06.000Z",
+      "internal": false
+    },
+    "relationships": {
+      "actor": {
+        "data": {
+          "id": "1337",
+          "type": "user",
+          "attributes": {
+            "username": "api-example",
+            "name": "API Example",
+            "disabled": false,
+            "created_at": "2016-02-02T04:05:06.000Z",
+            "profile_picture": {
+              "62x62": "/assets/avatars/default.png",
+              "82x82": "/assets/avatars/default.png",
+              "110x110": "/assets/avatars/default.png",
+              "260x260": "/assets/avatars/default.png"
+            }
+          }
+        }
+      },
+      "attachments": {
+        "data": [
+          {
+            "id": "1337",
+            "type": "attachment",
+            "attributes": {
+              "expiring_url": "/system/attachments/files/000/001/337/original/root.rb?1454385906",
+              "created_at": "2016-02-02T04:05:06.000Z",
+              "file_name": "root.rb",
+              "content_type": "text/x-ruby",
+              "file_size": 2871
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```
