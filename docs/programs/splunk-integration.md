@@ -4,7 +4,13 @@ path: "/programs/splunk-integration.html"
 id: "programs/splunk-integration"
 ---
 
-You can configure a Splunk integration to log events from HackerOne in Splunk. The Splunk integration enables data to be logged based on the configured event trigger. This integration is flexible and can be used to log data for any of the events listed.
+You can configure a Splunk integration to log events from HackerOne in Splunk. The Splunk integration enables data to be logged based on the configured event trigger. This integration is flexible and can be used to log data for any of the following events:
+- Report submissions
+- Report state changes (triaged, retesting, resolved, etc.)
+- Report assigned
+- Report comments
+- Report disclosures
+- Report rewards
 
 > This integration is only available to Enterprise programs.
 
