@@ -1,0 +1,29 @@
+---
+title: "Brinqa Integration"
+path: "/programs/brinqa-integration.html"
+id: "programs/brinqa-integration"
+---
+
+With the Brinqa web URL integration, you can push all of your HackerOne submissions to Brinqa so that you can track all of your vulnerability reports on Brinqa.
+
+The HackerOne connector requires an API ID and API Key to authenticate. Directions for creating these can be found here(/programs/api-tokens.html).
+
+Once you have created your API ID and API Key, you can begin setting up the integration with Brinqa.
+
+Within Brinqa, navigate to the data sources and create a new connector by selecting the HackerOne connector.
+
+### How the Integration Works
+After your Brinqa integration has been set up:
+1. Change the action picker to **Change state > Triaged** in your report.
+
+![Integrations](./images/add-integration-reference.png)
+
+2. Click **Add reference to issue tracker**.
+3. Make sure your Brinqa integration is selected.
+
+![Integration](./images/issue-tracker-reference.png)
+
+4. Click **Generate escalation**. You’ll be taken to your Brinqa account where the report is pre-populated.
+5. Submit the issue to create the report in Brinqa.
+6. Copy the Brinqa report issue number and paste it in the **Reference ID** field back in the HackerOne.
+7. Click **Create** to create a direct reference link to the issue in Brinqa.
