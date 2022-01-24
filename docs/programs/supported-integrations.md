@@ -26,6 +26,12 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Azure DevOps</div>
   </a>
+  <a class="integration-button" href="brinqa-integration.html">
+    <div class="logo">
+      <img src="./images/brinqa-logo.png" />
+    </div>
+    <div class="logo-text">Brinqa Integration</div>
+  </a>
   <a class="integration-button" href="bugzilla-integration.html">
     <div class="logo">
       <img src="./images/bugzilla_logo.png" />
