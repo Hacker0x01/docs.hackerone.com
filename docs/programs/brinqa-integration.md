@@ -4,7 +4,7 @@ path: "/programs/brinqa-integration.html"
 id: "programs/brinqa-integration"
 ---
 
-With the Brinqa web URL integration, you can push all of your HackerOne submissions to Brinqa so that you can track all of your vulnerability reports on Brinqa.
+With the Brinqa integration, you can push all of your HackerOne submissions to Brinqa so that you can track all of your vulnerability reports on Brinqa.
 
 The HackerOne connector requires an API ID and API Key to authenticate. Directions for creating these can be found [here](/programs/api-tokens.html).
 
