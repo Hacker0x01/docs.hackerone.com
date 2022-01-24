@@ -177,6 +177,8 @@
       path: /programs/aws-security-hub-integration.html
     - title: Azure DevOps
       path: /programs/azure-devops-integration.html
+    - title: Brinqa
+      path: /programs/brinqa-integration.html
     - title: Bugzilla
       path: /programs/bugzilla-integration.html
     - title: Freshdesk
