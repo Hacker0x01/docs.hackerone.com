@@ -32,15 +32,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Brinqa Integration</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="bugzilla-integration.html">
     <div class="logo">
       <img src="./images/bugzilla_logo.png" />
     </div>
     <div class="logo-text">Bugzilla</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="freshdesk-integration.html">
     <div class="logo">
       <img src="./images/freshdesk_logo.png" />
@@ -59,15 +59,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">GitLab</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="hackedu-integration.html">
     <div class="logo">
       <img src="./images/hackedu_logo.png" />
     </div>
     <div class="logo-text">HackEDU</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="ibm-security-soar.html">
     <div class="logo">
       <img src="./images/ibm_resilient_logo.png" />
@@ -86,15 +86,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">JupiterOne</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="kenna-security.html">
     <div class="logo">
       <img src="./images/kenna-logo.png" />
     </div>
     <div class="logo-text">Kenna Security</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="mantisbt-integration.html">
     <div class="logo">
       <img src="./images/mantisbt-logo.png" />
@@ -113,15 +113,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">OTRS</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="pagerduty-integration.html">
     <div class="logo">
       <img src="./images/pagerduty_logo.png" />
     </div>
     <div class="logo-text">PagerDuty</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="phabricator-integration.html">
     <div class="logo">
       <img src="./images/phabricator_logo.png" />
@@ -140,15 +140,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">ServiceNow</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="slack-integration.html">
     <div class="logo">
       <img src="./images/slack_logo.png" />
     </div>
     <div class="logo-text">Slack</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="splunk-integration.html">
     <div class="logo">
       <img src="./images/splunk_logo.png" />
@@ -167,13 +167,18 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Trac</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
     </div>
     <div class="logo-text">Zendesk</div>
   </a>
-</div><br>
+</div>
+
+<br>
 
 Don't see your issue tracker listed here? [Let us know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
 
