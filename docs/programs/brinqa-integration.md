@@ -17,11 +17,12 @@ Once you have created your API ID and API Key, you can begin setting up the inte
 5. Click Update
 ![Connector Properties](./images/brinqa-connector-properties.png)
 
+
 Once you have the connection set up, you can begin configuring any custom data mapping you would like to have. HackerOne data will be synced to Brinqa’s “Activity Report” by default. Use the Attribute Mappings table to add or remove attributes from the Brinqa mapping.
-![Attribute Mapping](./images/brinqa/attribute-mapping.png)
+![Attribute Mapping](./images/brinqa-attribute-mapping.png)
 
 You can also set up a sync schedule and choose which data will apply.
-![Sync Schedule](./images/brinqa/sync-schedule.png)
+![Sync Schedule](./images/brinqa-sync-schedule.png)
 
 Within Brinqa, navigate to the data sources and create a new connector by selecting the HackerOne connector.
 
