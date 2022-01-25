@@ -26,19 +26,4 @@ You can also set up a sync schedule and choose which data will apply.
 Within Brinqa, navigate to the data sources and create a new connector by selecting the HackerOne connector.
 
 ### How the Integration Works
-After your Brinqa integration has been set up:
-1. Change the action picker to **Change state > Triaged** in your report.
-
-![Integrations](./images/add-integration-reference.png)
-
-2. Click **Add reference to issue tracker**.
-3. Make sure your Brinqa integration is selected.
-
-![Integration](./images/issue-tracker-reference.png)
-
-4. Click **Generate escalation**. You’ll be taken to your Brinqa account where the report is pre-populated.
-5. Submit the issue to create the report in Brinqa.
-6. Copy the Brinqa report issue number and paste it in the **Reference ID** field back in the HackerOne.
-7. Click **Create** to create a direct reference link to the issue in Brinqa.
-
 Once you’ve set up the HackerOne connector and configured the integration, data will be automatically pulled from HackerOne using the schedule you configured. All reports in the New and Triaged states will be imported in the Brinqa platform as open issues. This integration will not push any updates made in the Brinqa platform back to HackerOne. When you delete the connector, all data imported by the connector will also be deleted.
