@@ -15,3 +15,4 @@ To help you get started, take a look at these docs:
 </button>
 
 >See something that can be improved on the docs site? [Make a suggestion](/programs/edit-the-doc-site.html)!
+🎉
