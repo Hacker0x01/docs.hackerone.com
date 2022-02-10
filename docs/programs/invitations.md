@@ -33,6 +33,9 @@ To set your invitations:
 3. Click **Save**.
 
 ### Manually Inviting Hackers
+
+><i>Note: Manual invitations are only applicable for BBPs.</i>
+
 Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:
 1. Go to **Program Settings > Program > Hacker Management > Invitations**.
 2. Select how you want to invite the hacker in the sentence that starts with **Manually invite a hacker by**. You can choose to invite a hacker by selecting either:
