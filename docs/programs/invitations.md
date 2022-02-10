@@ -48,3 +48,14 @@ HackerOne doesn’t recommend inviting unknown hackers. If a hacker has reached 
 You can keep track of your invitations and which hackers have been invited to your program.
 * The **Invited Hackers** section lists all of the hackers that have accepted invitations. You can select Remove next to the hacker you want to remove from your program.
 * In the **Pending Invitations** section, you can cancel pending invitations.
+* Download your invitation status to CSV from the **Program Invites Card** on Program Overview page. The CSV will have the following columns:
+  * Username
+  * Invite Sent At
+  * Invite Accepted At
+  * Invite Rejected At
+  * Invite Expires At
+  * Signal
+  * Reputation
+  * Program Reputation
+  * Impact
+![invitation download](./images/invitation-csv-download.png)
