@@ -34,7 +34,7 @@ To set your invitations:
 
 ### Manually Inviting Hackers
 
-><i>Note: Manual invitations are only applicable for Bug Bounty Programss.</i>
+><i>Note: Manual invitations are only applicable for Bug Bounty Programs.</i>
 
 Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:
 1. Go to **Program Settings > Program > Hacker Management > Invitations**.
