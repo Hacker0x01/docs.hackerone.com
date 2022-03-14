@@ -4,22 +4,17 @@ path: "/programs/parent-child-programs.html"
 id: "programs/parent-child-programs"
 ---
 
-There are various programs on HackerOne that are associated with a larger organization. Such programs are referred to as parent/child programs, where the parent program is the primary account, and any subsequent child is a subordinate program that is linked to the parent. For instance, an organization (the parent) could be comprised of multiple different companies (the children), each with their own HackerOne program that has their own budget and management. Or, they can also be organizations that have set up multiple programs for each of their products.
+There are various programs on HackerOne that are associated with a larger organization. Such programs are referred to as parent/child programs, where the parent program is the primary account, and any subsequent child is a subordinate program that is linked to the parent.
 
-Child programs still function as their own program in which they still need to:
-* Set their own program settings
-* Invite their own hackers
-* Manage their own reports
-
-However, parent/child programs are still able to function and work together by:
+Child programs are subsidiaries of their parent programs. They are able to function together by:
 * Sharing a bounty pool
 * Transferring reports between programs
+* Reporting to the same cyber security team
 
 ### Sharing a Bounty Pool
 Parent/child programs have the option to share a bounty pool so that the main organization doesn’t need to allocate specific dollar amounts for each program, but rather, they can pull their funds from a master pool. This will prevent programs from being blocked in having to contact HackerOne to manually transfer funds between programs. Programs can opt-in to this feature if they’re using the prepayment method to pay bounties.
 
 When you opt-in to this feature, the parent program is able to keep track of the total amount of funds used from each child program so that they don’t need to access each account separately.
-![parent-child-programs-1](./images/parent-child-programs-1.png)
 
 ### Transferring Reports between Parent/Child Programs
 Parent programs can transfer reports to child programs and vice versa. As the report is transferred from one program to another, it appears in the transferred program’s inbox with an activity log about the transfer.  
