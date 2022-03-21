@@ -160,7 +160,7 @@
     - title: Retesting
       path: /programs/retesting.html
     - title: Vacations
-      path: /programs/vacations.md
+      path: /programs/vacations.html
 - title: Integrations
   items:
     - title: Supported Integrations
