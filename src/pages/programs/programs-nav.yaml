@@ -129,6 +129,8 @@
       items:
         - title: Inbox Views
           path: /programs/inbox-views.html
+        - title: "Custom Inboxes"
+          path: "/programs/custom-inboxes.html"
     - title: Report Management
       path: /programs/report-management.html
       items:
