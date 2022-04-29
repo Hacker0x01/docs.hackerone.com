@@ -68,7 +68,7 @@ You can remove an inbox in two ways:
     * Click the trash can - A popup will appear asking if you are sure
   ![Remove inbox button](./images/custom-inboxes-10.png)
 
-2. From the Inbox profile page (see [Modifying a Custom Inbox](### Modifying a Custom Inbox))
+2. From the Inbox profile page (see [Modifying a Custom Inbox](###Modifying-a-Custom-Inbox))
 
 ### Used All Allocated Inboxes
 
