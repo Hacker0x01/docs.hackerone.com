@@ -29,10 +29,19 @@
           path: /programs/scoping-considerations.html
         - title: Traffic Identification
           path: /programs/traffic-identification.html
-- title: Your Program
+- title: Your Organization
   items:
     - title: Homepage
       path: /programs/homepage.html
+    - title: "Organization Profile"
+      path: "/programs/organization-profile.html"
+    - title: User Management
+      path: /programs/user-management.html
+      items:
+        - title: Groups and Permissions
+          path: /programs/groups-and-permissions.html
+- title: Your Program
+  items:
     - title: General Settings
       path: /programs/general-settings.html
     - title: Security Page
@@ -89,11 +98,6 @@
           path: /programs/signal-requirements.html
         - title: Human-Augmented Signal
           path: /programs/human-augmented-signal.html
-    - title: User Management
-      path: /programs/user-management.html
-      items:
-      - title: Groups and Permissions
-        path: /programs/groups-and-permissions.html
     - title: Single Sign-On via SAML
       path: /programs/single-sign-on-sso-via-saml.html
       items:
