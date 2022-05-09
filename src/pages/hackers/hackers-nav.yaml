@@ -22,6 +22,8 @@
           path: /hackers/signal-and-impact.html
     - title: Hacker Dashboard
       path: /hackers/hacker-dashboard.html
+    - title: "Opportunity Discovery"
+      path: "/hackers/opportunity-discovery.html"
     - title: Badges
       path: /hackers/badges.html
     - title: Thanks
