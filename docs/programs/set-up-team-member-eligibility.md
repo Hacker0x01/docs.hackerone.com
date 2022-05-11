@@ -12,3 +12,5 @@ user and also to ensure those who are accepting the invitaiton will accept with 
 To set this up, visit the Authentication page under your program settings.
 
 ![team-member-eligibility](./images/team-member-eligibility.png)
+
+><i>Note: When enabling SSO with SAML, eligibility will automatically be enabled with your SSO damains</i>.
