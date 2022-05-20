@@ -35,4 +35,4 @@ Instead of using the CVSS calculator, hackers can simply choose an estimated sev
 
 If your program has a custom methodology for determining severity, it's best to describe it on your Security Page.
 
-You can read more details about CVSS [here](https://www.first.org/cvss/user-guide) or check out our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss).  
+You can read more details about CVSS [here](https://www.first.org/cvss/user-guide) or check out our [blog post](https://www.hackerone.com/vulnerability-management/common-vulnerability-scoring-system-cvss-complete-explanation).  
