@@ -22,7 +22,7 @@ When you navigate to the credentials area, you will see an option to first downl
 
 
 Asset ID | Asset | Assigned To | Username | Password
------- | -------
+-------- | ----- | ----------- | -------- | --------
 1 | https://hackerone.com | hacker-john | John | john123
 2 | https://api.hackerone.com |  | Jacob | jingleheimer123
 3 | https://hackerone-attachments.s3.amazonaws.com/ |  | Schmidt | johnjacob2
@@ -32,8 +32,9 @@ Asset ID | Asset | Assigned To | Username | Password
 Each hacker is allowed to claim one credential. If a hacker needs two logins, such as a regular account and an admin account, then both of those usernames and passwords can be put into the same credential for that hacker to claim. See examples below.
 
 Table appearance:
+
 Asset ID | Asset | Assigned To | Username | Password | Username2 | Password2
------- | -------
+-------- | ----- | ----------- | -------- | -------- | --------- | ---------
 1 | https://hackerone.com | hacker-john | John | john123 | JohnAdmin | johnadmin123
 2 | https://api.hackerone.com | jacob-123 | Jacob | jingleheimer123 | JacobAdmin | schmidtadmin123
 3 | https://hackerone-attachments.s3.amazonaws.com/ | jane-hacks | Jane | jane123 | JaneAdmin | janeadmin123
