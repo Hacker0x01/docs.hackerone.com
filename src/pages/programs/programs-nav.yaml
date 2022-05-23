@@ -122,8 +122,9 @@
       path: /programs/sessions.html
     - title: Credential Management
       path: /programs/credential-management.html
-      - title: "Asset-Based Credential Management"
-        path: "/programs/asset-based-credential-management.html"
+      items:
+      - title: Asset-Based Credential Management
+        path: /programs/asset-based-credential-management.html
     - title: Notifications
       path: /programs/notifications.html
     - title: Response Programs
