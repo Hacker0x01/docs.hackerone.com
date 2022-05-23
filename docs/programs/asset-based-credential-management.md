@@ -34,7 +34,7 @@ Each hacker is allowed to claim one credential. If a hacker needs two logins, su
 Table appearance:
 
 Asset ID | Asset | Assigned To | Username | Password | Username2 | Password2
--------- | ----- | ----------- | -------- | -------- | --------- | ---------
+----- | ----- | ----- | ----- | ----- | ----- | -----
 1 | https://hackerone.com | hacker-john | John | john123 | JohnAdmin | johnadmin123
 2 | https://api.hackerone.com | jacob-123 | Jacob | jingleheimer123 | JacobAdmin | schmidtadmin123
 3 | https://hackerone-attachments.s3.amazonaws.com/ | jane-hacks | Jane | jane123 | JaneAdmin | janeadmin123
