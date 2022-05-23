@@ -18,4 +18,4 @@ Customers with multiple programs can now manage users from a single page.
 We released fixes and performance optimizations to ensure consistent data between the Statistics page and the [Submissions and Bounty dashboard.](/programs/submissions-bounty-dashboard.html)
 
 ### Team Member Eligibility
-[Team member eligibility settings](./programs/team-member-eligibility.html) allow you to configure a list of email domains that are eligible to join your program. These settings will allow or block a user when accepting an invitation, but will not affect any users that are already a member of the program. You can set team member eligibility regardless of saml usage.
+[Team member eligibility settings](./programs/team-member-eligibility.html) allow you to configure a list of email domains that are eligible to join your program. These settings will allow or block a user when accepting an invitation, but will not affect any users that are already a member of the program. You can set team member eligibility regardless of SAML usage.
