@@ -5,13 +5,13 @@ date: "2022-03"
 ---
 
 ### Retesting Enhancement
-We've update retesting time so the tester will now have 72 hours to complete retesting.
+The tester will now have 72 hours to complete retesting once a retest is claimed.
 
 ### Program Hacker Matching Improvement
 We’ve made improvements to our Invitation Engine, using program requirements and customer preferences to match hackers to opportunities, we provide our hacker community with much more personalized recommendations.
 
 ### Organization Settings Page
-Customers with multiple programs can now manage users from a single page.
+The Organization Settings page allows customers with multiple programs to manage users from a single page.
 ![Organization Settings Page](./images/organization-settings.png)
 
 ### Program Dashboard Enhancements
