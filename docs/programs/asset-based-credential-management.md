@@ -13,7 +13,7 @@ Asset-based credential management has additional steps of downloading a template
 
 Programs can download their asset file, modify it, and re-upload their CSV.
 
-![Credential management screen](./images/___-based-1.png)
+![Credential management screen](./images/asset-based-1.png)
 
 #### CSV Format
 When you navigate to the credentials area, you will see an option to first download the template which will auto-populate some of the fields with information from your project. The **Asset ID** and **Asset information** are required in the CSV when using Asset-specific credentials. The **Assigned To column** can be left empty if there is no credential inquiry required, and any hacker can claim the credentials.
@@ -41,35 +41,35 @@ The hacker provides the information via the program’s Policy Page.
 
 When it’s not necessary to request information from the hacker before creating credentials, you can immediately add credentials.
 
-![Add your credentials](./images/___-based-2.png)
+![Add your credentials](./images/asset-based-2.png)
 
 
-![What information do you need](./images/___-based-3.png)
+![What information do you need](./images/asset-based-3.png)
 
 
 You will see a list of hackers that requested credentials and provided the needed information.
 
-![hackers that requested credentials & provided info](./images/___-based-4.png)
+![hackers that requested credentials & provided info](./images/asset-based-4.png)
 
 ### Hacker Assignment
 #### Claiming Credentials
 
 When a program has an asset that does not require information from a hacker, the hacker can claim a credential via the program’s Policy Page. Once the credential is claimed by the hacker, the credential is automatically assigned to them.
 
-![Show credentials button](./images/___-based-5.png)
+![Show credentials button](./images/asset-based-5.png)
 
-![Assets with credentials](./images/___-based-6.png)
+![Assets with credentials](./images/asset-based-6.png)
 
 #### Requesting Credentials
 When a program has a credential inquiry, the hacker can’t immediately claim credentials. First, they need to request credentials and provide the necessary information.
 
 Once the information is provided, the hacker is put on a waiting list until the Program Manager creates the credential and assigns the hacker to these credentials.
 
-![Request credentials button](./images/___-based-7.png)
+![Request credentials button](./images/asset-based-7.png)
 
-![Define credentials area](./images/___-based-8.png)
+![Define credentials area](./images/asset-based-8.png)
 
-![Credential requirements](./images/___-based-9.png)
+![Credential requirements](./images/asset-based-9.png)
 
 ### Credential Assignment
 When creating a new credential and assigning the credential to a hacker via CSV upload. Once the credential is assigned the hacker is removed from the waiting list.
@@ -82,8 +82,6 @@ As the hacker provides the information, the Program Manager is notified every 5 
 To assign credentials to hackers, you need to create a CSV file with credentials and put the hacker’s username to the (already provided) Assigned To column. This column can be left empty if there is no credential inquiry required, and any hacker can claim the credentials.
 
 When the credential is assigned to a hacker, the hacker is notified. If a hacker is not a whitelisted reporter in the program, an error is raised.
-
-![Hacker whitelist error](./images/-based-11.png)
 
 ### Edit, Revoke and Delete Credentials
 If you need to edit a credential, you can do this by clicking on the edit button on the right side of the table.
@@ -98,4 +96,4 @@ Credentials are also automatically revoked when a hacker leaves a program for an
 #### Delete All Credentials
 If you want to delete all credentials on all the assets, click on the Reset button. This action will delete both the assigned and unassigned credentials.
 
-![Delete credentials menu](./images/___-based-13.png)
+![Delete credentials menu](./images/asset-based-13.png)
