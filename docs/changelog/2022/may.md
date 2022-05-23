@@ -1,6 +1,6 @@
 ---
 title: "May 2022"
-path: "/changelog/2022/March"
+path: "/changelog/2022/May"
 date: "2022-05"
 ---
 
