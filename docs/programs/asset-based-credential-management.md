@@ -32,14 +32,7 @@ Asset ID | Asset | Assigned To | Username | Password
 Each hacker is allowed to claim one credential. If a hacker needs two logins, such as a regular account and an admin account, then both of those usernames and passwords can be put into the same credential for that hacker to claim. See examples below.
 
 Table appearance:
-
-Asset ID | Asset | Assigned To | Username | Password | Username2 | Password2
------ | ----- | ----- | ----- | ----- | ----- | -----
-|<img width=20/>|<img width=20/>|<img width=20/>|<img width=20/>|<img width=20/>|<img width=20/>|<img width=20/>|
-1 | https://hackerone.com | hacker-john | John | john123 | JohnAdmin | johnadmin123
-2 | https://api.hackerone.com | jacob-123 | Jacob | jingleheimer123 | JacobAdmin | schmidtadmin123
-3 | https://hackerone-attachments.s3.amazonaws.com/ | jane-hacks | Jane | jane123 | JaneAdmin | janeadmin123
-
+![Table displaying how two logins must be set up](./images/asset-based-table.png)
 
 ### Credential Inquiry
 In the first step of Credential Management you will select which flow you need. In case the program needs specific information about the end-user’s environment in order to prepare a set of credentials, you can create a credential inquiry. Via the Credential Management page, the program specifies what information you need from hackers and selects the asset for which the information is required.
