@@ -23,9 +23,9 @@ When you navigate to the credentials area, you will see an option to first downl
 
 Asset ID | Asset | Assigned To | Username | Password
 -------- | ----- | ----------- | -------- | --------
-1 | https://hackerone.com | hacker-john | John | john123
-2 | https://api.hackerone.com |  | Jacob | jingleheimer123
-3 | https://hackerone-attachments.s3.amazonaws.com/ |  | Schmidt | johnjacob2
+1 | https://example.com | hacker-john | John | john123
+2 | https://api.example.com |  | Jacob | jingleheimer123
+3 | https://example-attachments.com/ |  | Schmidt | johnjacob2
 
 
 #### Multiple Credentials
@@ -82,6 +82,8 @@ As the hacker provides the information, the Program Manager is notified every 5 
 To assign credentials to hackers, you need to create a CSV file with credentials and put the hacker’s username to the (already provided) Assigned To column. This column can be left empty if there is no credential inquiry required, and any hacker can claim the credentials.
 
 When the credential is assigned to a hacker, the hacker is notified. If a hacker is not a whitelisted reporter in the program, an error is raised.
+
+![Whitelisted error](./images/asset-based-11.png)
 
 ### Edit, Revoke and Delete Credentials
 If you need to edit a credential, you can do this by clicking on the edit button on the right side of the table.
