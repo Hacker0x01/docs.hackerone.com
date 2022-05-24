@@ -76,7 +76,7 @@ When creating a new credential and assigning the credential to a hacker via CSV 
 
 As the hacker provides the information, the Program Manager is notified every 5 days per e-mail. The information given by the hacker shows up in the list on the Credential Management page. From here you can download the list with credential inquiry responses.
 
-![Credential management screen](./images/-based-10.png)
+![Credential management screen](./images/asset-based-10.png)
 
 #### Pre-Assigning Credentials
 To assign credentials to hackers, you need to create a CSV file with credentials and put the hacker’s username to the (already provided) Assigned To column. This column can be left empty if there is no credential inquiry required, and any hacker can claim the credentials.
@@ -86,7 +86,7 @@ When the credential is assigned to a hacker, the hacker is notified. If a hacker
 ### Edit, Revoke and Delete Credentials
 If you need to edit a credential, you can do this by clicking on the edit button on the right side of the table.
 
-![Edit credentials menu](./images/-based-12.png)
+![Edit credentials menu](./images/asset-based-12.png)
 
 #### Revoking Credentials
 If a hacker has violated your policy or HackerOne’s code of conduct, you can revoke the credential rights of a hacker by clicking Revoke next to the username of the hacker. You'll also need to invalidate the account on your own platform to prevent the hacker from logging in and reset the password when you recycle the credential for another user.
