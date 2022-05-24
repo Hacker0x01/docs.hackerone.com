@@ -12,7 +12,7 @@ We’ve made improvements to our Invitation Engine, using program requirements a
 
 ### Organization Settings Page
 The Organization Settings page allows customers with multiple programs to manage users from a single page.
-![Organization Settings Page](./programs/images/organization-settings.png)
+![Organization Settings Page](./images/organization-settings.png)
 
 ### Program Dashboard Enhancements
 We released fixes and performance optimizations to ensure consistent data between the Statistics page and the [Submissions and Bounty dashboard.](/programs/submissions-bounty-dashboard.html)
