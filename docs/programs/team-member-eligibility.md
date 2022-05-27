@@ -10,4 +10,4 @@ To set this up, visit the Authentication page under your program settings.
 
 ![team-member-eligibility](./images/team-member-eligibility.png)
 
-><i>Note: When enabling SSO with SAML, eligibility will automatically be enabled with your SSO damains</i>.
+><i>Note: When enabling SSO with SAML, eligibility will automatically be enabled with your SSO domains</i>.
