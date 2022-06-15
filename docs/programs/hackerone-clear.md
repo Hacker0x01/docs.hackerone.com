@@ -20,7 +20,7 @@ Clear verified finders are invited to your program through the [invitation](http
 
 Members in your program, as well as the invited Clear finders to your program, will be invited to join a group Slack channel together so that you can better communicate while using Slack. *(The shared Slack channel is currently in beta. If you'd like to take part in the beta, please reach out to your program manager)*.
 
-We recommend all Clear programs to set your [bounty tables](bounty-tables.html) so that the minimum for a high vulnerability is $2000 and $5000 for a critical.
+We require all Clear programs to set your [bounty tables](bounty-tables.html) so that the minimum for a high vulnerability is $2000 and $5000 for a critical.
 
 ### How background checks work
 HackerOne partners with First Advantage to conduct all global background checks and Berbix for ID verification. For all countries, the maximum criminal background check allowed by law is performed. Countries where it’s illegal to perform criminal background checks, unfortunately, won’t be eligible to participate in HackerOne Clear programs.
