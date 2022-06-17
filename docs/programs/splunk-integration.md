@@ -72,7 +72,7 @@ Once you've successfully added the intergration, you'll be able to retrieve data
 - `<port>` is the HEC port number
 - `8088` on Splunk Cloud free trials
 - `443` by default on Splunk Cloud instances
-- `<endpoint>` is the HEC endpoint you want to use. In many cases, you use the `/services/collector` endpoint for JavaScript Object Notation (JSON)-formatted events or the `services/collector/raw` endpoint for raw events
+- `<endpoint>` is the HEC endpoint you want to use. In many cases, you use the `/services/collector/event` endpoint for JavaScript Object Notation (JSON)-formatted events or the `services/collector/raw` endpoint for raw events
 
 ### Example event
 Below you can find an example of an event that gets pushed from HackerOne to Splunk.
