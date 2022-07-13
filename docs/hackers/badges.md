@@ -1,5 +1,5 @@
 ---
-title: "Badges"
+title: "TEST"
 path: "/hackers/badges.html"
 id: "hackers/badges"
 ---
