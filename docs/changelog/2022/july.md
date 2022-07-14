@@ -5,5 +5,5 @@ date: "2022-07"
 ---
 
 ### HackerOne Views
-Check out simplified navigation with HackerOne Views. Switch between Organization view and Hacker view using the dropdown next to your avatar in the top right of the navigation bar.
+We have simplified platform navigation with HackerOne Views. Switch between Organization view and Hacker view using the dropdown next to your avatar in the top right of the navigation bar.
 ![Split organization and hacker views](./images/split-nav-views.png)
