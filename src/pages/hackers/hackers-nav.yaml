@@ -108,8 +108,6 @@
       path: /hackers/invitations.html
     - title: Decline Invites and Leave Programs
       path: /hackers/decline-invites-and-leave-programs.html
-    - title: Invitations Priority Queue
-      path: /hackers/invitations-priority-queue.html
     - title: HackerOne Clear
       path: /hackers/hackerone-clear.html
 - title: Reports
