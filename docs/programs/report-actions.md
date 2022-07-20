@@ -83,11 +83,11 @@ Once a report has been assigned, you can elect to unassign a report.
 To unassign a report:
 1) Go to the assigned report in your inbox.
 2) Change the action picker to **Unassign report** from the drop-down.
-3) Click <b>Unassign report</b>.
-
-No one will be assigned to the report. You can reassign the report by following the steps in the <b>Assign a Report</b> section.
+3) Click **Unassign report**.
 
 ![unassign report](./images/report-actions-unassign.png)
+
+No one will be assigned to the report. You can reassign the report by following the steps in the <b>Assign a Report</b> section.
 
 ### Set an Award
 You can mark that you've rewarded a hacker with swag or a monetary amount through setting awards.
