@@ -8,7 +8,7 @@ date: "2022-03"
 The tester will now have 72 hours to complete retesting once a retest is claimed.
 
 ### Program Hacker Matching Improvement
-We’ve made improvements to our Invitation Engine, using program requirements and customer preferences to match hackers to opportunities, we provide our hacker community with much more personalized recommendations.
+We’ve made improvements to our Invitation Engine. Using program requirements and customer preferences to match hackers to opportunities, we provide our hacker community with much more personalized recommendations.
 
 ### Organization Settings Page
 The Organization Settings page allows customers with multiple programs to manage users from a single page.
