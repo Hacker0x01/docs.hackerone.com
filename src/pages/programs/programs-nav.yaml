@@ -89,6 +89,11 @@
           path: /programs/setting-response-targets.html
     - title: Invitations
       path: /programs/invitations.html
+        - title: Reputation
+          path: /hackers/reputation.html
+          items:
+        - title: Signal and Impact
+          path: /hackers/signal-and-impact.html
     - title: CVE Requests
       path: /programs/cve-requests.html
     - title: Submission
