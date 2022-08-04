@@ -141,8 +141,7 @@
       items:
         - title: Inbox Views
           path: /programs/inbox-views.html
-        - title: "Duplicate Detection"
-          path: "/programs/duplicate-detection.html"
+
     - title: Report Management
       path: /programs/report-management.html
       items:
@@ -158,6 +157,8 @@
           path: /programs/locking-reports.html
         - title: Duplicate Reports
           path: /programs/duplicate-reports.html
+        - title: "Duplicate Detection"
+          path: "/programs/duplicate-detection.html"
         - title: Exporting Reports
           path: /programs/export-reports.html
         - title: Response Labels
