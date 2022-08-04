@@ -48,6 +48,11 @@ Alternatively, if you don’t want to include dynamic JavaScript, you can copy a
 
 ![embedded submissions direct iframe](./images/embedded-submissions_april_2021_4.png)
 
+Or you can paste the '<"https://hackerone.com/...UUID.../embedded_submissions/new">' portion of code as a url. You can point to the link on your website, or you can set up a security@ email with an auto response pointing to the link.
+
+![embedded submissions as a link](./images/embedded-submissions-link.png)
+
+
 ### How it Works
 Once the integration has been set up, the HackerOne report submission form can be accessed directly on your site. Hackers don't need to access your HackerOne policy page to submit reports, but they can access the report form right from your site.
 
