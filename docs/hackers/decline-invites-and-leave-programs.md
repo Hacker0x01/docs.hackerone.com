@@ -26,5 +26,3 @@ To access the questionnaire, decline the invitation or leave the program and the
 ![invitation-rejection-questionnaire-1](./images/invitation-rejection-questionnaire-1.png)
 
 ![invitation-rejection-questionnaire-2](./images/invitation-rejection-questionnaire-2.png)
-
-The questionnaire is completely voluntary, but if you fill it out, you'll get priority for another invitation so that you can find a program that is a better fit.
