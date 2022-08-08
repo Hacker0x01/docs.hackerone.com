@@ -41,7 +41,5 @@ For each invitation that goes out, the chances for each hacker receiving the inv
 3. Charlie: 20%
 4. David: 10%
 
-><i>Note: Hackers in the priority queue will still be first to receive invitations.</i>
-
 #### Related Resources
 See: [Invitations](invitations.html)
