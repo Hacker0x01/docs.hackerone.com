@@ -12,6 +12,8 @@ HackerOne offers a seamless two-way workflow integration that enables tracking a
 
 Stay up to date on changes to your GitHub issues and HackerOne reports. This integration will help your teams build in more protection at every step by automatically syncing activities between HackerOne and GitHub. You’ll be able to create a GitHub issue from your HackerOne report with one click and have all the information from the HackerOne report available in GitHub to track progress and take action.
 
+> Support for multiple GitHub repositories is only available to Enterprise programs.
+
 ### Setup
 You can install this integration using the steps below or install it directly from the GitHub Marketplace: https://github.com/marketplace/hackerone-for-github.
 
@@ -76,7 +78,8 @@ When issue closes | You can choose from: <br><ul><li>Close HackerOne report</li>
 
 17. Click **Finish**.
 
-You’ll now see your created GitHub integration listed at the top of the page. Click **Enable** next to your integration to make it live.
+You’ll now see your created GitHub integration listed at the top of the page. Click **Enable** next to your integration to make it live. Enterprise 
+programs can set up multiple GitHub integrations to escalate reports to multiple GitHub repositories. 
 
 ![enable integration](./images/github-10.png)
 
