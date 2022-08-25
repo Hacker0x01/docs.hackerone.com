@@ -1932,15 +1932,7 @@
   resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.4.14.tgz#add4c98d341472a289190b424efbdb096991bb24"
   integrity sha512-XPSJHWmi394fuUuzDnGz1wiKqWfo1yXecHQMRf2l6hztTO+nPru658AyDngaBe7isIxEkRsPR3FZh+s7iVa4Uw==
 
-"@jridgewell/trace-mapping@^0.3.13":
-  version "0.3.13"
-  resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.13.tgz#dcfe3e95f224c8fe97a87a5235defec999aa92ea"
-  integrity sha512-o1xbKhp9qnIAoHJSWd6KlCZfqslL4valSF81H8ImioOAxluWYWOpWkpyktY2vnt4tbrX9XYaxovq6cgowaJp2w==
-  dependencies:
-    "@jridgewell/resolve-uri" "^3.0.3"
-    "@jridgewell/sourcemap-codec" "^1.4.10"
-
-"@jridgewell/trace-mapping@^0.3.9":
+"@jridgewell/trace-mapping@^0.3.13", "@jridgewell/trace-mapping@^0.3.9":
   version "0.3.14"
   resolved "https://registry.yarnpkg.com/@jridgewell/trace-mapping/-/trace-mapping-0.3.14.tgz#b231a081d8f66796e475ad588a1ef473112701ed"
   integrity sha512-bJWEfQ9lPTvm3SneWwRFVLzrh6nhjwqw7TUFFBEMzwvg7t7PCDenf2lDwqo4NQXzdpgBXyFgDWnQA+2vkruksQ==
@@ -1948,35 +1940,35 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lmdb/lmdb-darwin-arm64@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-darwin-arm64/-/lmdb-darwin-arm64-2.5.2.tgz#bc66fa43286b5c082e8fee0eacc17995806b6fbe"
-  integrity sha512-+F8ioQIUN68B4UFiIBYu0QQvgb9FmlKw2ctQMSBfW2QBrZIxz9vD9jCGqTCPqZBRbPHAS/vG1zSXnKqnS2ch/A==
+"@lmdb/lmdb-darwin-arm64@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-darwin-arm64/-/lmdb-darwin-arm64-2.5.3.tgz#c423b068165df18da57a81dce5c95f98c6ab9265"
+  integrity sha512-RXwGZ/0eCqtCY8FLTM/koR60w+MXyvBUpToXiIyjOcBnC81tAlTUHrRUavCEWPI9zc9VgvpK3+cbumPyR8BSuA==
 
-"@lmdb/lmdb-darwin-x64@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-darwin-x64/-/lmdb-darwin-x64-2.5.2.tgz#89d8390041bce6bab24a82a20392be22faf54ffc"
-  integrity sha512-KvPH56KRLLx4KSfKBx0m1r7GGGUMXm0jrKmNE7plbHlesZMuPJICtn07HYgQhj1LNsK7Yqwuvnqh1QxhJnF1EA==
+"@lmdb/lmdb-darwin-x64@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-darwin-x64/-/lmdb-darwin-x64-2.5.3.tgz#dde76e65595b34a17289a63f770a8aee13a85a9b"
+  integrity sha512-337dNzh5yCdNCTk8kPfoU7jR3otibSlPDGW0vKZT97rKnQMb9tNdto3RtWoGPsQ8hKmlRZpojOJtmwjncq1MoA==
 
-"@lmdb/lmdb-linux-arm64@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-arm64/-/lmdb-linux-arm64-2.5.2.tgz#14fe4c96c2bb1285f93797f45915fa35ee047268"
-  integrity sha512-aLl89VHL/wjhievEOlPocoefUyWdvzVrcQ/MHQYZm2JfV1jUsrbr/ZfkPPUFvZBf+VSE+Q0clWs9l29PCX1hTQ==
+"@lmdb/lmdb-linux-arm64@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-arm64/-/lmdb-linux-arm64-2.5.3.tgz#d98f32383d37a058e6c51b7ffd665c2c2f91c285"
+  integrity sha512-VJw60Mdgb4n+L0fO1PqfB0C7TyEQolJAC8qpqvG3JoQwvyOv6LH7Ib/WE3wxEW9nuHmVz9jkK7lk5HfWWgoO1Q==
 
-"@lmdb/lmdb-linux-arm@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-arm/-/lmdb-linux-arm-2.5.2.tgz#05bde4573ab10cf21827339fe687148f2590cfa1"
-  integrity sha512-5kQAP21hAkfW5Bl+e0P57dV4dGYnkNIpR7f/GAh6QHlgXx+vp/teVj4PGRZaKAvt0GX6++N6hF8NnGElLDuIDw==
+"@lmdb/lmdb-linux-arm@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-arm/-/lmdb-linux-arm-2.5.3.tgz#6251143d7b470e126b0b0fc17ae64c6680e268b2"
+  integrity sha512-mU2HFJDGwECkoD9dHQEfeTG5mp8hNS2BCfwoiOpVPMeapjYpQz9Uw3FkUjRZ4dGHWKbin40oWHuL0bk2bCx+Sg==
 
-"@lmdb/lmdb-linux-x64@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-x64/-/lmdb-linux-x64-2.5.2.tgz#d2f85afd857d2c33d2caa5b057944574edafcfee"
-  integrity sha512-xUdUfwDJLGjOUPH3BuPBt0NlIrR7f/QHKgu3GZIXswMMIihAekj2i97oI0iWG5Bok/b+OBjHPfa8IU9velnP/Q==
+"@lmdb/lmdb-linux-x64@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-linux-x64/-/lmdb-linux-x64-2.5.3.tgz#ef3a9793391ab4a68379e753943c9055fd0f5bf3"
+  integrity sha512-qaReO5aV8griBDsBr8uBF/faO3ieGjY1RY4p8JvTL6Mu1ylLrTVvOONqKFlNaCwrmUjWw5jnf7VafxDAeQHTow==
 
-"@lmdb/lmdb-win32-x64@2.5.2":
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-win32-x64/-/lmdb-win32-x64-2.5.2.tgz#28f643fbc0bec30b07fbe95b137879b6b4d1c9c5"
-  integrity sha512-zrBczSbXKxEyK2ijtbRdICDygRqWSRPpZMN5dD1T8VMEW5RIhIbwFWw2phDRXuBQdVDpSjalCIUMWMV2h3JaZA==
+"@lmdb/lmdb-win32-x64@2.5.3":
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/@lmdb/lmdb-win32-x64/-/lmdb-win32-x64-2.5.3.tgz#c72e8b6faae31d925d23a6db0379cc3fe0216fdd"
+  integrity sha512-cK+Elf3RjEzrm3SerAhrFWL5oQAsZSJ/LmjL1joIpTfEP1etJJ9CTRvdaV6XLYAxaEkfdhk/9hOvHLbR9yIhCA==
 
 "@mdx-js/util@^2.0.0-next.8":
   version "2.0.0-next.8"
@@ -2132,6 +2124,13 @@
   version "7.1.7"
   resolved "https://registry.yarnpkg.com/@turist/fetch/-/fetch-7.1.7.tgz#a2b1f7ec0265e6fe0946c51eef34bad9b9efc865"
   integrity sha512-XP20kvfyMNlWdPVQXyuzA40LoCHbbJptikt7W+TlZ5sS+NNjk70xjXCtHBLEudp7li3JldXEFSIUzpW1a0WEhA==
+  dependencies:
+    "@types/node-fetch" "2"
+
+"@turist/fetch@^7.2.0":
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/@turist/fetch/-/fetch-7.2.0.tgz#57df869df1cd9b299588554eec4b8543effcc714"
+  integrity sha512-2x7EGw+6OJ29phunsbGvtxlNmSfcuPcyYudkMbi8gARCP9eJ1CtuMvnVUHL//O9Ixi9SJiug8wNt6lj86pN8XQ==
   dependencies:
     "@types/node-fetch" "2"
 
@@ -4105,10 +4104,10 @@ create-gatsby@^1.14.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-create-gatsby@^2.17.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/create-gatsby/-/create-gatsby-2.17.0.tgz#00d42bfca9ca548957fcd88ea4f7a297a8b02fd8"
-  integrity sha512-RrMAHZL7J5Ew/laz83g+UNQ2RnXszGuub3sG7DQkG0tK5mS9TqTW+FIYyzHCLhdJkr81qC/HRDFsJv0fuYISwg==
+create-gatsby@^2.21.0:
+  version "2.21.0"
+  resolved "https://registry.yarnpkg.com/create-gatsby/-/create-gatsby-2.21.0.tgz#01402e36bc326d47c7ec2e0f49fc636465ea1a92"
+  integrity sha512-fVkaAtlfNwitTyIZHLNzPoU+WfnXkDBMt6Gfh4E2mpocG5O3QS6hD10k1rVwTO+zzLON0BSi9OXHWy0PopMwmQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
 
@@ -5814,10 +5813,10 @@ gatsby-cli@^3.14.2:
     yoga-layout-prebuilt "^1.9.6"
     yurnalist "^2.1.0"
 
-gatsby-cli@^4.17.0:
-  version "4.17.0"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-4.17.0.tgz#38bd743cf24c0b9bf20d097479809c0aee4faf03"
-  integrity sha512-x1oxUVSWYEDxYl8sNTDTakMnCYKIbjwIAfGBhp1v3wK8WvqKz2+ICho6vvd2rXSkGGbwAg/gJ5g4/p78WOdRLw==
+gatsby-cli@^4.21.0:
+  version "4.21.0"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-4.21.0.tgz#a681ffb71188720fc3ff609e25324794b76b9054"
+  integrity sha512-8Z6EiKW2IX1NlzYd3T4aSx5hE+dAgieOKRYWFASQqW/cJAO0MmAHHXOjVQarFhRPj4mCBhCgmWYnLj4kxWPQ9Q==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -5836,13 +5835,13 @@ gatsby-cli@^4.17.0:
     common-tags "^1.8.2"
     configstore "^5.0.1"
     convert-hrtime "^3.0.0"
-    create-gatsby "^2.17.0"
+    create-gatsby "^2.21.0"
     envinfo "^7.8.1"
     execa "^5.1.1"
     fs-exists-cached "^1.0.0"
     fs-extra "^10.1.0"
-    gatsby-core-utils "^3.17.0"
-    gatsby-telemetry "^3.17.0"
+    gatsby-core-utils "^3.21.0"
+    gatsby-telemetry "^3.21.0"
     hosted-git-info "^3.0.8"
     is-valid-path "^0.1.1"
     joi "^17.4.2"
@@ -5880,10 +5879,10 @@ gatsby-core-utils@^2.14.0:
     tmp "^0.2.1"
     xdg-basedir "^4.0.0"
 
-gatsby-core-utils@^3.17.0:
-  version "3.17.0"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.17.0.tgz#5fe33c4267a3d0a7439b8065ee9c16f5cc2aead1"
-  integrity sha512-1e0YaqTAEpSSBkpWkY703lu+Bl76ASXUvUcpnNO3CavCYZsRQxAXtMXIKIEvhm1z6zWJmY9HILo6/DjP+PHeyw==
+gatsby-core-utils@^3.21.0:
+  version "3.21.0"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.21.0.tgz#5ca118857cf9f59b69f06f2ae886d8182af46515"
+  integrity sha512-pCDa9EGU8niRJQVv7ow3ijzmG0PegZaBc5Yt6z4enc4m7Dl5ZT6Edkcw9p8q/FhGiZUkzQhWaRDxUvtaoPwAOQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     ci-info "2.0.0"
@@ -5891,9 +5890,9 @@ gatsby-core-utils@^3.17.0:
     fastq "^1.13.0"
     file-type "^16.5.3"
     fs-extra "^10.1.0"
-    got "^11.8.3"
+    got "^11.8.5"
     import-from "^4.0.0"
-    lmdb "2.5.2"
+    lmdb "2.5.3"
     lock "^1.1.0"
     node-object-hash "^2.3.10"
     proper-lockfile "^4.1.2"
@@ -6210,21 +6209,21 @@ gatsby-telemetry@^2.14.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-telemetry@^3.17.0:
-  version "3.17.0"
-  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-3.17.0.tgz#de5b094340d714969ac5a5f01ed19999d3b9557e"
-  integrity sha512-1N4uKj2Yj7AykLmwjsdOmNirf3UmP8CBXjj/LmWf5cLDVbdPqkirAlyD6uTeEliG5UFHPTlBsRi26v558mFYJQ==
+gatsby-telemetry@^3.21.0:
+  version "3.21.0"
+  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-3.21.0.tgz#dd98c0c4f97c0f78299d7e64594b78bb4a68fbde"
+  integrity sha512-nIGfmwSEPUVpPOYKEitk5c6XER1Gy2fEnJIBJr0S+ot9MydLGq1NCIbRmZk/00FRiWxY5EyeOQXy4YYvg7VrWg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/runtime" "^7.15.4"
-    "@turist/fetch" "^7.1.7"
+    "@turist/fetch" "^7.2.0"
     "@turist/time" "^0.0.2"
     async-retry-ng "^2.0.1"
     boxen "^4.2.0"
     configstore "^5.0.1"
     fs-extra "^10.1.0"
-    gatsby-core-utils "^3.17.0"
-    git-up "^4.0.5"
+    gatsby-core-utils "^3.21.0"
+    git-up "^6.0.0"
     is-docker "^2.2.1"
     lodash "^4.17.21"
     node-fetch "^2.6.7"
@@ -6559,6 +6558,14 @@ git-up@^4.0.5:
     is-ssh "^1.3.0"
     parse-url "^6.0.0"
 
+git-up@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/git-up/-/git-up-6.0.0.tgz#dbd6e4eee270338be847a0601e6d0763c90b74db"
+  integrity sha512-6RUFSNd1c/D0xtGnyWN2sxza2bZtZ/EmI9448n6rCZruFwV/ezeEn2fJP7XnUQGwf0RAtd/mmUCbtH6JPYA2SA==
+  dependencies:
+    is-ssh "^1.4.0"
+    parse-url "^7.0.2"
+
 github-from-package@0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/github-from-package/-/github-from-package-0.0.0.tgz#97fb5d96bfde8973313f20e8288ef9a167fa64ce"
@@ -6737,7 +6744,7 @@ got@^11.8.2:
     p-cancelable "^2.0.0"
     responselike "^2.0.0"
 
-got@^11.8.3:
+got@^11.8.5:
   version "11.8.5"
   resolved "https://registry.yarnpkg.com/got/-/got-11.8.5.tgz#ce77d045136de56e8f024bebb82ea349bc730046"
   integrity sha512-o0Je4NvQObAuZPHLFoRSkdG2lTgtcynqymzg2Vupdx6PorhaT5MCbIyXG6d4D94kk8ZG57QeosgdiqfJWhEhlQ==
@@ -7721,7 +7728,7 @@ is-shared-array-buffer@^1.0.1:
   resolved "https://registry.yarnpkg.com/is-shared-array-buffer/-/is-shared-array-buffer-1.0.1.tgz#97b0c85fbdacb59c9c446fe653b82cf2b5b7cfe6"
   integrity sha512-IU0NmyknYZN0rChcKhRO1X8LYz5Isj/Fsqh8NJOSf+N/hCOTwy29F32Ik7a+QszE63IdvmwdTPDd6cZ5pg4cwA==
 
-is-ssh@^1.3.0:
+is-ssh@^1.3.0, is-ssh@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/is-ssh/-/is-ssh-1.4.0.tgz#4f8220601d2839d8fa624b3106f8e8884f01b8b2"
   integrity sha512-x7+VxdxOdlV3CYpjvRLBv5Lo9OJerlYanjwFrPR9fuGPjCiNiCzFgAWpiLAohSbsnH4ZAys3SBh+hq5rJosxUQ==
@@ -8140,10 +8147,10 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lmdb@2.5.2:
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.5.2.tgz#37e28a9fb43405f4dc48c44cec0e13a14c4a6ff1"
-  integrity sha512-V5V5Xa2Hp9i2XsbDALkBTeHXnBXh/lEmk9p22zdr7jtuOIY9TGhjK6vAvTpOOx9IKU4hJkRWZxn/HsvR1ELLtA==
+lmdb@2.5.3:
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/lmdb/-/lmdb-2.5.3.tgz#cac845a8576ef0fd2dcc279faab6fdb383f07463"
+  integrity sha512-iBA0cb13CobBSoGJLfZgnrykLlfJipDAnvtf+YwIqqzBEsTeQYsXrHaSBkaHd5wCWeabwrNvhjZoFMUrlo+eLw==
   dependencies:
     msgpackr "^1.5.4"
     node-addon-api "^4.3.0"
@@ -8151,12 +8158,12 @@ lmdb@2.5.2:
     ordered-binary "^1.2.4"
     weak-lru-cache "^1.2.2"
   optionalDependencies:
-    "@lmdb/lmdb-darwin-arm64" "2.5.2"
-    "@lmdb/lmdb-darwin-x64" "2.5.2"
-    "@lmdb/lmdb-linux-arm" "2.5.2"
-    "@lmdb/lmdb-linux-arm64" "2.5.2"
-    "@lmdb/lmdb-linux-x64" "2.5.2"
-    "@lmdb/lmdb-win32-x64" "2.5.2"
+    "@lmdb/lmdb-darwin-arm64" "2.5.3"
+    "@lmdb/lmdb-darwin-x64" "2.5.3"
+    "@lmdb/lmdb-linux-arm" "2.5.3"
+    "@lmdb/lmdb-linux-arm64" "2.5.3"
+    "@lmdb/lmdb-linux-x64" "2.5.3"
+    "@lmdb/lmdb-win32-x64" "2.5.3"
 
 load-bmfont@^1.3.1, load-bmfont@^1.4.0:
   version "1.4.1"
@@ -9735,6 +9742,13 @@ parse-path@^4.0.4:
     qs "^6.9.4"
     query-string "^6.13.8"
 
+parse-path@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/parse-path/-/parse-path-5.0.0.tgz#f933152f3c6d34f4cf36cfc3d07b138ac113649d"
+  integrity sha512-qOpH55/+ZJ4jUu/oLO+ifUKjFPNZGfnPJtzvGzKN/4oLMil5m9OH4VpOj6++9/ytJcfks4kzH2hhi87GL/OU9A==
+  dependencies:
+    protocols "^2.0.0"
+
 parse-srcset@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/parse-srcset/-/parse-srcset-1.0.2.tgz#f2bd221f6cc970a938d88556abc589caaaa2bde1"
@@ -9749,6 +9763,16 @@ parse-url@^6.0.0:
     normalize-url "^6.1.0"
     parse-path "^4.0.4"
     protocols "^1.4.0"
+
+parse-url@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/parse-url/-/parse-url-7.0.2.tgz#d21232417199b8d371c6aec0cedf1406fd6393f0"
+  integrity sha512-PqO4Z0eCiQ08Wj6QQmrmp5YTTxpYfONdOEamrtvK63AmzXpcavIVQubGHxOEwiIoDZFb8uDOoQFS0NCcjqIYQg==
+  dependencies:
+    is-ssh "^1.4.0"
+    normalize-url "^6.1.0"
+    parse-path "^5.0.0"
+    protocols "^2.0.1"
 
 parse5-htmlparser2-tree-adapter@^6.0.1:
   version "6.0.1"
@@ -10341,7 +10365,7 @@ protocols@^1.4.0:
   resolved "https://registry.yarnpkg.com/protocols/-/protocols-1.4.8.tgz#48eea2d8f58d9644a4a32caae5d5db290a075ce8"
   integrity sha512-IgjKyaUSjsROSO8/D49Ab7hP8mJgTYcqApOqdPhLoPxAplXmkp+zRvsrSQjFn5by0rhm4VH0GAUELIPpx7B1yg==
 
-protocols@^2.0.1:
+protocols@^2.0.0, protocols@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/protocols/-/protocols-2.0.1.tgz#8f155da3fc0f32644e83c5782c8e8212ccf70a86"
   integrity sha512-/XJ368cyBJ7fzLMwLKv1e4vLxOju2MNAIokcr7meSaNcVbWz/CPcW22cP04mwxOErdA5mwjA8Q6w/cdAQxVn7Q==
