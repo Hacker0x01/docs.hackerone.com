@@ -26,6 +26,7 @@ There are a couple of ways to request Mediation:
 
 ![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
 
+
 ### Hacker Mediation Triggers
 When a program requests Mediation, the steps Mediation takes include:
 * Reviewing the specific concern reported
@@ -39,6 +40,7 @@ When a program requests Mediation, the steps Mediation takes include:
 Mediation will keep requesters of Mediations in the loop about any actions proposed and taken (in program mediations this is the CSM)
 
 As a reminder, HackerOne won't be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary.
+
 
 ### Tutorial Video
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ie5nuTJrMNA" frameborder="0" allowfullscreen></iframe>
