@@ -8,16 +8,15 @@ id: "hackers/hacker-mediation"
 Hackers can request assistance from HackerOne in cases when discussions with the program have been attempted and there has been no satisfactory resolution. Vice versa, programs can also request mediation when the Code of Conduct has been violated.
 
 Hacker Mediation can be requested for the following reasons:
-
-A program's decision is inconsistent with broad industry standards.
-A program does not honor a commitment made on their Security Page.
-A program promises to reply within a certain time period on their Security Page but fails to do so.
-A program claims a domain is in scope on their Security Page, then makes a last-minute change to pull it out of scope based on your report.
-A program clearly outlines a vulnerability in a particular domain as being worth a minimum bounty, but then awards less than that amount or no bounty at all without explanation.
-Etc.
-
+* A program's decision is inconsistent with broad industry standards.
+* A program does not honor a commitment made on their Security Page.
+  * A program promises to reply within a certain time period on their Security Page but fails to do so.
+  * A program claims a domain is in scope on their Security Page, then makes a last-minute change to pull it out of scope based on your report.
+  * A program clearly outlines a vulnerability in a particular domain as being worth a minimum bounty, but then awards less than that amount or no bounty at all without explanation.
+  * Etc.
 
 Hacker mediation is used to raise concerns about reports to security teams and facilitate discussions between hackers and customers to enable a more favorable outcome for everyone involved. Please keep in mind that if a program is not managed or triaged by HackerOne, then the time to fully resolve the mediation might take longer than usual.
+
 
 ### Requesting Hacker Mediation
 To request mediation:
@@ -40,6 +39,7 @@ In most cases, HackerOne will not be able to mediate for reports that have been 
 
 Finally, keep in mind that HackerOne is no longer able to add external researchers to original report submissions due to security and privacy concerns related to doing so.
 
+
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following actions:
 
@@ -59,6 +59,7 @@ Request credentials for a program | Resolution disagreement (e.g: The bug was ma
 Two-factor authentication resets | Unresponsiveness (e.g.: The triage team or the program provided no updates for a week)
 Account deletion |
 General questions |
+
 
 **The Make It Right Fund**
 There may be cases where HackerOne may believe a hacker’s submission has been handled incorrectly. We want to make sure hackers are awarded for their efforts in such cases. After extensive backend reviews are completed of the specific report, the hacker may be considered for a discretionary correction from the HackerOne Make It Right Fund. Please keep in mind that not every report is eligible for Make It Right and the decision to recommend or consider a Make It Right award belongs to HackerOne. Usage of Make It Right may be noted in the report’s record for transparency.
