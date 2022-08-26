@@ -60,6 +60,5 @@ Account deletion |
 General questions |
 
 
-**The Make It Right Fund**
-
+### The Make It Right Fund
 There may be cases where HackerOne may believe a hacker’s submission has been handled incorrectly. We want to make sure hackers are awarded for their efforts in such cases. After extensive backend reviews are completed of the specific report, the hacker may be considered for a discretionary correction from the HackerOne Make It Right Fund. Please keep in mind that not every report is eligible for Make It Right and the decision to recommend or consider a Make It Right award belongs to HackerOne. Usage of Make It Right may be noted in the report’s record for transparency.
