@@ -18,11 +18,11 @@ Some examples may include:
 ### Requesting Hacker Mediation
 There are a couple of ways to request Mediation:
 1. If applicable, contact your CSM
-2. Request mediation independently
-  * Open the report you'd like to request HackerOne mediation support for.
-  * Scroll to the bottom of the report.
-  * Click **Report Abuse**.
-  * Select **Request mediation**. This will trigger a workflow for the Mediation Team to reach out to both you and the relevant hacker.
+1. Request mediation independently
+  1. Open the report you'd like to request HackerOne mediation support for.
+  2. Scroll to the bottom of the report.
+  3. Click **Report Abuse**.
+  4. Select **Request mediation**. This will trigger a workflow for the Mediation Team to reach out to both you and the relevant hacker.
 
 ![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
 
