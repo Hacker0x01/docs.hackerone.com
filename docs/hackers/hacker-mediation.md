@@ -20,7 +20,6 @@ Hacker mediation is used to raise concerns about reports to security teams and f
 
 ### Requesting Hacker Mediation
 To request mediation:
-
 * Open the report you'd like to request HackerOne mediation support for.
 * Scroll to the bottom of the report.
 * Click **Request Mediation**.
@@ -42,13 +41,13 @@ Finally, keep in mind that HackerOne is no longer able to add external researche
 
 ### Hacker Mediation Triggers
 Requesting hacker mediation triggers the following actions:
-
 * An email is sent to the program's security team, requesting that they make their best effort to resolve the issue with the hacker within 3 business days.
 * If the security team doesn't respond to the hacker or if the situation isn't resolved, HackerOne will evaluate all available information about the vulnerability report, the hacker who requested mediation, and the organization to determine the appropriate level of escalation.
 * HackerOne’s Customer Success team will escalate certain concerns to program teams and engage closely to encourage a favorable outcome if, in HackerOne's judgment, the hacker's case warrants it.
 * If the security team is unable to respond to the hacker or if the situation is not promptly resolved, The Mediation team will contact all involved parties and work together with the hacker and program teams to gain an appropriate and timely outcome.
 
 **Mediation Requests vs Support Requests**
+
 Mediation requests are different from Support requests. When requesting mediation, it’s important that you request for the right reasons, as some issues are best taken to HackerOne Support instead. Here’s a table to help you see the difference between the type of requests:
 
 
@@ -62,4 +61,5 @@ General questions |
 
 
 **The Make It Right Fund**
+
 There may be cases where HackerOne may believe a hacker’s submission has been handled incorrectly. We want to make sure hackers are awarded for their efforts in such cases. After extensive backend reviews are completed of the specific report, the hacker may be considered for a discretionary correction from the HackerOne Make It Right Fund. Please keep in mind that not every report is eligible for Make It Right and the decision to recommend or consider a Make It Right award belongs to HackerOne. Usage of Make It Right may be noted in the report’s record for transparency.
