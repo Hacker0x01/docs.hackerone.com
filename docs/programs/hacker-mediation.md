@@ -1,5 +1,5 @@
 ---
-title: "Hacker Mediation"
+title: "Program Mediation & Code of Conduct Review Requests"
 path: "/programs/hacker-mediation.html"
 id: "programs/hacker-mediation"
 ---
