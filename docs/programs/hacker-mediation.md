@@ -15,7 +15,7 @@ Some examples may include:
 * A HackerOne hacker disclosed report information without your consent
 
 
-### Requesting Hacker Mediation
+### Requesting Mediation Assistance
 There are a couple of ways to request Mediation:
 1. If applicable, contact your CSM
 1. Request mediation independently
@@ -27,7 +27,7 @@ There are a couple of ways to request Mediation:
 ![examples-of-misconduct-1](./images/examples-of-misconduct-1.png)
 
 
-### Hacker Mediation Triggers
+### Mediation Triggers
 When a program requests Mediation, the steps Mediation takes include:
 * Reviewing the specific concern reported
 * Reviewing relevant report(s)
