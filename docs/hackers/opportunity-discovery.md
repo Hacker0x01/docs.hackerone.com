@@ -38,3 +38,17 @@ Opportunity Discovery gives hackers feedback about the scope changes and new opp
 Use the search bar at the top of the page to search for a specific name or filter by program type, asset type, or industry type. You can also sort the results by newest program, oldest program, most reports resolved, or least reports resolved.
 
 ![Opportunity Discovery Search Results](./images/opportunity-discovery-4.png)
+
+### My Programs
+
+![opportunity discovery my programs](./images/opportunity-discovery-my-programs.png)
+
+The My Programs page enables you to better manage all of the programs you're a part of. You can view the private programs you've accepted to participate in and the public programs you've hacked on.
+
+For each program, you can view:
+* The total number of reports resolved
+* The minimum bounty
+* The average bounty
+* Your stats: The total number of reports you've submitted, the number of  reports that were valid, and the total amount of bounties you've earned
+
+You can elect to leave the private programs that you no longer have interest to participate in by clicking **Leave Program** next to the program you want to leave.
