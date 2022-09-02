@@ -7,7 +7,7 @@ id: "programs/navigation"
 
 Starting point: Homepage
 
-1. [Organization Dropdown](/organization-dropdown.html)
+1. [Organization Dropdown](organization-dropdown.html)
 2. Inbox
 3. Dashboards
     * Overview
