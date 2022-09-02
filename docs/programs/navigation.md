@@ -8,14 +8,14 @@ id: "programs/navigation"
 Starting point: Homepage
 
 1. [Organization Dropdown](organization-dropdown.html)
-2. Inbox
-3. Dashboards
+2. [Inbox](inbox.html)
+3. [Dashboards](dashboards.html)
     * Overview
-    * Submissions & Bounty
+    * [Submissions & Bounty](submissions-bounty-dashboard.html)
     * Hacker Engagement
-    * Statistics
+    * [Statistics](statistics-dashboard.html)
     * Response Efficiency
-    * Explore
+    * [Explore](explore.html)
 4. Program Settings
     * General
     * Program
@@ -32,7 +32,7 @@ Starting point: Homepage
     * CVE Discovery
     * Global Top Weaknesses
     * Industry Top Weaknesses
-8. Notifications
+8. [Notifications](notifications.html)
     * Profile Menu
     * View Switcher
     * Profile
