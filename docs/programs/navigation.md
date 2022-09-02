@@ -4,9 +4,10 @@ path: "/programs/navigation.html"
 id: "programs/navigation"
 ---
 ![navigation overview for organizations](./images/navigation-overview-organization.png)
+
 Starting point: Homepage
 
-1. Organization Picker
+1. [Organization Dropdown](/organization-dropdown.html)
 2. Inbox
 3. Dashboards
     * Overview
