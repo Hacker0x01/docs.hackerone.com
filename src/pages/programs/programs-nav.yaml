@@ -13,7 +13,7 @@
       path: /programs/navigation.html
       items:
         - title: Organization Dropdown
-        - path: /programs/organization-dropdown.html
+          path: /programs/organization-dropdown.html
     - title: Program Types
       path: /programs/program-types.html
       items:
