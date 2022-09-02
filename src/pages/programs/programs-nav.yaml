@@ -9,11 +9,11 @@
       path: /programs/product-offerings.html
     - title: Program Starting Point
       path: /programs/program-starting-point.html
-    - title: "Navigation"
-      path: "/programs/navigation.html"
+    - title: Navigation
+      path: /programs/navigation.html
       items:
-        - title: "Organization Dropdown"
-        - path: "/programs/organization-dropdown.html"
+        - title: Organization Dropdown
+        - path: /programs/organization-dropdown.html
     - title: Program Types
       path: /programs/program-types.html
       items:
