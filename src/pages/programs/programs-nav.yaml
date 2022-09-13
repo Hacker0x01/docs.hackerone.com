@@ -209,7 +209,7 @@
       path: /programs/gitlab-integration.html
     - title: HackEDU
       path: /programs/hackedu-integration.html
-    - title: IBM Security SOAR
+    - title: IBM Security QRadar SOAR
       path: /programs/ibm-security-soar.html
     - title: Jira
       path: /programs/jira-integration.html
