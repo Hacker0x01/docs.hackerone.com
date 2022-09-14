@@ -1,10 +1,10 @@
 ---
-title: "IBM Security SOAR"
+title: "IBM Security QRadar SOAR"
 path: "/programs/ibm-security-soar.html"
 id: "programs/ibm-security-soar"
 ---
 
-With the IBM Security SOAR web URL integration, you can push all of your HackerOne submissions to Security SOAR so that you can track all of your vulnerability reports on Security SOAR.
+With the IBM Security QRadar SOAR web URL integration, you can push all of your HackerOne submissions to QRadar SOAR so that you can track all of your vulnerability reports on Security SOAR.
 
 In order to configure the IBM Security SOAR integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
 
@@ -24,7 +24,7 @@ After your Security SOAR integration has been set up:
 
 ![integration](./images/issue-tracker-reference.png)
 
-4. Click **Generate escalation**. You’ll be taken to your Security SOAR account where the report is pre-populated.
-3. Submit the issue to create the report in Security SOAR.
+4. Click **Generate escalation**. You’ll be taken to your QRadar SOAR account where the report is pre-populated.
+3. Submit the issue to create the report in QRadar SOAR.
 4. Copy the Security SOAR report issue number and paste it in the **Reference ID** field back in the HackerOne.
-5. Click **Create** to create a direct reference link to the issue in Security SOAR.
+5. Click **Create** to create a direct reference link to the issue in QRadar SOAR.

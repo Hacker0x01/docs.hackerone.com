@@ -9,7 +9,7 @@ td, th {
 }
 </style>
 
-Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to properly identify duplicate reports when they are reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager.
+Before launching a program with HackerOne, it’s important that known un-remediated issues are imported into the platform to properly identify duplicate reports when they are reported. To import these un-remediated vulnerabilities, you’ll need to provide a correctly formatted CSV file with details of each vulnerability to your program manager. Enterprise customers have the option to perform a continuous import of vulnerabilities.
 
 > **Note:** All vulnerabilities to be imported should currently be un-remediated and be in scope for your program.
 

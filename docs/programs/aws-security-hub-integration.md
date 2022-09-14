@@ -8,9 +8,11 @@ id: "programs/aws-security-hub-integration"
 
 The AWS Security Hub integration exchanges vulnerability findings between HackerOne and Security Hub, streamlining workflows to accelerate security actions. By consolidating and routing vulnerability intelligence from HackerOne to AWS Security Hub, the integration delivers greater visibility into crucial gaps that could lead to a cyberattack.
 
+> **Note:** This integration is only available to HackerOne Enterprise customers.
+
 AWS customers can sync all HackerOne vulnerability findings and use AWS Security Hub as the single console for management and prioritization. They can also compare AWS Security Hub findings with those found by the HackerOne community to see duplicates, understand status, and plan remediation, as shown in Figure 2 below.
 
-With consolidated vulnerability reports, unified findings for more informed responses, and faster time to remediation, AWS customers can improve application security. HackerOne’s AWS Security Hub integration means severe vulnerabilities are routed to the right people at the right time to increase security team efficiencies, improve reporting, and reduce application exploitation. 
+With consolidated vulnerability reports, unified findings for more informed responses, and faster time to remediation, AWS customers can improve application security. HackerOne’s AWS Security Hub integration means severe vulnerabilities are routed to the right people at the right time to increase security team efficiencies, improve reporting, and reduce application exploitation.
 
 ## Prerequisites
 
@@ -25,14 +27,14 @@ With consolidated vulnerability reports, unified findings for more informed resp
 
 ### Overview
 
-This integration creates a Webhook in HackerOne that sends hacker reports to AWS Security Hub. It is ideal if you use AWS Security Hub to analyze and triage issues in your AWS account, and your purpose for integrating with HackerOne is to consume findings from researchers alongside other tools in your AWS account. 
+This integration creates a Webhook in HackerOne that sends hacker reports to AWS Security Hub. It is ideal if you use AWS Security Hub to analyze and triage issues in your AWS account, and your purpose for integrating with HackerOne is to consume findings from researchers alongside other tools in your AWS account.
 
 ### Architecture
 
 ![h1-sh](./images/h1-sh.png)
 
 The HackerOne webhook targets an API Gateway, which forwards the request to a Lambda Function. The Lambda then reformats the payload to AWS Security Hub Finding Format (ASFF) and sends each finding to Security Hub. As a result, those with access to a Security Hub will be able to see the imported HackerOne reports from within Security Hub.
-	
+
 ### Setup
 
 Ensure that you have met all of the above [Prerequisites](#prerequisites).
@@ -41,7 +43,7 @@ Additionally, create or choose an existing S3 bucket to host the CloudFormation 
 
 In addition, you need the following:
 
-1. Navigate to [Security Hub > Integrations](https://console.aws.amazon.com/securityhub/home#/integrations) and search for `HackerOne`. 
+1. Navigate to [Security Hub > Integrations](https://console.aws.amazon.com/securityhub/home#/integrations) and search for `HackerOne`.
 1. Click *Accept findings* in the **HackerOne: Vulnerability Intelligence** card.
 1. Clone the [hackerone-to-aws-security-hub](https://github.com/Hacker0x01/hackerone-to-aws-security-hub) repository.
 1. Use the bash script in the repository to build and deploy the serverless app.
@@ -62,7 +64,7 @@ In addition, you need the following:
 
 ### Overview
 
-This integration creates a custom action for Security Hub to send findings to HackerOne. It is ideal if you use Security Hub to consolidate findings from AWS, and your purpose for integrating with HackerOne is to provide analysts with more context into the environment researchers are testing. 
+This integration creates a custom action for Security Hub to send findings to HackerOne. It is ideal if you use Security Hub to consolidate findings from AWS, and your purpose for integrating with HackerOne is to provide analysts with more context into the environment researchers are testing.
 
 ### Architecture
 
