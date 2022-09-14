@@ -79,7 +79,7 @@ HackerOne currently supports these integrations:
     <div class="logo">
       <img src="./images/ibm_resilient_logo.png" />
     </div>
-  <div class="logo-text">IBM Security QRadar SOAR</div>
+  <div class="logo-text">IBM QRadar SOAR</div>
   </a>
   <a class="integration-button" href="jira-integration.html">
     <div class="logo">
