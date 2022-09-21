@@ -1,5 +1,5 @@
 ---
-title: "Organization Groups"
+title: "Groups"
 path: "/programs/organization-groups.html"
 id: "programs/organization-groups"
 ---
