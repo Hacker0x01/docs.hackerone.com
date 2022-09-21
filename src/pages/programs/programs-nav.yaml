@@ -35,11 +35,10 @@
       path: /programs/homepage.html
     - title: "Organization Profile"
       path: "/programs/organization-profile.html"
-      items:
-        - title: "Organization Users"
-          path: "/programs/organization-users.html"
-        - title: "Organization Groups"
-          path: "/programs/organization-groups.html"
+    - title: "Organization Users"
+      path: "/programs/organization-users.html"
+    - title: "Organization Groups"
+      path: "/programs/organization-groups.html"
 - title: Your Program
   items:
     - title: General Settings
