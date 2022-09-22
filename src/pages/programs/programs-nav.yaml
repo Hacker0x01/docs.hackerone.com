@@ -41,9 +41,9 @@
     - title: "Organization Profile"
       path: "/programs/organization-profile.html"
     - title: "Users"
-      path: "/programs/users.html"
+      path: "/programs/organization-users.html"
     - title: "Groups"
-      path: "/programs/groups.html"
+      path: "/programs/organization-groups.html"
 - title: Your Program
   items:
     - title: General Settings
