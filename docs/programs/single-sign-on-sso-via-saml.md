@@ -21,8 +21,12 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 ><i>Note: Your program must be launched and not in sandbox mode to set up SAML.</i>
 
 ### Set Up
+
 To configure Single Sign-On via SAML:
 1. Go to **Program Settings > General > Authentication**.
+
+><i>Note: You must have User Management permissions to setup SAML.</i>
+
 2. Click **Setup SAML** in the *Single Sign-on with SAML* section.
 
 ![saml setup](./images/saml-daisy-1.png)
