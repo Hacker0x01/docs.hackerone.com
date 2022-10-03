@@ -47,7 +47,8 @@ To join a program that uses VPN and to set up the HackerOne Gateway (VPN):
 ### Using Gateway (VPN)
 
 Once you’ve set up your Gateway (VPN) configurations, to start using Gateway:
-1. Go to your profile’s **Settings > [Gateway (VPN)](https://hackerone.com/setting/vpn)**.
+1. Go to your profile’s **
+s > [Gateway (VPN)](https://hackerone.com/settings/vpn)**.
 2. Click **Start** to start running the VPN instance for the location of your choice. It’s best to use the location with the lowest latency (time it takes for your request to get to your Gateway instance).
 
 It can take several minutes for the VPN instance to boot up and get configured. When the VPN instance is ready to run, there will be a banner that says Running.
