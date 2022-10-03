@@ -226,6 +226,8 @@
           path: /programs/jira-faqs.html
     - title: Kenna Security
       path: /programs/kenna-security.html
+    - title: Linear
+      path: /programs/linear-integration.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
     - title: Microsoft Teams

@@ -102,21 +102,27 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Kenna Security</div>
   </a>
+  <a class="integration-button" href="linear-integration.html">
+    <div class="logo">
+      <img src="./images/linear-dark-logo.png" />
+    </div>
+    <div class="logo-text">Linear</div>
+  </a>
   <a class="integration-button" href="mantisbt-integration.html">
     <div class="logo">
       <img src="./images/mantisbt-logo.png" />
     </div>
     <div class="logo-text">MantisBT</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="microsoft-teams.html">
     <div class="logo">
       <img src="./images/microsoft_teams_logo.png" />
     </div>
     <div class="logo-text">Microsoft Teams*</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="otrs-integration.html">
     <div class="logo">
       <img src="./images/otrs_logo.png" />
@@ -135,15 +141,16 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Phabricator</div>
   </a>
+  
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="redmine-integration.html">
     <div class="logo">
       <img src="./images/redmine_logo.png" />
     </div>
     <div class="logo-text">Redmine</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="servicenow-integration.html">
     <div class="logo">
       <img src="./images/servicenow_logo.png" />
@@ -162,15 +169,16 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Splunk*</div>
   </a>
+  
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="sumo-logic-integration.html">
     <div class="logo">
       <img src="./images/sumo_logic_logo.png" />
     </div>
     <div class="logo-text">Sumo Logic*</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="trac-integration.html">
     <div class="logo">
       <img src="./images/trac_logo.png" />
