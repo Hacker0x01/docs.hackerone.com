@@ -6,7 +6,7 @@ id: "programs/supported-integrations"
 HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You can set up multiple issue tracker integrations as well as a Slack integration.  
 
 HackerOne currently supports these integrations:
->Note: An asterisk(*) indicates the integration is available for Enterprise customers only.
+> **Note**: An asterisk(\*\) indicates the integration is available for Enterprise customers only.
 
 <div class="int-button-container">
   <a class="integration-button" href="assembla-integration.html">
