@@ -159,6 +159,8 @@ Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 
 
 ![servicenow-18](./images/servicenow-18.png)
 
+> **Note**: alternatively you can manually set the mapping to a single field or combination of fields from the [integration variables](/programs/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summare, a link to the report the submission date, the reporter name and the weakness of ther report and map that to a single field.
+
 8. Click **Next**.
 
 9. Enter your ServiceNow New Comment endpoint that was configured earlier in the **ServiceNow “Add Comment” endpoint** field. This should be a combination of the URL to your instance and the Resource Path found in the Scripted REST API object in ServiceNow.

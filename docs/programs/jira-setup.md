@@ -79,9 +79,11 @@ Ee69GuatJo5veIMeDwIDAQAB
 
 15. Select the HackerOne fields you want to map to the corresponding Jira fields. As alternative, enter any text using [integration variables](/programs/integration-variables.html). Click **Next**.
 
-*Note: only [supported Jira field types](/programs/jira-faqs.html) are shown.*
+> **Note**: only [supported Jira field types](/programs/jira-faqs.html) are shown.
 
 ![jira-setup-12](./images/jira-setup-12.png)
+
+> **Note**: alternatively you can manually set the mapping to a single field or combination of fields from the [integration variables](/programs/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summare, a link to the report the submission date, the reporter name and the weakness of ther report and map that to a single field.
 
 16. *(Optional)* Select Jira Priorities you want to map to the corresponding HackerOne Severities. This enables the right priority to be set when escalating a HackerOne report to Jira.
 
