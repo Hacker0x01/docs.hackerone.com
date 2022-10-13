@@ -3,9 +3,11 @@ title: "Supported Integrations"
 path: "/programs/supported-integrations.html"
 id: "programs/supported-integrations"
 ---
-HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You can set up multiple issue tracker integrations as well as a Slack integration.  
+
+HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You can set up multiple issue tracker integrations as well as a Slack integration.
 
 HackerOne currently supports these integrations:
+
 > **Note**: An asterisk(\*\) indicates the integration is available for Enterprise customers only.
 
 <div class="int-button-container">
@@ -141,7 +143,6 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Phabricator</div>
   </a>
-  
 </div>
 
 <div class="int-button-container">
@@ -169,7 +170,6 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Splunk*</div>
   </a>
-  
 </div>
 
 <div class="int-button-container">
@@ -198,7 +198,9 @@ HackerOne currently supports these integrations:
 Don't see your issue tracker listed here? [Let us know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
 
 ### Using Multiple Integrations
+
 You can set up multiple integrations with HackerOne. To select which issue tracker you want to escalate the HackerOne report to:
+
 1. Change the action picker to **Change state > Triaged** in your report on HackerOne.
 2. Click **Add reference to issue tracker**.
 
@@ -210,5 +212,5 @@ You can set up multiple integrations with HackerOne. To select which issue track
 
 4. Click **Generate escalation**. You'll be taken to your integration account where the report will be pre-populated.
 5. Submit the issue to create the report in your integrated issue tracker.
-6. Copy the report issue number in your issue tracker and paste it in the **Ref ID** field in HackerOne.   
+6. Copy the report issue number in your issue tracker and paste it in the **Ref ID** field in HackerOne.
 7. Click **Create** to create a direct reference link to the issue in your integrated issue tracker.
