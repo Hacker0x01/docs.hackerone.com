@@ -11,7 +11,7 @@ We are shifting the program-based focus and opening for future initiatives as an
 ![Opportunity Discovery Dashboard](./images/opportunity-discovery-1.png)
 
 
-From here, you can search and filter by program name, program type, asset type, or industry. Or you can simply scroll down to see recommended opportunities with the most important information in a card for quick browsing. The recommendations are grouped based on industries, assets, technologies, and bounties
+From here, you can search and filter by program name, program type, asset type, or industry. Or you can simply scroll down to see recommended opportunities with the most important information in a card for quick browsing. The recommendations are grouped based on industries, assets, technologies, and bounties. All drop-down filters on the Opportunities page search results are multi-select capable with search functionality.
 
 ![Opportunity Discovery Program Card](./images/opportunity-discovery-2.png)
 
