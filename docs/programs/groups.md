@@ -1,7 +1,7 @@
 ---
 title: "Groups"
-path: "/programs/organization-groups.html"
-id: "programs/organization-groups"
+path: "/programs/groups.html"
+id: "programs/groups"
 ---
 
 Groups are used to grant (and limit) access and permissions to users.
