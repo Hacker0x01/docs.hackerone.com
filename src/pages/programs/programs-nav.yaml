@@ -62,6 +62,8 @@
           path: /programs/response-target-indicators.html
         - title: Top Hackers
           path: /programs/top-hackers.html
+    - title: "Asset Inventory"
+      path: "/programs/asset-inventory.html"
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
