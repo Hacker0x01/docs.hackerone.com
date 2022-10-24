@@ -3,7 +3,7 @@ import React from "react";
 import { DocSearch } from '@docsearch/react';
 import '@docsearch/css';
 
-function App() {
+function Search() {
   return (
     <DocSearch
       appId=""
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default Search;
