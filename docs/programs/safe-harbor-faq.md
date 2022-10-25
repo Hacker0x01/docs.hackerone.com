@@ -9,7 +9,7 @@ Unfortunately, many existing anti-hacking laws are outdated and overly broad, ra
 
 This lack of clarity in the law makes it essential that any organization engaging the hacker community makes a clear, unambiguous statement that it considers Good Faith Security Research (see definition below) to be authorized activity that is protected from legal action by them. A comprehensive statement authorizing Good Faith Security Research may also help differentiate independent validation from data breach under many privacy laws. This type of statement is often referred to as “safe harbor.”
 
-As the leader in Attack Resistance Management and the host of the world’s largest community of ethical hackers, HackerOne provides a default, Gold Standard Safe Harbor statement and believes inclusion of a safe harbor statement is a necessary first step for any vulnerability disclosure or bug bounty program.
+As the leader in Attack Resistance Management and the host of the world’s largest community of ethical hackers, HackerOne provides a Gold Standard Safe Harbor statement and believes inclusion of a safe harbor statement is a necessary first step for any vulnerability disclosure or bug bounty program.
 
 **What is safe harbor?**
 
@@ -19,7 +19,7 @@ A “safe harbor” is a provision that offers protection from liability in cert
 
 HackerOne considers Good Faith Security Research to be accessing a computer solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in a manner designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices, machines, or online services to which the accessed computer belongs, or those who use such devices, machines, or online services. Those engaged in Good Faith Security Research are sometimes called “bona fide” security researchers or “white hat” or “ethical” hackers.
 
-Security research not conducted in good faith is not covered by safe harbor. For example, research conducted for the purpose of extortion is not in good faith. To the extent possible, hackers should seek to clarify the status of conduct that is borderline or they think may be inconsistent with Good Faith Security Research before engaging in such conduct. If there is a disagreement over whether or not given research is in good faith, organizations and hackers should look to common security research good practices and can also consult an advisor with deep expertise in security research and vulnerability disclosure for additional perspective.
+Security research not conducted in good faith is not covered by safe harbor. For example, research conducted for the purpose of extortion is not in good faith. To the extent possible, hackers should seek to clarify the status of conduct that is borderline or they think may be inconsistent with Good Faith Security Research or unaddressed in the program's policy before engaging in such conduct. If there is a disagreement over whether or not given research is in good faith, organizations and hackers should look to common security research good practices and can also consult an advisor with deep expertise in security research and vulnerability disclosure for additional perspective.
 
 As of October 25, 2022, the GSSH, including the concept of Good Faith Security Research, is aligned with recent legal and regulatory developments and current best practices represented by (among others):
 
@@ -57,7 +57,7 @@ Safe harbor is a baseline requirement to engage in good faith with the security 
 
 **Is the adoption of the Gold Standard Safe Harbor statement a big change?**
 
-No. While the updated language reflects new guidance from regulators and industry experts on safe harbor and represents a renewed push to further standardize safe harbor for vulnerability disclosure programs, we believe that many programs already adhere to the updated gold standard. New programs will default to HackerOne's Gold Standard Safe Harbor statement. Further, programs that appear to have outdated or even invalid safe harbor statements will want to transition to the gold standard statement to ensure their safe harbor statement fulfills their intention.
+No. While the updated language reflects new guidance from regulators and industry experts on safe harbor and represents a renewed push to further standardize safe harbor for vulnerability disclosure programs, we believe that many programs already align with the updated gold standard. New programs will eventually default to HackerOne's Gold Standard Safe Harbor statement. Further, programs that appear to have outdated safe harbor statements will want to transition to the gold standard statement to ensure their safe harbor statement fulfills their intention.
 
 **What if we don’t want to adopt the Gold Standard Safe Harbor statement?**
 
