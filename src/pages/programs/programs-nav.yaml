@@ -69,6 +69,8 @@
       items:
         - title: Good Policies
           path: /programs/good-policies.html
+        - title: "Safe Harbor FAQ"
+          path: "/programs/safe-harbor-faq.html"
         - title: Defining Scope
           path: /programs/defining-scope.html
         - title: Scope Best Practices
