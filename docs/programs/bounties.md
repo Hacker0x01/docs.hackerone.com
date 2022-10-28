@@ -27,7 +27,7 @@ To award a bounty:
 
 ![awarding bounties](./images/bounties-1.png)
 
-Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded.
+Bounty amounts can be increased at any point by setting another award on the report, but keep in mind that bounties can't be removed once awarded. Award values are cumulative, such that if you've already awarded $1k, and wish to increase the total to $3k, then you should set the second award amount to $2k.
 
 ### Suggesting Bounties
 
