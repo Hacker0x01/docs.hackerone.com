@@ -64,10 +64,10 @@ Segments allow you to save filtering and date selections that you need to look a
 **Note:** The segments are saved on your local browser, not on the server. Others cannot see your segments. Deleting cookies will delete the segments.
 
 1. Click **Add Segment**
-![add segment](./images/submission-bounty-dashboard-9.png)
+![add filters](./images/submission-bounty-dashboard-10.png)
 
 2. Apply desired filters
-![add filters](./images/submission-bounty-dashboard-10.png)
+![add segment](./images/submission-bounty-dashboard-9.png)
 
 3. Click Save as Segment
 
