@@ -10,7 +10,6 @@ As programs receive vulnerability reports and work on deploying fixes, they need
 
 If you’re invited to retest a vulnerability, you’ll receive an invitation in your email to retest the report.
 
-![retesting-1](./images/retesting-1b.png)
 
 If you're the original reporter of the report, you'll also receive an email asking you to participate in retesting your report.
 
@@ -19,9 +18,6 @@ If you're the original reporter of the report, you'll also receive an email aski
 To participate in the retest:
 1. Click <b>View retest invitation</b> in your email.
 2. <b>Accept</b> or <b>Reject</b> your invitation for retesting. <i>Note: The invitation is only valid for 24 hours.</i>
-
-![retesting invitation](./images/retesting-2b.png)
-
 3. Familiarize yourself with the contents of the report and check to see that the vulnerability has been fixed.
 4. Click the <b>answer these questions</b> link in the report banner or just scroll to the bottom of the report to access the questionnaire.
 
