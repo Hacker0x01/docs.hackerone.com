@@ -14,8 +14,6 @@ If you’ve submitted a valid vulnerability for a report, the program can reques
 
 If you’re invited to retest the vulnerability, you’ll receive a notification in your email to retest the report.
 
-![retest hacker invitation email](./images/retest-invitation-email.png)
-
 To participate in the retest:
 
 1. Click **View retest** in your notification email.
@@ -23,8 +21,6 @@ To participate in the retest:
 3. Submit your findings in the **Retest findings** form at the bottom of the report. The form consists of these fields:
      * Are you able to reproduce the vulnerability report?
      * Please provide us with a short summary of how you retested the vulnerability and upload any attachments of your validations.
-
-![retest form](./images/retest-findings-form.png)
 
 4. Click **Submit**.
 
