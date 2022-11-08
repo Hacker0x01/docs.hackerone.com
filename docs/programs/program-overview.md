@@ -58,6 +58,7 @@ Additional Actionable Reports | Displays the list of [open reports](report-state
 > **Note:** Account Management is accessible to users in Bounty Programs, and can only be viewed by Admins.  
 
 Account Management enables Admins to view their current bounty pool balance and payment details.
+
 Admins can also view their:
 * Current consumption tier
 * Tier usage health
