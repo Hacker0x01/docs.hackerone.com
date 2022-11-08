@@ -52,3 +52,16 @@ Category | Details
 Missed response targets | Displays the list of [open reports](report-states.html) in your program that have missed the response target so that you can respond to them quickly.
 Approaching response targets | Displays the list of [open reports](report-states.html) in your program that have approaching response targets so that you can respond to them in time.
 Additional Actionable Reports | Displays the list of [open reports](report-states.html) in your program that haven’t missed a response target nor have any approaching response targets. This enables you to keep track of reports in your inbox that you can be mindful of responding to.
+
+### Account Management
+
+> **Note:** Account Management is accessible to users in Bounty Programs, and can only be viewed by Admins.  
+
+Account Management enables Admins to view their current bounty pool balance and payment details.
+
+Admins can also view their:
+* Current consumption tier
+* Tier usage health
+* Bounty Spend: Tier usage in dollars and percentage
+* Days Into: Days elapsed into contract period
+* Contract Period: Start and end dates
