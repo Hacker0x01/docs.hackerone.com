@@ -8,7 +8,7 @@ The Overview page of the Program Dashboard provides an overarching view of impor
 
 ### Report Activity
 
-![image](./images/program-overview-1.png)
+![Report Activity](./images/program-overview-1.png)
 
 The report activity section shows data on reports that were acted upon within the selected date range.
 
@@ -25,19 +25,19 @@ Disclosed | Shows the number of reports that have been [disclosed](disclosure.ht
 
 ### Net Report Workload
 
-![image](./images/program-overview-2.png)
+![Net Report Workload](./images/program-overview-2.png)
 
 The net report workload shows the cadence of how many reports were submitted and resolved over time. The graph specifically shows how many reports were submitted each month as well as how many reports are left unresolved from the month that they were submitted, which is known as the report burndown. In each month you can see the total number of reports that need to be worked on, giving you the net report workload.
 
 ### Top Weaknesses
 
-![image](./images/program-overview-3.png)
+![Top Weaknesses](./images/program-overview-3.png)
 
 The Top Weaknesses section lists the most common weakness types that have been submitted to your program in the selected time frame.
 
 ### Bounty Budget Calculator
 
-![image](./images/program-overview-4.png)
+![bounty budget calculator](./images/program-overview-4.png)
 
 The bounty budget calculator enables you to see if your program will be over or under budget by the fiscal year so that you can better plan how much you should budget for your bounties. You can input your budget as well as your start date and budget time frame by quarter or year, and an average will be calculated to predict your program’s future spending trend. The average is calculated based on your program’s previous bounty spending trends.
 
@@ -58,10 +58,10 @@ Additional Actionable Reports | Displays the list of [open reports](report-state
 > **Note:** Account Management is accessible to users in Bounty Programs, and can only be viewed by Admins.  
 
 Account Management enables Admins to view their current bounty pool balance and payment details.
-
 Admins can also view their:
 * Current consumption tier
 * Tier usage health
 * Bounty Spend: Tier usage in dollars and percentage
 * Days Into: Days elapsed into contract period
 * Contract Period: Start and end dates
+![Account management](./images/program-overview-5.png)
