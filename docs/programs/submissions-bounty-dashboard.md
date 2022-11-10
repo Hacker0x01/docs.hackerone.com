@@ -7,6 +7,7 @@ The Submissions & Bounty Dashboard shows metrics data on hacker submissions for 
 
 ### Summary
 The Summary section at the top shows a row of cards which provide a quick overview of your report submission metrics.
+*Note: All submissions data is anchored by the report's submission date, and the bounty data is anchored by the date the bounty was paid out.*
 
 Item | Details
 ---- | ----------
