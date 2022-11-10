@@ -6,8 +6,7 @@ id: "programs/submissions-bounty-dashboard"
 The Submissions & Bounty Dashboard shows metrics data on hacker submissions for your programs. Bounty programs will show the number of valid submissions for that category on the left, with bounties paid out for that category on the right. You can export all of your data at once as a PDF or by sections as a CSV, PDF, or PNG image file.
 
 ### Summary
-The Summary section at the top shows a row of cards which provide a quick overview of your report submission metrics.
-*Note: All submissions data is anchored by the report's submission date, and the bounty data is anchored by the date the bounty was paid out.*
+The Summary section at the top shows a row of cards which provide a quick overview of your report submission metrics. All submissions data is anchored by the report's submission date, and all bounty data is anchored by the bounty awarded date.
 
 Item | Details
 ---- | ----------
