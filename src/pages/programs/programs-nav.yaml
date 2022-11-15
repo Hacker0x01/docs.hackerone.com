@@ -40,15 +40,19 @@
       path: /programs/homepage.html
     - title: "Organization Profile"
       path: "/programs/organization-profile.html"
+    - title: "Users"
+      path: "/programs/organization-users.html"
+    - title: "Groups"
+      path: "/programs/groups.html"
+- title: Your Program
+  items:
+    - title: General Settings
+      path: /programs/general-settings.html
     - title: User Management
       path: /programs/user-management.html
       items:
         - title: Groups and Permissions
           path: /programs/groups-and-permissions.html
-- title: Your Program
-  items:
-    - title: General Settings
-      path: /programs/general-settings.html
     - title: Security Page
       path: /programs/security-page.html
       items:
@@ -58,11 +62,15 @@
           path: /programs/response-target-indicators.html
         - title: Top Hackers
           path: /programs/top-hackers.html
+    - title: "Asset Inventory"
+      path: "/programs/asset-inventory.html"
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
         - title: Good Policies
           path: /programs/good-policies.html
+        - title: "Safe Harbor FAQ"
+          path: "/programs/safe-harbor-faq.html"
         - title: Defining Scope
           path: /programs/defining-scope.html
         - title: Scope Best Practices
@@ -222,6 +230,8 @@
           path: /programs/jira-faqs.html
     - title: Kenna Security
       path: /programs/kenna-security.html
+    - title: Linear
+      path: /programs/linear-integration.html
     - title: MantisBT
       path: /programs/mantisbt-integration.html
     - title: Microsoft Teams

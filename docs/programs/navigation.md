@@ -33,8 +33,8 @@ Starting point: Homepage
     * Global Top Weaknesses
     * Industry Top Weaknesses
 8. [Notifications](notifications.html)
-    * Profile Menu
-    * View Switcher
+9. Profile Menu
+    * HackerOne Views (Switch between Organization and Hacker View)
     * Profile
     * Settings
     * Docs
