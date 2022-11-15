@@ -19,7 +19,7 @@ The asset overview will provide detailed information which you can edit from wit
 
 ![detailed information](./images/asset-inventory-4.png)
 
-###Categories & Tags
+### Categories & Tags
 
 To create a new category:
 1. Click **Manage tags**
@@ -42,12 +42,12 @@ To create a new tag:
 
 *Note: You must create and select a category before you can create tags.*
 
-###Filtering
+### Filtering
 
 Click the filter button next to the Search bar to filter assets by category or tag.
 ![filtering](./images/asset-inventory-8.png)
 
-###Adding Assets
+### Adding Assets
 
 You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. A pop-up menu will appear prompting you to enter all the asset’s details.
 *Note: Assets are also added via the API, Darktrace, and the Asset submission review flows*
