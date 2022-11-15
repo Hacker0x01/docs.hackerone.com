@@ -3,10 +3,10 @@ title: "Submissions & Bounty Dashboard"
 path: "/programs/submissions-bounty-dashboard.html"
 id: "programs/submissions-bounty-dashboard"
 ---
-The Submissions & Bounty Dashboard shows data on all report submissions broken up by different metrics. Bounty programs will show the number of valid submissions for that category on the left, with bounties paid out for that category on the right. You can export all of your data at once as a PDF or by sections as a CSV file.
+The Submissions & Bounty Dashboard shows metrics data on hacker submissions for your programs. Bounty programs will show the number of valid submissions for that category on the left, with bounties paid out for that category on the right. You can export all of your data at once as a PDF or by sections as a CSV, PDF, or PNG image file.
 
 ### Summary
-The Summary section shows a row of metric cards which provide a quick overview of your report submission metrics to see any trends. All data shown is calculated based on the anchor date selection in the filters(link). **Report submitted date** only includes data from reports submitted within the selected date range. **Report closed date** only includes data from reports closed within the selected date range. Anchor date is only applicable to report count metrics and charts; bounty related metrics and charts will not be affected.
+The Summary section at the top shows a row of cards which provide a quick overview of your report submission metrics. All submissions data is anchored by the report's submission date, and all bounty data is anchored by the bounty awarded date.
 
 Item | Details
 ---- | ----------
@@ -24,7 +24,7 @@ Each of the charts below allows you to download the chart as CSV, PDF, or PNG im
 ![download menu](./images/submission-bounty-dashboard-2.png)
 
 ### Submissions & Bounty
-The Submissions & Bounty section shows the amount of valid submissions and the total bounty paid out during the selected time period.
+The Submissions & Bounty section shows the amount of valid submissions and the total bounty paid out during the selected time period compared to the average for all HackerOne customers.
 
 ![Submissions and bounty](./images/submission-bounty-dashboard-3.png)
 
