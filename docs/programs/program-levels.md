@@ -15,13 +15,13 @@ In addition to the Program Level badge displayed on the program card and policy 
 
 Program Level 1 is currently available for all programs to earn and programs may now start the level-up process for Program Level 2.
 
-#### Program Level 1
+### Program Level 1
 To earn Program Level 1, programs must adopt:
 * **Gold Standard Safe Harbor.** A short, broad, easily-understood safe harbor statement providing customers and ethical hackers with the best protections aligned with legal and regulatory standards.
 Achieving Level 1 also displays the stand-alone Gold Standard Safe Harbor section on the program policy page.
 View the text of the [Gold Standard Safe Harbor](https://hackerone.com/security/safe_harbor) and visit the [Safe Harbor FAQ](/programs/safe-harbor-faq.html) for more information about safe harbor.
 
-#### Program Level 2
+### Program Level 2
 To earn Program Level 2, programs must meet all the requirements of Program Level 1 and opt-in to the following best practices:
 * **Reward on Triage.** The program rewards when a vulnerability has been validated, no later than 30 days after report submission, ensuring that hackers receive predictable and timely rewards for their contributions. By definition, the program must be responsive to dialogue in reports.
 * **Full Reward Bypasses.** The program provides a full reward if a fix to a previously disclosed valid vulnerability is successfully bypassed.
