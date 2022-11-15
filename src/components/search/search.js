@@ -6,8 +6,8 @@ import "@docsearch/css";
 function Search() {
   return (
     <DocSearch
-      appId=""
-      apiKey="acfb7def12803db2cd4ac0539b2b571a"
+      appId="JNZ23QXOBB"
+      apiKey="9a387ea0841a8a1d573b6c7d3ee1df08"
       indexName="hackerone"
     />
   );
