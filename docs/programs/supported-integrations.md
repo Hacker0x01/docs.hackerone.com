@@ -157,7 +157,7 @@ HackerOne currently supports these integrations:
       <img src="./images/servicenow_logo.png" />
     </div>
     <div class="logo-text">ServiceNow*</div>
-</a>
+  </a>
   <a class="integration-button" href="https://support.securityscorecard.com/hc/en-us/articles/4403224402459-HackerOne-App">
     <div class="logo">
       <img src="./images/securityscorecard-logo.png" />
