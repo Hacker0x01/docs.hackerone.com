@@ -9,7 +9,7 @@ Unfortunately, many existing anti-hacking laws are outdated and overly broad, ra
 
 This lack of clarity in the law makes it essential that any organization engaging the hacker community makes a clear, unambiguous statement that it considers Good Faith Security Research (see definition below) to be authorized activity that is protected from legal action by them. A comprehensive statement authorizing Good Faith Security Research may also help differentiate independent validation from data breach under many privacy laws. This type of statement is often referred to as “safe harbor.”
 
-As the leader in Attack Resistance Management and the host of the world’s largest community of ethical hackers, HackerOne provides a Gold Standard Safe Harbor statement and believes inclusion of a safe harbor statement is a necessary first step for any vulnerability disclosure or bug bounty program.
+As the leader in Attack Resistance Management and the host of the world’s largest community of ethical hackers, HackerOne provides a [Gold Standard Safe Harbor statement](https://hackerone.com/security/safe_harbor) and believes inclusion of a safe harbor statement is a necessary first step for any vulnerability disclosure or bug bounty program.
 
 **What is safe harbor?**
 
