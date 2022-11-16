@@ -194,7 +194,7 @@ HackerOne currently supports these integrations:
     <div class="logo">
       <img src="./images/vulcan_logo.png" />
     </div>
-    <div class="logo-text">Vulcan Cyber</div>
+    <div class="logo-text">Vulcan</div>
   </a>
 </div>
 
