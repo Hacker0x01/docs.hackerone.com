@@ -162,7 +162,7 @@ HackerOne currently supports these integrations:
     <div class="logo">
       <img src="./images/securityscorecard-logo.png" />
     </div>
-    <div class="logo-text">SecurityScorecard</div>
+    <div class="logo-text">Security Scorecard</div>
   </a>
   <a class="integration-button" href="slack-integration.html">
     <div class="logo">
@@ -170,15 +170,14 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Slack</div>
   </a>
+</div>
+<div class="int-button-container">
   <a class="integration-button" href="splunk-integration.html">
     <div class="logo">
       <img src="./images/splunk_logo.png" />
     </div>
     <div class="logo-text">Splunk*</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="sumo-logic-integration.html">
     <div class="logo">
       <img src="./images/sumo_logic_logo.png" />
@@ -191,6 +190,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Trac</div>
   </a>
+  <a class="integration-button" href="https://help.vulcancyber.com/en/articles/4717420-hackerone-connector">
+    <div class="logo">
+      <img src="./images/vulcan_logo.png" />
+    </div>
+    <div class="logo-text">Vulcan Cyber</div>
+  </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
