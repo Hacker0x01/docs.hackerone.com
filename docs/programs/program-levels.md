@@ -13,12 +13,17 @@ Once a level is awarded, programs are expected to continue to adhere to the best
 
 In addition to the Program Level badge displayed on the program card and policy page, hackers are able to filter based on Program Levels in the HackerOne Directory when searching for new programs to participate in.
 
+![program levels badge](/images/programs/program-levels-1.png)
+
 Program Level 1 is currently available for all programs to earn and programs may now start the level-up process for Program Level 2.
 
 ### Program Level 1
 To earn Program Level 1, programs must adopt:
 * **Gold Standard Safe Harbor.** A short, broad, easily-understood safe harbor statement providing customers and ethical hackers with the best protections aligned with legal and regulatory standards.
 Achieving Level 1 also displays the stand-alone Gold Standard Safe Harbor section on the program policy page.
+
+![Gold Standard Safe Harbor on H1 Security Page](/images/gold-standard-safe-harbor.png)
+
 View the text of the [Gold Standard Safe Harbor](https://hackerone.com/security/safe_harbor) and visit the [Safe Harbor FAQ](/programs/safe-harbor-faq.html) for more information about safe harbor.
 
 ### Program Level 2
@@ -26,7 +31,6 @@ To earn Program Level 2, programs must meet all the requirements of Program Leve
 * **Reward on Triage.** The program rewards when a vulnerability has been validated, no later than 30 days after report submission, ensuring that hackers receive predictable and timely rewards for their contributions. By definition, the program must be responsive to dialogue in reports.
 * **Full Reward Bypasses.** The program provides a full reward if a fix to a previously disclosed valid vulnerability is successfully bypassed.
 * **See Something, Say Something.** While the program may choose to target its rewards to certain types of reports/issues as outlined in the program scope and bounty table, the program will not penalize hackers for valid reports on any of its assets (this does not include assets that are not hosted by the program which remain out of scope and not authorized for testing). Valid reports on the program’s own assets, even if not on an asset eligible for reward in the program scope, will never be closed without triage or incur a Reputation penalty. (Note: Any testing still must not be disruptive and should follow applicable guidelines in the program's policy. Issues considered noise, zero-impact, or spam may still be closed as N/A or Spam).
-
 * **Reward for Value.** If a report leads to direct action by the program to improve its security, such as a change of code, process, prioritization, and/or documentation, it will be rewarded. Example situations include:
   * An update to a third-party dependency;
   * A change to a configuration, including DNS records; or,
