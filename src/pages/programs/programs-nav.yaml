@@ -70,10 +70,10 @@
         - title: Good Policies
           path: /programs/good-policies.html
           items:
-            - title: "Safe Harbor FAQ"
-              path: "/programs/safe-harbor-faq.html"
-            - title: "Gold Standard Safe Harbor Statement"
-              path: "/programs/safe-harbor-statement.html"
+        - title: "Safe Harbor FAQ"
+          path: "/programs/safe-harbor-faq.html"
+        - title: "Gold Standard Safe Harbor Statement"
+          path: "/programs/safe-harbor-statement.html"
         - title: "Program Levels"
           path: "/programs/program-levels.html"
         - title: Defining Scope

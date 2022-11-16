@@ -12,7 +12,9 @@ The timeline from request to the next level will vary based on a number of facto
 Once a level is awarded, programs are expected to continue to adhere to the best practices defined for those levels. If a program is struggling to follow the best practices, HackerOne will provide several notices and opportunities to return to the best practices. Ultimately, a program can be downgraded from a level if it consistently fails to meet the level standards and does not respond to HackerOne’s attempts to help it achieve the level standards.
 
 In addition to the Program Level badge displayed on the program card and policy page, hackers are able to filter based on Program Levels in the HackerOne Directory when searching for new programs to participate in.
+
 ![program levels badge](/images/programs/program-levels-1.png)
+
 Program Level 1 is currently available for all programs to earn and programs may now start the level-up process for Program Level 2.
 
 ### Program Level 1
