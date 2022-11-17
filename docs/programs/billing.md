@@ -28,6 +28,12 @@ To request an invoice, go to **Program Settings > General > Billing > Prepayment
 
 You can view details for each transaction by viewing or exporting reports in **Program Settings > General > Billing > Overview**.
 
+### Email Receipts
+
+By default, email receipts for bounty, pentest, and retest payments to hackers are sent when paid with a credit card to team members with appropriate permissions. If you need receipts regardless of payment type, this feature can be enabled for your program.
+
+><i>Note: To opt-in to this feature or configure additional emails to receive receipts, contact support@hackerone.com for assistance</i>.
+
 ### Low Balance Notifications
 
 When you've opted to use prepayment, you can set up notifications to let you know that your account balance is low.
