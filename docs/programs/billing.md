@@ -30,7 +30,7 @@ You can view details for each transaction by viewing or exporting reports in **P
 
 ### Email Receipts
 
-By default, email receipts for bounty, pentest, and retest payments to hackers are sent when paid with a credit card to team members with appropriate permissions. If you need receipts regardless of payment type, this feature can be enabled for your program.
+Email receipts are sent to authorized team members by default when credit card payments are made to hackers for bounty, pentest, and retest payments. This feature can also be enabled for your program if you need receipts for other payment types.
 
 ><i>Note: To opt-in to this feature or configure additional emails to receive receipts, contact support@hackerone.com for assistance</i>.
 
