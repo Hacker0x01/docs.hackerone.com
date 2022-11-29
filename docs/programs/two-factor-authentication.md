@@ -13,15 +13,23 @@ Two-factor authentication is encouraged but not required on HackerOne. It’s ou
 To set up two-factor authentication for your account:
 1. Go your profile’s  **Settings > Authentication**.
 ![2fa-1](./images/2fa-1.png)
+
 2. Click **Set up**.
+
 3. Add your phone number and click **Next**.
+
 4. Enter the verification code sent to your phone number. This will enable account recovery.
+
 5. Click **Turn on** to enable two-factor authentication.
 ![2fa-4](./images/2fa-4.png)
+
 6. Scan the QR  code in your authenticator app or enter the code manually.
+
 7. Store your backup codes.
+
 8. Enter the verification code from your authenticator app as well as one of the backup codes from the previous page.
 ![2fa-7](./images/2fa-7.png)
+
 9. Click **Save**.
 
 Once your two-factor authentication is successfully enabled, you’ll be prompted to enter a 6-digit verification code from your authenticator app to log in to your HackerOne account.
@@ -37,3 +45,11 @@ On your user management settings, under <b>Settings > General > User Management<
 ![2fa-10](./images/2fa-10.png)
 
 ><i>Note: Two-factor Authentication is on a per-user basis. You can’t have SSO and 2FA simultaneously.</i>
+
+If a program adds multi-factor authentication to its requirements, the following will happen automatically:
+1. Hackers who do not have it will be removed from the program.
+2. Removed hackers will receive an invite explaining they must add multi-factor authentication in order to rejoin the program.
+
+If a hacker removes multi-factor authentication from their preferences:
+1. The hacker will be removed from all programs requiring it.
+2. The hacker will receive invitations explaining they must add multi-factor authentication in order to rejoin the programs.
