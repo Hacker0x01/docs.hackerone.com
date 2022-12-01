@@ -21,7 +21,8 @@ To set up your Response program:
 4. Click **Submit for approval** to have HackerOne review your program once you've completed all of the items for program setup.
 
 ### Controlled Launch
-If your program is approved by HackerOne, it will be placed in **Controlled launch** where it'll remain private and visible to only a select number of hackers. Within the controlled launch stage, you can invite hackers to your program and manage the reports you receive.
+If your program is approved by HackerOne, it will be placed in **Controlled launch** where it'll remain private and visible to only a select number of hackers. Within the controlled launch stage, you can invite hackers to your program and manage the reports you receive.[1115-Tara-Ad-Week-PDF.pdf](https://github.com/Hacker0x01/docs.hackerone.com/files/10134606/1115-Tara-Ad-Week-PDF.pdf)
+
 
 Before publicly launching your program, your program must:
    * Receive at least 10 reports and have invited 100 hackers
