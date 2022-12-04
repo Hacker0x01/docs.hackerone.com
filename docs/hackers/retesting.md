@@ -23,7 +23,7 @@ To participate in the retest:
      * Are you able to reproduce the vulnerability report?
      * Please provide us with a short summary of how you retested the vulnerability and upload any attachments of your validations.
 
-4. Click **Submit**.
+4. Click **Submit**. nawaf2296@gmail.com nawaf5573@gmail.com
 
 The program can either approve or reject your results. If they choose to:
 
