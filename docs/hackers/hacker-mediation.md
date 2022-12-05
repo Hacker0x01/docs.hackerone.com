@@ -33,9 +33,14 @@ To request mediation:
 
 When providing information about the mediation, please be as descriptive as possible about the nature of the disagreement. If no information is provided in the mediation request, this will increase the mediation response time as the mediation team will have to take time to make sure they understand the context to provide the proper assistance. Mediation is here to support. Please be advised that for programs not Triaged by HackerOne, Mediation may need extra time to work with the program to be granted access.
 
->Note: Please don't share any report details with HackerOne in the initial request without explicit mutual agreement from the program. HackerOne will arrange it with the program's security team if more information is required to address the problem.
+>Note: Please don't share excessive report details with HackerOne in the initial request without explicit mutual agreement from the program. HackerOne will arrange it with the program's security team if more information is required to address the problem.
 
-In most cases, HackerOne will not be able to mediate for reports that have been closed for over 3 months. Please respect the guidelines above and only request mediation if it's deemed absolutely necessary. Abuse of the hacker mediation process will result in this privilege being revoked from your account.
+Please do not request mediation for the following reasons (these requests will be closed):
+* If the report has been closed for 3+ months. HackerOne will not be able to mediate for reports that have been closed for over 3 months.
+* If you are looking for an update on a report which has seen an update from the H1 Triage team or program team less than 7 days ago
+* If your reason for request does not contain enough information about how we can assist or why you disagree with the handling of a report. Provide substantial context in your request
+
+Please respect the guidelines above and only request mediation if it's deemed absolutely necessary. Abuse of the hacker mediation process will result in this privilege being revoked from your account.
 
 Finally, keep in mind that HackerOne is no longer able to add external researchers to original report submissions due to security and privacy concerns related to doing so.
 
