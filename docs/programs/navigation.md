@@ -9,25 +9,27 @@ Starting point: Homepage
 
 1. [Organization Dropdown](organization-dropdown.html)
 2. [Inbox](inbox.html)
-3. [Dashboards](dashboards.html)
+3. Assets
+    * [Asset Inventory](assets-inventory.html)
+    * Asset Submissions
+4. [Dashboards](dashboards.html)
     * Overview
     * [Submissions & Bounty](submissions-bounty-dashboard.html)
     * Hacker Engagement
     * [Statistics](statistics-dashboard.html)
     * Response Efficiency
     * [Explore](explore.html)
-4. Program Settings
-    * General
-    * Program
-5. Organization Settings
-    * Profile
-    * Users
-    * API Tokens
-    * Groups
-    * Programs
-6. Assets
-    * Asset Inventory
-    * Asset Submissions
+5. [Engagements](engagements.html)
+6. Settings
+    * Program Settings
+        * General
+        * Program
+    * Organization Settings
+        * Profile
+        * Users
+        * API Tokens
+        * Groups
+        * Programs
 7. Intelligence
     * CVE Discovery
     * Global Top Weaknesses
