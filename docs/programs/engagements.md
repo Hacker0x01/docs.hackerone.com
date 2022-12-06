@@ -12,7 +12,7 @@ The engagement types are:
 * Pentest
 * Challenge
 * Campaign (run on top of a bounty program)
-* Asset Discovery (run on top of the H1Assets product)
+* Asset Discovery (run on top of the H1 Assets product)
 
 ![engagements page](./images/engagements-1.png)
 
