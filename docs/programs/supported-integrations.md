@@ -92,9 +92,9 @@ HackerOne currently supports these integrations:
 <div>
 
 <div class="int-button-container">
-  <a class="integration-button" href="https://jupiterone.com/features/integrations/hackerone-integration/">
+  <a class="integration-button" href="https://community.askj1.com/kb/articles/1005-hackerone-integration-with-jupiterone">
     <div class="logo">
-      <img src="./images/jupiter_one_logo.png" />
+      <img src="./images/jupiter-one-logo.png" />
     </div>
     <div class="logo-text">JupiterOne</div>
   </a>
