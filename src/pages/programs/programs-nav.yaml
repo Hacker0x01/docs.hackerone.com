@@ -38,12 +38,14 @@
   items:
     - title: Homepage
       path: /programs/homepage.html
-    - title: "Organization Profile"
-      path: "/programs/organization-profile.html"
-    - title: "Users"
-      path: "/programs/organization-users.html"
-    - title: "Groups"
-      path: "/programs/groups.html"
+    - title: Engagements
+      path: /programs/engagements.html
+    - title: Organization Profile
+      path: /programs/organization-profile.html
+    - title: Users
+      path: /programs/organization-users.html
+    - title: Groups
+      path: /programs/groups.html
 - title: Your Program
   items:
     - title: General Settings
@@ -62,20 +64,20 @@
           path: /programs/response-target-indicators.html
         - title: Top Hackers
           path: /programs/top-hackers.html
-    - title: "Asset Inventory"
-      path: "/programs/asset-inventory.html"
+    - title: Asset Inventory
+      path: /programs/asset-inventory.html
     - title: Policy and Scope
       path: /programs/policy-and-scope.html
       items:
         - title: Good Policies
           path: /programs/good-policies.html
           items:
-        - title: "Safe Harbor FAQ"
-          path: "/programs/safe-harbor-faq.html"
-        - title: "Gold Standard Safe Harbor Statement"
-          path: "/programs/safe-harbor-statement.html"
-        - title: "Program Levels"
-          path: "/programs/program-levels.html"
+        - title: Safe Harbor FAQ
+          path: /programs/safe-harbor-faq.html
+        - title: Gold Standard Safe Harbor Statement
+          path: /programs/safe-harbor-statement.html
+        - title: Program Levels
+          path: /programs/program-levels.html
         - title: Defining Scope
           path: /programs/defining-scope.html
         - title: Scope Best Practices
@@ -175,8 +177,8 @@
           path: /programs/locking-reports.html
         - title: Duplicate Reports
           path: /programs/duplicate-reports.html
-        - title: "Duplicate Detection"
-          path: "/programs/duplicate-detection.html"
+        - title: Duplicate Detection
+          path: /programs/duplicate-detection.html
         - title: Exporting Reports
           path: /programs/export-reports.html
         - title: Response Labels
@@ -322,8 +324,8 @@
       path: /programs/pentests.html
     - title: FAQs
       path: /programs/pentest-faqs.html
-    - title: "Retesting Pentest"
-      path: "/programs/retesting-pentest.html"
+    - title: Retesting Pentest
+      path: /programs/retesting-pentest.html
 - title: Helpful Tools
   items:
     - title: Automation
