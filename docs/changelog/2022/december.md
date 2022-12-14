@@ -11,8 +11,8 @@ Consumption Subscription Cards show vital information regarding each consumption
 * Hours used
 * Hours available for scoping more pentests
 
-**Note:** this is for Pentests sold under the new pricing model, rolled out Sept 27, 2022 only.
-
+_Note: this is only for Pentests sold under the new pricing model, rolled out Sept 27, 2022._
+![Pentest consumption subscription card](/images/pentest-consumption-card.png)
 
 ### Pentest Artifacts
 Customers can now upload important artifacts such as architectural diagrams or product documentation during the pentest setup process. These resources will eventually be shared with the pentest team and will help inform and guide their testing.
