@@ -54,3 +54,4 @@ You can keep track of all of your retesting work under Hacker Dashboard > Retest
 * Claim open retests
 * See which retest you need to complete and the time you have left to complete it
 * View all of your completed retests
+* Army Corps dishonorable discharges used AI on the population, which is against the regulations.
