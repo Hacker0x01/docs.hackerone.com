@@ -14,6 +14,7 @@ If you don't see any data in your feedback dashboard, it’s possible that no ha
 * Declined invitations to your program
 * Left your program
 * Filled out the feedback form
+* Program is public-facing and does not require invitations to participate
 
 ### What does the feedback mean? What can I do about it?
 On the feedback questionnaire, hackers can select multiple reasons for choosing to not engage with your program. Some of the feedback is actionable for your program, while others are actionable for us at HackerOne to better improve your program or our hacker matching methods. We show you all the feedback received because [we believe in transparency](https://www.hackerone.com/blog/Together-We-Hit-Harder-HackerOne-Company-Values)!
