@@ -10,7 +10,8 @@ While your reports go through the motions of report validation, you may see vari
 
 The following prefixes belong to members of the HackerOne team and their respective functions. Keep in mind that Customer Success Managers (CSM) are not yet using these prefixes at this time. 
 
-
+Prefix | User
+----- | ------
 h1_analyst | A member of the HackerOne Triage team
 h1_mediation | A member of the HackerOne Mediation Team
 h1_support | A member of the HackerOne Support Team
