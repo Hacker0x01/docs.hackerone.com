@@ -32,3 +32,5 @@ If your program has more groups, you can choose from those groups as well.
 ![api-token-3](./images/api-token-3.png)
 
 Once you've generated your API token, you'll receive a confirmation email stating that you’ve created a new API token. To learn more about the HackerOne API, check out our [API docs](https://api.hackerone.com/#introduction).
+
+*Note: h1 as a username prefix is locked and restricted to HackerOne employees only. This means that effective December 2022, HackerOne users will no longer be able to use h1 at the beginning of handles; this includes usernames, program handles, and API tokens.*

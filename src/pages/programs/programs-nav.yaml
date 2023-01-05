@@ -196,6 +196,8 @@
       path: /programs/retesting.html
     - title: Vacations
       path: /programs/vacations.html
+    - title: HackerOne on Your Program
+      path: /programs/hackerone-on-your-program.html
 - title: Integrations
   items:
     - title: Supported Integrations
