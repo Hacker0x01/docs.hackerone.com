@@ -9,7 +9,7 @@ The data displayed is for the time period chosen with the date picker at the rig
 
 ### Download Options
 Each of the charts allows you to download the chart as CSV, PDF, or PNG image file using the kabob menu (three vertical dots). 
-![download options](/images/hacker-engagement-1.png)
+![download options](./images/hacker-engagement-1.png)
 
 #### Hacker Participation
 The hacker participation chart shows the quality of hacker participation based on the number of hackers who submitted reports versus valid reports. 
