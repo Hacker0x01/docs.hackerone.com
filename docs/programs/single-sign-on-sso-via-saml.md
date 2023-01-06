@@ -18,8 +18,6 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 
 [Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) if you have another SAML provider.
 
-><i>Note: Your program must be launched and not in sandbox mode to set up SAML.</i>
-
 ### Set Up
 
 To configure Single Sign-On via SAML:

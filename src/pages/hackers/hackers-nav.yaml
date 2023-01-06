@@ -130,6 +130,8 @@
       path: /hackers/quality-reports.html
     - title: Using Markdown
       path: /hackers/using-markdown.html
+    - title: HackerOne on Your Reports
+      path: /hackers/hackerone-on-your-reports.html
     - title: Weakness
       path: /hackers/weakness.html
       items:

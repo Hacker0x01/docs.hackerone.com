@@ -30,3 +30,5 @@ Disable | Enter your current password to disable your account.
    * Explore [Hacktivity](hacktivity.html) to see what hacker activity is trending
    * Get to know the [Directory](directory.html)
    * Learn how to [submit a vulnerability report](submitting-reports.html)
+
+*Note: h1 as a username prefix is locked and restricted to HackerOne employees only. This means that effective December 2022, HackerOne users will no longer be able to use h1 at the beginning of handles; this includes usernames, program handles, and API tokens.*
