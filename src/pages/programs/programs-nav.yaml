@@ -286,6 +286,8 @@
           path: /programs/submissions-bounty-dashboard.html
         - title: Statistics Dashboard
           path: /programs/statistics-dashboard.html
+        - title: Hacker Engagement
+          path: /programs/hacker-engagement.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
         - title: Explore
