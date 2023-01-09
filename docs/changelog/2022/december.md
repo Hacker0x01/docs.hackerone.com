@@ -3,6 +3,11 @@ title: "December 2022"
 path: "/changelog/2022/december"
 date: "2022-12"
 ---
+### Opportunity Bounty Sorting
+Hackers can now sort results on the Opportunities page by high or low bounty.
+![Opportunity bounty sort](/images/bounty-sort.png)
+
+
 ### Consumption Subscription Card
 The Consumption Subscription Card is now available to all customers with the new Pentest Consumption Subscriptions.
 Consumption Subscription Cards show vital information regarding each consumption subscription, such as: 
