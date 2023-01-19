@@ -146,6 +146,12 @@ HackerOne currently supports these integrations:
 </div>
 
 <div class="int-button-container">
+ <a class="integration-button" href="https://docs.plextrac.com/plextrac-documentation/product-documentation-1/account-management/account-admin/tools-and-integrations/integrations/hackerone">
+    <div class="logo">
+      <img src="./images/plextrac-logo.png" />
+    </div>
+    <div class="logo-text">PlexTrac</div>
+  </a>
   <a class="integration-button" href="redmine-integration.html">
     <div class="logo">
       <img src="./images/redmine_logo.png" />
@@ -164,14 +170,14 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Security Scorecard</div>
   </a>
-  <a class="integration-button" href="slack-integration.html">
+</div>
+<div class="int-button-container">
+    <a class="integration-button" href="slack-integration.html">
     <div class="logo">
       <img src="./images/slack_logo.png" />
     </div>
     <div class="logo-text">Slack</div>
-  </a>
-</div>
-<div class="int-button-container">
+  </a> 
   <a class="integration-button" href="splunk-integration.html">
     <div class="logo">
       <img src="./images/splunk_logo.png" />
@@ -190,26 +196,20 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Trac</div>
   </a>
-  <a class="integration-button" href="https://help.vulcancyber.com/en/articles/4717420-hackerone-connector">
+</div>
+
+<div class="int-button-container">
+   <a class="integration-button" href="https://help.vulcancyber.com/en/articles/4717420-hackerone-connector">
     <div class="logo">
       <img src="./images/vulcan-logo.png" />
     </div>
     <div class="logo-text">Vulcan</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
     </div>
     <div class="logo-text">Zendesk</div>
-  </a>
-    <a class="integration-button" href="https://docs.plextrac.com/plextrac-documentation/product-documentation-1/account-management/account-admin/tools-and-integrations/integrations/hackerone">
-    <div class="logo">
-      <img src="./images/plextrac-logo.png" />
-    </div>
-    <div class="logo-text">PlexTrac</div>
   </a>
 </div>
 
