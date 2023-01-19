@@ -205,6 +205,12 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Zendesk</div>
   </a>
+    <a class="integration-button" href="https://docs.plextrac.com/plextrac-documentation/product-documentation-1/account-management/account-admin/tools-and-integrations/integrations/hackerone">
+    <div class="logo">
+      <img src="./images/plextrac-logo.png" />
+    </div>
+    <div class="logo-text">PlexTrac</div>
+  </a>
 </div>
 
 <br>

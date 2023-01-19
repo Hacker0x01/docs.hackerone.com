@@ -19,8 +19,6 @@ To have hackers retest a vulnerability:
 
 The original hacker that submitted the vulnerability will be invited to take part in the retest.
 
-After accepting the retest, the hacker will have 72 hours to confirm if the vulnerability has been properly fixed. If the hacker doesn’t finish the retest within the time period, the retest opportunity will expire and a different hacker will be able to claim the retest.
-
 The hacker will submit their findings in the **Retest findings** form at the bottom of the report. The form consists of these fields:
 * Are you able to reproduce the vulnerability report?
 * Please provide us with a short summary of how you retested the vulnerability and upload any attachments of your validations.
