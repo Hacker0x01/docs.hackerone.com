@@ -16,7 +16,7 @@ Customers can now group assets by tags, including any custom tags they have made
 
 ![asset sorting](/images/asset-sorting.png)
 
-### CVE Discovery in ASM Scanners
+### CVE Discovery in ASM Scans
 If the ASM scanner finds a risk that contains a CVE, clicking the CVE ID will now open our own intelligence tab with more information about the CVE. The platform context helps customers make better decisions on the importance and urgency of the risk.
 
 ![CVE discovery](/images/asm-findings.png)
