@@ -10,17 +10,18 @@ This feature helps manage the scope across all customer segments. Over time, it 
 
 HackerOne Assets customers get access to complete Asset Inventory features to manage their attack surface as well as the testing scopes
 
-Note: The Asset Inventory is only viewable to organization admins or users with Asset Manager or Asset Viewer permissions. 
+>Note: The Asset Inventory is only viewable to organization admins or users with Asset Manager or Asset Viewer permissions.
 
 ![Asset Inventory page](./images/asset-inventory-1.png)
 
 You can choose how to group assets based on tags; by default, they are grouped by domain. Clicking on a group opens a detailed list of all assets under that tag. From there, you can edit them individually or in bulk. Each asset listed shows information on coverage, program, owner, and open vulnerabilities.
 
-![domain details](./images/asset-inventory-2.png)
+![asset grouping](./images/asset-inventory-2.png)
 
+### Asset Details
 Opening the menu for an asset gives you options to view the asset overview, add scope, remove from scope, archive, or add a tag. You can also add tags and add or remove from scope in the bulk actions menu.
 
-![bulk action menu](./images/asset-inventory-3.png)
+![asset kabob menu](./images/asset-inventory-3.png)
 
 The asset overview will provide detailed information which you can edit from within the menu.
 
@@ -69,7 +70,7 @@ To create a new tag:
 6. Click **Create tag** to finish
 ![create tag](./images/asset-inventory-7.png)
 
-*Note: You must create and select a category before you can create tags.*
+**Note:** You must create and select a category before you can create tags.
 
 ### Advanced Features
 Purchasing the Assets feature also unlocks the Attack Surface Coverage dashboard and Asset Submissions. 
@@ -80,4 +81,4 @@ Your Attack Surface Coverage dashboard gives an overview of your entire attack s
 
 Asset Submissions allows hackers to submit potentially missed assets for review. You can then accept or reject these assets as part of your organization. If you accept a hacker’s submission, they will then be invited to submit asset enrichment to provide more details about technology tags, CVSS environmental score, and maximum severity.
 
-![asset submissions](./images/asset-inventory-9.png)
+![asset submissions](./images/asset-inventory-11.png)
