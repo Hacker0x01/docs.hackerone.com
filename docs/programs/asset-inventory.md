@@ -27,6 +27,21 @@ The asset overview will provide detailed information which you can edit from wit
 
 ![detailed information](./images/asset-inventory-4.png)
 
+### Scope
+You can add to scope, remove from scope, or add as out of scope by clicking on the kabob menu to the right of any asset.
+
+To add as in scope or out of scope:
+1. Click the kabob menu next to the asset
+2. Click **Add to scope**
+
+![Add to scope menu](./images/asset-inventory-12.png)
+
+3. Select the program
+4. Define the scope 
+5. Set bounty eligibility
+6. Check or uncheck the box **Notify subscribers of changes to the scope**
+7. Click **Add scope**
+
 The Scope tab in the program’s Security page allows hackers to see:
 1. Which assets are in-scope or out-of-scope
 2. Which assets are eligible for bounty
@@ -37,7 +52,7 @@ The Scope tab in the program’s Security page allows hackers to see:
 ### Adding Assets
 
 You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. A pop-up menu will appear prompting you to enter all the asset’s details.
-*Note: Assets can also be added via the API. ASM Scanner and Asset submission review flows are available when you purchase HackerOne Assets.*
+*Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets). ASM Scanner and Asset submission review flows are available when you purchase HackerOne Assets.*
 
 ![Adding Assets](./images/asset-inventory-9.png)
 
