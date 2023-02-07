@@ -16,7 +16,7 @@ New to hacking or want to sharpen your skills? We’ve created this leveling up 
 > **Note:** Depending on how you learn, there are 2 approaches you can take in watching the Hacker101 videos:<br> *1) Watch first, implement right away.* Get started on the Hacker101 Capture the Flag (CTF) (see step 6) as you concurrently learn from the videos. After watching each video lesson, you can implement the skill you learned from that lesson directly to the CTF. <br> *2) Watch everything, then implement.* Watch all of the videos first and then implement the skills you’ve learned to the CTF.
 
 6. Start the [Hacker101 CTF](https://ctf.hacker101.com/) (Capture the Flag) game where you can hack and hunt for bugs in a safe environment. [Learn how to get started with the Hacker101 CTF](hacker101.html#hacker101-ctf).
-   * Every time you earn 26 points in the CTF, you’ll be put in the invitation priority queue to receive invitations to private programs. Once you receive and accept an invitation to a private program, you’ll be taken out of the priority queue until you earn another 26 points to be put back in the queue.
+   * Once you have earned 26 points in the CTF, you’ll be marked as eligible to receive invitations to private programs.
 
 7. Join the Hacker101 HackerOne [Discord group](https://www.hacker101.com/discord) to ask questions, connect, and learn from other hackers.
 8. Finish the Hacker101 CTF. Even if you’ve already received an invitation to a private bug bounty program, we recommend going through all of the CTF curriculum to ensure you learn all of the concepts, so that you can better succeed at hacking.
