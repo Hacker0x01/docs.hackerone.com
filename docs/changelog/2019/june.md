@@ -6,7 +6,7 @@ date: "2019-06"
 
 ### Custom Fields
 
-After the beta launch in March, [custom fields](/programs/custom-fields.html) is now available to all Enterprise programs.  
+After the beta launch in March, [custom fields](/organizations/custom-fields.html) is now available to all Enterprise programs.  
 
 ![custom fields](./images/mar_2019_custom_fields.png)
 

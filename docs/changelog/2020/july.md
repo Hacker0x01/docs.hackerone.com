@@ -5,12 +5,12 @@ date: "2020-07"
 ---
 
 ### Webhooks
-Enterprise programs can now utilize [webhooks](/programs/webhooks.html) to build real-time integrations that subscribe to certain report and program events on HackerOne.
+Enterprise programs can now utilize [webhooks](/organizations/webhooks.html) to build real-time integrations that subscribe to certain report and program events on HackerOne.
 
 ![webhooks](./images/july_2020_webhooks.png)
 
 ### PagerDuty Integration
-Enterprise programs can also now [integrate PagerDuty](/programs/pagerduty-integration.html) with HackerOne so that each time an [event](https://api.hackerone.com/webhooks/#events) is triggered in HackerOne, a PagerDuty incident can automatically be created.
+Enterprise programs can also now [integrate PagerDuty](/organizations/pagerduty-integration.html) with HackerOne so that each time an [event](https://api.hackerone.com/webhooks/#events) is triggered in HackerOne, a PagerDuty incident can automatically be created.
 
 ### Reputation, Signal and Impact Calculation Enhancements
 We've made these changes to how [reputation](/hackers/reputation.html), [signal and impact](/hackers/signal-and-impact.html) are calculated:  

@@ -8,7 +8,7 @@ date: "2022-10"
 The Submissions & Bounty Dashboard was updated to use a faster performing backend analytics engine.
 
 ### HackerOne Assets
-HackerOne Assets combines the core capabilities of Attack Surface Management (ASM) and [Asset Inventory](/programs/asset-inventory.html) with the reconnaissance skills of ethical hackers to bring visibility, tracking, and risk propensity to an organization’s digital asset landscape.
+HackerOne Assets combines the core capabilities of Attack Surface Management (ASM) and [Asset Inventory](/organizations/asset-inventory.html) with the reconnaissance skills of ethical hackers to bring visibility, tracking, and risk propensity to an organization’s digital asset landscape.
 ![Asset Inventory](./images/asset-inventory.png)
 
 ### My Programs Filters

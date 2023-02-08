@@ -5,7 +5,7 @@ import { withPrefix } from "gatsby-link";
 import GatsbyConfig from "../../gatsby-config";
 
 import hackers from "../images/hackers.png";
-import programs from "../images/programs.png";
+import programs from "../images/organizations.png";
 
 const IndexPage = () => {
   return (

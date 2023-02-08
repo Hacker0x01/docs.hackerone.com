@@ -14,5 +14,5 @@ Pentest Tables enable team members to view all of their Pentests in one place. T
 ![Pentest tables](./images/pentest-tables.png)
 
 ### Duplicate Detection
-The [Duplicate Detection Console](/programs/duplicate-detection.html) streamlines customers' ability to detect duplicate reports across all their programs.
+The [Duplicate Detection Console](/organizations/duplicate-detection.html) streamlines customers' ability to detect duplicate reports across all their programs.
 ![Dupe detection console](./images/dupe-detection-2.png)

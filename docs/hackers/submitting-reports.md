@@ -31,7 +31,7 @@ In order to submit reports:
 
 ![proof of concept](./images/submit-reports-5.png)
 
-7. Enter any additional information the program asks for in the **Additional information** section. These are custom fields that the program created so that they can collect the specific information they need to better manage and understand the vulnerability. Some fields will be required and some will be optional. *(This section only appears for programs that have enabled [custom fields](/programs/custom-fields.html).)*
+7. Enter any additional information the program asks for in the **Additional information** section. These are custom fields that the program created so that they can collect the specific information they need to better manage and understand the vulnerability. Some fields will be required and some will be optional. *(This section only appears for programs that have enabled [custom fields](/organizations/custom-fields.html).)*
 
 ![additional information](./images/custom-fields-submit-report.png)
 

@@ -20,4 +20,4 @@ In order to create a directory entry:
 
 4. Click <b>Submit Program</b>.
 
-Programs will be visible on the directory as soon as the directory is created.  When an employee of the organization chooses to own and manage the profile, they can [submit a claim](/programs/security-page.html).
+Programs will be visible on the directory as soon as the directory is created.  When an employee of the organization chooses to own and manage the profile, they can [submit a claim](/organizations/security-page.html).
