@@ -1,7 +1,7 @@
 ---
 title: "Security Page"
 path: "/organizations/security-page.html"
-id: "programs/security-page"
+id: "organizations/security-page"
 ---
 
 <style>

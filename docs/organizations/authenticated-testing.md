@@ -1,7 +1,7 @@
 ---
 title: "Authenticated Testing"
 path: "/organizations/authenticated-testing.html"
-id: "programs/authenticated-testing"
+id: "organizations/authenticated-testing"
 ---
 
 * HackerOne recommends providing credentials and contextual information to hackers wherever possible

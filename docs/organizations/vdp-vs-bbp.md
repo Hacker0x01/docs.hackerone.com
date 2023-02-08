@@ -1,7 +1,7 @@
 ---
 title: "VDP vs BBP"
 path: "/organizations/vdp-vs-bbp.html"
-id: "programs/vdp-vs-bbp"
+id: "organizations/vdp-vs-bbp"
 ---
 
 Programs are often faced with the decision of whether they should go with a Vulnerability Disclosure Program (VDP) or a Bug Bounty Program (BBP) without really knowing the difference between the two.

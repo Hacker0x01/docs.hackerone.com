@@ -1,7 +1,7 @@
 ---
 title: "Homepage"
 path: "/organizations/homepage.html"
-id: "programs/homepage"
+id: "organizations/homepage"
 ---
 
 The homepage is the central place for customers to go after they log in. This page shows all programs within your organization and any action items required per program, regardless of the type of program you're running.

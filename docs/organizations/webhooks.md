@@ -1,7 +1,7 @@
 ---
 title: "Webhooks"
 path: "/organizations/webhooks.html"
-id: "programs/webhooks"
+id: "organizations/webhooks"
 ---
 
 Webhooks enable you to build your own real-time integrations that subscribe to certain report and program events on HackerOne. When an event is triggered, HackerOne will send an HTTP POST payload to the webhook’s configured URL. [View the API documentation for webhooks](https://api.hackerone.com/webhooks/#webhooks).

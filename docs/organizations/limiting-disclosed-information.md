@@ -1,7 +1,7 @@
 ---
 title: "Limiting Disclosed Information"
 path: "/organizations/limiting-disclosed-information.html"
-id: "programs/limiting-disclosed-information"
+id: "organizations/limiting-disclosed-information"
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 title: "Billing"
 path: "/organizations/billing.html"
-id: "programs/billing"
+id: "organizations/billing"
 ---
 
 HackerOne makes it easy to pay hackers. You can choose from these 2 options to pay a hacker:

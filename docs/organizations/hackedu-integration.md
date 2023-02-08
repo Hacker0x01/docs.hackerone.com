@@ -1,7 +1,7 @@
 ---
 title: "HackEDU Integration"
 path: "/organizations/hackedu-integration.html"
-id: "programs/hackedu-integration"
+id: "organizations/hackedu-integration"
 ---
 
 You can integrate HackEDU with HackerOne which enables your organization to automatically use the vulnerabilities found in your bug bounty programs to build dynamic training plans for your developers.

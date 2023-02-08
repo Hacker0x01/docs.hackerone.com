@@ -1,7 +1,7 @@
 ---
 title: "SSO via SAML FAQs"
 path: "/organizations/sso-faqs.html"
-id: "programs/sso-faqs"
+id: "organizations/sso-faqs"
 ---
 
 Question | Answer

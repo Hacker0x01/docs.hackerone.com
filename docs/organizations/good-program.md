@@ -1,7 +1,7 @@
 ---
 title: "Running a Good Program"
 path: "/organizations/good-program.html"
-id: "programs/good-program"
+id: "organizations/good-program"
 ---
 
 Congrats on launching your bug bounty program! You might be wondering, Now what? In order to help your program run successfully, we’ve outlined some helpful tips to guide you in managing your program.

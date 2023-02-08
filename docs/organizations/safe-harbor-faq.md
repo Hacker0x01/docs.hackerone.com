@@ -1,7 +1,7 @@
 ---
 title: "Safe Harbor FAQ"
 path: "/organizations/safe-harbor-faq.html"
-id: "programs/safe-harbor-faq"
+id: "organizations/safe-harbor-faq"
 ---
 Good Faith security research empowers us all to build a safer internet, and those who ethically disclose the vulnerabilities they find and the organizations that responsibly act upon their research should do so without threat of legal action or regulatory sanction.
 

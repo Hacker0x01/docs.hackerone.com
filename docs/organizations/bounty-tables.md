@@ -1,7 +1,7 @@
 ---
 title: "Bounty Tables"
 path: "/organizations/bounty-tables.html"
-id: "programs/bounty-tables"
+id: "organizations/bounty-tables"
 ---
 
 A bounty table shows how much your program is willing to pay for various bugs you receive. They help set expectations for hackers and gives your bug bounty team a guideline to ensure fair and consistent reward amounts. Setting up a bounty table will help provide more granular data and analytics for your program, which will in turn, help your program become more successful. The bounties in the table are categorized based on the severity of the issue identified.

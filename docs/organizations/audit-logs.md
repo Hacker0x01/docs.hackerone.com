@@ -1,7 +1,7 @@
 ---
 title: "Audit Logs"
 path: "/organizations/audit-logs.html"
-id: "programs/audit-logs"
+id: "organizations/audit-logs"
 ---
 
 Audit logs enable you to view all changes and actions done on your program so that you can review critical changes, find suspect actions, and investigate incidents for your program on HackerOne. Each log includes these details:

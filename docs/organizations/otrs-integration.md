@@ -1,7 +1,7 @@
 ---
 title: "OTRS Integration"
 path: "/organizations/otrs-integration.html"
-id: "programs/otrs-integration"
+id: "organizations/otrs-integration"
 ---
 
 With the OTRS integration, HackerOne makes it easy for you to track OTRS issues as references on the platform.

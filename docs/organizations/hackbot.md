@@ -1,7 +1,7 @@
 ---
 title: "Hackbot"
 path: "/organizations/hackbot.html"
-id: "programs/hackbot"
+id: "organizations/hackbot"
 ---
 
 Hackbot is HackerOne’s free automated service that provides in-context guidance by suggesting key features and actions on the platform in order to save you time and effort.

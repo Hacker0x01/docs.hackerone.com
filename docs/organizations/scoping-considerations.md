@@ -1,7 +1,7 @@
 ---
 title: "Scoping Considerations"
 path: "/organizations/scoping-considerations.html"
-id: "programs/scoping-considerations"
+id: "organizations/scoping-considerations"
 ---
 
 HackerOne programs perform testing in all different environments. What factors go into deciding which environment or [assets](https://docs.hackerone.com/organizations/scope-best-practices.html) are a good fit for the hacker-powered approach? What kinds of "blockers" have the potential to reduce hacker engagement?

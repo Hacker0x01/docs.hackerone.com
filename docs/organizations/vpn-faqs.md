@@ -1,7 +1,7 @@
 ---
 title: "HackerOne Gateway (VPN) FAQs"
 path: "/organizations/vpn-faqs.html"
-id: "programs/vpn-faqs"
+id: "organizations/vpn-faqs"
 ---
 
 Question | Answer

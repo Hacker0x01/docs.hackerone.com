@@ -1,7 +1,7 @@
 ---
 title: "IP Allowlists"
 path: "/organizations/ip-allowlists.html"
-id: "programs/ip-allowlists"
+id: "organizations/ip-allowlists"
 ---
 
 IP allowlists is a security feature that permits teams to control which IP ranges their team members must be coming from in order to access HackerOne. You can configure IP allowlists with these addresses:

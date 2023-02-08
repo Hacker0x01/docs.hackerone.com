@@ -1,7 +1,7 @@
 ---
 title: "Sessions"
 path: "/organizations/sessions.html"
-id: "programs/sessions"
+id: "organizations/sessions"
 ---
 
 The Sessions page enables you to review and manage all of your HackerOne sessions on all of the devices you’ve signed in to within the last 90 days. All sessions are stored with an IP address and user agent that you can revoke at any time.  

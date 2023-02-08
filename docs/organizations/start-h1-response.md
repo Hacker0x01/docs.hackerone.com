@@ -1,7 +1,7 @@
 ---
 title: "Response Programs"
 path: "/organizations/start-h1-response.html"
-id: "programs/start-h1-response"
+id: "organizations/start-h1-response"
 ---
 
 If you elect to start a HackerOne Response program, you'll be taken to the Setup Guide where you can walk through the steps of setting up and successfully launching your program.

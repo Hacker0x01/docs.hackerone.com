@@ -1,7 +1,7 @@
 ---
 title: "Disclosure Assistance"
 path: "/organizations/disclosure-assistance.html"
-id: "programs/disclosure-assistance"
+id: "organizations/disclosure-assistance"
 ---
 
 ### Context

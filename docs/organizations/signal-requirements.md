@@ -1,7 +1,7 @@
 ---
 title: "Signal Requirements"
 path: "/organizations/signal-requirements.html"
-id: "programs/signal-requirements"
+id: "organizations/signal-requirements"
 ---
 
 Signal Requirements enable a program to set a [signal](/hackers/signal-and-impact.html) threshold that hackers must reach in order to submit reports to the program. If a hacker falls below the threshold, they will have a restricted number of reports they can submit to your program. This will improve the quality of reports programs can expect to receive from hackers.

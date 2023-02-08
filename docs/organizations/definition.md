@@ -1,7 +1,7 @@
 ---
 title: "Definition"
 path: "/organizations/definition.html"
-id: "programs/definition"
+id: "organizations/definition"
 ---
 
 Content.

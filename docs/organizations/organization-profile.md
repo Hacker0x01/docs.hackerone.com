@@ -1,7 +1,7 @@
 ---
 title: "Organization Profile"
 path: "/organizations/organization-profile.html"
-id: "programs/organization-profile"
+id: "organizations/organization-profile"
 ---
 
 Your organization profile page displays the following details of your organization:

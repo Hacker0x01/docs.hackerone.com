@@ -1,7 +1,7 @@
 ---
 title: "Product Offerings"
 path: "/organizations/product-offerings.html"
-id: "programs/product-offerings"
+id: "organizations/product-offerings"
 ---
 
 HackerOne is the #1 hacker-powered security platform that helps organizations find and fix critical vulnerabilities before they're criminally exploited.

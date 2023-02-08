@@ -1,7 +1,7 @@
 ---
 title: "Gold Standard Safe Harbor Statement"
 path: "/organizations/safe-harbor-statement.html"
-id: "programs/safe-harbor-statement"
+id: "organizations/safe-harbor-statement"
 ---
 Gold Standard Safe Harbor supports the protection of organizations and hackers engaged in Good Faith Security Research. “Good Faith Security Research” is accessing a computer solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in a manner designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices, machines, or online services to which the accessed computer belongs, or those who use such devices, machines, or online services.
 

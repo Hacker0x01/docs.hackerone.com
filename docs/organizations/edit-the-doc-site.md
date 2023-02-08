@@ -1,7 +1,7 @@
 ---
 title: "Edit the Doc Site"
 path: "/organizations/edit-the-doc-site.html"
-id: "programs/edit-the-doc-site"
+id: "organizations/edit-the-doc-site"
 ---
 
 Each article has an `Edit this page on GitHub` link at the bottom that enables you to put in suggestions for edits to articles on the doc site. You can submit changes regarding typos, unclear sentences, information that needs to be updated or added, better ways to write the information, you name it. We're open to your contributions. 

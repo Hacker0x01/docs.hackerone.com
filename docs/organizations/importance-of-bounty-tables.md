@@ -1,7 +1,7 @@
 ---
 title: "Importance of Bounty Tables"
 path: "/organizations/importance-of-bounty-tables.html"
-id: "programs/importance-of-bounty-tables"
+id: "organizations/importance-of-bounty-tables"
 ---
 
 It's important for programs to create and publish bounty tables on their security page as it fosters:

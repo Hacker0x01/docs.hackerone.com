@@ -1,7 +1,7 @@
 ---
 title: "Program Mediation & Code of Conduct Review Requests"
 path: "/organizations/hacker-mediation.html"
-id: "programs/hacker-mediation"
+id: "organizations/hacker-mediation"
 ---
 
 Programs can request assistance from HackerOne in cases when all normal discussions with the hacker have been attempted and there has been no satisfactory resolution. Vice versa, hackers can also request mediation when programs do not honor commitments made in their policy page. More on reasons why a hacker may request mediation [here](/hackers/hacker-mediation.html).

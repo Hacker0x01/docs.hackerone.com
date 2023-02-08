@@ -1,7 +1,7 @@
 ---
 title: "Credential Management"
 path: "/organizations/credential-management.html"
-id: "programs/credential-management"
+id: "organizations/credential-management"
 ---
 
 The Credential Management feature enables you to easily share access credentials with hackers so that you don't have to constantly create sign in credentials for each new hacker that participates in your program. This also enables participating hackers to quickly retrieve the credentials needed to find vulnerabilities in your program.

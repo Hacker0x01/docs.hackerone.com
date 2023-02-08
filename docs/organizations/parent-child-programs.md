@@ -1,7 +1,7 @@
 ---
 title: "Parent/Child Programs"
 path: "/organizations/parent-child-programs.html"
-id: "programs/parent-child-programs"
+id: "organizations/parent-child-programs"
 ---
 
 There are various programs on HackerOne that are associated with a larger organization. Such programs are referred to as parent/child programs, where the parent program is the primary account, and any subsequent child is a subordinate program that is linked to the parent.

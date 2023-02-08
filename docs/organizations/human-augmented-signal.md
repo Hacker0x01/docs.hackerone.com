@@ -1,7 +1,7 @@
 ---
 title: "Human-Augmented Signal"
 path: "/organizations/human-augmented-signal.html"
-id: "programs/human-augmented-signal"
+id: "organizations/human-augmented-signal"
 ---
 Noise from invalid or low-impact reports creates a burden for programs and reduces the time that can be spent on reports that matter. With Human-Augmented Signal, analysts from HackerOne review reports flagged with a high noise probability by utilizing various criteria to classify all incoming reports automatically. This best-effort human review reduces the risk of false positives.  Any report dismissed by HackerOne analysts will appear in your inbox as *Not Applicable* but will not generate a notification. While eliminating all noise is improbable, Human-Augmented Signal aids in helping to provide a 90%+ signal experience for all programs.
 

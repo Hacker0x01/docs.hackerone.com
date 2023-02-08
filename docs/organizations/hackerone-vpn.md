@@ -1,7 +1,7 @@
 ---
 title: "HackerOne Gateway (VPN)"
 path: "/organizations/hackerone-vpn.html"
-id: "programs/hackerone-vpn"
+id: "organizations/hackerone-vpn"
 ---
 
 You can require finders to set up a virtual private network (VPN) instance with HackerOne Gateway (VPN) in order to find vulnerabilities in your program. The HackerOne Gateway (VPN) enables you to have granular control over finder activities on your program and assets.

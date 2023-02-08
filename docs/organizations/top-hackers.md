@@ -1,7 +1,7 @@
 ---
 title: "Top Hackers"
 path: "/organizations/top-hackers.html"
-id: "programs/top-hackers"
+id: "organizations/top-hackers"
 ---
 
 Your Security Page can list the top 5 hackers (ranked by reputation) that disclosed vulnerabilities to your program.

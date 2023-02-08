@@ -1,7 +1,7 @@
 ---
 title: "Users"
 path: "/organizations/organization-users.html"
-id: "programs/organization-users"
+id: "organizations/organization-users"
 ---
 
 To manage your team members you can go to Organization Settings > Users. From here you can manage all users across your organization.

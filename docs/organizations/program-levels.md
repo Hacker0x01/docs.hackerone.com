@@ -1,7 +1,7 @@
 ---
 title: "Program Levels"
 path: "/organizations/program-levels.html"
-id: "programs/program-levels"
+id: "organizations/program-levels"
 ---
 HackerOne Program Levels signal best practices that programs should adopt as part of their journey toward program maturity. Opting into these best practices at each level allows a program to request a level-up from HackerOne and to earn additional program-level badges and perks, as described below.
 

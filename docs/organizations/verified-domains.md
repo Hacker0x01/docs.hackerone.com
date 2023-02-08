@@ -1,7 +1,7 @@
 ---
 title: "Domain Verification"
 path: "/organizations/domain-verification.html"
-id: "programs/domain-verification"
+id: "organizations/domain-verification"
 ---
 
 In order to configure [single sign-on via SAML](single-sign-on-sso-via-saml.html), you need to verify ownership of the domain for your program.

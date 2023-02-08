@@ -1,7 +1,7 @@
 ---
 title: "Response Labels"
 path: "/organizations/response-labels.html"
-id: "programs/response-labels"
+id: "organizations/response-labels"
 ---
 
 Inbox reports are marked with response labels to help you see which reports need to be taken action on. Reports that miss a response standard or target will have one of these action labels in the inbox:

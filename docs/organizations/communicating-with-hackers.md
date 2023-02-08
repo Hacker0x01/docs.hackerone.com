@@ -1,7 +1,7 @@
 ---
 title: "Communicating with Hackers"
 path: "/organizations/communicating-with-hackers.html"
-id: "programs/communicating-with-hackers"
+id: "organizations/communicating-with-hackers"
 ---
 
 You can communicate with hackers by:

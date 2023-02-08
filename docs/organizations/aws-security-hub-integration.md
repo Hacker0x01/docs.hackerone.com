@@ -1,7 +1,7 @@
 ---
 title: "AWS Security Hub Integration"
 path: "/organizations/aws-security-hub-integration.html"
-id: "programs/aws-security-hub-integration"
+id: "organizations/aws-security-hub-integration"
 ---
 
 ## Introduction

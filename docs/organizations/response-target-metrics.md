@@ -1,7 +1,7 @@
 ---
 title: "Response Target Metrics"
 path: "/organizations/response-target-metrics.html"
-id: "programs/response-target-metrics"
+id: "organizations/response-target-metrics"
 ---
 
 HackerOne tracks and enables you to define targets for these 4 response efficiency metrics:

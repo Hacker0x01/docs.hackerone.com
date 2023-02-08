@@ -2,7 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import Article from "../../components/article/article";
 
-import programsNav from "./programs-nav.yaml";
+import organizationsNav from "./organizations-nav.yaml";
 
 class IndexRoute extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class IndexRoute extends React.Component {
 
     return (
       <Article
-        links={programsNav}
+        links={organizationsNav}
         path={markdownRemark.frontmatter.path}
         docOnGithub={`${markdownRemark.frontmatter.id}.md`}
         title={markdownRemark.frontmatter.title}

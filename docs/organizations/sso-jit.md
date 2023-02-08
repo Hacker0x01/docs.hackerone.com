@@ -1,7 +1,7 @@
 ---
 title: "JIT Provisioning"
 path: "/organizations/sso-jit.html"
-id: "programs/sso-jit"
+id: "organizations/sso-jit"
 ---
 
 HackerOne offers Just-in-time (JIT) provisioning with [SSO via SAML](single-sign-on-sso-via-saml.html) with System for Cross-domain Identity Management(SCIM). JIT provisioning enables you to automatically create user accounts by using the information from the SAML protocol.

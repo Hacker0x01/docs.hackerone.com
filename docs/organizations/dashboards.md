@@ -1,7 +1,7 @@
 ---
 title: "Dashboards"
 path: "/organizations/dashboards.html"
-id: "programs/dashboards"
+id: "organizations/dashboards"
 ---
 
 The Program Dashboard provides information on various metrics for your program. This helps you track the progress of your program and it also gives you a detailed summary and understanding of your program status.

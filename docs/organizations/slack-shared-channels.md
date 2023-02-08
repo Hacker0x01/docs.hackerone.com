@@ -1,7 +1,7 @@
 ---
 title: "Slack Shared Channels"
 path: "/organizations/slack-shared-channels.html"
-id: "programs/slack-shared-channels"
+id: "organizations/slack-shared-channels"
 ---
 >This feature is only available to HackerOne Enterprise Advisory Plus. For more details, please see product editions.
 

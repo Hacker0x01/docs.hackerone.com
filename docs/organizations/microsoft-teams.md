@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Teams Integration"
 path: "/organizations/microsoft-teams.html"
-id: "programs/microsoft-teams"
+id: "organizations/microsoft-teams"
 ---
 
 With the Microsoft Teams integration, you can keep track of activities happening on HackerOne in your Microsoft Teams interface. You’ll be able to receive notifications in selected channels of all your report activities on HackerOne which includes: status changes, bounties being paid, new comments, and more.

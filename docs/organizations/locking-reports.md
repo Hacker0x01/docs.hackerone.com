@@ -1,7 +1,7 @@
 ---
 title: "Locking Reports"
 path: "/organizations/locking-reports.html"
-id: "programs/locking-reports"
+id: "organizations/locking-reports"
 ---
 
 You can lock closed reports in order to prevent further discussion or action on a report. Locking a report is similar to archiving threads in a forum. Reasons to lock a closed report are:

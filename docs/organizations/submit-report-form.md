@@ -1,7 +1,7 @@
 ---
 title: "Submit Report Form"
 path: "/organizations/submit-report-form.html"
-id: "programs/submit-report-form"
+id: "organizations/submit-report-form"
 ---
 
 Hackers submit reports to your security team that contain detailed information about the security issues that the hacker has identified.

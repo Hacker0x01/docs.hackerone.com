@@ -1,7 +1,7 @@
 ---
 title: "General Settings"
 path: "/organizations/general-settings.html"
-id: "programs/general-settings"
+id: "organizations/general-settings"
 ---
 
 To change the settings of your bounty program follow these steps:

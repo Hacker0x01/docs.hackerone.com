@@ -1,7 +1,7 @@
 ---
 title: "Environmental Score"
 path: "/organizations/environmental-score.html"
-id: "programs/environmental-score"
+id: "organizations/environmental-score"
 ---
 
 The environmental score customizes the [severity](severity.html) of a vulnerability to an asset specific to the program’s organization. Setting this score enables you to see how severe the vulnerability to an asset is to your organization. It’s determined by setting impact levels to these 3 metrics:

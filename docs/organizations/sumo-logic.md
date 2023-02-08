@@ -1,7 +1,7 @@
 ---
 title: "Sumo Logic Integration"
 path: "/organizations/sumo-logic-integration.html"
-id: "programs/sumo-logic-integration"
+id: "organizations/sumo-logic-integration"
 ---
 
 You can configure a Sumo Logic integration using webhooks to log events from HackerOne in Sumo Logic. The Sumo Logic integration enables data to be logged based on the configured event trigger. This integration is flexible and can be used to log data for any of the [events listed](https://api.hackerone.com/webhooks/#events).

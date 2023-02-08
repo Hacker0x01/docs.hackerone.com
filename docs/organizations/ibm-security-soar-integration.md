@@ -1,7 +1,7 @@
 ---
 title: "IBM Security QRadar SOAR"
 path: "/organizations/ibm-security-soar.html"
-id: "programs/ibm-security-soar"
+id: "organizations/ibm-security-soar"
 ---
 
 With the IBM Security QRadar SOAR web URL integration, you can push all of your HackerOne submissions to QRadar SOAR so that you can track all of your vulnerability reports on Security SOAR.

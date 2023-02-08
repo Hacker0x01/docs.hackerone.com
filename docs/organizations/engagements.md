@@ -1,7 +1,7 @@
 ---
 title: "Engagements"
 path: "/organizations/engagements.html"
-id: "programs/engagements"
+id: "organizations/engagements"
 ---
 
 The Engagements page (currently in Beta) is a top-level navigation page where customers can find all the ways to engage with hackers. This includes any programs they are currently running as well as education on what other engagements they could run.

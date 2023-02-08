@@ -1,7 +1,7 @@
 ---
 title: "Bugzilla Integration"
 path: "/organizations/bugzilla-integration.html"
-id: "programs/bugzilla-integration"
+id: "organizations/bugzilla-integration"
 ---
 
 With the Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on HackerOne.

@@ -1,7 +1,7 @@
 ---
 title: "Export Reports"
 path: "/organizations/export-reports.html"
-id: "programs/export-reports"
+id: "organizations/export-reports"
 ---
 
 You can export your reports as:

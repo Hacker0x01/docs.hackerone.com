@@ -1,7 +1,7 @@
 ---
 title: "HackerOne on Your Program"
 path: "/organizations/hackerone-on-your-program.html"
-id: "programs/hackerone-on-your-program"
+id: "organizations/hackerone-on-your-program"
 ---
 
 HackerOne is proud to have employees based throughout the world. As our company grows, we want to ensure that our customers and hackers understand who is interacting with their reports.

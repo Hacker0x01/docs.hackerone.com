@@ -1,7 +1,7 @@
 ---
 title: "Asset-Based Credential Management"
 path: "/organizations/asset-based-credential-management.html"
-id: "programs/asset-based-credential-management"
+id: "organizations/asset-based-credential-management"
 ---
 
 In order to better manage who is allowed to hack on specific programs, you may issue Credentials to be claimed by invited hackers. These credentials allow a hacker access to private areas by way of granting them a login and password for those specific areas.

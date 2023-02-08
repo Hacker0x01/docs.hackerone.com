@@ -1,7 +1,7 @@
 ---
 title: "Inbox"
 path: "/organizations/inbox.html"
-id: "programs/parent-child-programs"
+id: "organizations/parent-child-programs"
 ---
 
 All vulnerability reports submitted to your program are sent directly to the inbox where you can view and manage your reports.

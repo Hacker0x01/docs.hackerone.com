@@ -1,7 +1,7 @@
 ---
 title: "Banning Hackers"
 path: "/organizations/banning-hackers.html"
-id: "programs/banning-hackers"
+id: "organizations/banning-hackers"
 ---
 
 If a hacker’s behavior is out of sync with what is outlined on your Security Page, or if they’ve violated part of the [HackerOne Code of Conduct](https://hackerone.com/disclosure-guidelines), you can take action to ban hackers from participating in your program. You can ban hackers from both private and public programs.

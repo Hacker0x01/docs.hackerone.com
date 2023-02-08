@@ -1,7 +1,7 @@
 ---
 title: "Program Overview"
 path: "/organizations/program-overview.html"
-id: "programs/program-overview"
+id: "organizations/program-overview"
 ---
 
 The Overview page of the Program Dashboard provides an overarching view of important data and statuses regarding your program. The page is broken up into various sections to help you better understand and get a comprehensive look at valuable details of your program.

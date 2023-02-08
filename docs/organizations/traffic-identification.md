@@ -1,7 +1,7 @@
 ---
 title: "Traffic Identification"
 path: "/organizations/traffic-identification.html"
-id: "programs/traffic-identification"
+id: "organizations/traffic-identification"
 ---
 
 There are several ways to identify hacker testing traffic at various layers for testing/feature enablement or testing control & monitoring.

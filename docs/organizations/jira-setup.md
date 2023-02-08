@@ -1,7 +1,7 @@
 ---
 title: "Jira Setup"
 path: "/organizations/jira-setup.html"
-id: "programs/jira-setup"
+id: "organizations/jira-setup"
 ---
 
 > <b>Note:</b> In order to configure your Jira integration, you must be an admin on Jira in order to properly have webhooks installed. After your integration has properly been set up, you can go back to regular access on Jira.  

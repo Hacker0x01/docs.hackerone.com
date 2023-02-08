@@ -1,7 +1,7 @@
 ---
 title: "Program Types"
 path: "/organizations/program-types.html"
-id: "programs/program-types"
+id: "organizations/program-types"
 ---
 
 There are different kinds of programs within HackerOne. There are:

@@ -1,7 +1,7 @@
 ---
 title: "Report Components"
 path: "/organizations/report-components.html"
-id: "programs/report-components"
+id: "organizations/report-components"
 ---
 
 Reports in your inbox consist of different components to give you a holistic view of the vulnerability.

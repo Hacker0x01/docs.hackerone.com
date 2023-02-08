@@ -1,7 +1,7 @@
 ---
 title: "Groups and Permissions"
 path: "/organizations/groups-and-permissions.html"
-id: "programs/groups-and-permissions"
+id: "organizations/groups-and-permissions"
 ---
 
 You can have customized groups with different access rights on your program. HackerOne Organization administrators can set these access rights for groups on your program. All security programs start with Admin and Standard default groups with set permissions that you can't edit, but you can still add or remove users to these groups.

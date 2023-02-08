@@ -1,7 +1,7 @@
 ---
 title: "Hacker Engagement"
 path: "/organizations/hacker-engagement.html"
-id: "programs/hacker-engagement"
+id: "organizations/hacker-engagement"
 ---
 The Hacker Engagement dashboard shows metrics on hacker participation in your programs. Close attention to this data and follow-up actions will ensure that you have a healthy count of participating hackers for running a successful bug bounty and vulnerability disclosure program (VDP). These provide a deeper insight into how many hackers submit valid reports and how many return to your program over time. 
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting Response Targets"
 path: "/organizations/setting-response-targets.html"
-id: "programs/setting-response-targets"
+id: "organizations/setting-response-targets"
 ---
 
 You can customize your program's response targets by configuring the number of business days.

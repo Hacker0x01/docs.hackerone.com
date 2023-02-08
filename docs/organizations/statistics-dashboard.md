@@ -1,7 +1,7 @@
 ---
 title: "Statistics Dashboard"
 path: "/organizations/statistics-dashboard.html"
-id: "programs/statistics-dashboard"
+id: "organizations/statistics-dashboard"
 ---
 
 The Statistics page enables you to view overall statistics for your program. You can view these all-time data metrics for your program:<br>

@@ -1,7 +1,7 @@
 ---
 title: "Reducing Noise"
 path: "/organizations/reducing-noise.html"
-id: "programs/reducing-noise"
+id: "organizations/reducing-noise"
 ---
 
 Once your program launches [publicly](/hackers/private-vs-public-programs.html), the entire hacker community is enabled to submit vulnerability reports to your program.  Though publicly launching your program is a huge accomplishment, it also means that your program is more susceptible to noise from invalid or low-impact reports. Receiving such reports makes it difficult to maintain healthy programs with healthy response times as programs are spending time filtering through these low priority reports.

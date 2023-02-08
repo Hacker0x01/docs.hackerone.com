@@ -1,7 +1,7 @@
 ---
 title: "Submission Requirements"
 path: "/organizations/submission.html"
-id: "programs/submission"
+id: "organizations/submission"
 ---
 
 The Submission Requirements page enables you to set specific requirements for hackers to submit reports to your program. You can:

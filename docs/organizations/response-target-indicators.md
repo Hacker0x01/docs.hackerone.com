@@ -1,7 +1,7 @@
 ---
 title: "Response Target Indicators"
 path: "/organizations/response-target-indicators.html"
-id: "programs/response-target-indicators"
+id: "organizations/response-target-indicators"
 ---
 
 <style>

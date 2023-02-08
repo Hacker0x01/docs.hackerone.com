@@ -1,7 +1,7 @@
 ---
 title: "Automation"
 path: "/organizations/automation.html"
-id: "programs/automation"
+id: "organizations/automation"
 ---
 
 HackerOne offers various automated features to simplify your workflow. You can configure:

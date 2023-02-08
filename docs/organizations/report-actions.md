@@ -1,7 +1,7 @@
 ---
 title: "Report Actions"
 path: "/organizations/report-actions.html"
-id: "programs/report-actions"
+id: "organizations/report-actions"
 ---
 
 There are several actions you can take on a report in your inbox. You can:

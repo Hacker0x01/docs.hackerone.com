@@ -1,7 +1,7 @@
 ---
 title: "Integration Variables"
 path: "/organizations/integration-variables.html"
-id: "programs/integration-variables"
+id: "organizations/integration-variables"
 ---
 
 Variable | Details |

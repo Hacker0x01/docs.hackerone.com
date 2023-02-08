@@ -1,7 +1,7 @@
 ---
 title: "Jira Migration Guide"
 path: "/organizations/jira-migration-guide.html"
-id: "programs/jira-migration-guide"
+id: "organizations/jira-migration-guide"
 ---
 
 Follow these steps to migrate your current Jira integration to the new version.

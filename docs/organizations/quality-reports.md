@@ -1,7 +1,7 @@
 ---
 title: "Quality Reports"
 path: "/organizations/quality-reports.html"
-id: "programs/quality-reports"
+id: "organizations/quality-reports"
 ---
 Hackers notify you of vulnerabilities by submitting reports to your inbox. Not all great vulnerability reports look the same, but many share these common features:
 * Detailed descriptions of the hacker's discovery with clear, concise reproducible steps or a working proof-of-concept (POC). If the hacker doesn't explain the vulnerability in detail, there may be significant delays in the disclosure process, which is undesirable for everyone.

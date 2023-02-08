@@ -1,7 +1,7 @@
 ---
 title: "Import Vulnerabilities"
 path: "/organizations/import-vulnerabilities.html"
-id: "programs/import-vulnerabilities"
+id: "organizations/import-vulnerabilities"
 ---
 <style>
 td, th {

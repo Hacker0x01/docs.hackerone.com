@@ -1,7 +1,7 @@
 ---
 title: "Scope Best Practices"
 path: "/organizations/scope-best-practices.html"
-id: "programs/scope-best-practices"
+id: "organizations/scope-best-practices"
 ---
 
 Well-defined scopes clearly communicate your program's needs and expectations with hackers. This enables hackers to have a better idea around what you would like them to focus on and how they should prioritize their time.

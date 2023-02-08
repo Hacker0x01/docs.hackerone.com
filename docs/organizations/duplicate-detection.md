@@ -1,7 +1,7 @@
 ---
 title: "Duplicate Detection"
 path: "/organizations/duplicate-detection.html"
-id: "programs/duplicate-detection"
+id: "organizations/duplicate-detection"
 ---
 
 Duplicate Detection is a console that streamlines the detection of duplicate reports across programs using Elasticsearch. While inbox search allows you to search all reports in the selected program, with this console you can search reports across all programs that you have access to, whether they are Bounty, Response, Challenge, Pentest, Child/Sibling programs, etc.

@@ -1,7 +1,7 @@
 ---
 title: "API Tokens"
 path: "/organizations/api-tokens.html"
-id: "programs/api-tokens"
+id: "organizations/api-tokens"
 ---
 
 Your program’s administrative users can generate and manage API tokens to experiment with or use the HackerOne API. The API token identifier and value are used as the username and password for HTTP Basic authentication.

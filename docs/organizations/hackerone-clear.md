@@ -1,7 +1,7 @@
 ---
 title: "HackerOne Clear"
 path: "/organizations/hackerone-clear.html"
-id: "programs/hackerone-clear"
+id: "organizations/hackerone-clear"
 ---
 
 HackerOne Clear enables your program to have access to an exclusive community of background-checked finders. Background-checked finders are active, high performing members of the HackerOne community that have satisfied strict background checks. Having these finders participate in your program ensures that trusted finders are partnered with you in finding vulnerabilities.

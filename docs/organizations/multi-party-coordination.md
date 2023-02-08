@@ -1,7 +1,7 @@
 ---
 title: "Multi-Party Coordination"
 path: "/organizations/multi-party-coordination.html"
-id: "programs/multi-party-coordination"
+id: "organizations/multi-party-coordination"
 ---
 
 Sometimes individual reports, disclosed or undisclosed, must be shared with 3rd parties that are not your program team members or a hacker participating in your program. This could be for many purposes such as patch development, information sharing, etc.

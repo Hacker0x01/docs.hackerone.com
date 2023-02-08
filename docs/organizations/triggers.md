@@ -1,7 +1,7 @@
 ---
 title: "Triggers"
 path: "/organizations/triggers.html"
-id: "programs/triggers"
+id: "organizations/triggers"
 ---
 
 ### What are they?

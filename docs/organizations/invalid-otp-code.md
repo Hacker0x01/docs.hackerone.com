@@ -1,7 +1,7 @@
 ---
 title: "Invalid OTP Code"
 path: "/organizations/invalid-otp-code.html"
-id: "programs/invalid-otp-code"
+id: "organizations/invalid-otp-code"
 ---
 
 ### Why is my OTP code invalid?

@@ -1,7 +1,7 @@
 ---
 title: "Phabricator Integration"
 path: "/organizations/phabricator-integration.html"
-id: "programs/phabricator-integration"
+id: "organizations/phabricator-integration"
 ---
 
 You can have a two-way integration between HackerOne and Phabricator in which whenever a comment is added or there’s a state change in a Phabricator task, an internal comment is posted on the associated HackerOne report. Vice versa, any actions done on HackerOne are shown in Phabricator.  

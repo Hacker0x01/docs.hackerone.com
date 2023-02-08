@@ -1,7 +1,7 @@
 ---
 title: "Program Starting Point"
 path: "/organizations/program-starting-point.html"
-id: "programs/program-starting-point"
+id: "organizations/program-starting-point"
 ---
 
 Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:

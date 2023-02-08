@@ -1,7 +1,7 @@
 ---
 title: "GitLab Integration"
 path: "/organizations/gitlab-integration.html"
-id: "programs/gitlab-integration"
+id: "organizations/gitlab-integration"
 ---
 
 With the GitLab integration, HackerOne makes it easy for you to track GitLab issues as references on the platform. GitLab only supports directly linking to the issue creation form on a per-repository basis, so if you use multiple repositories, there currently isn’t a good way of pre-filling data as a report could affect different repositories. If most of your reports only affect one repository, issue creation can be much easier.

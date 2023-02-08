@@ -1,7 +1,7 @@
 ---
 title: "Proof of Compliance"
 path: "/organizations/proof-of-compliance.html"
-id: "programs/proof-of-compliance"
+id: "organizations/proof-of-compliance"
 ---
 
 There are several security standards that require organizations to have a vulnerability disclosure policy (VDP) or bug bounty program (BBP) in place. You can generate a proof of compliance report for your program on HackerOne to prove that your organization has a VDP or BBP. The downloadable statement of attestation meets the requirements necessary to comply with various security standards.

@@ -1,7 +1,7 @@
 ---
 title: "Okta SSO Setup via SAML"
 path: "/organizations/okta-sso-saml-setup.html"
-id: "programs/okta-sso-saml-setup"
+id: "organizations/okta-sso-saml-setup"
 ---
 
 You can use your Okta credentials to sign in to HackerOne. To set up SSO via SAML for Okta:

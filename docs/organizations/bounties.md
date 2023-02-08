@@ -1,7 +1,7 @@
 ---
 title: "Bounties"
 path: "/organizations/bounties.html"
-id: "programs/bounties"
+id: "organizations/bounties"
 ---
 
 <style>

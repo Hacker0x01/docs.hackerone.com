@@ -1,7 +1,7 @@
 ---
 title: "Password Best Practices"
 path: "/organizations/passwords.html"
-id: "programs/password-best-practices"
+id: "organizations/password-best-practices"
 ---
 
 Passwords are used to protect access to your account from unauthorized users. When coming up with passwords to various accounts, there are standards and best practices to follow so that your accounts are best protected.

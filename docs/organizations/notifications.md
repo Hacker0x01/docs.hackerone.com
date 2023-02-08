@@ -1,7 +1,7 @@
 ---
 title: "Notifications"
 path: "/organizations/notifications.html"
-id: "programs/notifications"
+id: "organizations/notifications"
 ---
 
 Notifications enable you to keep track of activity that is going on in your program. The default setting is to receive notifications for all activity on all reports. This means that any action causing a change to a report will generate an email notification. All team members that are a part of your program as well as the hacker that found the vulnerability will receive a notification.  If the action is for internal purposes, only your team members will be notified. Learn more on how to [manage your report notifications](/hackers/manage-notifications.html). 

@@ -1,7 +1,7 @@
 ---
 title: "Explore"
 path: "/organizations/explore.html"
-id: "programs/explore"
+id: "organizations/explore"
 ---
 
 <style>

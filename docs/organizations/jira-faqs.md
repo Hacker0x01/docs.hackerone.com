@@ -1,7 +1,7 @@
 ---
 title: "Jira FAQs"
 path: "/organizations/jira-faqs.html"
-id: "programs/jira-faqs"
+id: "organizations/jira-faqs"
 ---
 
 Question | Answer

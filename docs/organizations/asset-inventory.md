@@ -1,7 +1,7 @@
 ---
 title: "Asset Inventory"
 path: "/organizations/asset-inventory.html"
-id: "programs/asset-inventory"
+id: "organizations/asset-inventory"
 ---
 Your organization’s Asset Inventory page allows you to create categories for assets across your organization.
 

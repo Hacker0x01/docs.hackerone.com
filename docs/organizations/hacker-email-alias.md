@@ -1,7 +1,7 @@
 ---
 title: "Hacker Email Alias"
 path: "/organizations/hacker-email-alias.html"
-id: "programs/hacker-email-alias"
+id: "organizations/hacker-email-alias"
 ---
 
 All hackers have an email alias on HackerOne that forwards any emails to their actual email address. This provides an easy way for programs to contact hackers in order to share credentials and information regarding how to set up custom workflows without having to access their actual email address. Programs now no longer have to share credentials through excel spreadsheets, shared documents, or other means. 

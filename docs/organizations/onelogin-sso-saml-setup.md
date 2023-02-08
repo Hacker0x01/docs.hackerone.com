@@ -1,7 +1,7 @@
 ---
 title: "OneLogin SSO Setup via SAML"
 path: "/organizations/onelogin-sso-saml-setup.html"
-id: "programs/onelogin-sso-saml-setup"
+id: "organizations/onelogin-sso-saml-setup"
 ---
 
 You can use your OneLogin credentials to sign in to HackerOne. To set up SSO via SAML for OneLogin:

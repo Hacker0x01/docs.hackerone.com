@@ -1,7 +1,7 @@
 ---
 title: "Hacker Reviews"
 path: "/organizations/hacker-reviews.html"
-id: "programs/hacker-reviews"
+id: "organizations/hacker-reviews"
 ---
 
 With Hacker Reviews, you have the option to send comments on hacker behavior to HackerOne and the hacker after closing a report. The reviews also enable the reviewer to highlight a key behavior which can allow HackerOne to award or assist the hacker accordingly.

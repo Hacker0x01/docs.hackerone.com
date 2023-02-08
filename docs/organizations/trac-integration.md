@@ -1,7 +1,7 @@
 ---
 title: "Trac Integration"
 path: "/organizations/trac-integration.html"
-id: "programs/trac-integration"
+id: "organizations/trac-integration"
 ---
 
 With the Trac integration, HackerOne makes it easy for you to link Trac issues as references on the platform.

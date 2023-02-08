@@ -1,7 +1,7 @@
 ---
 title: "Disclosure"
 path: "/organizations/disclosure.html"
-id: "programs/disclosure"
+id: "organizations/disclosure"
 ---
 
 <style>

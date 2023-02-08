@@ -1,7 +1,7 @@
 ---
 title: "Industry Benchmarking"
 path: "/organizations/industry-benchmarking.html"
-id: "programs/industry-benchmarking"
+id: "organizations/industry-benchmarking"
 ---
 
 HackerOne’s peer benchmarking can help organizations understand and act on vulnerability trends, compare themselves to similar, best-in-class security programs, and garner insights on best practices for future improvements. Benchmarks can be important in helping you understand where you fall amongst industry peers and demonstrate that you’re on par or ahead of other players on HackerOne's platform, the largest and richest dataset in the industry.

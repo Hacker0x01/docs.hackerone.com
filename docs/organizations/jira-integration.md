@@ -1,7 +1,7 @@
 ---
 title: "Jira Integration"
 path: "/organizations/jira-integration.html"
-id: "programs/jira-integration"
+id: "organizations/jira-integration"
 ---
 
 <style>

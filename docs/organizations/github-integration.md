@@ -1,7 +1,7 @@
 ---
 title: "GitHub Integration"
 path: "/organizations/github-integration.html"
-id: "programs/github-integration"
+id: "organizations/github-integration"
 ---
 
 HackerOne offers a seamless two-way workflow integration that enables tracking and synchronizing vulnerability reports between HackerOne and GitHub. This means that GitHub users can sync specific workflows from GitHub to HackerOne and vice versa, from HackerOne to GitHub. This integration contributes to a better workflow in managing security vulnerabilities as it minimizes the back and forth between GitHub and HackerOne.

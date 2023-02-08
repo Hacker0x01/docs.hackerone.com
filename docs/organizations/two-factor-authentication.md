@@ -1,7 +1,7 @@
 ---
 title: "Two-Factor Authentication"
 path: "/organizations/two-factor-authentication.html"
-id: "programs/two-factor-authentication"
+id: "organizations/two-factor-authentication"
 ---
 
 Two-factor authentication (2FA) enables you to add an extra layer of protection from getting your account compromised. You can set up two-factor authentication using any device capable of generating Time-based One-Time Password (TOTP) authentication codes (RFC 6238) to log in to your HackerOne account. You can use Google Authenticator or Duo Mobile or any other compatible application to generate the codes.

@@ -1,7 +1,7 @@
 ---
 title: "ServiceNow Integration"
 path: "/organizations/servicenow-integration.html"
-id: "programs/servicenow-integration"
+id: "organizations/servicenow-integration"
 ---
 
 HackerOne offers a bi-directional ServiceNow integration that enables you to synchronize your HackerOne reports to ServiceNow and vice versa, from ServiceNow to HackerOne. This integration enables your development and security teams to stay aligned as it also contributes to a better workflow of remediating security vulnerabilities by minimizing the manual back and forth between ServiceNow and HackerOne.

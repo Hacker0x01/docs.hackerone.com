@@ -1,7 +1,7 @@
 ---
 title: "Brinqa Integration"
 path: "/organizations/brinqa-integration.html"
-id: "programs/brinqa-integration"
+id: "organizations/brinqa-integration"
 ---
 
 With the Brinqa integration, you can push all of your HackerOne submissions to Brinqa so that you can track all of your vulnerability reports on Brinqa.

@@ -1,7 +1,7 @@
 ---
 title: "Hacker Feedback Dashboard"
 path: "/organizations/hacker-feedback-dashboard.html"
-id: "programs/hacker-feedback-dashboard"
+id: "organizations/hacker-feedback-dashboard"
 ---
 
 ### What is the Feedback Dashboard?

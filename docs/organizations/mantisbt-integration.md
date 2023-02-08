@@ -1,7 +1,7 @@
 ---
 title: "MantisBT Integration"
 path: "/organizations/mantisbt-integration.html"
-id: "programs/mantisbt-integration"
+id: "organizations/mantisbt-integration"
 ---
 
 With the MantisBT integration, HackerOne makes it easy for you to track MantisBT issues as references on the platform.

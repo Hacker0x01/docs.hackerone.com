@@ -3,7 +3,7 @@ const path = require("path");
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  const programsTemplate = path.resolve('./src/templates/programs.js');
+  const programsTemplate = path.resolve('./src/templates/organizations.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');
   const changelogTemplate = path.resolve('./src/templates/changelog.js');
   const glossaryTemplate = path.resolve('./src/templates/glossary.js');

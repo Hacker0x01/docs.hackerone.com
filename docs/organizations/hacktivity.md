@@ -1,7 +1,7 @@
 ---
 title: "Hacktivity"
 path: "/organizations/hacktivity.html"
-id: "programs/hacktivity"
+id: "organizations/hacktivity"
 ---
 
 [Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. It also serves as a resource that enables hackers to search for reports regarding programs and weaknesses they're interested in so that they can see how specific weaknesses were exploited in various programs.

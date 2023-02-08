@@ -1,7 +1,7 @@
 ---
 title: "Navigation"
 path: "/organizations/navigation.html"
-id: "programs/navigation"
+id: "organizations/navigation"
 ---
 ![navigation overview for organizations](./images/navigation-overview-organization.png)
 

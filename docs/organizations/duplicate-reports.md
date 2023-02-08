@@ -1,7 +1,7 @@
 ---
 title: "Duplicate Reports"
 path: "/organizations/duplicate-reports.html"
-id: "programs/duplicate-reports"
+id: "organizations/duplicate-reports"
 ---
 
 When a hacker reports a vulnerability that has already been reported, it's considered a duplicate report. Marking a report as a *duplicate* enables you to choose from taking these 2 options:

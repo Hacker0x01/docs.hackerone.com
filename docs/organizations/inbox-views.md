@@ -1,7 +1,7 @@
 ---
 title: "Inbox Views"
 path: "/organizations/inbox-views.html"
-id: "programs/inbox-views"
+id: "organizations/inbox-views"
 ---
 
 Inbox views are a selection of saved filters that categorize your inbox reports. The administrator of your program can customize the views in your inbox by:

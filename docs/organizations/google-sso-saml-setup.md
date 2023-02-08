@@ -1,7 +1,7 @@
 ---
 title: "Google SSO Setup via SAML"
 path: "/organizations/google-sso-saml-setup.html"
-id: "programs/google-sso-saml-setup"
+id: "organizations/google-sso-saml-setup"
 ---
 
 You can use your Google credentials to sign in to HackerOne. To set up SSO via SAML for Google:
