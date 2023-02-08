@@ -51,7 +51,7 @@ const IndexPage = () => {
               </div>
             </Topic>
 
-            <Topic url={withPrefix("/programs.html")}>
+            <Topic url={withPrefix("/organizations.html")}>
               <img
                 src={programs}
                 width="44"
@@ -60,7 +60,7 @@ const IndexPage = () => {
                 className="topic__image"
               />
               <div>
-                <h2>Programs</h2>
+                <h2>Organizations</h2>
                 <p>
                   What you need to know about how our platform works and the
                   services we offer.
