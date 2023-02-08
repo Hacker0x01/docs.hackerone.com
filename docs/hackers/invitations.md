@@ -1,3 +1,4 @@
+[CompanyOwnedDevices-20220910.xlsx](https://github.com/Hacker0x01/docs.hackerone.com/files/10537593/CompanyOwnedDevices-20220910.xlsx)
 ---
 title: "Invitations"
 path: "/hackers/invitations.html"
@@ -36,6 +37,7 @@ Some hackers may want to get invites from any private program, while others only
 To choose when to receive invitations to private programs, you can navigate to **Settings > Invitation Preferences**.
 
 You can choose from these options:
+
 
 Field | Detail
 ------ | ------
