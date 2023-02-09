@@ -3,7 +3,7 @@ const path = require("path");
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  const programsTemplate = path.resolve('./src/templates/programs.js');
+  const organizationsTemplate = path.resolve('./src/templates/organizations.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');
   const changelogTemplate = path.resolve('./src/templates/changelog.js');
   const glossaryTemplate = path.resolve('./src/templates/glossary.js');
@@ -33,8 +33,8 @@ exports.createPages = ({ graphql, actions }) => {
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       let template;
-      if (node.frontmatter.path.includes("/programs")) {
-        template = programsTemplate;
+      if (node.frontmatter.path.includes("/organizations")) {
+        template = organizationsTemplate;
       } else if (node.frontmatter.path.includes("/hackers")) {
         template = hackersTemplate;
       } else if (node.frontmatter.path.includes("/changelog")) {

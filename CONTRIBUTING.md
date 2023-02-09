@@ -20,8 +20,8 @@ When adding a new article to the program book, make sure you format the file suc
 ```md
 ---
 title: "Title of the Article"
-path: "/programs/title-of-the-article.html"
-id: "programs/title-of-the-article"
+path: "/organizations/title-of-the-article.html"
+id: "organizations/title-of-the-article"
 ---
 ```
 
