@@ -76,6 +76,8 @@
           path: /organizations/safe-harbor-faq.html
         - title: Gold Standard Safe Harbor Statement
           path: /organizations/safe-harbor-statement.html
+        - title: Industry Best Practices
+          path: /organizations/best-practices.html  
         - title: Program Levels
           path: /organizations/program-levels.html
         - title: Defining Scope
