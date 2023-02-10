@@ -56,7 +56,7 @@ const IndexPage = () => {
                 src={programs}
                 width="44"
                 height="44"
-                alt="Programs"
+                alt="Organizations"
                 className="topic__image"
               />
               <div>
