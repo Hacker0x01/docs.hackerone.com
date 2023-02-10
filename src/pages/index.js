@@ -5,7 +5,7 @@ import { withPrefix } from "gatsby-link";
 import GatsbyConfig from "../../gatsby-config";
 
 import hackers from "../images/hackers.png";
-import programs from "../images/organizations.png";
+import organizations from "../images/organizations.png";
 
 const IndexPage = () => {
   return (
@@ -53,7 +53,7 @@ const IndexPage = () => {
 
             <Topic url={withPrefix("/organizations.html")}>
               <img
-                src={programs}
+                src={organizations}
                 width="44"
                 height="44"
                 alt="Organizations"
