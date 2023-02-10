@@ -33,7 +33,7 @@ exports.createPages = ({ graphql, actions }) => {
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       let template;
-      if (node.frontmatter.path.includes("/programs")) {
+      if (node.frontmatter.path.includes("/organizations")) {
         template = programsTemplate;
       } else if (node.frontmatter.path.includes("/hackers")) {
         template = hackersTemplate;

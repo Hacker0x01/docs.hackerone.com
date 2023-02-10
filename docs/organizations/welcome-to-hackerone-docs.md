@@ -2,7 +2,7 @@
 title: "Welcome to HackerOne Docs"
 path: "/organizations.html"
 id: "organizations/welcome-to-hackerone-docs"
-bookIndexFor: "programs"
+bookIndexFor: "organizations"
 ---
 
 Are you launching a new program or wanting to learn more about a feature on HackerOne? You're in the right place. These guides will help you to understand the product so that you can easily navigate through your hacker-powered security program. Check out the sections on the left to learn more.

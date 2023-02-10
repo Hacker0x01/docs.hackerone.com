@@ -27,7 +27,7 @@ export default IndexRoute;
 
 export const pageQuery = graphql`
   query programsIndexQuery {
-    markdownRemark(frontmatter: { bookIndexFor: { eq: "programs" } }) {
+    markdownRemark(frontmatter: { bookIndexFor: { eq: "organizations" } }) {
       html
       frontmatter {
         path
