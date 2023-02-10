@@ -12,7 +12,7 @@ We’ve improved HackBot to suggest single-click actions, such as:
 ![oct_2016_hackbot](./images/oct_2016_hackbot.png)
 
 ### CVSS for Severity
-We introduce the ability for both hackers and security teams to set severity via CVSS. Read our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss) or [docs article](https://docs.hackerone.com/programs/severity.html) to learn more.
+We introduce the ability for both hackers and security teams to set severity via CVSS. Read our [blog post](https://www.hackerone.com/blog/introducing-severity-cvss) or [docs article](https://docs.hackerone.com/organizations/severity.html) to learn more.
 ![oct_2016_cvss](./images/oct_2016_cvss.png)
 
 ### No Attachment Warning

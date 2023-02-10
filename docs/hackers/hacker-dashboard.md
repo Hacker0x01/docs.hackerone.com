@@ -44,7 +44,7 @@ Option | Detail
 Invitation Expiration Time | Invitations don't last forever! They have an expiration time where you can no longer take action to accept them.
 Launch Date | The date the program started to accept vulnerabilities.
 Bugs resolved | The total number of vulnerabilities the program has fixed.
-[Response Efficiency](/programs/response-target-indicators.html) | The percentage of reports that are responded to on time within the last 90 days.
+[Response Efficiency](/organizations/response-target-indicators.html) | The percentage of reports that are responded to on time within the last 90 days.
 Minimum Bounty | The minimum bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no minimum bounty, or the program chose not to display this information on their metric display settings.
 Average Bounty | The average bounty that will be given for a valid vulnerability. If the field is marked with a `-` this means that there is no average bounty, or the program chose not to display this information on their metric display settings.
 

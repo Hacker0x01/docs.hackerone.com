@@ -22,7 +22,7 @@ We've revamped our Slack integration so that programs can have:
 * Notifications when a username is mentioned
 ![aug_2017_2](./images/aug_2017_2.png)
 
-Read our [blog post](https://www.hackerone.com/blog/slack-integration-update-2) and learn how to [set up Slack integration](/programs/slack-integration.html).
+Read our [blog post](https://www.hackerone.com/blog/slack-integration-update-2) and learn how to [set up Slack integration](/organizations/slack-integration.html).
 
 ### Bounty Splitting
 We now enable programs to have this feature that enables hackers to split bounties with other hackers that helped them find the vulnerability.

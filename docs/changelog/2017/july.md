@@ -9,11 +9,11 @@ Hackers can now receive payments through Bank Transfers via CurrencyCloud. This 
 ![july_2017_2](./images/july_2017_2.png)
 
 ### Scope
-Programs can now define their scope and the list of assets they want hackers to test. This controls what reports can be submitted and helps to prevent noise. Don’t know what a scope is? Learn more [here](/programs/defining-scope.html).
+Programs can now define their scope and the list of assets they want hackers to test. This controls what reports can be submitted and helps to prevent noise. Don’t know what a scope is? Learn more [here](/organizations/defining-scope.html).
 ![july_2017](./images/july_2017.png)
 
 ### Hacker Reviews
-Programs now have the ability to review their hackers and to comment on their behavior. Learn more about [hacker reviews](/programs/hacker-reviews.html). 
+Programs now have the ability to review their hackers and to comment on their behavior. Learn more about [hacker reviews](/organizations/hacker-reviews.html). 
 
 ### Bi-Directional Phabricator Integration
 We now provide programs with a two-way integration that syncs changes between HackerOne and Phabricator. 

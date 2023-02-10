@@ -36,7 +36,7 @@ Assigned to | *(An internal field that is only seen by the program’s security 
 Bounty | (*Only shows for resolved reports that were given a bounty*) How much bounty the report was awarded.
 Cloned From | Shows which report this was cloned from
 Cloned reports | There is an ability to clone a report on our platform, this metadata item links all the reports that were cloned from the current one.
-Credential Account Details | Related to Credential Management (https://docs.hackerone.com/programs/credential-management.html)
+Credential Account Details | Related to Credential Management (https://docs.hackerone.com/organizations/credential-management.html)
 Custom Fields | Private fields for your company, not seen by hackers see article about custom fields
 CVE ID | The [CVE ID](cve-requests.html) the vulnerability is linked to.
 Disclosed | The date the report was disclosed. Only shows for reports that were disclosed.

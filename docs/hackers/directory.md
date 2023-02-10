@@ -32,7 +32,7 @@ The Directory enables Hackers to:
 
 The Directory enables programs to:
 * Publish contact information for receiving information about potential vulnerabilities in their products or online services, such as a security@ email address or a HackerOne program (See [ISO 29147](http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170) for additional guidance or [contact HackerOne](mailto:support@hackerone.com))
-* [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/programs/security-page.html) if the program page hasn’t been claimed for editing)
+* [Search](https://hackerone.com/directory) for their organization to ensure that their security team's contact information and disclosure policy is accurate (See [Claiming the Security Page](/organizations/security-page.html) if the program page hasn’t been claimed for editing)
 
 ### What's on the Directory
 You can find this information associated with an organization on the directory:
@@ -58,7 +58,7 @@ Filter | Details
 ------ | ------
 IBB | Indicates Internet Bug Bounty - a bug bounty program for core internet infrastructure and free open source software. These programs are managed by a panel of volunteers selected from the security community. Learn more [here](https://www.hackerone.com/internet-bug-bounty).
 Offers bounties | Programs that offer bounties as rewards for finding vulnerabilities.
-High response efficiency | Programs that meet their [response target metrics](/programs/response-target-metrics.html) at least 80% of the time.
+High response efficiency | Programs that meet their [response target metrics](/organizations/response-target-metrics.html) at least 80% of the time.
 Managed by HackerOne| Programs managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Offers retesting | Programs that can request hackers to [retest](/hackers/retesting.html) vulnerabilities.
 Active Program | Programs that are currently accepting report submissions.

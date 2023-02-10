@@ -44,4 +44,4 @@ We’ve added integrations with:
 * Redmine
 * Freshdesk
 
-Read more about how these integrations work [here](https://docs.hackerone.com/programs/supported-integrations.html).
+Read more about how these integrations work [here](https://docs.hackerone.com/organizations/supported-integrations.html).

@@ -5,7 +5,7 @@ date: "2015-08"
 ---
 
 ### Permissions
-HackerOne program administrators can set access rights for different team members who might play different roles on your team. Learn more [here](/programs/groups-and-permissions.html).
+HackerOne program administrators can set access rights for different team members who might play different roles on your team. Learn more [here](/organizations/groups-and-permissions.html).
 ![aug_2015_permissions](./images/aug_2015_permissions.jpg)
 
 ### Message Hackers

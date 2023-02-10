@@ -10,7 +10,7 @@ We’ve added new HackerOne [leaderboards](/hackers/leaderboards.html) so that h
 ![new leaderboards](./images/nov_2020_new_leaderboards.png)
 
 ### In-report Remediation Guidance
-[Hackbot](/programs/hackbot.html) can now provide remediation guidance from MITRE to help programs with mitigating their vulnerabilities. Through this, programs can also provide their own custom remediation guidance to communicate to their internal team.
+[Hackbot](/organizations/hackbot.html) can now provide remediation guidance from MITRE to help programs with mitigating their vulnerabilities. Through this, programs can also provide their own custom remediation guidance to communicate to their internal team.
 
 ![remediation guidance](./images/nov_2020_remediation_guidance.png)
 

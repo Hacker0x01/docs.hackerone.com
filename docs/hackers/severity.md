@@ -46,7 +46,7 @@ The CVSS score on HackerOne will be different from the CVSS scores on first.org 
 <i>For example, you may find that the severity score for an asset on HackerOne is 4.3, whereas the base score on first.org is 5.4 and the environmental score is 5.4. The score on HackerOne is different because the environmental score is calculated into the base score, whereas on first.org, the environmental score is listed separately from the base score.</i>
 
 #### How the Calculation Works
-HackerOne doesn’t randomly put the environmental score and the base score together to get a total CVSS rating. Whatever value is selected for each metric of the [environmental score](/programs/environmental-score.html) (confidentiality, integrity, availability), a numeric modifier is applied to that metric in the CVSS calculator. (<i>Note: The CVSS calculator also contains metrics from the environmental score.</i>)
+HackerOne doesn’t randomly put the environmental score and the base score together to get a total CVSS rating. Whatever value is selected for each metric of the [environmental score](/organizations/environmental-score.html) (confidentiality, integrity, availability), a numeric modifier is applied to that metric in the CVSS calculator. (<i>Note: The CVSS calculator also contains metrics from the environmental score.</i>)
 
 ><i>For example, when calculating your environmental score for the asset `test.com`, you set the confidentiality to be High. When either you or the program calculate the severity using the CVSS calculator on HackerOne, the 1.5 modifier for the Confidentiality metric is applied to the Confidentiality component in the CVSS calculator, which will give you a different score from the base score on first.org.</i>
 

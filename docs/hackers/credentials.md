@@ -4,7 +4,7 @@ path: "/hackers/credentials.html"
 id: "hackers/credentials"
 ---
 
-Some programs require you to have special access credentials in order to hack on certain assets. These credentials can be shared with you via a representative from HackerOne, or you can retrieve the credentials from the security page of programs using the [credential management](/programs/credential-management.html) feature.
+Some programs require you to have special access credentials in order to hack on certain assets. These credentials can be shared with you via a representative from HackerOne, or you can retrieve the credentials from the security page of programs using the [credential management](/organizations/credential-management.html) feature.
 
 To access credentials for programs using credential management:
 1. Go to the program's security page.

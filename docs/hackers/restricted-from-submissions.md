@@ -9,7 +9,7 @@ You can be restricted from submissions, meaning you won't be able to submit repo
 2) You run into a program with Signal Requirements that you don't meet
 
 ### Signal Requirements
-[Signal requirements](/programs/signal-requirements.html) allow programs to specify a required minimum [signal](/hackers/signal-and-impact.html#signal-and-impact-facts) that hackers must meet in order to submit reports to that program. Your signal for signal requirements is based on your activity from the last 365 days.
+[Signal requirements](/organizations/signal-requirements.html) allow programs to specify a required minimum [signal](/hackers/signal-and-impact.html#signal-and-impact-facts) that hackers must meet in order to submit reports to that program. Your signal for signal requirements is based on your activity from the last 365 days.
 If your signal is above their requirement, then you won’t be restricted from submissions for that program. If you don’t meet the required signal for a program, you'll be given a number of trial reports that you can submit so you can still participate in their program. 
 > **Note:** Keep in mind that not all programs allow you to have trial reports.
 
