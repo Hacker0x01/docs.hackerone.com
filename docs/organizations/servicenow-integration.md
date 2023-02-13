@@ -149,7 +149,7 @@ Field | Details
 ServiceNow Instance URL | Enter the full URL to your ServiceNow instance, for example it could be: https://my-instance.service-now.com/
 Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 4 in [Configure OAuth](#configure-oauth)
 
-5. Provide the name of the escalation table. By default, the integration uses the ServiceNow `incident` table. If you want to use a a different or a custom table, please enter the table in the field below. If you prefer to use Security Incidents instead, you can use the following table name: `sn_si_incident`. 
+5. Provide the name of the escalation table. By default, the integration uses the ServiceNow `incident` table. If you want to use a different or a custom table, please enter the table in the field below. If you prefer to use Security Incidents instead, you can use the following table name: `sn_si_incident`. 
 
 ![servicenow-27](./images/servicenow-27.png)
 
@@ -159,7 +159,7 @@ Client ID & Client secret | Enter the `Client ID` and `Client secret` from step 
 
 ![servicenow-18](./images/servicenow-18.png)
 
-> **Note**: alternatively you can manually set the mapping to a single field or combination of fields from the [integration variables](/organizations/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summare, a link to the report the submission date, the reporter name and the weakness of ther report and map that to a single field.
+> **Note**: alternatively you can manually set the mapping to a single field or combination of fields from the [integration variables](/organizations/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summare, a link to the report the submission date, the reporter name and the weakness of their report and map that to a single field.
 
 8. Click **Next**.
 

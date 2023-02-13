@@ -72,7 +72,7 @@ With the Jira integration you can sync these report updates to Jira:
 - Assignee changes
 - Public disclosure
 
-All updates on a report are synced as a comment to Jira. Additionally, all actions are configureable and can be toggled from the Jira integration settings page.
+All updates on a report are synced as a comment to Jira. Additionally, all actions are configurable and can be toggled from the Jira integration settings page.
 
 ![jira-setup-6](./images/jira-setup-6.png)
 

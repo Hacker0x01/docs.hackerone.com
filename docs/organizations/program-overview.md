@@ -12,7 +12,7 @@ The Overview page of the Program Dashboard provides an overarching view of impor
 
 The report activity section shows data on reports that were acted upon within the selected date range.
 
-You'l be able to view these statistics on report activity:
+You'll be able to view these statistics on report activity:
 
 Field | Details
 ----- | --------
