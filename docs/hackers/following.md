@@ -4,7 +4,7 @@ path: "/hackers/following.html"
 id: "hackers/following"
 ---
 
-Hacker Following enables you to to keep up-to-date with your favorite hackers as you can see their activity on HackerOne.
+Hacker Following enables you to keep up-to-date with your favorite hackers as you can see their activity on HackerOne.
 
 To follow a hacker:
 1. Go to the hacker’s profile page.

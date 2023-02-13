@@ -32,7 +32,7 @@ To request Disclosure Assistance:
 4. Click **Submit Report**.
 5. The HackerOne Disclosure Assistance team receives the vulnerability information and verifies the legitimacy of the bus and determines the potential impact.
 6. HackerOne will attempt to contact the affected organization and verify the identity of an appropriate point of contact to receive the vulnerability information.
-7. Once their identity is verified, an email is sent to the point of contact with a secret link to the contents of the bug report and the interactions between the hacker and HackerOne. At this point, the vulnerabiltiy information has been successfully shared with the affected organization.
+7. Once their identity is verified, an email is sent to the point of contact with a secret link to the contents of the bug report and the interactions between the hacker and HackerOne. At this point, the vulnerability information has been successfully shared with the affected organization.
 8. The point of contact can either:
     * Create an account on HackerOne to interact with the finder directly or provide updates on the resolution of the vulnerability.
     * Contact da@hackerone.com for assistance on how to proceed.

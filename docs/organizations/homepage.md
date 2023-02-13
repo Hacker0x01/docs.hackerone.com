@@ -15,4 +15,4 @@ On the right, there's a column that shows you the latest mentions you received. 
 For each program on the homepage, we show actionable reports per program. The [actionable reports](/organizations/program-overview.html#actionable-reports) are split up into three categories:
 1. Missed response targets
 2. Approaching missed targets
-3. Aditional actionable reports
+3. Additional actionable reports

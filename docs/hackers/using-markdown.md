@@ -278,7 +278,7 @@ Output:
 
 You can reference an attachment while writing reports, comments in reports and report summary. You can do this by writing 'F' followed by attachment id (F). The attachment id is displayed before the attachment name once the upload is successful.
 
-Example: Consider a user is creating a report and uploads an attachment. Once the attachment is uploaded successfully, you will see see the reference id with the attachment name.
+Example: Consider a user is creating a report and uploads an attachment. Once the attachment is uploaded successfully, you will see the reference id with the attachment name.
 ![markdown-1](./images/markdown-1.png)
 
 Now you can reference the attachment in the report by writing 'F1' and the attachment is referenced in the report as shown below.
