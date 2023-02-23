@@ -10,8 +10,8 @@ exports.createPages = ({ graphql, actions }) => {
   const accessibilityTemplate = path.resolve('./src/templates/accessibility.js');
 
   createRedirect({
-    fromPath: `/programs/`,
-    toPath: `/organizations/`,
+    fromPath: `/programs/*`,
+    toPath: `/organizations/*`,
     isPermanent: true,
   });
   
