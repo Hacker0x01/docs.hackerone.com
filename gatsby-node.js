@@ -1,7 +1,7 @@
 const path = require("path");
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
 
   const programsTemplate = path.resolve('./src/templates/organizations.js');
   const hackersTemplate = path.resolve('./src/templates/hackers.js');
@@ -9,6 +9,12 @@ exports.createPages = ({ graphql, actions }) => {
   const glossaryTemplate = path.resolve('./src/templates/glossary.js');
   const accessibilityTemplate = path.resolve('./src/templates/accessibility.js');
 
+  createRedirect({
+    fromPath: `/programs/*`,
+    toPath: `/organizations/*`,
+    isPermanent: true,
+  });
+  
   return graphql(`
     {
       allMarkdownRemark(

@@ -8,6 +8,7 @@ module.exports = {
     },
   },
   plugins: [
+    'gatsby-plugin-meta-redirect',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
