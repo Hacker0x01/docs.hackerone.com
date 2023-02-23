@@ -12,6 +12,7 @@ exports.createPages = ({ graphql, actions }) => {
   createRedirect({
     fromPath: `/programs/*`,
     toPath: `/organizations/*`,
+    isPermanent: true,
   });
   
   return graphql(`
