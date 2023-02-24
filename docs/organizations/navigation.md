@@ -3,7 +3,8 @@ title: "Navigation"
 path: "/organizations/navigation.html"
 id: "organizations/navigation"
 ---
-![navigation overview](./images/vertical-navigation.png)
+
+<img src="/images/vertical-navigation.png" width="48">
 
 Starting point: Engagements Page
 
