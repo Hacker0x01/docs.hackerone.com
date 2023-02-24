@@ -4,8 +4,7 @@ path: "/organizations/navigation.html"
 id: "organizations/navigation"
 ---
 
-<img src="/images/vertical-navigation.png" width="192px">
-
+![vertical navigation](/images/vertical-navigation1.png)
 Starting point: Engagements Page
 
 
