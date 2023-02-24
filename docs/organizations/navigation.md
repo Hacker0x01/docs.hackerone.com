@@ -3,15 +3,35 @@ title: "Navigation"
 path: "/organizations/navigation.html"
 id: "organizations/navigation"
 ---
-![navigation overview for organizations](./images/navigation-overview-organization.png)
+![navigation overview](./images/vertical-navigation.png)
 
-Starting point: Homepage
+Starting point: Engagements Page
+
+
+
 
 1. [Organization Dropdown](organization-dropdown.html)
-2. [Inbox](inbox.html)
+2. Engagements
+    * All
+    * Bounty
+    * Response
+    * Pentest
+    * Challenge
+    * Campaigns
+    * Asset
+
+    Selecting an engagement will take you to the program [Dashboards](dashboards.html)
+        * Overview
+        * [Submissions & Bounty](submissions-bounty-dashboard.html)
+        * Hacker Engagement
+        * [Statistics](statistics-dashboard.html)
+        * Response Efficiency
+        * [Explore](explore.html)
+3. [Inbox](inbox.html)
 3. Assets
-    * [Asset Inventory](assets-inventory.html)
-    * Asset Submissions
+    * [Asset Inventory](asset-inventory.html)
+    * Attack Surface Coverage
+    * [Asset Submissions](asset-inventory.html### Advanced Features)
 4. [Dashboards](dashboards.html)
     * Overview
     * [Submissions & Bounty](submissions-bounty-dashboard.html)
