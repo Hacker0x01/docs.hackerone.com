@@ -31,7 +31,7 @@ Starting point: Engagements Page
 3. Assets
     * [Asset Inventory](asset-inventory.html)
     * Attack Surface Coverage
-    * [Asset Submissions](asset-inventory.html### Advanced Features)
+    * [Asset Submissions](asset-inventory.html###_Advanced_Features)
 4. [Dashboards](dashboards.html)
     * Overview
     * [Submissions & Bounty](submissions-bounty-dashboard.html)
