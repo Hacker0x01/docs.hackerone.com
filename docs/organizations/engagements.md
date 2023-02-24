@@ -20,7 +20,5 @@ The Engagements page is also how you will navigate to all of your programs. Whil
 
 ![engagements cards](./images/engagements-2.png)
 
-![engagements breadcrumb](./images/engagements-3.png)
-
 
 
