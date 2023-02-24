@@ -41,6 +41,11 @@ exports.createPages = ({ graphql, actions }) => {
       let template;
       if (node.frontmatter.path.includes("/organizations")) {
         template = programsTemplate;
+        createRedirect({
+          fromPath: node.frontmatter.path.replace("/organizations", "/programs"),
+          toPath: node.frontmatter.path,
+          isPermanent: true,
+        });
       } else if (node.frontmatter.path.includes("/hackers")) {
         template = hackersTemplate;
       } else if (node.frontmatter.path.includes("/changelog")) {
