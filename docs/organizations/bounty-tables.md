@@ -8,7 +8,7 @@ A bounty table shows how much your program is willing to pay for various bugs yo
 
 To set up and publish your bounty table on your security page:
 
-1. Go to **Program Settings > Program > Rewards > Bounties**.
+1. Go to **Engagements > Settings > Program > Bounties**.
 2. <i>(Optional)</i> Edit the column names of the bounty table that best fit the reward structure of your program under the **Bounty Table** section.
 3. *(Optional)* Pick the bounty value setting that best fits the reward structure of your program. This can be a **range** or a **fixed** value.
 4. Select the asset you want the bounty structure to apply to. If you want it to apply to all assets, the default is already set to **All assets**.

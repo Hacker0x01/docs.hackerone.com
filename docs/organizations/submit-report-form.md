@@ -10,7 +10,7 @@ One of the most important elements of running a successful bug bounty campaign i
 
 ### Customizing the Report Submissions Form Page
 To customize your report submissions form page:
-1. Go to **Program Settings > Program > Submit Report Form**.
+1. Go to **Engagements > Settings > Program > Submit Report Form**.
 2. Toggle **Yes** or **No** for these options:
 
 Option | Details
