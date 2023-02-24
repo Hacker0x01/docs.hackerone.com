@@ -6,7 +6,7 @@ id: "organizations/general-settings"
 
 To change the settings of your bounty program follow these steps:
 
-1. Configure your general settings under **Program Settings > General**. You can set up these settings:
+1. Configure your general settings under **Engagements > Dashboards > Settings**. You can also get to it by clicking the kabob menu in the top right corner of an engagement card and selecting **Settings**. You can set up these settings:
 
  Option | Detail
  ------ | ------
