@@ -11,7 +11,7 @@ You can choose between these 2 processing times in receiving your payouts:
 Option | Details
 ------ | --------
 Daily | Your payouts will be processed daily.
-Monthly | Your payouts will be processed on the 28th of every month. <br><br>If the 28th falls on a weekend, the payout will be processed on the next business day. If February 28th is a Sunday, the payout will be processed on March 1. <br><br>*Charity payments aren't able to be processed monthly.*
+Monthly | Your payouts will be processed on the 27th of every month. <br><br>If the 27th falls on a weekend, the payout will be processed on the next business day. If February 27th is a Sunday, the payout will be processed on March 1. <br><br>*Charity payments aren't able to be processed monthly.*
 
 You can also choose between 3 payout methods.
 
