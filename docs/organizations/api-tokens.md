@@ -15,7 +15,7 @@ To generate an API token:
 3. Enter an identifier for the new API token.
 ![api-token-2](./images/api-token-2.png)
 
-4. Select the programs and groups you want to add this token to. When no groups are selected, they only have read-only permissions. The default groups you can choose from are:
+4. *Optional:* Select the groups you want to add this token to. When no groups are selected, they only have read-only permissions. The default groups you can choose from are:
 
 Option | Details
 ------ | -------
@@ -24,7 +24,7 @@ Admin | This group has Admin and Program permissions.
 
 If your program has more groups, you can choose from those groups as well.
 
-5. Click <b>Create API token</b>
+5. Click <b>Add API token</b>
 
 6. Store the generated API token.
 

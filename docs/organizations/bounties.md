@@ -59,14 +59,14 @@ When hackers submit vulnerabilities to your organization outside of HackerOne, y
 ><i>Note: This option is only available for HackerOne Enterprise editions.</i>
 
 To start paying hackers:
-1. Go to **Settings > Program > Automation > API**.
+1. Go to **Organization Settings > API Tokens**.
 2. Click **Create API Token** to create an API token.
 3. Enter the unique identifier to authenticate the token in the **New API Token** window.
 4. Click **Create**.
 5. The API token will be generated and presented to you. This is the only time the API token is shown to you.
 6. Click **Manage groups** next to the API identifier to grant reward permissions to various groups.
 7. Select the groups you want to give reward permissions to. By default, the Standard group has Reward permissions.
-8. Make sure your billing methods have been complete so that there's a way to pay out bounties in **Settings > General > Billing**.
+8. Make sure your billing methods have been complete so that there's a way to pay out bounties in **Program Settings > General > Billing**.
 9. Configure how to award a bounty. Go to [this page](https://api.hackerone.com/#programs-award-bounty) to see the documentation on how to award a bounty. See the code example in cURL and Ruby that'll help you. <i>Note: the 1337 program ID used in the example below is not real and should be replaced with your own program ID. You can find your program ID in report objects or by asking your HackerOne program manager.</i>
 
 cURL | Ruby

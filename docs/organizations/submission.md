@@ -11,7 +11,7 @@ The Submission Requirements page enables you to set specific requirements for ha
 * [Enable bounty splitting](#enabling-bounty-splitting)
 * Select [severity rating options](#severity-rating-options)
 
-To access the Submission Requirements page, go to: **Program Settings > Program > Submission**.
+To access the Submission Requirements page, go to: **Program Settings > Program > Hacker Management > Submission**.
 
 ### Requiring Two-Factor Authentication
 To require hackers to have two-factor authentication enabled before submitting reports to your program:
