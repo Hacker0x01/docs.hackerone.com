@@ -19,7 +19,7 @@ To participate in a security check:
 3. Click **Claim security check** when you’ve found a security check you want to work on.
 <ul><li> You can claim one check per program  at a time (once you’ve submitted results, you can claim another check for that program). Once you’ve claimed a check, you’ll have 72 hours to complete it. For each security check, you must test all assets in scope for the relevant vulnerability type.</ul>
 
-4. Go to a program’s **Security Checks** tab on their security page. Note: The **Security checks** tab is only available if the program has opted into compliance.
+4. Go to a program’s **Security Checks** tab on their security page. Note: The **Security Checks** tab is only available if the program has opted into compliance.
 5. Submit your findings by filling out the submission form.
 
 ![security check submission form](./images/security-checks-12.png)

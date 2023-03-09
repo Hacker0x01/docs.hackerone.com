@@ -42,7 +42,7 @@ You can configure a Splunk integration to log events from HackerOne in Splunk. T
 
 ![splunk-setup](./images/splunk-setup.png)
 
-5. In the popup enter the **Event Collector URL** and the **HEC token** (This is the same token you created ealier in the setup). See [the information below](#constructing-the-even-collector-url) for details on how to construct the URL.
+5. In the popup enter the **Event Collector URL** and the **HEC token** (This is the same token you created earlier in the setup). See [the information below](#constructing-the-even-collector-url) for details on how to construct the URL.
 
 ![splunk-authentication](./images/splunk-authentication.png)
 
@@ -51,7 +51,7 @@ You can configure a Splunk integration to log events from HackerOne in Splunk. T
 8. Click **Finish** to complete the integration
 9. Now click **Enable** to start using the integration
 
-Once you've successfully added the intergration, you'll be able to retrieve data from HackerOne in your Splunk instance.
+Once you've successfully added the integration, you'll be able to retrieve data from HackerOne in your Splunk instance.
 
 ### Constructing the Event Collector URL
 

@@ -12,7 +12,7 @@ The time discrepancy may occur because:
 * You set your phone time settings manually and it later switched to automatic (or vice versa)
 * Your device switched NTP servers (a server used to sync clocks in networks)
 
-To fix the the issue, set your clock settings to sync automatically:
+To fix the issue, set your clock settings to sync automatically:
 
 Android Users | iOS Users
 ------------- | ----------

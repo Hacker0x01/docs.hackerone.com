@@ -59,8 +59,8 @@ Mediation requests are different from Support requests. When requesting mediatio
 
 Support Request | Mediation Request
 ----------------- | ---------------
-Request help with a payment that didn’t go through | Bounty disagreement (e.g: The bounty table specifies a different amount that the one awarded for this criticality)
-Request credentials for a program | Resolution disagreement (e.g: The bug was marked as duplicate and the “original” report has an older report number)
+Request help with a payment that didn’t go through | Bounty disagreement (e.g.: The bounty table specifies a different amount that the one awarded for this criticality)
+Request credentials for a program | Resolution disagreement (e.g.: The bug was marked as duplicate and the “original” report has an older report number)
 Two-factor authentication resets | Unresponsiveness (e.g.: The triage team or the program provided no updates for a week)
 Account deletion |
 General questions |

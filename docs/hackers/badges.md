@@ -30,7 +30,7 @@ Cryptolestes | Solved a HackerOne Capture The Flag challenge
 Diversity | Reported bugs to 5, 20, or 50 different teams.<br><i>There are multiple stages of this badge. You receive a level of this badge whenever you report bugs to 5, 20, and 50 different teams.</i>
 Good Samaritan | Resolved a report with a team that doesn't pay bounties
 Greybeard | Submitted valid reports in 3, 6, or 12 months in a row.<br><i>There are multiple stages of this badge. You receive a level of this badge whenever you submit valid reports in 3, 6, and 12 months in a row.</i>
-Hack The Box Bug Bounty Hunter | [Connect your HackerOne profile with Hack The Box](https://docs.hackerone.com/hackers/external-services/hack-the-box.html) using your student ID and complete the Bug Bounty Hunter path on Hack The Box
+Hack The Box Bug Bounty Hunter | [Connect your HackerOne profile with Hack The Box](https://docs.hackerone.com/hackers/hack-the-box.html) using your student ID and complete the Bug Bounty Hunter path on Hack The Box
 Hack The World Badass | Reported 10, 20, or 50 valid issues during Hack the World.<br><i>There are multiple stages of this badge. You receive a level of this badge whenever you submit 10, 20, and 50 valid reports.
 Hacking Hackers | Hacked HackerOne
 Happy Feat | Suggested a feature that was implemented on HackerOne
