@@ -4,7 +4,7 @@ path: "/organizations/engagements.html"
 id: "organizations/engagements"
 ---
 
-The Engagements page (currently in Beta) is a top-level navigation page where customers can find all the ways to engage with hackers. This includes any programs they are currently running as well as education on what other engagements they could run.
+The Engagements page is where customers land on the site and can find all the ways to engage with hackers. This includes any programs they are currently running as well as education on what other engagements they could run.
 
 The engagement types are:
 * Bounty
@@ -19,8 +19,6 @@ The engagement types are:
 The Engagements page is also how you will navigate to all of your programs. While on the Engagements page, click on any card to be taken to the specific pages of that program. On each card, you can also quickly access any sub-pages with one click. 
 
 ![engagements cards](./images/engagements-2.png)
-
-![engagements breadcrumb](./images/engagements-3.png)
 
 
 

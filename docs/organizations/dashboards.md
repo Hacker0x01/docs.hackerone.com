@@ -4,7 +4,9 @@ path: "/organizations/dashboards.html"
 id: "organizations/dashboards"
 ---
 
-The Program Dashboard provides information on various metrics for your program. This helps you track the progress of your program and it also gives you a detailed summary and understanding of your program status.
+The Program Dashboards provide information on various metrics for your program. This helps you track the progress of your program and it also gives you a detailed summary and understanding of your program status.
+
+![program dashboards](/images/program-dashboards.png)
 
 HackerOne provides dashboards on these pages:
 * [Submissions & Bounty](/organizations/submissions-bounty-dashboard.html)
@@ -14,14 +16,3 @@ HackerOne provides dashboards on these pages:
 * [Explore](explore.html)
 
 For each dashboard, you can customize the data you see by choosing the dates you want to see the metrics for.
-
-### Response Efficiency
-The Response Efficiency page gives insight into how efficiently you respond to your reports. It helps you keep track of how many reports have missed your [response target](response-targets.html) or standard.
-
-You can view the metrics of the average time to:
-* First response
-* Triage
-* Bounty
-* Resolution
-
-![image](./images/dashboard-response-efficiency.png)

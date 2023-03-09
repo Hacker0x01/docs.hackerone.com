@@ -36,8 +36,6 @@
           path: /organizations/traffic-identification.html
 - title: Your Organization
   items:
-    - title: Homepage
-      path: /organizations/homepage.html
     - title: Engagements
       path: /organizations/engagements.html
     - title: Organization Profile
@@ -290,6 +288,8 @@
           path: /organizations/hacker-engagement.html
         - title: Hacker Feedback Dashboard
           path: /organizations/hacker-feedback-dashboard.html
+        - title: Response Efficiency Dashboard
+          path: /organizations/response-efficiency-dashboard.html
         - title: Explore
           path: /organizations/explore.html
     - title: Audit Logs
