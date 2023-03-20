@@ -48,6 +48,20 @@ For example: A program sets all 3 environmental score requirements to be None/Lo
 
 The hacker now can’t set the CVSS score for `test.com` to be Critical or High when submitting a report, even though the hacker selected all of the highest ratings on the CVSS calculator.
 
+#### Max severity
+A report can't have a severity rating higher than a scope's max severity. If the report's calculated CVSS score is higher than the scope's severity, the scope's severity will be set to the report.
+* Environmental scores
+    * The report's environmental scores are multiplied by the scope's environmental scores:
+    none -> 0
+    low -> 0.5
+    medium -> 1
+    high -> 1.5
+    nil -> 1
+    * For example, report's integrity score is high (0.56), the scope's integrity score is high (×1.5), then it will become
+    0.56*1.5=0.84.
+    * As you can see, when environmental scores are nil, the report's environmental scores will be multiplied by 1, so they will not be affected.
+![calculation of scores](/images/environmental-score1.png)
+
 ### Environmental Score Components
 As mentioned above, the 3 components that make up the environmental score are:
 * Confidentiality
