@@ -22,8 +22,8 @@ To sign your tax form:
 ![tax-form-3](./images/tax-form-3.png)
 
 6. If you make a mistake, you have the ability to start over without involving Support. On the **Settings > Payments page**, you will have an opportunity to abandon an in-progress tax form, and you will receive confirmation through your email that this has occurred.
-You can refer to these links for instructions on how to fill out your respective tax form:
 
+You can refer to these links for instructions on how to fill out your respective tax form:
 * W-8BEN: https://www.irs.gov/pub/irs-pdf/iw8ben.pdf
 * W-8BEN-E: https://www.irs.gov/pub/irs-pdf/iw8bene.pdf
 * W-9: https://www.irs.gov/pub/irs-pdf/iw9.pdf
