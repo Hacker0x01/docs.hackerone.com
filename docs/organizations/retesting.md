@@ -38,12 +38,9 @@ Action | Scenario | Details
 **Approve** the retest | The hacker says the vulnerability is not fixed. | The report will move back to *Triaged* and will stay open for the team to implement a fix. The hacker will be awarded a bounty.
 **Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to *Triaged*.
 
-If the original hacker declines to take part in the retest and your program is:
+If the original hacker rejects the retest, the report will pass back to the you in its previous state. You are also able to cancel a retest if the original hacker does not respond in time. 
 
-Program Type | Details
------------- | --------
-Private | Another hacker that's part of your program will have the opportunity to claim and perform the retest.
-Public | Any hacker with at least 1 *Resolved* or *Triaged* report will be able to claim the retest.
+>Note: Retesting is not available for anonymous reports.
 
 ### Payments
 Hackers will be awarded a $50 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier.   

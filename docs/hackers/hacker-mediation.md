@@ -17,7 +17,7 @@ Hacker Mediation can be requested for the following reasons:
 
 Hacker mediation is used to raise concerns about reports to security teams and facilitate discussions between hackers and customers to enable a more favorable outcome for everyone involved. Please keep in mind that if a program is not managed or triaged by HackerOne, then the time to fully resolve the mediation might take longer than usual. Mediation also cannot be requested for basic programs.
 
->Note: HackerOne does not accept Mediation requests for [Disclosure Assistance](https://hackerone.com/disclosure-assistance?type=team) reports(linked) or Basic Programs not managed by HackerOne.
+>Note: HackerOne does not accept Mediation requests for [Disclosure Assistance](https://hackerone.com/disclosure-assistance?type=team) reports(linked) or Basic Programs that are not managed by HackerOne.
 
 ### Requesting Hacker Mediation
 To request mediation:
