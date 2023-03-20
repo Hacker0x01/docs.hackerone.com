@@ -22,8 +22,8 @@
           path: /hackers/signal-and-impact.html
     - title: Hacker Dashboard
       path: /hackers/hacker-dashboard.html
-    - title: "Opportunity Discovery"
-      path: "/hackers/opportunity-discovery.html"
+    - title: Opportunity Discovery
+      path: /hackers/opportunity-discovery.html
     - title: Badges
       path: /hackers/badges.html
     - title: Thanks
@@ -147,5 +147,5 @@
   items:
     - title: Pentest Overview
       path: /hackers/pentest-overview.html
-    - title: "Retesting Pentest"
-      path: "/hackers/retesting-pentest.html"
+    - title: Retesting Pentest
+      path: /hackers/retesting-pentest.html

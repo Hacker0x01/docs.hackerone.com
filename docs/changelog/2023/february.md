@@ -6,7 +6,8 @@ date: "2023-02"
 
 
 ### Hacker Mediation Updates
-HackerOne does not accept Hacker Mediation Requests for reports submitted to Basic programs not managed by HackerOne.
+HackerOne only accepts Hacker Mediation Requests for reports submitted to Basic programs that are managed by HackerOne.
+
 
 ### Opportunity Discovery Cards
 Opportunity Discovery cards have been updated to improve clarity and readability.

@@ -11,7 +11,7 @@ You can choose between these 2 processing times in receiving your payouts:
 Option | Details
 ------ | --------
 Daily | Your payouts will be processed daily.
-Monthly | Your payouts will be processed on the 28th of every month. <br><br>If the 28th falls on a weekend, the payout will be processed on the next business day. If February 28th is a Sunday, the payout will be processed on March 1. <br><br>*Charity payments aren't able to be processed monthly.*
+Monthly | Your payouts will be processed on the 27th of every month. <br><br>If the 27th falls on a weekend, the payout will be processed on the next business day. If February 27th is a Sunday, the payout will be processed on March 1. <br><br>*Charity payments aren't able to be processed monthly.*
 
 You can also choose between 3 payout methods.
 
@@ -57,13 +57,3 @@ Keep in mind that:
      * Swift payment minimum: $100
      * Local payment minimum: $50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.
-
-### Other Common Payout Methods
-#### Payoneer
-You can choose Payoneer as your preferred payment provider, which functions the same as Bank Transfer (Currencycloud).
-
-In order to receive bounties through Payoneer, after registering for a Payoneer account:
-1. Go to your profile's [Settings > Payout Methods](https://hackerone.com/settings/payment_preferences).
-2. Click **Add payout method**.
-3. Select **Bank Transfer**.
-4. Enter your Payoneer account information for the relevant fields.  
