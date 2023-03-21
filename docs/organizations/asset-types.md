@@ -24,4 +24,4 @@ Other | Any other type of asset that is not contained within the existing taxono
 
 Source Code, Downloadable Executables, and Hardware Identifiers aren't validated. You're free to use this in whatever suits your naming conventions.
 
-You can edit your scopes in your settings under **Program Settings > Program > Scope**.
+You can edit your scope in your settings under **Program Settings > Program > Scope**.
