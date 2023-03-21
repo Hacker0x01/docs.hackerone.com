@@ -4,7 +4,7 @@ path: "/organizations/scope-best-practices.html"
 id: "organizations/scope-best-practices"
 ---
 
-Well-defined scopes clearly communicate your program's needs and expectations with hackers. This enables hackers to have a better idea around what you would like them to focus on and how they should prioritize their time.
+A well-defined scope clearly communicates your program's needs and expectations with hackers. This enables hackers to have a better idea around what you would like them to focus on and how they should prioritize their time.
 
 Here are some practical guidelines to help you define and set up your scope:
 
