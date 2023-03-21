@@ -15,7 +15,7 @@ You can view the FAQ list at https://www.hackerone.com/hacker101 or email hacker
 ### Hacker101 CTF
 Hacker 101 also offers a Capture The Flag (CTF) game where you can hack and hunt for bugs in a safe environment. The CTF serves as the official coursework for the class. You can still access the old coursework on the [github repo](https://github.com/Hacker0x01/Hacker101Coursework).
 
-Once you have earned 26 points in the CTF, you’ll eligible to receive invitations to private programs.
+Once you have earned 26 points in the CTF, you’ll be eligible to receive invitations to private programs.
 
 ![hacker101 CTF](./images/hacker101-2.png)
 
