@@ -16,7 +16,7 @@ There are 5 key components of a VDP. They are:
 
 Component | Details
 --------- | --------
-Purpose/Promise Statement | The opening statement of a VDP and should include the reasons why you have a VDP and why it’s important to have.<br><br>This is to demonstrate your commitment to customers and other stakeholders that are potentially impacted by your security vulnerabilities.
+Purpose/Promise Statement | The opening statement of a VDP should include the reasons why you have a VDP and why it’s important to have.<br><br>This is to demonstrate your commitment to customers and other stakeholders that are potentially impacted by your security vulnerabilities.
 Scope | Indicates what properties, products and vulnerability types are available to find vulnerabilities for. This helps finders in regards to what assets they should or shouldn’t focus their attention on.
 Safe Harbor | A statement that assures finders that they won’t be penalized or have legal action taken against for the vulnerabilities that they find.
 Process Description | A description of the process of how finders should submit reports and what information is required in a submission.
