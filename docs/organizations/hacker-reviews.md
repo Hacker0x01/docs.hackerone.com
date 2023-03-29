@@ -4,7 +4,7 @@ path: "/organizations/hacker-reviews.html"
 id: "organizations/hacker-reviews"
 ---
 
-With Hacker Reviews, you have the option to send comments on hacker behavior to HackerOne and the hacker after closing a report. The reviews also enable the reviewer to highlight a key behavior which can allow HackerOne to award or assist the hacker accordingly.
+With Hacker Reviews, you have the option to send comments on hacker behavior to HackerOne and the hacker after closing a report. The reviews also enable the reviewer to highlight a key behavior which allows HackerOne to award or assist the hacker accordingly. Positive reviews can be added as a testimonial to the hacker's profile page.
 
 When giving a review, you can:
 * Choose whether to provide a positive or negative rating for the hacker.
@@ -34,5 +34,5 @@ You'll fill out these forms if you choose to:
 Regardless of whether the review is positive or negative, the hacker will receive an email with the contents of the review.
 ![hacker-review-4](./images/hacker-review-4.png)
 
-When the review is positive, the reviewer also has the option to leave a public endorsement on the hacker's profile page, which serves as an opportunity to tell the world about just how awesome the hacker is.
+When the review is positive, the reviewer also has the option to leave a public endorsement as a testimonial on the hacker's profile page, which serves as an opportunity to tell the world about just how awesome the hacker is.
 ![hacker-review-5](./images/hacker-review-5.png)
