@@ -43,15 +43,15 @@ The bounty budget calculator enables you to see if your program will be over or 
 
 ### Actionable Reports
 
-Actionable reports are [open reports](report-states.html) in your program that you can respond to and take action on. You can click on the report title, and it will take you to the corresponding report in the inbox so that you can respond right away.
+Actionable reports are [reports that require an action](report-states.html) in your program that you can respond to and take action on. You can click on the report title, and it will take you to the corresponding report in the inbox so that you can respond right away.
 
 You’ll be able to see these different categories of reports within the actionable reports section:
 
 Category | Details
 -------- | --------
-Missed response targets | Displays the list of [open reports](report-states.html) in your program that have missed the response target so that you can respond to them quickly.
-Approaching response targets | Displays the list of [open reports](report-states.html) in your program that have approaching response targets so that you can respond to them in time.
-Additional Actionable Reports | Displays the list of [open reports](report-states.html) in your program that haven’t missed a response target nor have any approaching response targets. This enables you to keep track of reports in your inbox that you can be mindful of responding to.
+Missed response targets | Displays the list of [reports that require an action](report-states.html) in your program that have missed the response target so that you can respond to them quickly.
+Approaching response targets | Displays the list of [reports that require an action](report-states.html) in your program that have approaching response targets so that you can respond to them in time.
+Additional Actionable Reports | Displays the list of [reports that require an action](report-states.html) in your program that haven’t missed a response or bounty target nor have any approaching response or bounty targets. This enables you to keep track of reports in your inbox that you can be mindful of responding to.
 
 ### Account Management
 
