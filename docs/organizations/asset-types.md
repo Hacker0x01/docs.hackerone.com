@@ -10,9 +10,7 @@ HackerOne supports the following types of assets:
 Type | Details | Examples
 ---- | ------- | --------
 CIDR | Any valid IPv4 or IPv6 CIDR range. | 172.200.0.0/16
-2001:db8::/48
-fe80:0000:0000:0000:0204:61ff:fe9d:f156/3
-104.16.100.52
+2001:db8::/48 fe80:0000:0000:0000:0204:61ff:fe9d:f156/3 104.16.100.52
 URL | Complete web address identifying a specific resource. Default to using the Domain asset type unless you are specifying a specific application on the domain. | www.example.com/app1 www.example.com/app2
 Domain | Domain of the asset. For wild card scopes, use the Wildcard scope type. | www.example.com myprogram.com
 Wildcard | A way to specify multiple domains or subdomains. | *.vpn.hackerone.net www.amazon.*
