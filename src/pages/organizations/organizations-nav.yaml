@@ -44,6 +44,11 @@
       path: /organizations/organization-users.html
     - title: Groups
       path: /organizations/groups.html
+    - title: Asset Inventory
+      path: /organizations/asset-inventory.html
+      items: 
+      - title: External Attack Surface Management Solution
+        path: /organizations/external-asm.html
 - title: Your Program
   items:
     - title: General Settings
@@ -62,8 +67,6 @@
           path: /organizations/response-target-indicators.html
         - title: Top Hackers
           path: /organizations/top-hackers.html
-    - title: Asset Inventory
-      path: /organizations/asset-inventory.html
     - title: Policy and Scope
       path: /organizations/policy-and-scope.html
       items:

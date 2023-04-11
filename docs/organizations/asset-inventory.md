@@ -48,6 +48,7 @@ The Scope tab in the program’s Security page allows hackers to see:
 3. Asset CVSS environmental score
 
 ![Asset Scope Page](./images/asset-inventory-13.png)
+
 ### Adding Assets
 
 You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. A pop-up menu will appear prompting you to enter all the asset’s details.

@@ -8,7 +8,7 @@ date: "2023-03"
 With the new "Assets CSV Export" feature, customers can now easily export their asset data, including asset name, URL, associated tags, associated scope, risk, and other data. This feature allows customers to export their assets in bulk and apply filters based on their search criteria, saving them time and effort. 
 
 ### Asset Inventory Filter by Program
-We've made managing multiple programs easier by allowing you to filter assets for a specific program. Get a quick overview of what's in or out of scope for that particular program.
+We've made managing multiple programs easier by allowing you to filter assets for a specific program. Get a quick overview of what's in or out of scope for that particular program by filtering for it.
 
 ### Scope Changelog Only Shows Changed Assets
 Our scope changelog now shows only the changed assets, supporting growing scopes and making it easier for hackers to view changes. Scan for changes easily and efficiently.
