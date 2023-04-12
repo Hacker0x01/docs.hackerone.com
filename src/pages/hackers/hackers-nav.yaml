@@ -39,6 +39,8 @@
           path: /hackers/external-payments.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
+    - title: ID Verification
+    - path: /hackers/id-verification.html
     - title: External Services
       path: /hackers/external-services.html
       items:
