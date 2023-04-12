@@ -12,12 +12,12 @@ Type | Details | Examples
 CIDR | Any valid IPv4 or IPv6 CIDR range. | 172.200.0.0/16 2001:db8::/48 fe80:0000:0000:0000:0204:61ff:fe9d:f156/3 104.16.100.52
 URL | Complete web address identifying a specific resource. Default to using the Domain asset type unless you are specifying a specific application on the domain. | www.example.com/app1 www.example.com/app2
 Domain | Domain of the asset. For wild card scopes, use the Wildcard scope type. | www.example.com myprogram.com
-Wildcard | A way to specify multiple domains or subdomains. | *.vpn.hackerone.net www.amazon.*
+Wildcard | A way to specify multiple domains or subdomains. | www.amazon.* or *.vpn.hackerone.net 
 iOS: App Store | An Apple iOS mobile app provided via the App Store. The identifier in the Apple Store to locate your App. | App Store hyperlink
-iOS: Testflight | An Apple iOS mobile app provided via Testflight, often used for pre-production versions of mobile applications. A standard Apple identifier (https://developer.apple.com/testflight/). Note: If you are providing a different version than the one available in the App Store, please detail the invitation process in the instructions. | com.domainname.myapp
-iOS: .ipa | An Apple iOS mobile app provided via a file. A standard Apple identifier. Note: If you are providing a different version than the one available in the App Store or Testflight, please detail where they can be located. | com.domainname.myapp
+iOS: Testflight | An Apple iOS mobile app provided via Testflight, often used for pre-production versions of mobile applications. A standard Apple identifier (https://developer.apple.com/testflight/). <br /><br /> Note: If you are providing a different version than the one available in the App Store, please detail the invitation process in the instructions. | com.domainname.myapp
+iOS: .ipa | An Apple iOS mobile app provided via a file. A standard Apple identifier. <br /><br /> Note: If you are providing a different version than the one available in the App Store or Testflight, please detail where they can be located. | com.domainname.myapp
 Android Play Store | A Google Android mobile app provided via the Play Store. The ID in Play Store used to locate your application | https://developer.android.com/studio/build/application-id.html
-Android: .apk | A Google Android mobile app provided via a file. A standard APK identifier. Note: If you are providing a different version than the one available in the Play Store, please detail where they can be located. | com.domainname.myapp
+Android: .apk | A Google Android mobile app provided via a file. A standard APK identifier. <br /><br /> Note: If you are providing a different version than the one available in the Play Store, please detail where they can be located. | com.domainname.myapp
 Windows: Microsoft Store | A Windows Phone mobile app. The identifier in the Microsoft Store used to locate your app. It can be either a store ID like '9WZDNCRFHVJL' or an identifier name like 'Microsoft.SDKSamples ApplicationDataSample'. | 9WZDNCRFHVJL Microsoft.SDKSamples.ApplicationDataSample
 Source code | Link to the repository of an open source project. | https://github.com/Hacker0x01/docs.hackerone.com
 Executable | Packaged executable on Linux, Windows, or Mac. Open-source projects with releases can and should link as a Downloadable executable too.
