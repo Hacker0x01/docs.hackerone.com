@@ -37,6 +37,10 @@ h6 {
   color: $daisy-white;
 }
 
+td {
+  word-break: break-word;
+}
+
 .hero__wrapper {
   max-width: 1000px;
   padding-left: 20px;

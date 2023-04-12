@@ -17,14 +17,13 @@ iOS: App Store | An Apple iOS mobile app provided via the App Store. The identif
 iOS: Testflight | An Apple iOS mobile app provided via Testflight, often used for pre-production versions of mobile applications. A standard Apple identifier (https://developer.apple.com/testflight/). Note: If you are providing a different version than the one available in the App Store, please detail the invitation process in the instructions. | com.domainname.myapp
 iOS: .ipa | An Apple iOS mobile app provided via a file. A standard Apple identifier. Note: If you are providing a different version than the one available in the App Store or Testflight, please detail where they can be located. | com.domainname.myapp
 Android Play Store | A Google Android mobile app provided via the Play Store. The ID in Play Store used to locate your application | https://developer.android.com/studio/build/application-id.html
-Android: .apk | A Google Android mobile app provided via a file. A standard APK identifier. Note: If you are providing a different version than the one available in the Play Store, please detail where they can be located.
-| com.domainname.myapp
+Android: .apk | A Google Android mobile app provided via a file. A standard APK identifier. Note: If you are providing a different version than the one available in the Play Store, please detail where they can be located. | com.domainname.myapp
 Windows: Microsoft Store | A Windows Phone mobile app. The identifier in the Microsoft Store used to locate your app. It can be either a store ID like '9WZDNCRFHVJL' or an identifier name like 'Microsoft.SDKSamples ApplicationDataSample'. | 9WZDNCRFHVJL Microsoft.SDKSamples.ApplicationDataSample
 Source code | Link to the repository of an open source project. | https://github.com/Hacker0x01/docs.hackerone.com
 Executable | Packaged executable on Linux, Windows, or Mac. Open-source projects with releases can and should link as a Downloadable executable too.
 Hardware/IoT | Identifiable model number and make of any physical device. Be sure to explain in the instructions how to locate the model details and what they may look like. | 100-440-0.750-3434-A
 Other | Any other type of asset that is not contained within the existing taxonomy. Common asset types in this category include: Autonomous System Numbers (ASNs)- a globally unique identifier for a set of IP prefixes belonging to a network or a collection of networks that are all managed, controlled, and supervised by a single company | ASN: 13335
-Smart Contracts | Programs stored on a blockchain that run when predetermined conditions are met. This should be a URL with a link to the smart contract. | https://www.google.com/url?q=https://polygonscan.com/address/0xfede379e48c873c75f3cc0c81f7c784ad730a8f7&sa=D&source=docs&ust=1680630627772409&usg=AOvVaw0lTCt_SIkbWuepXLbS0Cqx https://github.com/magiceden-oss/erc721m/releases/latest
+Smart Contracts | Programs stored on a blockchain that run when predetermined conditions are met. This should be a URL with a link to the smart contract. | https://polygonscan.com/address/0xfede379e48c873c75f3cc0c81f7c784ad730a8f7 https://github.com/magiceden-oss/erc721m/releases/latest
 
 
 Other,	Source Code, Downloadable Executables, and Hardware Identifiers aren't validated. You're free to use this in a way that suits your naming conventions.
