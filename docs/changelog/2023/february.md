@@ -9,6 +9,14 @@ date: "2023-02"
 HackerOne only accepts Hacker Mediation Requests for reports submitted to Basic programs that are managed by HackerOne.
 
 
+### Archived Assets
+We've brought back the ability to view archived assets. This feature comes in handy when you want to bring back a previously used asset or if you accidentally archived an asset.
+
+
+### Assets Enterprise 
+Customers can now see DNS and WHOIS information for domain assets that are imported from the ASM scanner.
+
+
 ### Opportunity Discovery Cards
 Opportunity Discovery cards have been updated to improve clarity and readability.
 
