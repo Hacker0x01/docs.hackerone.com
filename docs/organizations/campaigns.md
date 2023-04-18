@@ -35,6 +35,7 @@ If campaigns have already been created, the user will be presented with an overv
 ![Campaigns Manageer](/images/campaigns-4.png)
 
 3. After selecting a category, you can pick a specific objective from the list. We currently offer the following objectives:
+    
     a. **Welcome new hackers;** Use this objective to reward hackers submitting their first valid report to your program.
     b. **Re-engage researchers;** Hackers who were active in your program but stopped submitting reports in the last six months.
     c. **Recognize your top 20 hackers;** Retain hackers that consistently submit high-impact reports.
