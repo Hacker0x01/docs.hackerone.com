@@ -23,6 +23,8 @@
           path: /organizations/parent-child-programs.html
         - title: VDP vs. BBP
           path: /organizations/vdp-vs-bbp.html
+        - title: Campaigns
+          path: /organizations/campaigns.html
     - title: Using Markdown
       path: /organizations/using-markdown.html
     - title: Industry Best Practices
