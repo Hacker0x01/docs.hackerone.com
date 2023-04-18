@@ -49,6 +49,8 @@
     - title: Asset Inventory
       path: /organizations/asset-inventory.html
       items: 
+      - title: Asset Types
+        path: /organizations/asset-types.html
       - title: External Attack Surface Management Solution
         path: /organizations/external-asm.html
 - title: Your Program
@@ -85,8 +87,6 @@
           path: /organizations/defining-scope.html
         - title: Scope Best Practices
           path: /organizations/scope-best-practices.html
-        - title: Asset Types
-          path: /organizations/asset-types.html
         - title: Severity
           path: /organizations/severity.html
         - title: Environmental Score
