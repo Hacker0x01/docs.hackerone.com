@@ -11,7 +11,7 @@ Section | Details
 Disclosure Policy | Provide a basic disclosure agreement for your invited hackers. One easy way is to state that you'll abide by [HackerOne's disclosure guidelines](https://www.hackerone.com/disclosure-guidelines). 
 Bounty Program | Define the vulnerability types you care about most and provide information on your reward structure.
 Exclusions | Create exclusions for the vulnerabilities hackers should ignore.
-Scope | List the URLs in scope for your program.
+Scope | List the assets in scope for your program.
 
 Some successful security pages you can refer to as examples are: [Twitter](https://hackerone.com/twitter), [Dropbox](https://hackerone.com/dropbox), [Yahoo](https://hackerone.com/yahoo).
 
