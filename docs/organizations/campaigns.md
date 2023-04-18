@@ -12,7 +12,7 @@ H1 Campaigns are available for all customers using the Enterprise edition of Hac
 
 ![Campaigns in Engagements](/images/campaigns-1.png)
 
-It is also possible to navigate directly to: [https://hackerone.com/organizations/<organization_handle>/campaigns]
+It is also possible to navigate directly to: https://hackerone.com/organizations/<organization_handle>/campaigns
 
 When navigating towards the Campaigns feature, the user will land in the **Campaigns Manager.**
 
