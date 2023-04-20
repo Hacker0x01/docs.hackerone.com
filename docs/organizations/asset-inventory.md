@@ -10,8 +10,6 @@ This feature helps manage the scope across all customer segments. Over time, it 
 
 HackerOne Assets customers get access to complete Asset Inventory features to manage their attack surface as well as the testing scopes
 
->Note: The Asset Inventory is only viewable to organization admins or users with Asset Manager or Asset Viewer permissions.
-
 ![Asset Inventory page](./images/asset-inventory-1.png)
 
 You can choose how to group assets based on tags; by default, they are grouped by domain. Clicking on a group opens a detailed list of all assets under that tag. From there, you can edit them individually or in bulk. Each asset listed shows information on coverage, program, owner, and open vulnerabilities.
@@ -86,6 +84,16 @@ To create a new tag:
 ![create tag](./images/asset-inventory-7.png)
 
 **Note:** You must create and select a category before you can create tags.
+
+### Permissions
+The Asset Inventory is only viewable to organization and program admins or users with Asset Manager or Asset Viewer permissions.
+
+| Role | View assets | Manage scope | Add/remove tags | Review asset submissions |
+| --- | --- | --- | --- | --- |
+| Organization admin | Yes | Yes | Yes | Yes |
+| Program admin | Yes | Yes (only to programs they manage) | No | No |
+| Asset Manager permission | Yes | Yes | Yes | Yes |
+| Asset viewer permission | Yes | No | No | No |
 
 ### Advanced Features
 Purchasing the Assets feature also unlocks the Attack Surface Coverage dashboard and Asset Submissions. 
