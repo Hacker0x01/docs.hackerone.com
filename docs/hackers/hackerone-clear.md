@@ -18,3 +18,7 @@ Interested hackers can [apply to be a member](https://www.hackerone.com/clear/ap
 After completing the background check, Clear verified hackers will have this blue checkmark on their profile indicating that they’re Clear verified:
 
 ![Clear verified checkmark](./images/clear-1.png)
+
+### What distinguishes H1 Clear from the standard ID Verification process?
+
+H1 Clear is a stricter and more thorough process that requires a more stringent background check, ensuring that only the most skilled and professional hackers receive this status. These hackers are granted additional benefits as a result. The standard ID Verification process is available to any hacker who has submitted a valid report, providing a convenient method for identity confirmation.
