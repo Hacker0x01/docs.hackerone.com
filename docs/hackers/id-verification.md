@@ -30,3 +30,7 @@ If your application is rejected for any reason, you can simply try again! If you
 ID-verified hackers receive a green badge on their profile page:
 
 ![Verified badge](/images/id-verification-3.png)
+
+### What distinguishes H1 Clear from the standard ID Verification process?
+
+H1 Clear is a stricter and more thorough process that requires a more stringent background check, ensuring that only the most skilled and professional hackers receive this status. These hackers are granted additional benefits as a result. The standard ID Verification process is available to any hacker who has submitted a valid report, providing a convenient method for identity confirmation.
