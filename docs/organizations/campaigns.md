@@ -128,6 +128,6 @@ We show the campaign information when the bounty is being awarded:
 ![Campaign bounty](/images/campaigns-21.png)
 
 ### Anything else?
-We don't have any budgeting controls. If you want to stop a campaign once the bounties reach a certain amount, *this must be done manually*. If you want to take down the campaign banner, reach out to #lollipops in Slack.
+We don't have any budgeting controls. If you want to stop a campaign once the bounties reach a certain amount, *this must be done manually*. If you want to take down the campaign banner, reach out to your customer success manager.
 
 If you have budgeting constraints, some reports might end up not receiving the increased bounty amounts. *Please be transparent about this with hackers up front if you are expecting a large number of reports.* You can use the **Researchers Information** field for such communication.
