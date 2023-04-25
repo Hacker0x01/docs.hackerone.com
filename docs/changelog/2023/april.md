@@ -4,6 +4,9 @@ path: "/changelog/2023/april"
 date: "2023-04"
 ---
 
+### Hacktivity Annotations
+Publicly disclosed reports are now automatically summarized using AI to make them even easier to consume. Summaries are provided in five languages. 
+
 ### Enhanced Opportunities Search
 Hackers can now search for :mag: Opportunities by program handle, policy, technologies, industry, and asset identifiers through the search field. This update makes it possible to quickly and accurately locate the most relevant opportunities, increasing hacker's chances of finding the correct program to submit a report.
 
