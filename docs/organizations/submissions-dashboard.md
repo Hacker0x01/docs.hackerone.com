@@ -8,7 +8,7 @@ The Submissions Dashboard shows metrics on hacker submissions for multiple engag
 >Note: As part of the new org-level navigation with the left-side menu, analytics is now available at (a) a program-level from the Engagements page for your organization, and (b) org-level, across multiple programs in your organization, by clicking on the left-side Analytics icon. 
 
   
-### Submissions, and Submissions by Severity
+### Submissions and Submissions by Severity
 The Submissions chart shows the number of valid submissions during the selected time period compared to the average for all HackerOne customers. The Submissions by Severity chart shows how reports are distributed by severity levels. You can apply the filters described in the previous section to review this data by date range or assets. 
 
 ![submissions chart](/images/submission-dashboard-1.png)
