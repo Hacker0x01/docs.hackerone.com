@@ -16,7 +16,7 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 * [Duo](https://duo.com/docs/hackerone)
 * [JumpCloud](https://support.jumpcloud.com/support/s/article/single-sign-on-sso-with-hackerone2)
 
-[Contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) if you have another SAML provider.
+[Contact HackerOne](support.hackerone.com) if you have another SAML provider.
 
 ### Set Up
 

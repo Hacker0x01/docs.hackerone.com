@@ -47,7 +47,7 @@ Keep in mind that:
 HackerOne enables you to donate your bounty directly to charity.
 
 If you want to donate a bounty:
-1. Sign in to your HackerOne account and [submit a support ticket](https://support.hackerone.com/hc/en-us/requests/new).
+1. Sign in to your HackerOne account and [submit a support ticket](support.hackerone.com).
 2. Mention the following in your request:
    * The name and website of the charity you want to donate to.
    * Whether or not you want to be named as the person donating or prefer to remain anonymous. Keep in mind that we can only attribute the donation to you if the charity allows us to give a name.

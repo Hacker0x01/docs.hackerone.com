@@ -6,7 +6,7 @@ id: "organizations/freshdesk-integration"
 
 With the Freshdesk integration, HackerOne makes it easy for you to track Freshdesk issues as references on HackerOne.
 
-In order to configure the Freshdesk integrations for your program, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+In order to configure the Freshdesk integrations for your program, [contact HackerOne](support.hackerone.com) with the following information:
 
 - Base URI of the Freshdesk instance (e.g. https://company.freshdesk.com/)
 - ID of the requester (requester_id) who should be listed as the requester of all tickets (an integer)

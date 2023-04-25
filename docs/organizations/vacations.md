@@ -9,4 +9,4 @@ If a key member of your security team goes on vacation or will be unavailable fo
 
 It's best if you include as much information as possible and a timeline of when you expect your program to resume.
 
-HackerOne doesn't recommend that you pause submissions as it can be difficult to re-engage hackers after the pause ends. If you expect the disruption to last for a significant amount of time, please [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) to discuss your situation.
+HackerOne doesn't recommend that you pause submissions as it can be difficult to re-engage hackers after the pause ends. If you expect the disruption to last for a significant amount of time, please [contact HackerOne](support.hackerone.com) to discuss your situation.

@@ -6,7 +6,7 @@ id: "organizations/ibm-security-soar"
 
 With the IBM Security QRadar SOAR web URL integration, you can push all of your HackerOne submissions to QRadar SOAR so that you can track all of your vulnerability reports on Security SOAR.
 
-In order to configure the IBM Security SOAR integration for your team, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with the following information:
+In order to configure the IBM Security SOAR integration for your team, [contact HackerOne](support.hackerone.com) with the following information:
 
 * The base URL
 * The fields
