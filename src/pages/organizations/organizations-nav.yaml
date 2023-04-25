@@ -285,11 +285,13 @@
       items:
         - title: Program Overview
           path: /organizations/program-overview.html
-        - title: Submissions & Bounty Dashboard
-          path: /organizations/submissions-bounty-dashboard.html
+        - title: Submissions Dashboard
+          path: /organizations/submissions-dashboard.html
+        - title: Bounty Dashboard
+          path: /organizations/bounty-dashboard.html
         - title: Statistics Dashboard
           path: /organizations/statistics-dashboard.html
-        - title: Hacker Engagement
+        - title: Hacker Engagement Dashboard
           path: /organizations/hacker-engagement.html
         - title: Hacker Feedback Dashboard
           path: /organizations/hacker-feedback-dashboard.html
