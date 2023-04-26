@@ -3,6 +3,10 @@ title: "Submissions & Bounty Dashboard"
 path: "/organizations/submissions-bounty-dashboard.html"
 id: "organizations/submissions-bounty-dashboard"
 ---
+>Note: This dashboard has been split into two separate dashboards. To learn more, please visit their respective pages: 
+    >[Submissions Dashboard](submissions-dashboard.html)
+    >[Bounty Dashboard](bounty-dashboard.html)
+
 The Submissions & Bounty Dashboard shows metrics data on hacker submissions for your programs. Bounty programs will show the number of valid submissions for that category on the left, with bounties paid out for that category on the right. You can export all of your data at once as a PDF or by sections as a CSV, PDF, or PNG image file.
 
 ### Summary
