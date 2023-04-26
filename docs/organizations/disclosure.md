@@ -87,7 +87,7 @@ This diagram illustrates HackerOne's disclosure process:
 
 ![disclosure flowchart](./images/disclosure-4.png)
 
-For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
+For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](support.hackerone.com).
 
 ### Hacker Interactions with Disclosed Reports
 After reports have been disclosed, hackers can still add their own report summary in the *hacker summary* section. Hackers can only edit the hacker summary portion of the report as they won't be able to edit the official program report summary.

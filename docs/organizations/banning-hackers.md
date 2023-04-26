@@ -18,4 +18,4 @@ An email will be sent to the hacker telling them that they can no longer submit 
 A notification email will also be sent to the HackerOne support team stating that the user was banned.  
 
 ### Unbanning Hackers
-You can choose to unban hackers and invite them to your program again. To request to have a banned hacker participate in your program again, [contact HackerOne](https://support.hackerone.com/hc/en-us/requests/new) with your request, and we’ll be able to invite the hacker for you.  
+You can choose to unban hackers and invite them to your program again. To request to have a banned hacker participate in your program again, [contact HackerOne](support.hackerone.com) with your request, and we’ll be able to invite the hacker for you.  

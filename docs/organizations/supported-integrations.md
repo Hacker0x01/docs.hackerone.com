@@ -215,7 +215,7 @@ HackerOne currently supports these integrations:
 
 <br>
 
-Don't see your issue tracker listed here? [Let us know](https://support.hackerone.com/hc/en-us/requests/new) to get that added for you.
+Don't see your issue tracker listed here? [Let us know](support.hackerone.com) to get that added for you.
 
 ### Using Multiple Integrations
 

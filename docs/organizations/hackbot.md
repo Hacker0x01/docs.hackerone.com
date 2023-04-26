@@ -31,4 +31,4 @@ Suggest needs more info state | Hackbot will suggest when a report should be mov
 Suggest triggers | Hackbot will suggest you to create a common response when comments are repeated.
 Suggest remediation | Hackbot will suggest remediation guidance from MITRE based on the report weakness.
 
-We love adding new functionality to Hackbot to make your life easier and more efficient, so [let us know](https://support.hackerone.com/hc/en-us/requests/new) if you have any suggestions on how we can make it better.
+We love adding new functionality to Hackbot to make your life easier and more efficient, so [let us know](support.hackerone.com) if you have any suggestions on how we can make it better.
