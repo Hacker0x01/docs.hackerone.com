@@ -5665,10 +5665,10 @@ gatsby-plugin-csp@^1.1.4:
     "@babel/runtime" "^7.0.0"
     lodash.flatten "^4.4.0"
 
-gatsby-plugin-google-analytics@^3.14.0:
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.14.0.tgz#9a65c9b2b0ad0a2350c0318327101f637e285ef0"
-  integrity sha512-yfSBRrGZZWruKDQMAJOHp7S1nUBQewT9MuvqegCqFsHhxUtm6PZ5JFv3k8385DfQ/+ux9MmzpY20vQ0E5/30fA==
+gatsby-plugin-google-analytics@^3.15.0:
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.15.0.tgz#d4082aae5da89400942259c32e5990873252df15"
+  integrity sha512-4zvc1clwhPTd9nlPYfJSSmGFBwkdPIvatiO6+kWgBDZzIRCwQ0/WAQimQ7DV9Yw8sooaVhjYpFvAYDXUgR9Pow==
   dependencies:
     "@babel/runtime" "^7.15.4"
     minimatch "3.0.4"
