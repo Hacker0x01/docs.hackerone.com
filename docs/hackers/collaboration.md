@@ -6,7 +6,7 @@ id: "hackers/collaboration"
 
 You can collaborate with other hackers in finding vulnerabilities for the programs you’re a part of. This enables you and other collaborating hackers to share resources and any knowledge you each may have about a vulnerability as you work together to uncover security issues. Collaboration is a great way to find vulnerabilities as putting multiple heads together may be better than just one.
 
-If you’re collaborating with other hackers, you can [split the bounty amount](https://docs.hackerone.com/hackers/payments.html#bounty-splitting) so that each hacker is rewarded appropriately. In addition, each collaborator on the report will earn reputation points for their contribution. 
+If you’re collaborating with other hackers, you can [split the bounty amount](https://docs.hackerone.com/hackers/payments.html#bounty-splitting) so that each hacker is rewarded appropriately. In addition, each collaborator on the report will earn reputation points for their contribution. A collaborator needs to accept the collaboration invite before the report is awarded to gain reputation and bounty.
 
 To let other hackers know that you’re open to collaboration:
 1. Go to your profile’s **Settings > Collaboration Settings**.
