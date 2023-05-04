@@ -6,7 +6,7 @@ id: "organizations/bugzilla-integration"
 
 With the Bugzilla integration, HackerOne makes it easy for you to track Bugzilla issues as references on HackerOne.
 
-In order to configure the Bugzilla integrations for your program, [contact HackerOne](support.hackerone.com) with the following information to start the integration process:
+In order to configure the Bugzilla integrations for your program, [contact HackerOne](https://support.hackerone.com) with the following information to start the integration process:
 
   - The Base URL of your instance (e.g. https://company.bugzilla.org/)
   - Bugzilla product version
