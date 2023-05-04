@@ -75,4 +75,4 @@ Option | Details
 Full | Upon disclosure, the contents of the report will be visible to other hackers in the private program.
 Limited | Only the summary and timeline of activity will be visible to other hackers in the private program.
 
-For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](support.hackerone.com).
+For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com).

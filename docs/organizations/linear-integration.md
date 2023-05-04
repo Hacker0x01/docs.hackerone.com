@@ -6,7 +6,7 @@ id: "organizations/linear-integration"
 
 With the Linear integration, HackerOne makes it easy for you to track Linear issues as references on the platform. Linear only supports directly linking to the issue creation form on a per-project basis, so if you use multiple projects, there currently isn’t a good way of pre-filling data as a report could affect different projects. If most of your reports only affect one project, issue creation can be much easier.
 
-In order to configure the Linear integration for your team, [contact HackerOne](support.hackerone.com) with the following information:
+In order to configure the Linear integration for your team, [contact HackerOne](https://support.hackerone.com) with the following information:
 
 - The linear project name
 

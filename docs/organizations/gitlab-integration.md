@@ -6,7 +6,7 @@ id: "organizations/gitlab-integration"
 
 With the GitLab integration, HackerOne makes it easy for you to track GitLab issues as references on the platform. GitLab only supports directly linking to the issue creation form on a per-repository basis, so if you use multiple repositories, there currently isn’t a good way of pre-filling data as a report could affect different repositories. If most of your reports only affect one repository, issue creation can be much easier.
 
-In order to configure the GitLab integration for your team, [contact HackerOne](support.hackerone.com) with the following information:
+In order to configure the GitLab integration for your team, [contact HackerOne](https://support.hackerone.com) with the following information:
 
 - Are you using gitlab.com or GitLab Community/Enterprise Edition?
 - The repository name
