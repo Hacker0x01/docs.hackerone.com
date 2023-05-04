@@ -3,7 +3,7 @@ title: "Slack Shared Channels"
 path: "/organizations/slack-shared-channels.html"
 id: "organizations/slack-shared-channels"
 ---
->This feature is only available to HackerOne Enterprise Advisory Plus. For more details, please see product editions.
+>This feature is only available to HackerOne Enterprise. For more details, please see product editions.
 
 Shared channels enable you to work with HackerOne in a single channel from your own workspace. Accessing shared channels from your own workspace enables you to adhere to the security standards of your own organization instead of having to implement the workspace login security standards of HackerOne. [Learn more about Slack’s shared channels](https://slack.com/intl/en-gb/help/articles/115004151203-A-guide-to-shared-channels).
 
