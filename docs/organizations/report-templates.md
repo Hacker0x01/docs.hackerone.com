@@ -28,7 +28,7 @@ Hackers submitting reports to your program will then be greeted with a pre-popul
 
 ![report-template-3](./images/report-template-3.png)
 
-The same Markdown powered template can also be applied to the Impact field. This guides hackers to describe why the issue is imporarnt in a format that helps you best prioritize response and remediation.
+The same Markdown powered template can also be applied to the Impact field. This guides hackers to describe why the issue is important in a format that helps you best prioritize response and remediation.
 
 ![hackerone-impact-report-template](./images/hackerone-impact-report-template.png)
 
