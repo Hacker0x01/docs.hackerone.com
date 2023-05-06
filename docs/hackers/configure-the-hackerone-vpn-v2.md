@@ -1,5 +1,5 @@
 ---
-title: "HackerOne Gateway (VPN)"
+title: "HackerOne Gateway NG (VPN)"
 path: "/hackers/configure-the-hackerone-vpn-v2.html"
 id: "hackers/configure-the-hackerone-vpn-v2"
 ---
@@ -31,22 +31,11 @@ To join a program that uses VPN and to set up the Gateway NG (VPN):
 6. [Install the HackerOne VPN Root CA](/hackers/hackerone-vpn-root-ca.html).
 
 ### Using Gateway NG (VPN)
-##### Windows/macOS
+### Windows/macOS
 Click the button in the client
 ![image](./images/warp-client-connect.png)
-##### Linux
+### Linux
 Use the following cli command:
 `warp-cli connect`
 
->**Note:** If you’re a part of a *Full Tunnel* Gateway program, all of your activity will be captured while your VPN instance is running. Please be sure to avoid logging in to accounts where personal information can be recorded such as bank accounts.   
-
-### Types of VPN Programs
-You can keep track of all of the Gateway (VPN) programs you’re a part of in the Programs section on the bottom of the Gateway (VPN) page. Programs with different VPN requirements will be noted next to the program name with these tags:
-
-Tag | Details
---- | --------
-Full Tunnel | All traffic from your computer will be routed through the Gateway (VPN) while your VPN instance is running.
-Split Tunnel | Only traffic intended for assets in scope of the program(s) will be routed through the Gateway (VPN). Programs without the Full Tunnel label are a part of the Split Tunnel VPN. <p><p>*Note: If you’re a part of both a Full Tunnel and a Split Tunnel Gateway program, the default will be Full Tunnel VPN*.
-US Gateway Only | You can only connect to the US Gateway instance for these programs.
-
-![image](./images/gateway-5.png)
+>**Note:** If you’re a part of a *Full Tunnel* Gateway program, all of your activity will be captured while you you are connected to VPN. Please be sure to avoid logging in to accounts where personal information can be recorded such as bank accounts.   
