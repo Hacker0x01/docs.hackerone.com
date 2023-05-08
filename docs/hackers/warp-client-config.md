@@ -1,5 +1,5 @@
 ---
-title: "Configure the WARP Client for a specific Program"
+title: "Configure Client for a specific Program"
 path: "/hackers/warp-client-config.html"
 id: "hackers/warp-client-config"
 ---
@@ -55,7 +55,7 @@ Then within 30 seconds of authenticating. Copy the token and use it in terminal:
 ```console
 warp-cli teams-enroll-token com.cloudflare.warp://h1-team-4.cloudflareaccess.com/auth?token=eyJhbGciOiJSU...
 ```
-If you are too slow you get the following error:
+If the timer runs out before you enter the token you will get the following error:
 ```console
 Error: Invalid JWT provided.
 ```
