@@ -106,7 +106,7 @@
           path: /hackers/hackerone-vpn-root-ca.html
         - title: Configuring OpenVPN Clients
           path: /hackers/openvpn-clients.html
-    - title: GatewayV2 [BETA]
+    - title: GatewayV2
       path: /hackers/configure-the-hackerone-vpn-v2.html
       items:
         - title: Installing the VPN Root CA
