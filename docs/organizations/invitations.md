@@ -61,4 +61,4 @@ You can keep track of your invitations and which hackers have been invited to yo
   * Reputation
   * Program Reputation
   * Impact
-![invitation download](./images/invitation-csv-download.png)
+![invitation download](/images/invitation-csv-download.png)
