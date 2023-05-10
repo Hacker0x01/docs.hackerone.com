@@ -37,6 +37,8 @@
           path: /hackers/tax-forms.html
         - title: External Payments
           path: /hackers/external-payments.html
+        - title: Verification Letters
+          path: /hackers/verification-letters.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
     - title: ID Verification
