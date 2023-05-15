@@ -18,8 +18,10 @@ These guides assume you already have the WARP Client installed, if you haven't p
 1. Go to account preferences in the client.
 2. Fill in the team domain:
 ![image](./images/warp_win_teams.png)
+> **Note:** If you do not know the team domain please contact support.
 
-3. Login to the WARP authentication website (pops-up automatically)
+3. Login to the WARP authentication website (pops-up automatically). use your whitelisted e-mail address.
+> **Note:** Please use the same email you registered with HackerOne.
 ![image](./images/warp_login_email.png)
 
 4. Authentication succesfull, register client into program
@@ -37,8 +39,10 @@ Click "account" tab
 
 2. Fill in the team domain:
 ![image](./images/warp_team_name.png)
+> **Note:** If you do not know the team domain please contact support.
 
-3. Login to the WARP authentication website (pops-up automatically)
+3. Login to the WARP authentication website (pops-up automatically). use your whitelisted e-mail address.
+> **Note:** Please use the same email you registered with HackerOne.
 ![image](./images/warp_login_email.png)
 
 4. Authentication succesfull, register client into program
@@ -58,27 +62,29 @@ warp-cli register
 
 2. Convert WARP to Zero Trust, by logging into the team domain
 ```console
-warp-cli teams-enroll [team-name]
+warp-cli teams-enroll [team-domain]
 ```
+> **Note:** If you do not know the team domain please contact support.
 
 3. Navigate to the domain page, add your whitelisted e-mail address, get the one-pin and connect
+> **Note:** Please use the same email you registered with HackerOne.
 ```console
 A browser window should open at the following URL:
-https://[team-name].cloudflareaccess.com/warp 
+https://[team-domain].cloudflareaccess.com/warp 
 If the browser fails to open, please visit the URL above directly in your browser.
 ```
 
 3a. CLI only login
 Alternatively if you have CLI only access you can:
 ```console
-warp-cli teams-enroll [team-name]
+warp-cli teams-enroll [team-domain]
 ```
 After this open the URL listed in the output on you local machine, or via terminal based browser.
 Then within 30 seconds of authenticating. Copy the token and use it in terminal:
 ![image](./images/warp_zt_copy_jwt_token.png)
 
 ```console
-warp-cli teams-enroll-token com.cloudflare.warp://[team-name].cloudflareaccess.com/auth?token=[token]
+warp-cli teams-enroll-token com.cloudflare.warp://[team-domain].cloudflareaccess.com/auth?token=[token]
 ```
 If the timer runs out before you enter the token you will get the following error:
 ```console
