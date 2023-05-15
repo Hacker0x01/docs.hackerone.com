@@ -4,7 +4,7 @@ path: "/organizations/organization-users.html"
 id: "organizations/organization-users"
 ---
 
-#### Adding Users
+### Adding Users
 >Hint: Add groups before adding users to avoid adding people without any groups. Pending users can not be added to groups.
 
 1. Go the Organization Settings > Users
