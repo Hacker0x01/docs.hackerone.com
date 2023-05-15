@@ -14,11 +14,11 @@ id: "organizations/organization-users"
 3. Provide the email address of the user that should be invited.
 	a. Users who were already added cannot be added again.
 4. Select if this user should be an organization administrator.
-    a. Adding a user as an organization administrator will allow them to add, manage, and remove other users, groups, and assets from the organization.
-	b. Every organization must have at least one admin.
+    1. Adding a user as an organization administrator will allow them to add, manage, and remove other users, groups, and assets from the organization.
+	2. Every organization must have at least one admin.
 5. Select the groups the user should be added to. Groups determine what users can access and do in your program.
-    a. By not adding a user to a group, they will be able to onboard onto the platform, but unable to access or take any action on the platform.
-    b. **Tip:** If you would like to add a user to a group that doesn’t exist yet, we recommend that you create the group first and then add the user.
+    1. By not adding a user to a group, they will be able to onboard onto the platform, but unable to access or take any action on the platform.
+    2. **Tip:** If you would like to add a user to a group that doesn’t exist yet, we recommend that you create the group first and then add the user.
 6. Click on **Add new user** at the bottom of the page to finish.
 7. This will trigger a single invitation to join the organization. Once the User accepts the invitation, they will have access based on the groups they were invited to. 
 
