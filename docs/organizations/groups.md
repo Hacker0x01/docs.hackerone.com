@@ -13,7 +13,7 @@ The Groups page shows all the groups in your organization at a glance. You will 
 ### Create Groups
 1. Click the **Add new group** button in the top right corner. 
 2. Name the group
-3. Add users. ![add users page](/images/groups-2.png)
+3. Add users.
 4. Optional: Set up Organization, Program, and Asset access and permissions.
 5. Click **Add group** in the bottom right corner when you are done.
     * Your new group will appear on the Groups page. 
