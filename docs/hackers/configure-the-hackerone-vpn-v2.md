@@ -20,6 +20,12 @@ Programs requiring Gateway V2 (VPN) enable them to have granular control over yo
 
 If you have trouble installing the Gateway V2 (VPN) or have additional feedback, please reach out to [vpn-support@hackerone.com](mailto:vpn-support@hackerone.com).
 
+## Cloudflare WARP
+Hackerone is using "Cloudflare WARP/Zero Trust" to build this product. During the logon process you will be redirected to Cloudflare logon pages.
+
+Please do not contact Cloudflare directly when you have trouble with the logon process. If you do have any issues,
+please contact: [vpn-support@hackerone.com](mailto:vpn-support@hackerone.com).
+
 ### Set up
 
 To join a program that uses VPN and to set up the Gateway V2 (VPN):
