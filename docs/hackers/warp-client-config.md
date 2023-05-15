@@ -21,8 +21,8 @@ These guides assume you already have the WARP Client installed, if you haven't p
 > **Note:** If you do not know the team domain please contact support.
 
 3. Login to the WARP authentication website (pops-up automatically). use your whitelisted e-mail address.
-> **Note:** Please use the same email you registered with HackerOne.
 ![image](./images/warp_login_email.png)
+> **Note:** Please use the same email you registered with HackerOne.
 
 4. Authentication succesfull, register client into program
 Click the "Open Cloudflare WARP" button
@@ -42,8 +42,8 @@ Click "account" tab
 > **Note:** If you do not know the team domain please contact support.
 
 3. Login to the WARP authentication website (pops-up automatically). use your whitelisted e-mail address.
-> **Note:** Please use the same email you registered with HackerOne.
 ![image](./images/warp_login_email.png)
+> **Note:** Please use the same email you registered with HackerOne.
 
 4. Authentication succesfull, register client into program
 Click the "Open Cloudflare WARP" button
@@ -67,12 +67,12 @@ warp-cli teams-enroll [team-domain]
 > **Note:** If you do not know the team domain please contact support.
 
 3. Navigate to the domain page, add your whitelisted e-mail address, get the one-pin and connect
-> **Note:** Please use the same email you registered with HackerOne.
 ```console
 A browser window should open at the following URL:
 https://[team-domain].cloudflareaccess.com/warp 
 If the browser fails to open, please visit the URL above directly in your browser.
 ```
+> **Note:** Please use the same email you registered with HackerOne.
 
 3a. CLI only login
 Alternatively if you have CLI only access you can:
