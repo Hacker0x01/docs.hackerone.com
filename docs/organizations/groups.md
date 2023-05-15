@@ -17,7 +17,7 @@ The Groups page shows all the groups in your organization at a glance. You will 
 ![add users page](/images/groups-2.png)
 4. Optional: Set up Organization, Program, and Asset access and permissions.
 5. Click **Add group** in the bottom right corner when you are done.
-   * Your new group will appear on the Groups page. 
+    * Your new group will appear on the Groups page. 
 
 ### Manage Groups
 1. Click the pencil icon on the right side of a group to edit the group. 
