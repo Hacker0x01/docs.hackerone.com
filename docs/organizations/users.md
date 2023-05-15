@@ -7,7 +7,7 @@ id: "organizations/organization-users"
 ### Adding Users
 >Hint: Add groups before adding users to avoid adding people without any groups. Pending users can not be added to groups.
 
-1. Go the Organization Settings > Users
+1. Go **Organization Settings > Users**
 2. Click on **Add new user**
 ![Users page](/images/users-1.png)
 

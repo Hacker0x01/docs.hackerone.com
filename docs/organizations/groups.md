@@ -12,22 +12,22 @@ The Groups page shows all the groups in your organization at a glance. You will 
 
 ### Create Groups
 1. Click the **Add new group** button in the top right corner. 
-1. Name the group
-1. Add users. 
+2. Name the group
+3. Add users. 
 ![add users page](/images/groups-2.png)
-1. Optional: Set up Organization, Program, and Asset access and permissions.
-1. Click **Add group** in the bottom right corner when you are done.
-   1. Your new group will appear on the Groups page. 
+4. Optional: Set up Organization, Program, and Asset access and permissions.
+5. Click **Add group** in the bottom right corner when you are done.
+   * Your new group will appear on the Groups page. 
 
 ### Manage Groups
 1. Click the pencil icon on the right side of a group to edit the group. 
-    1. This will open a page where you can see all the users and their permissions. 
-    1. You can also add members to the group with the **Add another user** button.
-1. At the top, there are tabs for **User eligibility** and **Permissions and access.**
-![group members](/images/groups-1.png)
-    1. **User eligibility** allows you to set the group so that only users with certain email domains are eligible to be part of the group.
-    1. The **Permissions and access** tab is where you can edit Organization, Program, and Asset access and permissions for the group.
-1. After making your changes, click **Update group** in the bottom right corner. 
+    * This will open a page where you can see all the users and their permissions. 
+    * You can also add members to the group with the **Add another user** button.
+2. At the top, there are tabs for **User eligibility** and **Permissions and access.**
+    * **User eligibility** allows you to set the group so that only users with certain email domains are eligible to be part of the group.
+    * The **Permissions and access** tab is where you can edit Organization, Program, and Asset access and permissions for the group.
+    ![group members](/images/groups-1.png)
+3. After making your changes, click **Update group** in the bottom right corner. 
 
 ### Delete Groups
 Go to the Groups page and click the trash can to remove a group. A popup will open asking you to confirm you want to remove this group. 
