@@ -53,7 +53,8 @@ Kuwaiti Dinar | KWD | United States Dollar | USD
 Malaysian Ringgit | MYR | |
 
 Keep in mind that:
-* When receiving a payout through a bank transfer, the payout must meet the minimum amount for the type of payment before it can be sent:
+* When receiving a payout through a bank transfer, the payout must meet t![IMG_0005](https://github.com/Hacker0x01/docs.hackerone.com/assets/134099194/6fba70b8-6ffb-4c5c-b5dc-7f4d0ec0529e)
+he minimum amount for the type of payment before it can be sent:
      * Swift payment minimum: $100
      * Local payment minimum: $50
      * The minimum is the cumulative of all payments pending for that user. For example, if you have $1 from one award and $49 pending from another, the 2 payments will be grouped into one payout of $50, which enables it to meet the local payment minimum transaction amount.
