@@ -81,7 +81,7 @@ warp-cli teams-enroll [team-domain]
 ```
 After this open the URL listed in the output on you local machine, or via terminal based browser.
 Then within 30 seconds of authenticating. Copy the token and use it in terminal:
-![image](./images/warp_zt_copy_jwt_token.png)
+![screenshot](./images/warp_zt_jwt_token.png)
 
 ```console
 warp-cli teams-enroll-token com.cloudflare.warp://[team-domain].cloudflareaccess.com/auth?token=[token]
