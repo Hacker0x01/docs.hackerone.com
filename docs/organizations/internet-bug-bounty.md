@@ -35,7 +35,7 @@ The IBB program operates in a pooled defense model, where every participating pr
 2. HackerOne will deduct from your existing bounty budget automatically as CVEs are fixed.
 3. HackerOne will add all bounties for each eligible vulnerability, providing 80% to the finder and 20% to the open-source project, funding essential remediation efforts.
 
-### How to Set Up Your Ibb Bounty Table
+### How to Set Up Your IBB Bounty Table
 You can opt-in by setting up your bounty table on your main program’s rewards settings page (instructions below). This bounty table is private and indicates how much you will award for vulnerabilities discovered in open-source projects. Our default suggestion for IBB bounty spend is for customers to allocate 10% of their main bounty spend. Amounts within the table are adjustable and can be increased or decreased depending on your needs.
 
 Once this table is enabled and configured, the amounts of the individual bounty table are pooled with the bounty tables from other participating programs. The sum of those amounts is displayed in the public bounty table on the IBB Program page. This is rewarded for all valid vulnerability submissions for all open-source projects enrolled.
@@ -67,17 +67,16 @@ We’ll provide public, monthly reporting of vulnerabilities (including CVEs) an
 **Which projects are currently supported?**
 Check out our list of projects [here.](https://hackerone.com/ibb/policy_scopes)
 
-**How can I recommend projects for enrollment in the IBB**
-We are always looking to onboard new critical open-source projects. If you have a project that is critical in your environment and would like to see it enrolled in the IBB, send the project details to ibb@hackerone.com
+**Can I recommend projects for enrollment in the IBB?**
+Yes! We are always looking to onboard new critical open-source projects. If you have a project that is critical in your environment and would like to see it enrolled in the IBB, send the project details to ibb@hackerone.com
+
+Projects are nominated by both customers and hackers. If you have projects you’d like to see supported, email ibb@hackerone.com with the project information.
+* Once a project has been nominated by multiple parties (3+), they will be assessed for enrollment criteria
 
 **Which projects are eligible for enrollment?**
 The IBB aims to support open-source projects that embody widespread dependency for our customers and hackers. An additional goal is to increase security maturity for all open-source software. To that end, we encourage all projects to use the [OpenSSF Security Scorecard](https://openssf.org/blog/2020/11/06/security-scorecards-for-open-source-projects/) as a starting point before they consider participating in a bug bounty program. Once a project has achieved basic security maturity, we consider the following before enrolling a project in the IBB.
 
-**Project nomination and selection:**
-Projects are nominated by both customers and hackers. If you have projects you’d like to see supported, email ibb@hackerone.com with the project information.
-* Once a project has been nominated by multiple parties (3+), they will be assessed for enrollment criteria
-
-To be considered for enrollment projects must have the following:
+Additionally, to be considered for enrollment projects must have the following:
 * Have a security policy governing the receipt of vulnerability reports (e.g., SECURITY.md)
 * Have a process to assign CVEs and/or issue security advisories for valid vulnerabilities reports
 
