@@ -27,6 +27,7 @@ Not Applicable | -5
 Duplicate of a resolved report submitted after the report is made public | -5
 Duplicate of a N/A report | -5
 Spam | -10
+Bug Reopened | -7
 
 You'll always have access to a detailed log of your reputation history, and reputation will never be necessary to access core functionality on the platform.
 
