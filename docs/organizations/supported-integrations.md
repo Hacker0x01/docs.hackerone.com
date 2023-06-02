@@ -199,7 +199,7 @@ HackerOne currently supports these integrations:
 </div>
 
 <div class="int-button-container">
-   <a class="integration-button" href="https://help.vulcancyber.com/en/articles/4717420-hackerone-connector">
+   <a class="integration-button" href="https://help.vulcancyber.com/en/articles/7050794-hackerone-connector">
     <div class="logo">
       <img src="./images/vulcan-logo.png" />
     </div>
