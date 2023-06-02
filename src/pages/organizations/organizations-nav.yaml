@@ -23,10 +23,6 @@
           path: /organizations/parent-child-programs.html
         - title: VDP vs. BBP
           path: /organizations/vdp-vs-bbp.html
-        - title: Internet Bug Bounty
-          path: /organizations/internet-bug-bounty.html
-        - title: Campaigns
-          path: /organizations/campaigns.html
     - title: Using Markdown
       path: /organizations/using-markdown.html
     - title: Industry Best Practices
@@ -42,6 +38,9 @@
   items:
     - title: Engagements
       path: /organizations/engagements.html
+      items:
+        - title: Campaigns
+          path: /organizations/campaigns.html
     - title: Organization Profile
       path: /organizations/organization-profile.html
     - title: Users
@@ -98,6 +97,8 @@
       items:
       - title: Importance of Bounty Tables
         path: /organizations/importance-of-bounty-tables.html
+      - title: Internet Bug Bounty
+        path: /organizations/internet-bug-bounty.html
     - title: Submit Report Form
       path: /organizations/submit-report-form.html
       items:
