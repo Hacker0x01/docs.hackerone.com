@@ -1,5 +1,5 @@
 ---
-title: "Human-Augmented Signal"
+title: "Adil Ishaq"
 path: "/organizations/human-augmented-signal.html"
 id: "organizations/human-augmented-signal"
 ---
