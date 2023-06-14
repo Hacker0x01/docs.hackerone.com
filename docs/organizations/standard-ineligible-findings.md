@@ -3,9 +3,9 @@ title: "Standard Ineligible Findings"
 path: "/organizations/standard-ineligible-findings.html"
 id: "organizations/standard-ineligible-findings"
 ---
->Instructions to Customers: HackerOne operates a list of common ineligible findings that are enforced across all of its programs. This helps ensure a consistent hacker and customer experience across the platform. Please review this list prior to launching your program. If your specific threat model benefits from identifying any of the issues named on our exclusion list, make sure to note this clearly in your Security Page.
+>Instructions to Customers: HackerOne operates a list of standard ineligible findings that are enforced across all of its programs. This helps ensure a consistent hacker and customer experience across the platform. Please review this list prior to launching your program. If your specific threat model benefits from identifying any of the issues named on our exclusion list, make sure to note this clearly in your Security Page.
 
-### HackerOne Common Ineligible Findings
+### HackerOne Standard Ineligible Findings
 
 When reporting potential vulnerabilities, please consider (1) realistic attack scenarios, and (2) the security impact of the behavior. Below, you will find the most common false positives we encounter. The following issues will be closed as invalid except in rare circumstances demonstrating clear security impact.
 
