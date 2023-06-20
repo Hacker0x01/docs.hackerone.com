@@ -78,6 +78,8 @@
         - title: Good Policies
           path: /organizations/good-policies.html
           items:
+        - title: Standard Ineligible Findings
+          path: /organizations/standard-ineligible-findings.html
         - title: Safe Harbor FAQ
           path: /organizations/safe-harbor-faq.html
         - title: Gold Standard Safe Harbor Statement
