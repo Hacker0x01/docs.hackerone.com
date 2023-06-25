@@ -69,7 +69,8 @@ Check out our list of projects [here.](https://hackerone.com/ibb/policy_scopes)
 
 **Can I recommend projects for enrollment in the IBB?**
 Yes! We are always looking to onboard new critical open-source projects. If you have a project that is critical in your environment and would like to see it enrolled in the IBB, send the project details to ibb@hackerone.com
-* Projects are nominated by both customers and hackers. If you have projects you’d like to see supported, email ibb@hackerone.com with the project information.
+
+Projects are nominated by both customers and hackers. If you have projects you’d like to see supported, email ibb@hackerone.com with the project information.
 * Once a project has been nominated by multiple parties (3+), they will be assessed for enrollment criteria
 
 **Which projects are eligible for enrollment?**
