@@ -202,6 +202,8 @@
           path: /organizations/limiting-disclosed-information.html
     - title: Retesting
       path: /organizations/retesting.html
+    - title: Request Code Review (BETA)
+      path: /organizations/request-code-review.html
     - title: Vacations
       path: /organizations/vacations.html
     - title: HackerOne on Your Program
