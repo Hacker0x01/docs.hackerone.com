@@ -28,15 +28,17 @@ To set up two-factor authentication for your account:
 6. Click **Next**
 7. Enter your verification code from your 2FA app, one of the backup codes, and your account password as prompted.
 
-![Finalize 2FA setup](images/2fa-3.png)
+![Finalize 2FA setup](/images/2fa-3.png)
 
 8. Click **Save**
+
+![2FA setup complete](images/2fa-4.png)
 
 Once your two-factor authentication has been verified, when you log in to HackerOne, you’ll be prompted to enter a 6-digit verification code from your authentication application. You must enter the verification code to log in to HackerOne successfully.
 
 On your user management settings, under <b>Settings > Users</b>, you'll be able to see those with two-factor authentication on or off via the 2FA column. A user with **N/A** means that they are authenticating via Single Sign-On (SSO) using a third-party identity provider. For example, HackerOne Security Analysts will have a 2FA status of N/A because they use SSO.
 
-![Organization user 2FA status](./images/2fa-4.png)
+![Organization user 2FA status](./images/2fa-5.png)
 
 ><i>Note: Two-factor Authentication is on a per-user basis. You can’t have SSO and 2FA simultaneously.</i>
 
