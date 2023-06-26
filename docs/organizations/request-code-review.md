@@ -11,7 +11,7 @@ The **Request code review** feature allows you to send a limited code snippet pa
 > **Note:** This feature is currently in open beta.
 
 ### How it Works  
-To have request a patch code review:
+To request a patch code review:
 1. Choose the report in your inbox that you want to assign a our reviewer community to review.
 2. Change the action picker to **Request code review**.
 
