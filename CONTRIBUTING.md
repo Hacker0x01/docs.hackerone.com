@@ -84,7 +84,7 @@ you're | you are
 Below are some common abbreviations used by HackerOne
 
 Abbreviation | Definition
-__________ | _________
+----------- | -----------
 2FA | 2 Factor Authentication
 API | Application Programming Interface
 BBP | Bug Bounty Program
@@ -101,7 +101,7 @@ XSS | Cross-Site Scripting
 There are some words that can be used with multiple spellings. In order to keep consistency, we need to agree on which spelling to go with.
 
 This | NOT | That
-____ | ___ | ____
+---- | --- | ----
 cyberattack | NOT | cyber attack
 engagement | NOT | program
 organization | NOT | company
