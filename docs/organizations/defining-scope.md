@@ -41,4 +41,4 @@ Instruction | If you have any detail descriptions or comments on the asset, thi
   * Do data analysis per domain - Is it time to switch your marketing site provider, because all your vulnerabilities stem from that area? Is one particular engineering team responsible for 90% of your Cross-Site Scripting vulnerabilities?
 
 ### Tutorial Video
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/4gK2_OAmiwI" frameborder="0" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/H2ZcSP04Vzw" frameborder="0" allowfullscreen></iframe>

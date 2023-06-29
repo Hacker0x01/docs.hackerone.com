@@ -105,3 +105,6 @@ Your Attack Surface Coverage dashboard gives an overview of your entire attack s
 Asset Submissions allows hackers to submit potentially missed assets for review. You can then accept or reject these assets as part of your organization. If you accept a hacker’s submission, they will then be invited to submit asset enrichment to provide more details about technology tags, CVSS environmental score, and maximum severity.
 
 ![asset submissions](./images/asset-inventory-11.png)
+
+### Asset Tutorial
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/H2ZcSP04Vzw" frameborder="0" allowfullscreen></iframe>
