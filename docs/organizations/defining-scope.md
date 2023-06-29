@@ -41,4 +41,4 @@ Instruction | If you have any detail descriptions or comments on the asset, thi
   * Do data analysis per domain - Is it time to switch your marketing site provider, because all your vulnerabilities stem from that area? Is one particular engineering team responsible for 90% of your Cross-Site Scripting vulnerabilities?
 
 ### Tutorial Video
-<div style="position: relative; padding-bottom: 61.43344709897611%; height: 0;"><iframe src="https://www.loom.com/embed/d9b5fdf65c4c43e0b8f46bf9cabd39b3?sid=cc550dcf-9ff2-4918-8502-3b94b2363359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2ZcSP04Vzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
