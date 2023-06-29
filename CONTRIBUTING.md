@@ -102,3 +102,11 @@ Sorry, we couldn’t find an account with that username. Can we help you recover
 Sorry, that password isn’t right. We can help you recover your password. | Wrong password.
 Enter a valid email address to use as your Apple ID. | The email address entered is invalid.
 That account doesn’t exist. Enter a different account or create a new one. | Sign-in unsuccessful. Please try again.
+
+### Embedded Videos
+The preferred source of instructional embedded videos is the [HackerOne YouTube channel](https://www.youtube.com/@HackerOneTV) and configured to be `Unlisted`. These should render on-page as an iframe with the following parameters:
+```html
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/<YOUTUBE_VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
+```
+#### Community Video Contributions
+If you're not a HackerOne employee or video content partner, please open a pull request or issue with a publicly accessible link to download the video file so it can be updloaded to HackerOne's YouTube channel. Note that video content will be need to be reviewed by various HackerOne teams; this may result in longer response times from the maintainers of this repository.
