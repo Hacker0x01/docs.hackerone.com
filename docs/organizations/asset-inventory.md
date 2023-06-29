@@ -107,4 +107,4 @@ Asset Submissions allows hackers to submit potentially missed assets for review.
 ![asset submissions](./images/asset-inventory-11.png)
 
 ### Asset Tutorial
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2ZcSP04Vzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/H2ZcSP04Vzw" frameborder="0" allowfullscreen></iframe>
