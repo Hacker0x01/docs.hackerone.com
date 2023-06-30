@@ -1,7 +1,7 @@
 ---
 title: "SafeBase"
-path: "/organizations/safe-base.html"
-id: "organizations/safe-base"
+path: "/organizations/safebase-integration.html"
+id: "organizations/safebase-integration"
 ---
 
 Showcase your HackerOne bug bounty program within your SafeBase Trust Center. Display live stats such as overall program statistics, bounty amounts, and response efficiency. This integration allows you to proactively communicate with both prospects and customers, seamlessly displaying your commitment to security and transparency within your Trust Center.
