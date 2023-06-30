@@ -160,9 +160,9 @@ HackerOne currently supports these integrations:
   </a>
   <a class="integration-button" href="safebase-integration.html">
     <div class="logo">
-      <img src="./images/safebase-logo1.png" />
+      <img src="./images/safebase-logo2.png" />
     </div>
-    <div class="logo-text">SafeBase*</div>
+    <div class="logo-text">SafeBase</div>
   </a>
   <a class="integration-button" href="servicenow-integration.html">
     <div class="logo">
