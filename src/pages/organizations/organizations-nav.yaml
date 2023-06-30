@@ -263,7 +263,7 @@
       path: /organizations/phabricator-integration.html
     - title: Redmine
       path: /organizations/redmine-integration.html
-      title: SafeBase
+    - title: SafeBase
       path: /organizations/safebase-integration.html
     - title: ServiceNow
       path: /organizations/servicenow-integration.html
