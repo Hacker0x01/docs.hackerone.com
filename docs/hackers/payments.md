@@ -21,7 +21,7 @@ A bounty is money you get rewarded with for reported and resolved bugs. They're 
 
 After a program has decided to award you a bounty and the bounty has been awarded, you'll receive an email to claim the bounty. HackerOne will ask to collect your tax form before processing the payout.
 
-#### Bounty Splitting
+#### Collaboration
 HackerOne enables you to split bounties with other hackers that helped you find the vulnerability. This allows all hackers to receive contributions and awards for their efforts.
 
 To split a bounty with collaborating hackers:
@@ -41,7 +41,7 @@ Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
 * You can only add up to 10 collaborators per report.
 
-><i><b>Note:</b> Bounty splitting is only enabled for programs that use the [prepayment](/organizations/billing.html) billing option.</i>
+><i><b>Note:</b> Collaboration is only enabled for programs that use the [prepayment](/organizations/billing.html) billing option.</i>
 
 #### Donating Bounties to Charity
 HackerOne enables you to donate your bounty directly to charity.
@@ -58,10 +58,10 @@ Generally, if the charity accepts donations in USD through PayPal or Credit Card
 
 Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. You can choose to donate your bounties in full, or you can choose to donate a part of your bounty.
 
-#### Donating through Bounty Splitting
-You can also donate your bounties through [bounty splitting](payments.html#bounty-splitting). To do this:
+#### Donating through Collaboration
+You can also donate your bounties through [Collaboration](payments.html#bounty-splitting). To do this:
 
-1. Follow [steps 1-2](payments.html#bounty-splitting) in the bounty splitting section above.
+1. Follow [steps 1-2](payments.html#bounty-splitting) in the Collaboration section above.
 2. Enter `hackforgood` as the username you want to collaborate with.
 3. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>. The explanation for splitting is in [step 4](payments.html#bounty-splitting).
 4. Click <b>Invite</b>.
