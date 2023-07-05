@@ -15,7 +15,7 @@ How to use it: Sign in and start writing a comment on any reports; your draft wi
 Custom Hacker Templates are available to all HAB members and HSM hackers! The Custom Hacker Templates will help hackers be more effective and spend less time submitting a new report by automating the report submission form filled with predefined description, impact, and severity. The templates also help Customers and Triagers to receive more standardized and predictable reports. This feature is currently in Beta testing. 
 
 To use Custom Hacker Templates, 
-* Go to https://hackerone.com/settings/report_templates 
+* Go to [https://hackerone.com/settings/report_templates](https://hackerone.com/settings/report_templates)
 * Click **Create a new template**
 * Select the template on the Report Submission page
 
