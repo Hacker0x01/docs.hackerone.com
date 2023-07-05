@@ -17,8 +17,7 @@ There are 3 steps to the guide you must complete:
 To set up your Response program:
 
 1. Select **Edit** for the corresponding item to edit your policy, profile, and scope. If you've successfully completed an item, a *Completed* tag will appear.  
-3. *(Optional)* Click the **[Human Augmented Signal](human-augmented-signal.html)** toggle to be either on or off.
-4. Click **Submit for approval** to have HackerOne review your program once you've completed all of the items for program setup.
+1. Click **Submit for approval** to have HackerOne review your program once you've completed all of the items for program setup.
 
 ### Controlled Launch
 If your program is approved by HackerOne, it will be placed in **Controlled launch** where it'll remain private and visible to only a select number of hackers. Within the controlled launch stage, you can invite hackers to your program and manage the reports you receive.

@@ -10,7 +10,6 @@ In order to help you and your program become more successful, HackerOne has impl
 
 Feature | Details
 ------- | --------
-[Human-Augmented Signal](/organizations/human-augmented-signal.html) | HackerOne Security Analysts will review reports that have a high chance of being invalid and will close any invalid report as <i>Not Applicable</i>.
 [Triggers](/organizations/triggers.html) | Set up an automated action when your program receives a report with or without a given trigger word. Triggers aid in reducing noise as they can flag certain reports.
 [Signal Requirements](/organizations/signal-requirements.html) | Set a minimum Signal hackers must reach in order to submit reports to your program. This ensures that only hackers with a certain skill level are able to report vulnerabilities.
 [Define your Scope](/organizations/defining-scope.html) | Define your scope and the assets you want hackers to hack on. This guides hackers to focus on the right targets that you’re interested in.
