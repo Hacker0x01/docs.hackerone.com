@@ -6,7 +6,6 @@ id: "organizations/submission"
 
 The Submission Requirements page enables you to set specific requirements for hackers to submit reports to your program. You can:
 * Require hackers to meet certain [signal requirements](signal-requirements.html)
-* Enable [Human-Augmented Signal](human-augmented-signal.html)
 * Require hackers to have two-factor authentication  
 * [Enable Collaboration](#enabling-bounty-splitting)
 * Select [severity rating options](#severity-rating-options)
