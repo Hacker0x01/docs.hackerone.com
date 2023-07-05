@@ -129,8 +129,6 @@
       items:
         - title: Signal Requirements
           path: /organizations/signal-requirements.html
-        - title: Human-Augmented Signal
-          path: /organizations/human-augmented-signal.html
     - title: Single Sign-On via SAML
       path: /organizations/single-sign-on-sso-via-saml.html
       items:

@@ -47,7 +47,6 @@ To close a report:
 
 ![report-action-3](./images/report-actions-3.png)
 
-***Note:*** *Reports that have gone through [Human-Augmented Signal](human-augmented-signal.html) can be reopened by the hacker if closed*
 
 ### Change the State
 You can change the state of a report to be marked as either *triaged* or *new*. This'll help you keep track of what state your report is in.
