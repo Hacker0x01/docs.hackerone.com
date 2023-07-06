@@ -75,25 +75,5 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: '@fec/gatsby-plugin-advanced-feed',
-      options: {
-        feeds: [
-          {
-            title: 'HackerOne Platform Changelog',
-            description: "See what's changed or new in HackerOne.",
-            link: 'https://docs.hackerone.com/changelog',
-            id: 'https://docs.hackerone.com/changelog',
-            createLinkInHead: /^\/changelog/,
-            match: '^/changelog/',
-            output: {
-              rss2: '/changelog/rss.xml',
-              atom: '/changelog/atom.xml',
-              json: '/changelog/feed.json',
-            },
-          },
-        ],
-      },
-    },
   ],
 };
