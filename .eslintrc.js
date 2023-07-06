@@ -1,5 +1,5 @@
 module.exports = {
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "env": {
     "browser": true,
     "es6": true,
@@ -11,6 +11,10 @@ module.exports = {
     "graphql": false,
   },
   "parserOptions": {
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+   },
+    "requireConfigFile": false,
     "sourceType": "module",
     "ecmaFeatures": {
       "experimentalObjectRestSpread": true,
