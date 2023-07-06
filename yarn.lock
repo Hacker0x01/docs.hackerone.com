@@ -5662,10 +5662,10 @@ gatsby-plugin-google-analytics@^3.15.0:
     minimatch "3.0.4"
     web-vitals "^1.1.2"
 
-gatsby-plugin-layout@^2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-2.14.0.tgz#09bdc6a3dc309cd7de06b50ce05ae519ca50ec44"
-  integrity sha512-/jQzYXqPO1YzVk0/Y0iAFNDY85ciclHWfS6QtiyxUiRYp2nX/u0dfQzNTVBGLdS3E2KJBDnBWsnEM72Gg9ZvXQ==
+gatsby-plugin-layout@^2.15.0:
+  version "2.15.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-2.15.0.tgz#6b307721d0902c8938696377923c7501c6a3dd8f"
+  integrity sha512-8j4zXwdTOZcUcQ3NtvixuBz6MKAZ+stm1wdeWrkOXj5bZhKjvbqb2/TuRAzx0VYzynz3XxZZQlAWhBtIIVGWKw==
   dependencies:
     "@babel/runtime" "^7.15.4"
 
