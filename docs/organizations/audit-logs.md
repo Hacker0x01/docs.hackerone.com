@@ -46,6 +46,7 @@ Event Name | Details
 `teams.groups.update` | Triggered when an admin updates the name and/or permissions of an existing member group. Also triggered when members are added to or removed from this group.
 `teams.groups.destroy` | Triggered when an admin destroys an existing team member group.
 `teams.invitations.members.create` | Triggered when a new member joins your program through an invitation.
+`teams.invitations.report_participants.create` | Triggered when a new participant joins a report through an invitation
 `teams.jira_integration.create` | Triggered when a new JIRA OAuth connection is created for your program.
 `teams.jira_integration.update` | Triggered when the configuration of your program’s JIRA integration is updated.
 `teams.jira_integration.verify` | Triggered when your program’s JIRA OAuth connection is verified.
