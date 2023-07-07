@@ -46,9 +46,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
+    "@babel/core": "^7.22.6",
+    "@babel/eslint-parser": "^7.22.6",
+    "@babel/preset-react": "^7.22.5",
     "classnames": "^2.3.2",
-    "eslint": "^7.30.0",
+    "eslint": "^8.44.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-react": "^7.32.2",
     "gh-pages": "^3.1.0",
