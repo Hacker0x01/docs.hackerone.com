@@ -167,7 +167,6 @@
       items:
         - title: Inbox Views
           path: /organizations/inbox-views.html
-
     - title: Report Management
       path: /organizations/report-management.html
       items:
@@ -206,6 +205,8 @@
       path: /organizations/vacations.html
     - title: HackerOne on Your Program
       path: /organizations/hackerone-on-your-program.html
+    - title: CVE & CWE Discovery
+      path: /organizations/cve-cwe-discovery.html
 - title: Integrations
   items:
     - title: Supported Integrations
@@ -321,8 +322,6 @@
           path: /organizations/message-hackers.html
     - title: Banning Hackers
       path: /organizations/banning-hackers.html
-    - title: CVE & CWE Discovery
-      path: /organizations/cve-cwe-discovery.html
     - title: Hacker Email Alias
       path: /organizations/hacker-email-alias.html
     - title: Program Mediation & Code of Conduct Review Requests
