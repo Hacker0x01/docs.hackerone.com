@@ -321,6 +321,8 @@
           path: /organizations/message-hackers.html
     - title: Banning Hackers
       path: /organizations/banning-hackers.html
+    - title: CVE & CWE Discovery
+      path: /organizations/cve-cwe-discovery.html
     - title: Hacker Email Alias
       path: /organizations/hacker-email-alias.html
     - title: Program Mediation & Code of Conduct Review Requests
