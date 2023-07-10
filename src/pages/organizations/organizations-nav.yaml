@@ -205,8 +205,6 @@
       path: /organizations/vacations.html
     - title: HackerOne on Your Program
       path: /organizations/hackerone-on-your-program.html
-    - title: CVE & CWE Discovery
-      path: /organizations/cve-cwe-discovery.html
 - title: Integrations
   items:
     - title: Supported Integrations
@@ -315,6 +313,9 @@
   items:
     - title: Hacktivity
       path: /organizations/hacktivity.html
+      items:
+        - title: CVE & CWE Discovery
+          path: /organizations/cve-cwe-discovery.html
     - title: Communicating with Hackers
       path: /organizations/communicating-with-hackers.html
       items:
