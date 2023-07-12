@@ -6153,10 +6153,10 @@ gatsby-plugin-sharp@^3.15.0:
     sharp "^0.29.0"
     uuid "3.4.0"
 
-gatsby-plugin-sitemap@^4.10.0:
-  version "4.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-4.10.0.tgz#08141aefb1d2987b03da8a69de02db92ba2cd3d8"
-  integrity sha512-q7WdaZLzOQnSJDZ2/ArTnSpCG26Eqgpt9jvni6wUqPxLic9irwvzIHhZxmZp8I7iq6Ue1Ii1MD5kWO2VTYb7GA==
+gatsby-plugin-sitemap@^4.11.0:
+  version "4.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-4.11.0.tgz#87fdb71bbfc2457ae4e7bd86fa98bdda2444378b"
+  integrity sha512-DMzdyJxzUDawSt81SrnieDYLYru57Z0lYADBLbfM/eQacvXA0wGN/HtDIG1laWrToR/Er1WZqGFBEyfnIAu5Gg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     common-tags "^1.8.0"
