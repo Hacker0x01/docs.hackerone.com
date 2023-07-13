@@ -8,7 +8,7 @@
     "@fec/gatsby-plugin-advanced-feed": "^2.0.0",
     "@reach/router": "^1.1.1",
     "gatsby": "^3.15.0",
-    "gatsby-cli": "^4.21.0",
+    "gatsby-cli": "^5.11.0",
     "gatsby-link": "^3.14.0",
     "gatsby-plugin-csp": "^1.1.4",
     "gatsby-plugin-google-analytics": "^3.15.0",
