@@ -20,9 +20,9 @@ These guides assume you already have the WARP Client installed, if you haven't p
 ![image](./images/warp_win_teams.png)
 > **Note:** If you do not know the team domain please contact support.
 
-3. Login to the WARP authentication website (pops-up automatically). Use your whitelisted e-mail address.
+3. Login to the WARP authentication website (pops-up automatically). Use your whitelisted @wearehackerone.com e-mail address.
 ![image](./images/warp_login_email.png)
-> **Note:** Please use the same email you registered with HackerOne.
+> **Note:** Please use your @wearehackerone.com alias.
 
 4. Authentication succesfull, register client into program
 Click the "Open Cloudflare WARP" button
@@ -41,9 +41,9 @@ Click "account" tab
 ![image](./images/warp_team_name.png)
 > **Note:** If you do not know the team domain please contact support.
 
-3. Login to the WARP authentication website (pops-up automatically). Use your whitelisted e-mail address.
+3. Login to the WARP authentication website (pops-up automatically). Use your whitelisted @wearehackerone.com e-mail address.
 ![image](./images/warp_login_email.png)
-> **Note:** Please use the same email you registered with HackerOne.
+> **Note:** Please use your @wearehackerone.com alias.
 
 4. Authentication succesfull, register client into program
 Click the "Open Cloudflare WARP" button
