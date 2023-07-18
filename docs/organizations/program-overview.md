@@ -47,7 +47,7 @@ The explore feature allows you to deep dive into the data behind a selected char
 
 **Note:** This feature is currently supported only on bar charts, and is available for both program-level and org-level dashboards. Upcoming releases will provide this feature for all chart types. This new feature provides a newer and better implementation of the [existing Explore page](/organizations/explore.html) functionality available under the program-level dashboard. *The older Explore page will be deprecated once all the features are completely migrated into the new feature.* 
 
-The table below the chart shows the underlying metadata that constitutes the chart’s data points. Click on a chart’s segment to filter the table and view the metadata for that particular segment. For example, to analyze which critical severity reports were submitted during Q3, click the red “critical” segment and scroll down to see the reports. You can also click on the Engagements tab to see which engagements are being analyzed in the selected segment, or the Reporters tab to see which hackers submitted a report for the selected segment. 
+The table below the chart shows the underlying metadata that constitutes the chart’s data points. Click on a chart segment to filter the table and view the metadata for that particular segment. For example, to analyze which critical severity reports were submitted during Q3, click the red “critical” segment and scroll down to see the reports. You can also click on the Engagements tab to see which engagements are being analyzed in the selected segment, or the Reporters tab to see which hackers submitted a report for the selected segment. 
 
 ![Bar chart and table](/images/program-overview-7.png)
 
