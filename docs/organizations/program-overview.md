@@ -38,9 +38,21 @@ All the data and charts can also be filtered, using the date selector at the top
 Filtered analytics can also be used to create a saved view, called a segment. For example, you can create segments for specific assets, programs, or by severity levels. Click on the + Add Segment button, select the appropriate filters and assign a name. 
 
 
-Each of the charts below allows you to download the chart as CSV, PDF, or PNG image files using the kabob menu (three vertical dots). Clicking on the table icon lets you switch between a table or chart view. 
+Each chart below allows you to download as CSV, PDF, or PNG image files using the kabob menu (three vertical dots). Clicking on the table icon lets you switch between a table or chart view. 
 
 ![Kabob menu](/images/program-overview-6.png)
+
+### Explore Chart Data
+The explore feature allows you to deep dive into the data behind a selected chart displayed in your HackerOne analytics dashboard. To use the feature, select the dropdown menu from the kabob menu (three vertical dots) next to a chart of interest, and click Explore. 
+
+**Note:** This feature is currently supported only on bar charts, and is available for both program-level and org-level dashboards. Upcoming releases will provide this feature for all chart types. 
+This new feature offers an enhanced implementation of the current [Explore page](/organizations/explore.html) functionality, which was previously accessible through the program-level dashboard. *The older Explore page and its associated dashboard will be deprecated once all functionality has been migrated.* 
+
+The table below the chart shows the underlying metadata that constitutes the chart’s data points. Click on a chart segment to filter the table and view the metadata for that particular segment. For example, to analyze which critical severity reports were submitted during Q3, click the red “critical” segment and scroll down to see the reports. You can also click on the Engagements tab to see which engagements are being analyzed in the selected segment, or the Reporters tab to see which hackers submitted a report for the selected segment. 
+
+![Bar chart and table](/images/program-overview-7.png)
+
+Click “Download CSV” to download the data for further formatting and custom reporting needs. 
 
 ### HackerOne API
 The raw data, i.e. the underlying reports and related details, can also be retrieved using the HackerOne API. The summarized data, similar to the CSV and table format, shown on these pages can be retrieved using the Analytics API endpoint (in Preview).
