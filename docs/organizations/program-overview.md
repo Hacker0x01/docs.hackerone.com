@@ -45,7 +45,8 @@ Each chart below allows you to download as CSV, PDF, or PNG image files using th
 ### Explore Chart Data
 The explore feature allows you to deep dive into the data behind a selected chart displayed in your HackerOne analytics dashboard. To use the feature, select the dropdown menu from the kabob menu (three vertical dots) next to a chart of interest, and click Explore. 
 
-**Note:** This feature is currently supported only on bar charts, and is available for both program-level and org-level dashboards. Upcoming releases will provide this feature for all chart types. This new feature provides a newer and better implementation of the [existing Explore page](/organizations/explore.html) functionality available under the program-level dashboard. *The older Explore page will be deprecated once all the features are completely migrated into the new feature.* 
+**Note:** This feature is currently supported only on bar charts, and is available for both program-level and org-level dashboards. Upcoming releases will provide this feature for all chart types. 
+This new feature offers an enhanced implementation of the current [Explore page](/organizations/explore.html) functionality, which was previously accessible through the program-level dashboard. *The older Explore page and its associated dashboard will be deprecated once all functionality has been migrated.* 
 
 The table below the chart shows the underlying metadata that constitutes the chart’s data points. Click on a chart segment to filter the table and view the metadata for that particular segment. For example, to analyze which critical severity reports were submitted during Q3, click the red “critical” segment and scroll down to see the reports. You can also click on the Engagements tab to see which engagements are being analyzed in the selected segment, or the Reporters tab to see which hackers submitted a report for the selected segment. 
 
