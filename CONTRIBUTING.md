@@ -1,10 +1,7 @@
 # Style Guide
 
 ### Adding New Articles
-You can add new articles to either the Hacker Book or the Organization Book.
-
-#### Review Process
-All pull requests require approval before going live. New documents should be reviewed by the UX or Technical Writer before being approved. 
+You can add new articles to either the Hacker Book or the Program Book.
 
 #### Hacker Book
 When adding a new article, make sure you format the file such that the first several lines of the markdown file are:
@@ -78,44 +75,13 @@ they're | they are
 we've | we have
 you're | you are
 
-### Abbreviations
->Do not use abbreviations in our platform without spelling them out completely first. Your first mention should be the full word with the abbreviation in parenthesis. After that, you can use the abbreviation for all further mentions. Eg: HackerOne's Bug Bounty Program (BBP) is a public program. Please be mindful that not all BBPs are public. 
-
-Below are some common abbreviations used by HackerOne
-
-Abbreviation | Definition
------------ | -----------
-2FA | 2 Factor Authentication
-API | Application Programming Interface
-BBP | Bug Bounty Program
-CTF | Capture The Flag
-CVE | Common Vulnerabilities & Exposures
-CVSS | Common Vulnerability Scoring System
-MFA | Multi-Factor Authentication
-SOC | Security Operations Center
-VDP | Vulnerability Disclosure Program
-XSS | Cross-Site Scripting
-
-
 ### Spelling
 There are some words that can be used with multiple spellings. In order to keep consistency, we need to agree on which spelling to go with.
 
-This | NOT | That
----- | --- | ----
-cyberattack | NOT | cyber attack
-engagement | NOT | program
-organization | NOT | company
-hacker-powered | NOT | hacker powered
-internet | NOT | Internet
-eBook | NOT | ebook or e-book
-e-commerce | NOT | ecommerce (capitalized at the beginning of a sentence only)
-pentest and pentesting as one word | NOT | pen test or pen testing
-cybercriminal, bad actor, or malicious actor | NOT | criminal
-hacker | NOT | researcher   Exception: communication with government programs
-malicious hacker | NOT | black hat
-ethical hacker | NOT | white hat
-checkbox | NOT | check box
-double-check | NOT | double check (this is a noun)
+Yes | No
+--- | ---
+checkbox | check box
+double-check | double check (this is a noun)
 
 ### Numbers
 For numbers that are greater than 0, use the numerical number instead of spelling it out. For 0, spell out the word.
