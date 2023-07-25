@@ -225,6 +225,11 @@
       path: /organizations/brinqa-integration.html
     - title: Bugzilla
       path: /organizations/bugzilla-integration.html
+    - title: ClickUp
+      path: /organizations/clickup-integration.html
+      items:
+        - title: ClickUp Setup
+          path: /organizations/clickup-setup.html
     - title: Freshdesk
       path: /organizations/freshdesk-integration.html
     - title: GitHub
