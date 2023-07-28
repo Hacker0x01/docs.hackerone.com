@@ -86,13 +86,11 @@ Comment added | Post an internal comment when someone comments on an task.
 Assignee changed | Post an internal comment when an task changes assignee.
 Priority changed | Post an internal comment when an task changes priority.
 
-
 ![clickup-integration-8](./images/clickup-integration-8.png)
 
 17. (Optional) Once you complete this integration, a ClickUp webhook will be automatically created in your ClickUp instance. If there is no webhook created, you can use this Webhook URL to create a webhook manually with the taskCommentPosted, taskPriorityUpdated, taskStatusUpdated and TaskAssigneeUpdated events.
 
 ![clickup-setup-10](./images/clickup-setup-10.png)
-
 
 18. Click **Finish**. Once the screen disappears, click **Enable** to enable the integration.
 
@@ -104,7 +102,7 @@ You're all set! Now that you've finished setting up the ClickUp integration, you
 
 If you have multiple HackerOne programs, you can integrate them to the same ClickUp instance. Steps 5-7 can be omitted for each subsequent program you need to add an integration for.
 
-*Note: You can omit steps 5-7  for your other programs because an App has already been created when integrating with your first program, and only 1 App is needed to set up a ClickUp integration.*
+*Note: You can omit steps 5-7 for your other programs because an App has already been created when integrating with your first program, and only 1 App is needed to set up a ClickUp integration.*
 
 ### Multiple ClickUp instances per program
 This feature is available for **Enterprise programs only**. If you want to integrate the same program to multiple ClickUp instances, you can follow all the steps above for each integration.

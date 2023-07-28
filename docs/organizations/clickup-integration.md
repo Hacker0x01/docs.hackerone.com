@@ -13,7 +13,7 @@ id: "organizations/clickup-integration"
 }
 </style>
 
-HackerOne offers a bi-directional ClickUp integration that syncs information between your HackerOne report and the ClickUp task. This means that ClickUp users can sync specific workflows from ClickUp to HackerOne and vice versa, from HackerOne to ClickUp. This integration helps your development and security teams stay aligned, and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between ClickUp and HackerOne.
+HackerOne offers a bidirectional ClickUp integration that syncs information between your HackerOne report and the ClickUp task. This means that ClickUp users can sync specific workflows from ClickUp to HackerOne and vice versa, from HackerOne to ClickUp. This integration helps your development and security teams stay aligned and contributes to a better workflow to process security vulnerabilities as it minimizes the back and forth between ClickUp and HackerOne.
 
 ### Creating a ClickUp task
 You can create new ClickUp tasks for reports you receive on HackerOne.
