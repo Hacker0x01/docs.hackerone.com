@@ -14,6 +14,7 @@ There are several actions you can take on a report in your inbox. You can:
 
 ![report actions options](./images/report-actions-1.png)
 
+
 ### Add a Comment
 You can dialogue with hackers, team members, and groups or make notes about the report by adding comments.
 
@@ -30,6 +31,7 @@ All participants | All participants of the report will be able to view the comme
 ><i>Note: When you're adding a comment to your internal team only, the comment box will turn red.</i>
 
 ![comment privacy selection](./images/report-action-2.png)
+
 
 #### Mention Users or Groups
 In the comment box, type in **@** followed by the first few letters of the person or group that you want to mention in the comment. You can also see the number of members in that group and a group icon. 
