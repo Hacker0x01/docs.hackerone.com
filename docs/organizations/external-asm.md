@@ -36,6 +36,7 @@ The solution has a database of technology fingerprints that can be added to the 
 The various site status and their meanings are listed below.
 
 Site Status | Definition
+----------- | -------------
 Inactive | No HTTP response from server
 Redirect | HTTP status codes 301, 302, 303 or 307X
 Broken | HTTP status codes 400, 404, 500, 501, 503
