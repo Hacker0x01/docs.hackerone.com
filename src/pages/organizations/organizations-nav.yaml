@@ -341,7 +341,9 @@
     - title: Gateway
       path: /organizations/hackerone-vpn.html
       items:
-        - title: FAQs
+        - title: Gateway V1
+          path: /organizations/hackerone-vpn-v1.html
+        - title: FAQs Gateway V1
           path: /organizations/vpn-faqs.html
 - title: Pentests
   items:
