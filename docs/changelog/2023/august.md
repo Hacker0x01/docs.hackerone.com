@@ -24,7 +24,7 @@ What is the Internet Bug Bounty? The IBB is a crowdfunded bug bounty program tha
 Enrolling in the IBB is easy! BBPs can participate by populating the now-visible individual IBB bounty table available within their program settings (Program Settings > Rewards > Bounties). You are not enrolled until you select “Create table” to configure your IBB bounty table. 
 
 ### Redact Names in Report Export
-When exporting a PDF, select the ‘Redact names’ checkbox in the pop-up. You will see all names and usernames have been redacted from the PDF. To use this feature, ask your PM to enable the redact_usernames feature flag from Support App.
+When exporting a PDF, select the ‘Redact names’ checkbox in the pop-up. You will see all names and usernames have been redacted from the PDF. To use this feature, ask your CSM to enable the redact_usernames feature flag from Support App.
 
 ### Credential Management API
 Previously, users could only manage their credentials within the platform. This meant adding new credentials exclusively through CSV files. However, considering that many credentials are generated within the program, we’ve introduced an API to enhance users’ workflow efficiency and eliminate manual management in the platform.
