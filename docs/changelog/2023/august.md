@@ -21,6 +21,7 @@ We’ve introduced a new scope page in the program settings to
 
 ### Internet Bug Bounty (IBB) Now Available for All BBP Customers
 What is the Internet Bug Bounty? The IBB is a crowdfunded bug bounty program that rewards security researchers and maintainers for uncovering and remediating vulnerabilities in the open-source software that supports the internet.
+![internet bug bounty](/images/ibb-logo.png)
 
 Enrolling in the IBB is easy! BBPs can participate by populating the now-visible individual IBB bounty table available within their program settings (Program Settings > Rewards > Bounties). You are not enrolled until you select “Create table” to configure your IBB bounty table. 
 
