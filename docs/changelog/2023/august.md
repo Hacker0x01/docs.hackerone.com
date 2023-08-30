@@ -7,6 +7,7 @@ date: "2023-08"
 ## Customer Updates
 ### Bidirectional ClickUp Integration!
 This integration will sync data between HackerOne reports and ClickUp tasks. It helps your development and security teams stay aligned and contributes to a better workflow. Bidirectional ClickUp Integration is available to Professional & Enterprise customers.
+![clickup integration](/images/clickup-integration.png)
 
 ### Better Redaction
 Although we have the Redact feature, often reports need a bunch of redaction prior to disclosure, which is tedious. Introducing the “Detect sensitive data” button, a.k.a. the magic button! The Redact feature has these new updates:
@@ -25,6 +26,8 @@ Enrolling in the IBB is easy! BBPs can participate by populating the now-visible
 
 ### Redact Names in Report Export
 When exporting a PDF, select the ‘Redact names’ checkbox in the pop-up. You will see all names and usernames have been redacted from the PDF. To use this feature, ask your CSM to enable the redact_usernames feature flag from Support App.
+![redacting info from reports](/images/redact-report-button.png)
+![redacted from reports](/images/redacted-report.png)
 
 ### Credential Management API
 Previously, users could only manage their credentials within the platform. This meant adding new credentials exclusively through CSV files. However, considering that many credentials are generated within the program, we’ve introduced an API to enhance users’ workflow efficiency and eliminate manual management in the platform.
@@ -54,12 +57,14 @@ Customers can now mention specific users or groups in the comments of a report! 
 ## Hacker Updates
 ### Original Report State and Date
 You can now see the current state and submission date of the original report when you submit a duplicate on HackerOne. This increases transparency and reduces ambiguity around which report was submitted first.
+![original report information](/images/original-report-info.png)
 
 ### PII and Sensitive Data Detection
 It sometimes happens that PII or other sensitive data is included in reports. To reduce accidental exposure of such data, HackerOne will now use machine learning to detect it before submission and allow you to redact it.
 
 ### Auto-Accept Collaboration
-Hackers, you can now configure a list of people you'd like to automatically accept collab invitations from on HackerOne! Manage them in your settings at https://hackerone.com/settings/collaboration
+Hackers, you can now configure a list of people you'd like to automatically accept collab invitations from on HackerOne! Manage them in your settings at https://hackerone.com/settings/collaboration.
+![collaboration preferences](/images/collaboration-preferences.png)
 
 ### Hacker Profile Management
 This update consists of three changes: the possibility of adding technologies, spoken languages, and certifications to your profile.
@@ -70,6 +75,7 @@ This feature introduces new fields under the Profile page.
 
 ### Hacker Streaks
 Hackers can now follow their current valid report streak (month to month), and it will be also visible on their profile for all visitors.
+![hacker streaks](/images/hacker-streaks.png)
 
 **What is a streak?**
 Streaks are a way of tracking consistent engagement in submitting valid reports each month. Every month you successfully submit a valid report, your streak increases by one. However, missing a month will reset your streak to 0. The streak will restart the moment you submit another valid report.
