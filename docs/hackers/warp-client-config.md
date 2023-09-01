@@ -14,9 +14,9 @@ These guides assume you already have the WARP Client installed, if you haven't p
 * [macOS](#macos)
 * [Linux](#linux)
 
-### macOS
-1. Go to account preferences in the client.
-2. Fill in the team domain:
+### Windows
+1. Go to account preferences in the client. Click Login with **Cloudflare Zero Trust**.
+2. Fill in the team domain and click **OK**:
 ![image](./images/warp_win_teams.png)
 > **Note:** If you do not know the team domain please contact support.
 
@@ -32,12 +32,12 @@ Click the "Open Cloudflare WARP" button
 The client should now display "Zero Trust" instead of "WARP"
 ![image](./images/warp_win_main.png)
 
-### Windows
-1. Go to account preferences in the client.
+### macOS
+1. Go to account preferences in the client. Click Login with **Cloudflare Zero Trust**.
 Click "account" tab
 ![image](./images/warp_account.png)
 
-2. Fill in the team domain:
+2. Fill in the team domain and click **Done**:
 ![image](./images/warp_team_name.png)
 > **Note:** If you do not know the team domain please contact support.
 
