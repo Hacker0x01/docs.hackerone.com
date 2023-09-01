@@ -15,7 +15,7 @@ These guides assume you already have the WARP Client installed, if you haven't p
 * [Linux](#linux)
 
 ### Windows
-1. Go to account preferences in the client, and click **Login with Cloudflare Zero Trust**.
+1. Go to account preferences in the client, and click **Login with Cloudflare for Teams**.
 2. Fill in the team domain and click **OK**:
 ![image](./images/warp_win_teams.png)
 > **Note:** If you do not know the team domain please contact support.
