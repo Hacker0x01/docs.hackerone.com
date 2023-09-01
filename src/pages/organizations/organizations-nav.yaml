@@ -253,6 +253,9 @@
       path: /organizations/kenna-security.html
     - title: Linear
       path: /organizations/linear-integration.html
+      items:
+        - title: Linear Setup
+          path: /organizations/linear-setup.html
     - title: MantisBT
       path: /organizations/mantisbt-integration.html
     - title: Microsoft Teams
