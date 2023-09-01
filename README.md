@@ -24,6 +24,18 @@ This repo contains the source code and documentation powering [docs.hackerone.co
 1. `yarn develop` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
 1. `open http://localhost:8000` to open the site in your favorite browser
 
+> On some machines you'll receive an error like:
+
+```
+Generating development SSR bundle failed
+
+error:0308010C:digital envelope routines::unsupported
+```
+> Run the following command to use the legacy OpenSSL provider instead:
+```
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
 ### Deploy
 
 Deploys are automated using GitHub actions. Every commit to the master branch will trigger a script that will build and deploy the site to production. If you want to deploy manually, follow the steps below:
