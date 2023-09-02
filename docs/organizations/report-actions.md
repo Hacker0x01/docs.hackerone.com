@@ -5,7 +5,7 @@ id: "organizations/report-actions"
 ---
 
 There are several actions you can take on a report in your inbox. You can:
-* Add a comment
+. Add a comment
 * Close a report
 * Change the state
 * Assign a report
