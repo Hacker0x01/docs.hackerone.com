@@ -22,7 +22,7 @@ To integrate with Linear:
 
 ![linear-setup-3](./images/linear-setup-3.png)
 
-6. Copy the generated key and save it somewhere save as it is shown only once.
+6. Copy the generated key and save it somewhere. **This key is shown only once**.
 
 ![linear-setup-4](./images/linear-setup-4.png)
 
@@ -32,21 +32,19 @@ To integrate with Linear:
 
 ![linear-setup-5](./images/linear-setup-5.png)
 
-9. Configure which Linear Team and Project (optional)  you'd like to escalate HackerOne reports to in the **Linear Team and Project** window and click **Next**.
+9. Configure which Linear Team and Project (optional) you'd like to escalate HackerOne reports to in the **Linear Team and Project** window and click **Next**.
 
 ![linear-setup-6](./images/linear-setup-6.png)
 
-10. Select the HackerOne fields you want to map to the corresponding Linear fields. As alternative, enter any text using [integration variables](/organizations/integration-variables.html). Click **Next**.
+10. Select the HackerOne fields you want to map to the corresponding Linear fields. Alternatively, enter any text using [integration variables](/organizations/integration-variables.html). Click **Next**.
 
 ![linear-setup-7](./images/linear-setup-7.png)
 
-> **Note**: alternatively you can manually set the mapping to a single field or combination of fields from the [integration variables](/organizations/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summare, a link to the report the submission date, the reporter name and the weakness of their report and map that to a single field.
+> **Note**: You can manually set the mapping to a single field or combination of fields from the [integration variables](/organizations/integration-variables.html). For example: `{{triage_summary}} \\ Link: {{report_link}} \\ Date: {{submission_date}} \\ Reporter: {{reporter_name}} \\ Weakness: {{weakness}}` Would create a combination of the triage summary, a link to the report, the submission date, the reporter name, the weakness of their report and map that to a single field.
 
-11. *(Optional)* Select Linear Priorities you want to map to the corresponding HackerOne Severities. This enables the right priority to be set when escalating a HackerOne report to Linear.
+11. *(Optional)* Select the Linear Priorities you want to map to the corresponding HackerOne Severities. This enables the right priority to be set when escalating a HackerOne report to Linear. Click **Next**.
 
 ![linear-integration-10](./images/linear-integration-10.png)
-
-Click **Next**.
 
 12. *(Optional)* Select which actions in HackerOne you'd like to post to Linear in the **Select HackerOne to Linear events** window. You can choose from:
 
@@ -76,15 +74,20 @@ Priority changed | Post an internal comment when an issue changes priority.
 
 Click **Next**.
 
-14. (Optional) If you have configured Linear actions to be synchronized to HackerOne in step 13 you will need to configure a webhook in Linear. Copy the **Webhook Public URL** that is shown in the **Workflow URLs** screen screen.
+14. *(Optional)* If you have configured Linear actions to be synchronized to HackerOne in step 13, you will need to configure a webhook in Linear. Copy the **Webhook Public URL** that is shown in the **Workflow URLs** screen.
 
 ![linear-setup-8](./images/linear-setup-8.png)
 
-Navigate to the Linear API settings of Linear by going to **Settings > API** and create a new **Webhook**. Give the webhook a descriptive label and enter the Webhook Public Url into the **URL** field. Save the **Signing secret** for use later. Check the **Issues** and **Issue comments** events in the **Data change events** section. Finally set the **Teams** to **Custom**, and select only the team you have selected in step 9. Click **Create webhook**
+- Navigate to the API settings in Linear by going to **Settings > API** and create a new **Webhook**. 
+- Give the webhook a descriptive label and enter the Webhook Public URL into the **URL** field. 
+- Save the **Signing secret** for use later. 
+- Check the **Issues** and **Issue comments** events in the **Data change events** section. 
+- Finally set the **Teams** to **Custom**, and select only the team you have selected in step 9. 
+- Click **Create webhook**
 
 ![linear-setup-9](./images/linear-setup-9.png)
 
-Copy the Signing secret into the **Linear webhook secret** field.
+Copy the Signing Secret into the **Linear webhook secret** field.
 
 ![linear-setup-10](./images/linear-setup-10.png)
 
@@ -98,7 +101,5 @@ You're all set! Now that you've finished setting up the Linear integration, you 
 
 If you have multiple HackerOne programs, you can integrate them to the same Linear instance. Steps 5-6 can be omitted for each subsequent program you need to add an integration for.
 
-*Note: You can omit steps 5-6 for your other programs because an API key has already been created when integrating with your first program, and only 1 key is needed to set up a Linear integration.*
-
-### Multiple Linear instances per program
+### Multiple Linear instances per Program
 This feature is available for **Enterprise programs only**. If you want to integrate the same program to multiple Linear instances, you can follow all the steps above for each integration.
