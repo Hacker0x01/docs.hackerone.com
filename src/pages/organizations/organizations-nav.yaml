@@ -34,6 +34,8 @@
           path: /organizations/scoping-considerations.html
         - title: Traffic Identification
           path: /organizations/traffic-identification.html
+        - title: Detailed Platform Standards
+          path: /organizations/platform-standards.html
 - title: Your Organization
   items:
     - title: Engagements
