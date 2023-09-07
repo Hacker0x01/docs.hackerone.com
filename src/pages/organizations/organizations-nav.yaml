@@ -160,6 +160,8 @@
       path: /organizations/notifications.html
     - title: Response Programs
       path: /organizations/start-h1-response.html
+    - title: Using the Support Portal
+      path: /organizations/using-support-portal.html
 - title: Reports
   items:
     - title: Inbox
