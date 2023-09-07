@@ -317,6 +317,8 @@
           path: /organizations/response-efficiency-dashboard.html
         - title: Explore
           path: /organizations/explore.html
+        - title: Program Status Reports
+          path: /organizations/program-status-reports.html
     - title: Audit Logs
       path: /organizations/audit-logs.html
     - title: Industry Benchmarking
