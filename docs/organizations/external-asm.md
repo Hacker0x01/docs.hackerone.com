@@ -49,7 +49,7 @@ HackerOne’s External Attack Surface Management (EASM) solution inspects each a
 One of the solution's key features is the ability to detect vulnerable software by analyzing the technology and host header information. If the solution detects outdated software that has publicly known CVEs, it will create a risk for this based on the CVSS score of the CVE. For example, a CVE with a CVSS score of 8.9 will result in a score of F, whereas a CVE with a CVSS score of 5.6 will result in a score of D.
 
 ### Common Vulnerabilities and Exposures (CVE) Intelligence
->Note: CVE information is available for all customers. For more information, please visit the [CVE & CWE Discovery page.](/cve-cwe-discovery.html)
+>Note: CVE information is available for all customers. For more information, please visit the [CVE & CWE Discovery page.](/organizations/cve-cwe-discovery.html)
 
 HackerOne’s EASM solution identifies CVEs on all assets that comprise your attack surface and presents these as Risks on the technology stack of your assets. To make this information more actionable, the platform also presents useful context on the CVE identified in the Risk. 
 
