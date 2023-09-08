@@ -34,9 +34,9 @@ If you choose to:
 Action | Scenario | Details
 ------ | -------- | --------
 **Approve and resolve** the retest | The hacker says the vulnerability is fixed. | The report will close and will be marked as *Resolved*. The hacker will also be awarded a bounty.
-**Reject** the retest | The hacker says the vulnerability is fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to it's previous state..
+**Reject** the retest | The hacker says the vulnerability is fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to its previous state..
 **Approve** the retest | The hacker says the vulnerability is not fixed. | The report will move back to *Triaged* and will stay open for the team to implement a fix. The hacker will be awarded a bounty.
-**Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to it's previous state.
+**Reject** the retest | The hacker says the vulnerability is not fixed. | You’ll need to provide a summary to the hacker explaining why you’ve rejected the retest. You can choose to request another retest for the report, by going back to step 1. <br><br>The status of the report will be changed to its previous state.
 
 If the original hacker rejects the retest, the report will pass back to the you in its previous state. You are also able to cancel a retest if the original hacker does not respond in time. 
 
