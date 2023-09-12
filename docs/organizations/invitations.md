@@ -33,6 +33,7 @@ It will take into account a few optional parameters to be configured with your a
 
 - Success goals
 - Signal requirements
+- Identity Verification and Background Check requirements
 - Reputation requirements
 - Country restrictions
 
