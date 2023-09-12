@@ -25,6 +25,28 @@ Your report volume is set to 0. | No invitations will be sent.
 
 ><i>Note: HackerOne will be sure to prevent you from being overwhelmed with reports.</i>
 
+#### Technically
+
+Our invitations system relies on an internal hacker invitation algorithm that runs periodically. It will find the right hackers based on your needs at the right time.
+
+It will, first, take into account a few (optional) parameters to be configured with your assigned Customer Success Manager (CSM):
+
+- Success goals
+- Signal requirements
+- Reputation requirements
+- Country restrictions
+
+Second, this is where the hacker invitation algorithm is going to shine. Based on a pool of millions of hackers that meet all the above criteria and that already have proven value by having at least 1 valid report or more than 25 CTF points (https://ctf.hacker101.com/), we consider a maximum of factors to ensure your program success.
+
+The algorithm calculates the likelihood of a hacker finding vulnerabilities in your program and optimizes invitations accordingly. Attributes such as the following are taken into account (not exhaustive):
+
+- Scope
+- Program launch date
+- Reward amounts
+- Hacker submission history
+- Hacker experience
+- Hacker preferences
+
 ### Setting Invitations
 To set your invitations:
 1. Go to **Engagements > Settings > Program > Invitations**.
@@ -38,10 +60,10 @@ To set your invitations:
 
 Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:
 1. Go to **Engagements > Settings > Program > Invitations**.
-2. Select how you want to invite the hacker in the sentence that starts with **Manually invite a hacker by**. You can choose to invite a hacker by selecting either:
+2. Select how you want to invite the hacker in the sentence that starts with **Manually invite a hacker by email or username**. You can choose to invite a hacker by selecting either:
    * Email
    * Username
-   * Reputation
+3. It will open a pop-up window where you can enter the email address or username of the hacker you want to invite. You will also be required to enter an **invitation message** as well as a **context** option explaining the invitation reason.
 
 ![invitations](./images/invitations.png)
 
@@ -49,7 +71,7 @@ HackerOne doesn’t recommend inviting unknown hackers. If a hacker has reached 
 
 ### Managing Invitations
 You can keep track of your invitations and which hackers have been invited to your program.
-* The **Invited Hackers** section lists all of the hackers that have accepted invitations. You can select Remove next to the hacker you want to remove from your program.
+* The **Invited Hackers** section lists all of the hackers that have accepted invitations. To remove a hacker, go to a report the hacker has submitted and select the ban reporter action to the right of the comment field.
 * In the **Pending Invitations** section, you can cancel pending invitations.
 * Download your invitation status to CSV from the **Program Invites Card** on Program Overview page. The CSV will have the following columns:
   * Username

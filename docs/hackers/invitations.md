@@ -45,4 +45,4 @@ Pause private program invitations until | Enter the date you want to stop receiv
 Cryptocurrency preferences | Select *yes* to opt-out from receiving cryptocurrency program invitations. <br><br>*This field is currently in beta*
 Bounty preferences | Select *yes* to only receive invitations to programs that award a bounty. <br><br>*(Currently in beta)* Move the slider to indicate the minimum bounty amount for critical severity bugs for programs you’d like to receive invitations from.
 
-![invitation-preferences](./images/invitation-preferences-2.png)
+![invitation-preferences](./images/invitation-preferences-3.png)
