@@ -7,7 +7,7 @@ id: "organizations/invitations"
 In order for hackers to hack on private programs, they must receive invitations. Hackers are able to receive invitations if they meet the following criteria:
 * Established reputation
 * Non-negative signal
-* Clear record with zero code of conduct violations
+* Clear record with zero Code of Conduct violations
 
 HackerOne manages your invitations by:
 * Daily checking to see if your program has met your report volume target in the last 30 days
@@ -29,16 +29,16 @@ Your report volume is set to 0. | No invitations will be sent.
 
 Our invitations system relies on an internal hacker invitation algorithm that runs periodically. It will find the right hackers based on your needs at the right time.
 
-It will, first, take into account a few (optional) parameters to be configured with your assigned Customer Success Manager (CSM):
+It will take into account a few optional parameters to be configured with your assigned Customer Success Manager (CSM):
 
 - Success goals
 - Signal requirements
 - Reputation requirements
 - Country restrictions
 
-Second, this is where the hacker invitation algorithm is going to shine. Based on a pool of millions of hackers that meet all the above criteria and that already have proven value by having at least 1 valid report or more than 25 CTF points (https://ctf.hacker101.com/), we consider a maximum of factors to ensure your program success.
+The algorithm sifts through millions of hackers, identifying those who meet your criteria and have proven their value with at least 1 valid report or more than [25 CTF points](https://ctf.hacker101.com/).
 
-The algorithm calculates the likelihood of a hacker finding vulnerabilities in your program and optimizes invitations accordingly. Attributes such as the following are taken into account (not exhaustive):
+The algorithm calculates the likelihood of a hacker finding vulnerabilities in your program and optimizes invitations accordingly. Some attributes include:
 
 - Scope
 - Program launch date
@@ -58,12 +58,12 @@ To set your invitations:
 
 ><i>Note: Manual invitations are only applicable for Bug Bounty Programs.</i>
 
-Sometimes you might want to issue your own invitations to hackers. If you need to issue your own invitations to particular hackers as an exception:
+If you need to issue your own invitations to particular hackers as an exception:
 1. Go to **Engagements > Settings > Program > Invitations**.
-2. Select how you want to invite the hacker in the sentence that starts with **Manually invite a hacker by email or username**. You can choose to invite a hacker by selecting either:
+2. Select how you want to invite the hacker in **Manually invite a hacker by email or username**. You can choose to invite a hacker by selecting either:
    * Email
    * Username
-3. It will open a pop-up window where you can enter the email address or username of the hacker you want to invite. You will also be required to enter an **invitation message** as well as a **context** option explaining the invitation reason.
+3. This will open a pop-up window where you can enter the email address or username of the hacker you want to invite. You will also be required to enter an **invitation message** as well as a **context** option explaining the invitation reason.
 
 ![invitations](./images/invitations.png)
 
@@ -71,9 +71,9 @@ HackerOne doesn’t recommend inviting unknown hackers. If a hacker has reached 
 
 ### Managing Invitations
 You can keep track of your invitations and which hackers have been invited to your program.
-* The **Invited Hackers** section lists all of the hackers that have accepted invitations. To remove a hacker, go to a report the hacker has submitted and select the ban reporter action to the right of the comment field.
+* The **Invited Hackers** section lists all of the hackers that have accepted invitations. To remove a hacker, go to a report the hacker has submitted and select the **Ban reporter** action to the right of the comment field.
 * In the **Pending Invitations** section, you can cancel pending invitations.
-* Download your invitation status to CSV from the **Program Invites Card** on Program Overview page. The CSV will have the following columns:
+* Download your invitation status to CSV from the Program Invites Card on Program Overview page. The CSV will have the following columns:
   * Username
   * Invite Sent At
   * Invite Accepted At
