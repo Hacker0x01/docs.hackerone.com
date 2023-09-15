@@ -7,15 +7,16 @@ id: "organizations/triggers"
 ### What are they?
 Triggers are simple, but powerful tools for executing automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with or without a given trigger word. Triggers aid in reducing noise as they can flag certain reports.
 
-### Default Triggers
-When you go to Settings > Program > Automation > Triggers, you'll notice a list of default triggers that have already been made for your program. You can choose to edit or delete these triggers.
+### System Triggers
+When you go to Settings > Program > Automation > Triggers, you'll notice a list of default triggers that have already been made for your program. You can choose to disable/enable these triggers.
 
 ![triggers-5](./images/triggers-5.png)
 
-### Adding Triggers
-To add new triggers:
+### Adding Custom Triggers
+To add a new custom trigger:
 1. Go to **Program Settings > Program > Automation > Triggers**.
-2. Click **Add new Trigger**.
+2. Select **Custom triggers** tab.
+2. Click **Add custom Trigger**.
 ![triggers-1](./images/triggers-1.png)
 3. In the first dropdown of the **IF** section, you can choose to have your trigger be within:
    * Any Field
@@ -46,4 +47,4 @@ Change State: Request more information | The report state will be changed to nee
 9. Click **Save trigger**.
 
 ### Result
-Once your trigger is set up, when new, incoming reports meet the criteria of your trigger, the appropriate action will automatically be applied to the report. This will save you time from having to manually respond to every report that comes in. 
+Once your custom trigger is set up, when new, incoming reports meet the criteria of your trigger, the appropriate action will automatically be applied to the report. This will save you time from having to manually respond to every report that comes in. 
