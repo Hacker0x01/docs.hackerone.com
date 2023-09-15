@@ -13,7 +13,7 @@ When you go to Settings > Program > Automation > Triggers, you'll notice a list 
 ![triggers-5](./images/triggers-5.png)
 
 ### Adding Custom Triggers
-To add a new custom triggers:
+To add a new custom trigger:
 1. Go to **Program Settings > Program > Automation > Triggers**.
 2. Select **Custom triggers** tab.
 2. Click **Add custom Trigger**.
