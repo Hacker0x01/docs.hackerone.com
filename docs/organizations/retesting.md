@@ -6,7 +6,7 @@ id: "organizations/retesting"
 
 As programs receive vulnerability reports and work on deploying fixes, they need proof that their vulnerabilities have actually been fixed. Retesting is a good way to secure the protection of your asset’s data by asking hackers to verify whether a fix has been made. With retesting, you can elect to have hackers retest your vulnerabilities to verify the fixes.
 
-> **Note:** For response programs using HackerOne's triage services, the triage team will retest the vulnerabilities to verify the fixes instead of hackers when a retest is requested. 
+> **Note:** For response programs (VDPs) using HackerOne's triage services, the triage team will retest the vulnerabilities to verify the fixes instead of hackers when a retest is requested. 
 
 ### How it Works  
 To have hackers retest a vulnerability:
@@ -43,4 +43,4 @@ If the original hacker rejects the retest, the report will pass back to the you 
 >Note: Retesting is not available for anonymous reports.
 
 ### Payments
-Hackers will be awarded a $50 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count towards the tier.   
+Hackers will be awarded a $50 bounty for each successful retest. Awards for retests will be paid from your bounty pool. If you're using the consumption tier to pay for your bounties, payments for retests will count toward the tier.   
