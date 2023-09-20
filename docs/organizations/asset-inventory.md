@@ -49,7 +49,10 @@ The Scope tab in the program’s Security page allows hackers to see:
 
 ### Adding Assets
 
-You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. A pop-up menu will appear prompting you to enter all the asset’s details.
+You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. You can choose to import a CSV or add a single asset. 
+
+If you choose to add a single asset, a pop-up menu will appear prompting you to enter all the asset’s details.
+
 *Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets). ASM Scanner and Asset submission review flows are available when you purchase HackerOne Assets.*
 
 ![Adding Assets](./images/asset-inventory-9.png)

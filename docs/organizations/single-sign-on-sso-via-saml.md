@@ -11,7 +11,7 @@ HackerOne supports Single Sign-On (SSO) through Security Assertion Markup Langua
 * [Bitium](https://support.bitium.com/administration/saml-hackerone/)
 * Centrify
 * MS ADFS
-* Microsoft Entra ID
+* [Microsoft Entra ID](https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/hackerone-tutorial) (formerly Azure AD)
 * Ping Identity
 * [Duo](https://duo.com/docs/hackerone)
 * [JumpCloud](https://support.jumpcloud.com/support/s/article/single-sign-on-sso-with-hackerone2)
