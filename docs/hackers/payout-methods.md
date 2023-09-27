@@ -30,7 +30,7 @@ Bank Transfer (Currencycloud) | Monday to Friday at 9am UTC | Payout time is 1-1
 ### More Info on Bank Transfers (Currencycloud)
 
 #### Choosing between SWIFT and Local payment
-  | SWIFT | Local
+  _ | SWIFT | Local
  -------------- | -------- | ----------
 Availability | Most currencies | Fewer currencies available
 Fees | Fees imposed by banks | Does not impose a bank fee
