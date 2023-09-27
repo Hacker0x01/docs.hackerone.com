@@ -51,13 +51,24 @@ The Scope tab in the program’s Security page allows hackers to see:
 
 You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. You can choose to import a CSV or add a single asset. 
 
-If you choose to add a single asset, a pop-up menu will appear prompting you to enter all the asset’s details.
+*Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets).*
 
-*Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets). ASM Scanner and Asset submission review flows are available when you purchase HackerOne Assets.*
+![image](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/3156f0ca-8fed-46d3-a8d6-8d97dd13a2b0)
+
+#### Adding a single asset
+If you choose to add a single asset, a pop-up menu will appear prompting you to enter all the asset’s details.
 
 ![Adding Assets](./images/asset-inventory-9.png)
 
-The asset will appear in the list alongside all other assets.
+After the asset is added, it will appear in the list alongside all other assets.
+
+#### Adding multiple assets
+
+The quickest way to add multiple assets to the Asset Inventory is to utilize the "Import from CSV" option. This will open a modal where you can upload a file and start your import. For convenience, there is also an example file provided here to download.
+
+![image](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/ef2ad000-d16d-4ae1-90d1-e7c53564bc99)
+
+Once you have uploaded the file, an Import Summary will display. The Import Summary covers successful asset additions, succesful asset updates, and failed asset imports.
 
 ### Filtering
 
