@@ -1,4 +1,4 @@
----
+---instagram security 
 title: "Security Checks"
 path: "/hackers/security-checks.html"
 id: "hackers/security-checks"
