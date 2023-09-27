@@ -35,7 +35,7 @@ Bank Transfer (Currencycloud) | Monday to Friday at 9am UTC | Payout time is 1-1
 Availability | Most currencies | Fewer currencies available
 Fees | Fees imposed by banks | Does not impose a bank fee
 Speed | Slightly slower | Slightly faster
-Maximum payment size per single transaction (USD) | unlimited | Depending on the currency and exchange rate, from about $15,000 USD, to unlimited. Payments due that are larger than the single transaction limit will be split up into multiple transfers
+Maximum payment size per single transaction (USD) | Unlimited | Depending on the currency and exchange rate, from about $15,000 USD, to unlimited. Payments due that are larger than the single transaction limit will be split up into multiple transfers
 
 When creating your bank transfer payout preference in Settings, you will automatically be guided to available options for your bank and currency.
 
