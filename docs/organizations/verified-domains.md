@@ -9,7 +9,7 @@ In order to configure [single sign-on via SAML](single-sign-on-sso-via-saml.html
 To verify your domain:
 1. Go to **Organization Settings > Authentication > Verified Domains**.
 
-><i>Note: You must be organization administrator to add a verified domain.</i>
+><i>Note: You must be an organization administrator to add a verified domain.</i>
 
 ![verified domains1](./images/verified-domains-1.png)
 
