@@ -53,7 +53,7 @@ You can add assets to your organization from the Asset Inventory page by clickin
 
 *Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets).*
 
-![image](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/3156f0ca-8fed-46d3-a8d6-8d97dd13a2b0)
+![Add Asset Dropdown](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/31f3d52e-daac-48d3-9a1b-3d3d75d7061f)
 
 #### Adding a single asset
 If you choose to add a single asset, a pop-up menu will appear prompting you to enter all the asset’s details.
@@ -66,7 +66,7 @@ After the asset is added, it will appear in the list alongside all other assets.
 
 The quickest way to add multiple assets to the Asset Inventory is to utilize the "Import from CSV" option. This will open a modal where you can upload a file and start your import. For convenience, there is also an example file provided here to download.
 
-![image](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/ef2ad000-d16d-4ae1-90d1-e7c53564bc99)
+![Import CSV Modal](https://github.com/Hacker0x01/docs.hackerone.com/assets/34313993/9547296d-5141-40f5-a74f-0b5c021186a2)
 
 Once you have uploaded the file, an Import Summary will display. The Import Summary covers successful asset additions, succesful asset updates, and failed asset imports.
 
