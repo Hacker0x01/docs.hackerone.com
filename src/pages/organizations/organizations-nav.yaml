@@ -356,8 +356,6 @@
           path: /organizations/vpn-faqs.html
 - title: Pentests
   items:
-    - title: Overview
-      path: /organizations/pentests.html
     - title: "Pentest as a Service (PTaaS): Enhanced Pentest Delivery"
       path: /organizations/pentests-delivery.html
     - title: "Pentester Selection and Vetting Process"
