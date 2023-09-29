@@ -356,12 +356,25 @@
           path: /organizations/vpn-faqs.html
 - title: Pentests
   items:
-    - title: Pentest Overview
-      path: /organizations/pentests.html
+    - title: "Pentest as a Service (PTaaS): Enhanced Pentest Delivery"
+      path: /organizations/pentests-delivery.html
+    - title: "Pentester Selection and Vetting Process"
+      path: /organizations/pentest-pentesters.html
+    - title: "Pentest Phases and Terminology"
+      path: /organizations/pentest-phases.html
+    - title: "Pentesting Methodology"
+      path: /organizations/pentest-methodology.html
+    - title: "Reporting"
+      path: /organizations/pentest-reporting.html
+    - title: "Pentest Deliverables"
+      path: /organizations/pentest-deliverables.html
+    - title: Retesting
+      path: /organizations/retesting-pentest.html
+    - title: Getting to Know Your Dedicated Pentest Team
+      path: /organizations/pentest-team.html
     - title: FAQs
       path: /organizations/pentest-faqs.html
-    - title: Retesting Pentest
-      path: /organizations/retesting-pentest.html
+
 - title: Helpful Tools
   items:
     - title: Automation
