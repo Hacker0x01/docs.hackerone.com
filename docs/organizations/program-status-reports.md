@@ -18,12 +18,12 @@ Key sections of a PSR include:
 
 To start using PSRs, go to your Organization’s Analytics hub via the navigation sidebar and select the **Program Status Reports** tab.
 
-![Program Status Reports in Analytics](/images/status-reports-1.png)
+![Program Status Reports in Analytics](/images/status-report-1.png)
 
 ### Generating a PSR
 To generate a new PSR, click on the **Create New** button in the upper right corner of the page. This will bring you to the report preview, where you can name your report, select the input date range, and apply content filters via the menu in the upper right corner of the page.
 
-![Preview of Program Status Report](/images/status-reports-2.png)
+![Preview of Program Status Report](/images/status-report-2.png)
 
 Once satisfied with the contents of the report, click the **Generate Report** button to save it and return to the list view of your reports. Reports that you generate are only viewable to you.
 
