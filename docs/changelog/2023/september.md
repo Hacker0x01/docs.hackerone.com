@@ -29,7 +29,8 @@ Variable retesting award amounts allow customers to set a reward amount higher t
 
 ### Export Redaction
 Export Redaction is now available behind an organization feature toggle!
-When exporting a file to text, zip, or PDF, you can now choose to redact usernames. This is purely a cosmetic change to the exported file, it does not change the report permanently. To use this feature, enable the redact_usernames feature. Visit any report page, click on the 'Export' button, and toggle the 'Redact usernames' checkbox to see the text change in front of your eyes!
+When exporting a file to text, zip, or PDF, you can now choose to redact usernames. This is purely a cosmetic change to the exported file, it does not change the report permanently. 
+To use this feature, enable the redact_usernames feature. Visit any report page, click on the 'Export' button, and toggle the 'Redact usernames' checkbox to see the text change in front of your eyes!
 
 ### CurrencyCloud Payment Threshold Increase
 CurrencyCloud payments now have a higher threshold per single transaction, allowing most hacker payments to be paid out in a single transaction instead of multiple small ones. 
