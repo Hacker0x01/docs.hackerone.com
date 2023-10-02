@@ -5,7 +5,9 @@ date: "2023-09"
 ---
 
 ### Program Status Reports
-Program Status Reports are available to all Bounty and Response customers! Go to Analytics > Program Status Reports and click **Create New to use Program Status Reports.** This will bring you to the report preview, where you can name your report, select the input date range for your report, and apply content filters via the menu in the upper right-hand corner of the page. Once satisfied with the contents of the report, click the **Generate Report** button to save it and return to the list view for your reports. Reports 
+Program Status Reports are available to all Bounty and Response customers! Go to Analytics > Program Status Reports and click **Create New to use Program Status Reports.** This will bring you to the report preview, where you can name your report, select the input date range for your report, and apply content filters via the menu in the upper right-hand corner of the page. Once satisfied with the contents of the report, click the **Generate Report** button to save it and return to the list view for your reports. 
+
+![program status report example](/images/program-status-report.png)
 
 ### Private VDP Invitations
 Customers can now invite hackers to private VDPs. This eliminates the need for back-and-forth communication between CSMs and our engineering teams, which saves a lot of time for both parties. 
@@ -44,8 +46,6 @@ When exporting a file to text, zip, or PDF, you can now choose to redact usernam
 
 To try this feature, enable the redact_usernames feature. Visit any report page, click on the 'Export' button, and toggle the 'Redact usernames' checkbox to see the text change in front of your eyes!
 
-![export recaction](/images/redacted.png)
-
 ### CurrencyCloud Payment Threshold Increase
 CurrencyCloud payments now have a higher threshold per single transaction, allowing most hacker payments to be paid out in a single transaction instead of multiple small ones. 
 
@@ -65,6 +65,8 @@ To use, go to a report submitted to the HackerOne program with collaborators (fo
 
 ### CSV Asset Import
 Importing assets via CSV and tracking their import status is no longer limited to the API – it's now available to all customers in the Asset Inventory, making asset management a breeze.
+
+![asset inventory csv import button](/images/asset-inventory-csv.png)
 
 ### Explicit Content Filter
 We've noticed more customers seeking help with testing machine learning models, including generative AI and content moderation. Some of these models can generate or misclassify explicit content, creating vulnerabilities that may require manual review.
