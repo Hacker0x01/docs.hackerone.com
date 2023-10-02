@@ -362,6 +362,26 @@
       path: /organizations/pentest-pentesters.html
     - title: "Pentest Phases and Terminology"
       path: /organizations/pentest-phases.html
+      items:
+        - title: "Structure"
+          path: /organizations/pentest-phases.html#structure
+        - title: "Pentest Engagement Process"
+          path: /organizations/pentest-phases.html#pentest-engagement-process
+          items:
+            - title: "Pre-Testing Phase"
+              path: /organizations/pentest-phases.html#1-pre-testing-phase
+            - title: "Testing Phase"
+              path: /organizations/pentest-phases.html#2-testing-phase
+            - title: "Post-testing Phase"
+              path: /organizations/pentest-phases.html#3-post-testing-phase
+        - title: "Scoping"
+          path: /organizations/pentest-phases.html#scoping
+        - title: "Size"
+          path: /organizations/pentest-phases.html#size
+        - title: "Pentester Roles and Responsibilities"
+          path: /organizations/pentest-phases.html#pentester-roles-and-responsibilities
+        - title: "Tiers"
+          path: /organizations/pentest-phases.html#tiers
     - title: "Pentesting Methodology"
       path: /organizations/pentest-methodology.html
     - title: "Reporting"
