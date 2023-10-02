@@ -115,7 +115,7 @@ Comment added | Post an internal comment when someone comments on an issue.
 
 ![jira-setup-13](./images/jira-setup-13.png)
 
-19. (Optional) Once you complete this integration, a Jira webhook will be automatically created in your Jira instance. If there is no webhook created, you can use this Webhook URL to create a webhook manually with the Issue Updated and Comment Created events.
+19. (Optional) Once you complete this integration, a Jira webhook will be automatically created in your Jira instance. If there is no webhook created, you can use this Webhook URL to [create a webhook manually](/organizations/jira-faqs.html#jira-create-webhook) with the Issue Updated and Comment Created events.
 ![jira-setup-15](./images/jira-setup-15.png)
 
 
