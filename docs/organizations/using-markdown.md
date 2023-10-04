@@ -1,4 +1,4 @@
----
+---Control + Shift + m
 title: "Using Markdown"
 path: "/organizations/using-markdown.html"
 id: "organizations/using-markdown"
@@ -11,7 +11,7 @@ id: "organizations/using-markdown"
   border-radius: 0.3em;
   width: 60%;
 }
-</style>
+</style>tab
 
 HackerOne supports markdown syntax on reports, profiles, and security pages.
 
@@ -19,7 +19,7 @@ HackerOne supports markdown syntax on reports, profiles, and security pages.
 
 Markdown Input:
 
-```
+```esc
 A First Level Header
 =====================
 
@@ -28,7 +28,7 @@ A Second Level Header
 
 ### Header 3
 ```
-
+tab
 Output:
 
 ![headers](./images/markdown-headers.png)
