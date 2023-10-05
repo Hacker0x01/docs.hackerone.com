@@ -23,7 +23,7 @@ DNS TXT record | You'll be prompted to add a TXT record to the DNS configuration
 HTML meta-tag | You'll be prompted to add an HTML meta-tag to the index page of your domain to allow HackerOne to verify you have ownership over the domain.
 Web file | You'll be prompted to upload a text file to allow HackerOne to verify if you have ownership over the domain.
 
-><i>Note: Please use only the [Second level domain name](https://en.wikipedia.org/wiki/Second-level_domain) such as `acme.com` without any prefixes.</i>
+><i>Note: Use only the part of the domain name used in the email address of the users that will be logging in. For example: if an email address looks like `wiley@acme.com`, use `acme.com` as domain name.</i>
 
 5. Click **Add domain**.
 
@@ -35,7 +35,7 @@ Here's an example of using the DNS TXT record on Cloudflare to allow HackerOne t
 
 ![domain verification example of using DNS TXT](./images/verified-domains-3.png)
 
-><i>Note: when using Amazon Route53 the `@` character isn't used, you can just leave the name value empty.</i>
+><i>Note: when using Amazon Route53 the `@` character isn't used. You can just leave the name value empty.</i>
 
 7. Click **Verify**
 
