@@ -23,6 +23,8 @@ DNS TXT record | You'll be prompted to add a TXT record to the DNS configuration
 HTML meta-tag | You'll be prompted to add an HTML meta-tag to the index page of your domain to allow HackerOne to verify you have ownership over the domain.
 Web file | You'll be prompted to upload a text file to allow HackerOne to verify if you have ownership over the domain.
 
+><i>Note: Please use only the [Second level domain name](https://en.wikipedia.org/wiki/Second-level_domain) such as `acme.com` without any prefixes.</i>
+
 5. Click **Add domain**.
 
 ![verified domains2](./images/verified-domains-5.png)
@@ -33,10 +35,14 @@ Here's an example of using the DNS TXT record on Cloudflare to allow HackerOne t
 
 ![domain verification example of using DNS TXT](./images/verified-domains-3.png)
 
+><i>Note: when using Amazon Route53 the `@` character isn't used, you can just leave the name value empty.</i>
+
 7. Click **Verify**
 
 Once your domain is successfully verified, the status of your domain will be changed to *Verified*. You can continue to set up your [SAML settings](single-sign-on-sso-via-saml.html).
 
 ![verified domains list](./images/verified-domains-4.png)
+
+><i>Note: it can take a while for the DNS records to propagate. If at first verification fails please try again later. You can use an online DNS checker like [https://dnschecker.org/](https://dnschecker.org/) to check if the DNS records have been propagated.</i>
 
 If your verification has failed, you can choose to **Cancel verification**.
