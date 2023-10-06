@@ -17,9 +17,9 @@ The HackerOne Gateway (VPN) enables access to public and firewalled assets as we
 
 ![gateway_access_toggle](./images/gateway-3.png)
 
-### Whitelisted IPs
+### Allowlisted IPs
 
-1. To view a list of the Whitelisted IPs provided by HackerOne Gateway, click on the **Whitelisted IPs** button in the top right corner of the page.
+1. To view a list of the Allowlisted IPs provided by HackerOne Gateway, click on the **Whitelisted IPs** button in the top right corner of the page.
 
 ![gateway_whitelisted_ips](./images/gateway-4.png)
 
@@ -46,7 +46,7 @@ You can pause or resume access of individual hackers by:
 The activity logs show what actions are being performed by Hackers while on the Gateway solution. It is possible to customize the results by using the filters available, such as **Date**, **Month**, **Year** and **start-end** time, or by using the search box.
 Please note that it can take up to 20 minutes to display the latest activity logs. 
 
-![gateway_activity_logs](./images/gateway-6.png)
+![gateway_activity_logs](./images/gateway-7.png)
 
 
 
