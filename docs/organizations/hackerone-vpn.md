@@ -19,7 +19,7 @@ The HackerOne Gateway (VPN) enables access to public and firewalled assets as we
 
 ### Allowlisted IPs
 
-1. To view a list of the Allowlisted IPs provided by HackerOne Gateway, click on the **Whitelisted IPs** button in the top right corner of the page.
+1. To view a list of the Allowlisted IPs provided by HackerOne Gateway, click on the **Allowlisted IPs** button in the top right corner of the page.
 
 ![gateway_whitelisted_ips](./images/gateway-4.png)
 
