@@ -46,27 +46,27 @@ There are two tabs present; Notifications and General. The notification tab pert
 
 ### Notifications
 ArmorCode security tool settings allow users to set up and create notifications to be alerted of changes and updates related to the security tool.
-![Notification preferences](/images/armorcode-integration-8.png)
 
 Notify When Trigger Types:
 1. When Operation Status Down
   * Selecting Operation Status down will create an alert when a scan associated with the security tool fails.
-![Notification preferences](/images/armorcode-integration-9.png)
+![Notification preferences](/images/armorcode-integration-8.png)
 
 2. When No New Reports
   * Selecting When No New Reports trigger type will create an alert when no new findings were ingested from a scan based on the Scan Frequency set within security tool settings.
-![Notification preferences](/images/armorcode-integration-10.png)
+![Notification preferences](/images/armorcode-integration-9.png)
 
 3. When Config Changed
   * Selecting Config change will create an alert when changes are made to the Security tool configuration.
   * **Example:** Enabling and Disabling individual Security Tool Configurations.
-![Notification preferences](/images/armorcode-integration-11.png)
+![Notification preferences](/images/armorcode-integration-10.png)
 
 4. When Tool Configuration Got Disabled
   * Selecting When Tool Configuration Got Disabled will create an alert when configurations are disabled and operations are performed against it.
   * **Example:** Disabling an existing Push configuration.
-![Notification preferences](/images/armorcode-integration-12.png)
+![Notification preferences](/images/armorcode-integration-11.png)
+
 
 ### General
 Users can set scan frequency and tool inactive status on both tool level and product level. After the set time, a scan will be triggered and if a tool inactive time has been set, the tool will be rendered inactive after.
-![Notification preferences](/images/armorcode-integration-13.png)
+![Notification preferences](/images/armorcode-integration-12.png)
