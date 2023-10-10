@@ -231,7 +231,7 @@ HackerOne currently supports these integrations:
     <div class="logo">
       <img src="./images/armorcode_logo.png" />
     </div>
-    <div class="logo-text">ArmorCode*</div>
+    <div class="logo-text">ArmorCode</div>
   </a>
   </div>
 
