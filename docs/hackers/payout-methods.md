@@ -44,7 +44,7 @@ Generally, if you are receiving small payments, using Local delivery if it’s a
 #### Currency Conversions
 For bank transfers, we currently support conversions to the following currencies:
 
-Supported Currency (Code) | SWIFT/Local Supported | Supported Currency (Code) | Currency Code
+Supported Currency (Code) | SWIFT/Local Supported | Supported Currency (Code) | SWIFT/Local Supported 
 ------------ | ------------ | ------------ | --------- 
 Australian Dollar (AUD) | SWIFT & Local | Mexican Peso (MXN) | SWIFT Only
 Bahraini Dinar (BHD) | SWIFT Only | New Zealand Dollar NZD) | SWIFT Only

@@ -18,7 +18,7 @@ The number of invitations HackerOne sends is based on your report volume on a ro
 
 Case | Action
 ---- | ------
-You're far from meeting your report volume. | HackerOne will gradually increase the number of invitations so you can meet your report volume.
+You're far from meeting your report volume. | HackerOne will continue sending invitations so you can meet your report volume.
 You're receiving more reports while still being under your report volume.	| HackerOne will send out fewer invitations.
 Your report volume is met. | Invitations will pause until the volume drops below the target in the 30 day window.
 Your report volume is set to 0. | No invitations will be sent.

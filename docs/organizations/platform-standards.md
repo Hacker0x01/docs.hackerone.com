@@ -3,6 +3,7 @@ title: "Detailed Platform Standards"
 path: "/organizations/platform-standards.html"
 id: "organizations/platform-standards"
 ---
+*Updated September 8, 2023*
 
 Like all platforms, HackerOne maintains Platform Standards. HackerOne's standards are based on industry standards, best practices, and our ongoing learning from running the largest Vulnerability Disclosure platform in the world.
 
