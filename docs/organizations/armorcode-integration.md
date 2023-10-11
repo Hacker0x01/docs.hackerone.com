@@ -3,7 +3,7 @@ title: "ArmorCode Integration"
 path: "/organizations/armorcode-integration.html"
 id: "organizations/armorcode-integration"
 ---
-### Configure API based HackerOne on ArmorCode
+### Configure integration with ArmorCode
 
 1. Navigate to **Security Tools** and select **HackerOne**
 ![ArmorCode screen](/images/armorcode-integration-1.png)
