@@ -219,6 +219,8 @@
       path: /organizations/webhooks.html
     - title: API Tokens
       path: /organizations/api-tokens.html
+    - title: ArmorCode Integration
+      path: /organizations/armorcode-integration.html
     - title: Assembla
       path: /organizations/assembla-integration.html
     - title: AWS Security Hub
