@@ -18,7 +18,7 @@ id: "organizations/armorcode-integration"
   * Provide an Identifier and select the Program access and permissions groups for the token
   * Click on **Create API token**
   * The token is created (this token should be stored as it will work as Hackerone credentials in the ArmorCode platform)
-4. Enter the details including configuration name, identifier, and token mentioned in 2, and Save.
+4. Back on ArmoreCode, enter the details including configuration name, identifier, and token mentioned in 2, and Save.
 5. On the ArmorCode platform, a pop-up will appear that will ask to map the Product, Subproduct, and Environment on which your HackerOne projects will be.
 ![Map to HackerOne projects](/images/armorcode-integration-3.png)
 
