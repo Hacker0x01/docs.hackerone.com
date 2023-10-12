@@ -4,7 +4,7 @@ path: "/changelog/2023/update"
 date: "2023-10"
 ---
 
-![Doc site change notice](/images/creativity.png)
+![Doc site change notice](/images/creativity-2.png)
 
 ### Our Doc Site is Changing!
 We are migrating our doc site to be hosted by Intercom on November 1! You can still find the changelog here on the doc site, but it will look different.
