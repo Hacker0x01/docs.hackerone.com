@@ -219,6 +219,7 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Vulcan</div>
   </a>
+  
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
