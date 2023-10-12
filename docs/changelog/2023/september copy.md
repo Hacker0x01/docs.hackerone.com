@@ -11,7 +11,7 @@ We are migrating our doc site to be hosted by Intercom on November 1! You can st
 
 Intercom has allowed us to send you in-platform messages for all major updates as soon as they happen! You'll see real-time changes in the platform, and we will collect them all at the end of the month into one post, just like we do now, so you can always find them. 
 
-Benefits:
+**Benefits:**
 1. Updated appearance
 2. Better search functionality
 3. Document tagging
