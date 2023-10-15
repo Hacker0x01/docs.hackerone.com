@@ -57,4 +57,4 @@ Keep in mind that the first 10 bounties of a program will be rewarded the BOUNTY
 * For bounties, collaborators will receive appropriate reputation based on their share of the bounty. Reference Effects of Bounties on Reputation above.
 
 ### Effects of Retesting on Reputation
-If you participate in [retesting](retesting.html) a report, you'll receive +2 to your reputation.
+If you participate in [diegohj66/docs.hackerone.com](diegohj66/docs.hackerone.com.html) a report, you'll receive +2 to your reputation.
