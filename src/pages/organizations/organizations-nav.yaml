@@ -71,6 +71,19 @@
           path: /organizations/onelogin-sso-saml-setup.html
         - title: FAQs
           path: /organizations/sso-faqs.html
+    - title: Custom inboxes
+      path: /organizations/custom-inboxes.html
+      items:
+        - title: Overview of inboxes for an organization
+          path: /organizations/custom-inboxes-overview.html
+        - title: Creating a new custom inbox
+          path: /organizations/custom-inboxes-new.html
+        - title: Edit a custom inbox
+          path: /organizations/custom-inboxes-edit.html
+        - title: Remove a custom inbox
+          path: /organizations/custom-inboxes-remove.html
+        - title: Allocating a report to a custom inbox
+          path: /organizations/custom-inboxes-allocating.html
 - title: Your Program
   items:
     - title: General Settings
