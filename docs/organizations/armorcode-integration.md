@@ -3,6 +3,11 @@ title: "ArmorCode Integration"
 path: "/organizations/armorcode-integration.html"
 id: "organizations/armorcode-integration"
 ---
+
+ArmorCode unifies the siloed world of security testing so you can move faster and spend time on what matters most. The ArmorCode-HackerOne integration makes it easy to ingest and correlate findings from HackerOne to the ArmorCode platform, prioritize based on risk, and automate triaging and remediation workflows to improve your security posture at scale.
+
+To learn more, visit the [ArmorCode website](https://www.armorcode.com).   
+
 ### Configure integration with ArmorCode
 
 1. Navigate to **Security Tools** and select **HackerOne**
