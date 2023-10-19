@@ -352,6 +352,8 @@
     - title: Gateway
       path: /organizations/hackerone-vpn.html
       items:
+        - title: Hacker Traffic Logs
+          path: /organizations/vpn-hacker-traffic-logs.html
         - title: Gateway V1
           path: /organizations/hackerone-vpn-v1.html
         - title: FAQs Gateway V1

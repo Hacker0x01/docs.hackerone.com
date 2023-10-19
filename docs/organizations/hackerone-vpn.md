@@ -50,23 +50,20 @@ Please note that it can take up to 20 minutes to display the latest activity log
 
 ### Download Hacker Traffic Logs
 
-The log page allows you to download verbose logs of your network activities for the selected date at UTC. 
+The log page allows you to download verbose logs of your network activities for the selected date at UTC (Coordinated Universal Time). 
 It might take some time to generate logs depending on the hacker traffic volume on the given date.
 You will be notified by email once the logs are ready to download. 
 
-The links to download logs are valid for 24 hours. When expired, you can request logs for the same date again and 
-a new link will be generated quickly. You can request a maximum of 5 logs at the same time.
+The links to download logs are valid for 24 hours. When expired, you can request logs for the same date again and a new link will be generated quickly. You can request a maximum of 5 logs at the same time.
 
-You can view all log requests that have been made for the given program. The table shows request details such as 
-request time, status, requester, the date the log requested for, expiration time of the download link and 
-a download link if available.
+You can view all log requests that have been made for the given program. The table shows request details such as request time, status, requester, the date the log was requested for, expiration time of the download link and a download link if available.
 
 ![gateway_download_logs](./images/gateway-8.png)
 
 ### Sync Hacker Traffic Logs
 
 To sync logs directly to your selected data storage, please reach out to your CSM. Logs are pushed in batches 
-as soon as possible. Usually it takes 3-4 minutes for the logs to be available in your data storage.
+as soon as possible. Usually it takes 3-4 minutes for the logs to be available in your data storage.    
 
 
 
