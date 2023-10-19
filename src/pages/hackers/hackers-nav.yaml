@@ -91,6 +91,8 @@
       path: /hackers/collaboration.html
     - title: Credentials
       path: /hackers/credentials.html
+    - title: CVE & CWE Discovery
+      path: /hackers/cve-cwe-discovery.html
     - title: Security Checks
       path: /hackers/security-checks.html
     - title: Publishing External Vulnerabilities

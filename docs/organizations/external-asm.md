@@ -36,6 +36,7 @@ The solution has a database of technology fingerprints that can be added to the 
 The various site status and their meanings are listed below.
 
 Site Status | Definition
+----------- | -------------
 Inactive | No HTTP response from server
 Redirect | HTTP status codes 301, 302, 303 or 307X
 Broken | HTTP status codes 400, 404, 500, 501, 503
@@ -48,6 +49,8 @@ HackerOne’s External Attack Surface Management (EASM) solution inspects each a
 One of the solution's key features is the ability to detect vulnerable software by analyzing the technology and host header information. If the solution detects outdated software that has publicly known CVEs, it will create a risk for this based on the CVSS score of the CVE. For example, a CVE with a CVSS score of 8.9 will result in a score of F, whereas a CVE with a CVSS score of 5.6 will result in a score of D.
 
 ### Common Vulnerabilities and Exposures (CVE) Intelligence
+>Note: CVE information is available for all customers. For more information, please visit the [CVE & CWE Discovery page.](/organizations/cve-cwe-discovery.html)
+
 HackerOne’s EASM solution identifies CVEs on all assets that comprise your attack surface and presents these as Risks on the technology stack of your assets. To make this information more actionable, the platform also presents useful context on the CVE identified in the Risk. 
 
 When you click a CVE identified in a risk, the HackerOne platform shows a description of the vulnerability, additional metadata like Common Weaknesses Enumeration (CWE) classification, and Common Vulnerability Scoring System (CVSS) Score.

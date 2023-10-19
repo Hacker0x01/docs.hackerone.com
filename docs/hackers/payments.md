@@ -21,7 +21,7 @@ A bounty is money you get rewarded with for reported and resolved bugs. They're 
 
 After a program has decided to award you a bounty and the bounty has been awarded, you'll receive an email to claim the bounty. HackerOne will ask to collect your tax form before processing the payout.
 
-#### Bounty Splitting
+#### Collaboration
 HackerOne enables you to split bounties with other hackers that helped you find the vulnerability. This allows all hackers to receive contributions and awards for their efforts.
 
 To split a bounty with collaborating hackers:
@@ -30,8 +30,10 @@ To split a bounty with collaborating hackers:
 3. Enter the email or username of the collaborating hacker.
 4. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>.
    * Bounties are split using this equation: (Total Bounty/Total Bounty Weight)x Hacker Bounty Weight
-   * In the example below, the calculation would be as follows:<br>snappyboy: ($1000/3)x1 = $333.33<br>jared@hooli.corp: ($1000/3)x2 = $666.67</br>
-   ![bounty_split](./images/bounty_split.png)
+   * In the example below, the calculation would be as follows:
+      * hacker: $1000x60% = $600.00
+      * dirk: $1000x40% = $400.00
+   ![collaboration](./images/bounty-split.png)
 5. Click <b>Invite</b>.
 
 The calculated bounty amounts will show for each hacker. When the bounty is awarded, the bounty will be split according to the weights assigned. Additionally, all collaborators can now view and comment on the report. Curious about reputation for collaborative reports? See [here](https://docs.hackerone.com/hackers/reputation.html).
@@ -41,7 +43,7 @@ Keep in mind that:
 * Bounties can't be split retroactively (i.e. after the bounty has already been awarded).
 * You can only add up to 10 collaborators per report.
 
-><i><b>Note:</b> Bounty splitting is only enabled for programs that use the [prepayment](/organizations/billing.html) billing option.</i>
+><i><b>Note:</b> Collaboration is only enabled for programs that use the [prepayment](/organizations/billing.html) billing option.</i>
 
 #### Donating Bounties to Charity
 HackerOne enables you to donate your bounty directly to charity.
@@ -58,12 +60,12 @@ Generally, if the charity accepts donations in USD through PayPal or Credit Card
 
 Keep in mind that you still need to have a valid tax form on file in order to donate your bounty. You can choose to donate your bounties in full, or you can choose to donate a part of your bounty.
 
-#### Donating through Bounty Splitting
-You can also donate your bounties through [bounty splitting](payments.html#bounty-splitting). To do this:
+#### Donating through Collaboration
+You can also donate your bounties through [Collaboration](payments.html#collaboration). To do this:
 
-1. Follow [steps 1-2](payments.html#bounty-splitting) in the bounty splitting section above.
+1. Follow [steps 1-2](payments.html#collaboration) in the Collaboration section above.
 2. Enter `hackforgood` as the username you want to collaborate with.
-3. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>. The explanation for splitting is in [step 4](payments.html#bounty-splitting).
+3. Enter the ratio in how you want to split the bounty under <b>Bounty weight</b>. The explanation for splitting is in [step 4](payments.html#collaboration).
 4. Click <b>Invite</b>.
 
 Once a month, HackerOne will donate to the charity of our choice. Currently, the charity is set for The World Health Organization COVID-19 Solidarity Response Fund.

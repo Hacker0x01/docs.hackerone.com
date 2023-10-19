@@ -28,7 +28,7 @@ To change the settings of your bounty program follow these steps:
  Email Notifications | Every report activity triggers email notifications sent to members in your program. Select what content you want to include.
  [Inbox Views](inbox-views.html) | Configure what tabs you want showing in your inbox.
  [Invitations](invitations.html) | Set how you want your hacker invitations managed.
- [Signal](signal-requirements.html) | Configure your Signal Requirement and [Human-Augmented Signal](human-augmented-signal.html) settings.
+ [Signal](signal-requirements.html) | Configure your Signal Requirement settings.
  [Bounties](bounties.html) | Configure bounty and reward settings.
  [Swag](swag.html) | Select whether your program would like to give swag as a reward.
  [Common Responses](common-responses.html#___gatsby) | Set default common responses to reply in your reports.

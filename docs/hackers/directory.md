@@ -46,7 +46,7 @@ Bounties average | The average bounty that is given for a valid vulnerability in
 Star Icon<br>![star icon](./images/better-directory-4.png) | Bookmark your favorite programs by clicking on the icon. A list of your bookmarked programs will show on your [Hacker Dashboard](/hackers/hacker-dashboard.html) under the **Bookmarked Programs** tab.
 Managed label<br>![managed icon](./images/better-directory-2.png) | Shows that the program is managed by HackerOne. These programs are more likely to respond quickly to your report and there's a higher likelihood of being successful on these programs because it's managed by the HackerOne triage team.
 Not Accepting Submissions label<br>![not accepting submissions icon](./images/better-directory-3.png) | Shows that the program isn’t currently accepting any report submissions on HackerOne.
-Bounty splitting label| Shows that the program enables hackers to collaborate with others and split their bounty in finding and submitting a vulnerability.
+Collaboration label| Shows that the program enables hackers to collaborate with others and split their bounty in finding and submitting a vulnerability.
 Retesting label | Shows that the program participates in [retesting](/hackers/retesting.html).
 
 ### Directory Filters

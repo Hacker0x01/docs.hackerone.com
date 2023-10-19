@@ -6,9 +6,8 @@ id: "organizations/submission"
 
 The Submission Requirements page enables you to set specific requirements for hackers to submit reports to your program. You can:
 * Require hackers to meet certain [signal requirements](signal-requirements.html)
-* Enable [Human-Augmented Signal](human-augmented-signal.html)
 * Require hackers to have two-factor authentication  
-* [Enable bounty splitting](#enabling-bounty-splitting)
+* [Enable Collaboration](#enabling-collaboration)
 * Select [severity rating options](#severity-rating-options)
 
 To access the Submission Requirements page, go to: **Program Settings > Program > Hacker Management > Submission**.
@@ -27,16 +26,16 @@ Hackers that have already submitted past reports before 2FA was required will st
 #### For Private Programs
 Hackers will be required to have 2FA enabled to participate and submit reports to a private program. Once you turn this feature for a private program all hackers without 2FA will be removed from the program and immediately sent an invitation back to the program. Those hackers and future hackers won't be able to accept the invitation until they have 2FA enabled.
 
-### Enabling Bounty Splitting
-[Bounty splitting](/hackers/payments.html#bounty-splitting) enables hackers to split the bounty with other hackers that helped collaborate on a report. This enables each hacker to be rewarded for their findings on the report.  
+### Enabling Collaboration
+[Collaboration](/hackers/payments.html#collaboration) enables hackers to split the bounty with other hackers that helped collaborate on a report. This enables each hacker to be rewarded for their findings on the report.  
 
-> **Note:** You can only enable bounty splitting if your program uses the [prepayment](billing.html) billing option.
+> **Note:** You can only enable Collaboration if your program uses the [prepayment](billing.html) billing option.
 
-To enable bounty splitting for your program:
+To enable Collaboration for your program:
 1. Go to <b>Program Settings > Program > Submission</b>.
-2. Click the toggle so that it's set to <b>Yes</b> for <b>Enable bounty splitting</b>.
+2. Click the toggle so that it's set to <b>Yes</b> for <b>Enable Collaboration</b>.
 
-![enable bounty splitting](./images/enable-bounty-splitting.png)
+![enable Collaboration](./images/enable-collaboration.png)
 
 ### Severity Rating Options
 You can select how you would like hackers to determine the [severity](severity.html) of the vulnerability they're reporting.

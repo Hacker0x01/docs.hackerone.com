@@ -11,7 +11,7 @@ Response Efficiency Metric | Details
 Time to first response | The elapsed time from when the report is submitted, to the first public activity on a report. The first public activity includes adding a public comment, changing the report state, or changing the report severity.
 Time to triage | The elapsed time from when a report is submitted to when a report is changed to a triaged state. A report can skip the triaged state and move directly to a closed state (e.g. resolved).
 Time to bounty | *(Bounty programs only)* The elapsed time from when a report is triaged to when a bounty is paid. Only reports that are eligible for a bounty will be tracked as part of this metric. The time to bounty timer will run until the report is either marked as ineligible or closed as a state where it’s not normal to award a bounty (e.g. spam).<br><br><i>Awarding swag in lieu of a bounty won't stop the timer. If you only award a report with swag, you must mark the report as ineligible for bounty to stop the timer</i>.
-Time to resolution | The elapsed time from when a report is submitted to when a report is closed. These five closed report states will stop the timer: <i>resolved, informative, not applicable, duplicate,</i> and <i>spam</i>. For programs using [human-augmented signal](human-augmented-signal.html), the resolution timer starts when the report has been approved by HackerOne Security Analysts and escalated to the customer's inbox.  
+Time to resolution | The elapsed time from when a report is submitted to when a report is closed. These five closed report states will stop the timer: <i>resolved, informative, not applicable, duplicate,</i> and <i>spam</i>. 
 
 All response target times are tracked and reported in business days. Business days are defined to be:
 * Monday - Friday
@@ -49,4 +49,4 @@ Question | Answer
 -------- | --------
 Which actions trigger first response? | First response is triggered by any public action on a report, such as, adding a comment (publicly), changing the report state, or changing the severity. Automated actions from Hackbot or an automated trigger are not recognized, except for automated responses using API tokens. Only actions or comments from a member of the team will count as a first response.
 How are the report timers affected if a report is closed then reopened? | The timers are not affected as we don’t account for reopened reports. Once a report is closed, its response efficiency metrics won’t  change.
-How are the report timers affected if a report is filtered first through human augmented signal? | If a report is routed through human augmented signal (reports flagged with a high noise probability are reviewed by HackerOne analysts before hitting your inbox) the timer is not paused or modified in any way. This means that the time spent in review by HackerOne analysts will be tracked in the timer.
+

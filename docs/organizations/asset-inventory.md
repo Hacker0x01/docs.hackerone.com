@@ -49,12 +49,26 @@ The Scope tab in the program’s Security page allows hackers to see:
 
 ### Adding Assets
 
-You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. A pop-up menu will appear prompting you to enter all the asset’s details.
-*Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets). ASM Scanner and Asset submission review flows are available when you purchase HackerOne Assets.*
+You can add assets to your organization from the Asset Inventory page by clicking **Add assets** under the search & filter box. You can choose to import a CSV or add a single asset. 
+
+*Note: Assets can also be added via the [API](https://api.hackerone.com/customer-resources/#assets).*
+
+![image](./images/asset-inventory-14.png)
+
+#### Adding a single asset
+If you choose to add a single asset, a pop-up menu will appear prompting you to enter all the asset’s details.
 
 ![Adding Assets](./images/asset-inventory-9.png)
 
-The asset will appear in the list alongside all other assets.
+After the asset is added, it will appear in the list alongside all other assets.
+
+#### Adding multiple assets
+
+The quickest way to add multiple assets to the Asset Inventory is to utilize the "Import from CSV" option. This will open a modal where you can upload a file and start your import. For convenience, there is also an example file provided here to download.
+
+![image](./images/asset-inventory-15.png)
+
+Once you have uploaded the file, an Import Summary will display. The Import Summary covers successful asset additions, succesful asset updates, and failed asset imports.
 
 ### Filtering
 
@@ -105,3 +119,6 @@ Your Attack Surface Coverage dashboard gives an overview of your entire attack s
 Asset Submissions allows hackers to submit potentially missed assets for review. You can then accept or reject these assets as part of your organization. If you accept a hacker’s submission, they will then be invited to submit asset enrichment to provide more details about technology tags, CVSS environmental score, and maximum severity.
 
 ![asset submissions](./images/asset-inventory-11.png)
+
+### Asset Tutorial
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/H2ZcSP04Vzw" frameborder="0" allowfullscreen></iframe>

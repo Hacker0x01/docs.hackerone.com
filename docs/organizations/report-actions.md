@@ -12,10 +12,11 @@ There are several actions you can take on a report in your inbox. You can:
 * Unassign a report
 * Set an award
 
-![report-actions](./images/report-actions-1.png)
+![report actions options](./images/report-actions-1.png)
+
 
 ### Add a Comment
-You can dialogue with hackers or team members or make notes about the report through adding comments.
+You can dialogue with hackers, team members, and groups or make notes about the report by adding comments.
 
 To add a comment:
 1) Go to the bottom of the report above the comment box.
@@ -29,7 +30,14 @@ All participants | All participants of the report will be able to view the comme
 
 ><i>Note: When you're adding a comment to your internal team only, the comment box will turn red.</i>
 
-![report-actions-2](./images/report-action-2.png)
+![comment privacy selection](./images/report-action-2.png)
+
+
+#### Mention Users or Groups
+In the comment box, type in **@** followed by the first few letters of the person or group that you want to mention in the comment. You can also see the number of members in that group and a group icon. 
+
+![Tagging users or groups](./images/report-actions-6.png)
+
 
 ### Close a Report
 You can close a report to mark that it's either:
@@ -45,9 +53,8 @@ To close a report:
 3) Select the status of the report in the **Select status** action picker.
 4) Click **Close report**.
 
-![report-action-3](./images/report-actions-3.png)
+![closing a report](./images/report-actions-3.png)
 
-***Note:*** *Reports that have gone through [Human-Augmented Signal](human-augmented-signal.html) can be reopened by the hacker if closed*
 
 ### Change the State
 You can change the state of a report to be marked as either *triaged* or *new*. This'll help you keep track of what state your report is in.
@@ -64,7 +71,7 @@ New | The report is pending triage and validation.
 
 4) Click **Change state**.
 
-![report-action-5](./images/report-action-5.png)
+![changing the state](./images/report-action-5.png)
 
 ### Assign a Report
 You can assign reports to individual members or groups in your program to evaluate and take action on a report.
@@ -100,10 +107,10 @@ To set an award to a hacker for the report:
 Option | Details
 ------ | ------
 Amount | Mark that you've rewarded the hacker with a specific dollar amount for the vulnerability.
-None ( ineligible) | The report is ineligible for a bounty. It's best to explain the reasons to hackers in the comments section, why the report is ineligible.
+None (ineligible) | The report is ineligible for a bounty. It's best to explain the reasons to hackers in the comments section, why the report is ineligible.
 Suggest amount | Suggest a bounty amount to award the hacker. Only internal members of your program will be able to view your bounty suggestion.
 Swag | Mark that you've rewarded the hacker with swag.
 
 4) Click **Set award**.
 
-![report-action-4](./images/report-action-4.png)
+![setting an award amount](./images/report-action-4.png)

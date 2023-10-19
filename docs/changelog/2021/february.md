@@ -17,10 +17,10 @@ We've updated the reference ID field for adding integrations with a new **Add re
 
 ![add reference to issue tracker button](./images/feb_2021_add-reference-button.png)
 
-### Filter Programs by Bounty Splitting
-You can now see which programs enable you to collaborate with other hackers in submitting vulnerabilities with the new *Bounty splitting* filter and label in the [Directory](https://hackerone.com/directory/programs).
+### Filter Programs by Collaboration
+You can now see which programs enable you to collaborate with other hackers in submitting vulnerabilities with the new *Collaboration* filter and label in the [Directory](https://hackerone.com/directory/programs).
 
-![bounty splitting filter and label](./images/feb_2021_bounty-splitting-filter.png)
+![Collaboration filter and label](./images/feb_2021_bounty-splitting-filter.png)
 
 ### Collaborations Filter in Hacktivity
 We've added the new **Collaborations** filter in Hacktivity so that hackers can easily see which reports were collaborated on.  

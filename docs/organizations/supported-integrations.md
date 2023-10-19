@@ -1,7 +1,7 @@
 ---
-title: "Supported Integrations"
-path: "/organizations/supported-integrations.html"
-id: "organizations/supported-integrations"
+title: 'Supported Integrations'
+path: '/organizations/supported-integrations.html'
+id: 'organizations/supported-integrations'
 ---
 
 HackerOne integrates with many issue tracking tools. The integration ensures that the HackerOne platform fits into your existing security workflow with minimal friction. Integrating with one of these services will enable you to push report submissions into your preferred systems. You can set up multiple issue tracker integrations as well as a Slack integration.
@@ -44,6 +44,12 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Bugzilla</div>
   </a>
+  <a class="integration-button" href="clickup-integration.html">
+    <div class="logo">
+      <img src="./images/clickup-logo.png" />
+    </div>
+    <div class="logo-text">ClickUp</div>
+  </a>
   <a class="integration-button" href="https://xsoar.pan.dev/docs/reference/integrations/hacker-one">
     <div class="logo">
       <img src="./images/cortex-xsoar-logo.png" />
@@ -56,15 +62,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Freshdesk</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="github-integration.html">
     <div class="logo">
       <img src="./images/github_logo.png" />
     </div>
     <div class="logo-text">GitHub</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="gitlab-integration.html">
     <div class="logo">
       <img src="./images/gitlab_logo2.png" />
@@ -83,15 +89,15 @@ HackerOne currently supports these integrations:
     </div>
   <div class="logo-text">IBM QRadar SOAR</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="jira-integration.html">
     <div class="logo">
       <img src="./images/jira_logo.png" />
     </div>
     <div class="logo-text">Jira</div>
   </a>
-<div>
-
-<div class="int-button-container">
   <a class="integration-button" href="https://community.askj1.com/kb/articles/1005-hackerone-integration-with-jupiterone">
     <div class="logo">
       <img src="./images/jupiter-one-logo.png" />
@@ -110,15 +116,15 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Linear</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="mantisbt-integration.html">
     <div class="logo">
       <img src="./images/mantisbt-logo.png" />
     </div>
     <div class="logo-text">MantisBT</div>
   </a>
-</div>
-
-<div class="int-button-container">
   <a class="integration-button" href="microsoft-teams.html">
     <div class="logo">
       <img src="./images/microsoft_teams_logo.png" />
@@ -137,15 +143,16 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">PagerDuty*</div>
   </a>
-  <a class="integration-button" href="phabricator-integration.html">
+  
+</div>
+
+<div class="int-button-container">
+    <a class="integration-button" href="phabricator-integration.html">
     <div class="logo">
       <img src="./images/phabricator_logo.png" />
     </div>
     <div class="logo-text">Phabricator</div>
   </a>
-</div>
-
-<div class="int-button-container">
  <a class="integration-button" href="https://docs.plextrac.com/plextrac-documentation/product-documentation-1/account-management/account-admin/tools-and-integrations/integrations/hackerone">
     <div class="logo">
       <img src="./images/plextrac-logo.png" />
@@ -158,20 +165,27 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Redmine</div>
   </a>
-  <a class="integration-button" href="servicenow-integration.html">
+  <a class="integration-button" href="safebase-integration.html">
+    <div class="logo">
+      <img src="./images/safebase-logo1.png" />
+    </div>
+    <div class="logo-text">SafeBase</div>
+  </a>
+</div>
+
+<div class="int-button-container">
+    <a class="integration-button" href="servicenow-integration.html">
     <div class="logo">
       <img src="./images/servicenow_logo.png" />
     </div>
     <div class="logo-text">ServiceNow*</div>
   </a>
-  <a class="integration-button" href="https://support.securityscorecard.com/hc/en-us/articles/4403224402459-HackerOne-App">
+      <a class="integration-button" href="https://support.securityscorecard.com/hc/en-us/articles/4403224402459-HackerOne-App">
     <div class="logo">
       <img src="./images/securityscorecard-logo.png" />
     </div>
     <div class="logo-text">Security Scorecard</div>
   </a>
-</div>
-<div class="int-button-container">
     <a class="integration-button" href="slack-integration.html">
     <div class="logo">
       <img src="./images/slack_logo.png" />
@@ -184,27 +198,28 @@ HackerOne currently supports these integrations:
     </div>
     <div class="logo-text">Splunk*</div>
   </a>
+</div>
+
+<div class="int-button-container">
   <a class="integration-button" href="sumo-logic-integration.html">
     <div class="logo">
       <img src="./images/sumo_logic_logo.png" />
     </div>
     <div class="logo-text">Sumo Logic*</div>
   </a>
-  <a class="integration-button" href="trac-integration.html">
+     <a class="integration-button" href="trac-integration.html">
     <div class="logo">
       <img src="./images/trac_logo.png" />
     </div>
     <div class="logo-text">Trac</div>
   </a>
-</div>
-
-<div class="int-button-container">
-   <a class="integration-button" href="https://help.vulcancyber.com/en/articles/7050794-hackerone-connector">
+  <a class="integration-button" href="https://help.vulcancyber.com/en/articles/7050794-hackerone-connector">
     <div class="logo">
       <img src="./images/vulcan-logo.png" />
     </div>
     <div class="logo-text">Vulcan</div>
   </a>
+  
   <a class="integration-button" href="zendesk-integration.html">
     <div class="logo">
       <img src="./images/zendesk_logo.png" />
@@ -212,6 +227,14 @@ HackerOne currently supports these integrations:
     <div class="logo-text">Zendesk</div>
   </a>
 </div>
+<div class="int-button-container">
+  <a class="integration-button" href="armorcode-integration.html">
+    <div class="logo">
+      <img src="./images/armorcode_logo.png" />
+    </div>
+    <div class="logo-text">ArmorCode</div>
+  </a>
+  </div>
 
 <br>
 
