@@ -95,6 +95,14 @@ You can map HackerOne severity ratings to the Linear priority fields when config
 
 ![linear-integration-10](./images/linear-integration-10.png)
 
+### Configure Linear issue labels
+
+You have the option to choose a specific set of labels that have been configured in Linear. These selected labels will be automatically assigned to a new Linear issue when a report is escalated.
+
+It's important to note that **labels must be created before they can be assigned**. You can create labels by following the steps outlined in the [Linear integration's label creation process](https://linear.app/docs/labels#create-labels).
+
+![linear-setup-issue-labels](./images/linear-setup-issue-labels.png)
+
 ### Installing the Linear integration
 
 See the [Linear Setup](linear-setup.html) page.
