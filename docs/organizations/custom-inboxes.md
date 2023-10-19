@@ -8,5 +8,4 @@ Custom inboxes allow you to separate report access based on your teams, assets, 
 
 As custom inboxes are not connected to an engagement, they can provide access to a subset of reports without granting access to the engagements themselves.
 
-
 ><i>Custom inboxes are available to Enterprise customers only.</i>

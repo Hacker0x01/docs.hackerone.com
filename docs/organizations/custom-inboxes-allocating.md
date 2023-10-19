@@ -4,21 +4,21 @@ path: "/organizations/custom-inboxes-allocating.html"
 id: "organizations/custom-inboxes-allocating"
 ---
 
-After creating a custom inbox, users with report permissions in an engagement's inbox can allocate reports.
+Once a custom inbox is created, users granted report permissions within that inbox gain the ability to assign reports.
 
 1. Open the relevant report in the engagement inbox.
 2. You will now see a new section for Inboxes in the metadata sidebar. Select the edit option.
 
-![custom inboxes new](./images/custom-inboxes-allocate-1.png)
+![custom inboxes metadata sidebar](./images/custom-inboxes-allocate-1.png)
 
 3. In the dropdown, you will see options for allocating the report to custom inboxes. Select the relevant inboxes for the report.
 
-![custom inboxes new](./images/custom-inboxes-allocate-2.png)
+![custom inboxes select modal](./images/custom-inboxes-allocate-2.png)
 
 4. Click on **Update inboxes** to apply the allocation.
 5. The report has been allocated and the activity was logged in this report.
 
-![custom inboxes new](./images/custom-inboxes-allocate-3.png)
+![custom inboxes report timeline](./images/custom-inboxes-allocate-3.png)
 
 Reports can be removed from custom inboxes in the same way.
 

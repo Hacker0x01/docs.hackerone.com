@@ -10,13 +10,13 @@ You can remove a custom inbox if you no longer need it.
 
 You can remove an inbox from two places:
 
-1. Select Remove inbox from the action picker in the inbox overview, or
+1. Select **Remove inbox** from the action picker in the inbox overview.
 2. Select the inbox you want to remove by clicking on the inbox link in the inbox overview and selecting the delete icon.
 
-Both options will prompt you to review the impacts of deleting a custom inbox.<br />
+Both options will prompt you to review the impacts of deleting a custom inbox.
 Remove the inbox by clicking **Remove inbox** in the modal.
 
-![custom inboxes remove](./images/custom-inboxes-remove.png)
+![remove inbox modal](./images/custom-inboxes-remove.png)
 
 Removing an inbox will:
 * Remove access for groups that had access to the inbox

@@ -6,10 +6,9 @@ id: "organizations/custom-inboxes-new"
 
 ><i>Tip: Before creating a new custom inbox, [create the relevant groups](/organizations/groups.html) for the custom inbox. Use naming conventions that make it easy to map to your workflows and teams.</i>
 
-![custom inboxes new](./images/custom-inboxes-new.png)
+![custom inboxes create page](./images/custom-inboxes-new.png)
 
-
-1. Go to **Inboxes** in **Organization Settings**
+1. Go to **Inboxes** in **Organization Settings**.
 
 2. Add inbox name. Make this recognizable for your team to make it easier to manage report allocation.
 
