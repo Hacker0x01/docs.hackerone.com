@@ -6,7 +6,7 @@ body {
   font-family: "Effra", sans-serif;
   font-size: 16px;
   line-height: 24px;
-  color: $daisy-zambezi;
+  color: $daisy-stacy;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -35,6 +35,10 @@ h6 {
 .hero {
   background: url("../images/pattern.png") $daisy-blue;
   color: $daisy-white;
+}
+
+td {
+  word-break: break-word;
 }
 
 .hero__wrapper {

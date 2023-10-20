@@ -3,14 +3,19 @@ module.exports = {
     title: 'HackerOne Platform Documentation',
     siteUrl: 'https://docs.hackerone.com',
     description: 'Get instant answers to the most common questions and learn how to use HackerOne.',
+    author: {
+      name: 'HackerOne',
+    },
   },
   plugins: [
+    'gatsby-plugin-meta-redirect',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-layout',
+    'gatsby-plugin-slug',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -42,7 +47,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-49905813-10",
+        trackingId: "G-5MPJXDDK9D",
         head: false,
         anonymize: true,
         respectDNT: true,
@@ -63,18 +68,31 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 500
+              maxWidth: 500,
+              linkImagesToOriginal: false
             },
           },
         ],
       },
     },
     {
-      resolve: 'gatsby-plugin-algolia-docsearch',
+      resolve: '@fec/gatsby-plugin-advanced-feed',
       options: {
-        apiKey: "acfb7def12803db2cd4ac0539b2b571a",
-        indexName: "hackerone",
-        inputSelector: "#algolia-doc-search",
+        feeds: [
+          {
+            title: 'HackerOne Platform Changelog',
+            description: "See what's changed or new in HackerOne.",
+            link: 'https://docs.hackerone.com/changelog',
+            id: 'https://docs.hackerone.com/changelog',
+            createLinkInHead: /^\/changelog/,
+            match: '^/changelog/',
+            output: {
+              rss2: '/changelog/rss.xml',
+              atom: '/changelog/atom.xml',
+              json: '/changelog/feed.json',
+            },
+          },
+        ],
       },
     },
   ],

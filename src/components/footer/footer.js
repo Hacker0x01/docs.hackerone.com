@@ -7,7 +7,7 @@ const Footer = () => (
   <div className="footer">
     <div className="footer__inner">
       We're always happy to help. Feel free to{" "}
-      <a href="https://support.hackerone.com/hc/en-us/requests/new">
+      <a href="https://support.hackerone.com">
         contact support
       </a>
       ,{" "}

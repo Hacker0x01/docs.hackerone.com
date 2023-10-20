@@ -2,10 +2,13 @@
   items:
     - title: Welcome
       path: /hackers.html
-    - title: Edit the Doc Site
-      path: /hackers/edit-the-doc-site.html
-    - title: Hacker Start-Up Guide
-      path: /hackers/hacker-start-up-guide.html
+      items:
+        - title: Edit the Doc Site
+          path: /hackers/edit-the-doc-site.html
+    - title: Hacker Success Guide
+      path: /hackers/hacker-success-guide.html
+    - title: Create an Account
+      path: /hackers/create-an-account.html
     - title: Password Best Practices
       path: /hackers/passwords.html
     - title: Private vs Public Programs
@@ -19,6 +22,8 @@
           path: /hackers/signal-and-impact.html
     - title: Hacker Dashboard
       path: /hackers/hacker-dashboard.html
+    - title: Opportunity Discovery
+      path: /hackers/opportunity-discovery.html
     - title: Badges
       path: /hackers/badges.html
     - title: Thanks
@@ -26,14 +31,25 @@
     - title: Payments
       path: /hackers/payments.html
       items:
-        - title: Payout Methods
+        - title: Payout Preferences
           path: /hackers/payout-methods.html
         - title: Tax Forms
           path: /hackers/tax-forms.html
         - title: External Payments
           path: /hackers/external-payments.html
+        - title: Verification Letters
+          path: /hackers/verification-letters.html
         - title: Payments FAQs
           path: /hackers/payments-faqs.html
+    - title: ID Verification
+      path: /hackers/id-verification.html
+    - title: External Services
+      path: /hackers/external-services.html
+      items:
+        - title: Hack The Box
+          path: /hackers/hack-the-box.html
+    - title: Following
+      path: /hackers/following.html
     - title: Notifications
       path: /hackers/manage-notifications.html
     - title: Background Checks
@@ -44,11 +60,15 @@
       path: /hackers/sessions.html
     - title: Calendar
       path: /hackers/calendar.html
+    - title: Device Registration
+      path: /hackers/device-registration.html
     - title: Two-Factor Authentication
       path: /hackers/two-factor-authentication.html
       items:
         - title: Invalid OTP Code
           path: /hackers/invalid-otp-code.html
+    - title: Api Token
+      path: /hackers/api-token.html
 - title: Hacking
   items:
     - title: Hacktivity
@@ -58,20 +78,27 @@
       items:
         - title: Create a Directory Page
           path: /hackers/create-a-directory-page.html
-    - title: Credentials
-      path: /hackers/credentials.html
-    - title: Retesting
-      path: /hackers/retesting.html
-    - title: Security Checks
-      path: /hackers/security-checks.html
+    - title: Leaderboards
+      path: /hackers/leaderboards.html
+      items:
+        - title: 90 Day Leaderboard
+          path: /hackers/90-day-leaderboard.html
     - title: Hacker101
       path: /hackers/hacker101.html
-    - title: 90 Day Leaderboard
-      path: /hackers/90-day-leaderboard.html
+    - title: Retesting
+      path: /hackers/retesting.html
+    - title: Collaboration
+      path: /hackers/collaboration.html
+    - title: Credentials
+      path: /hackers/credentials.html
+    - title: CVE & CWE Discovery
+      path: /hackers/cve-cwe-discovery.html
+    - title: Security Checks
+      path: /hackers/security-checks.html
     - title: Publishing External Vulnerabilities
       path: /hackers/publishing-external-vulnerabilities.html
-    - title: Code of Conduct
-      path: /hackers/code-of-conduct.html
+    - title: Misconduct
+      path: /hackers/misconduct.html
     - title: Hacker Mediation
       path: /hackers/hacker-mediation.html
     - title: Disclosure Assistance
@@ -83,14 +110,21 @@
           path: /hackers/hackerone-vpn-root-ca.html
         - title: Configuring OpenVPN Clients
           path: /hackers/openvpn-clients.html
+    - title: Gateway V2
+      path: /hackers/configure-the-hackerone-vpn-v2.html
+      items:
+        - title: Installing the VPN Root CA
+          path: /hackers/cloudflare-vpn-root-ca.html
+        - title: Installing the WARP Client
+          path: /hackers/warp-client-install.html
+        - title: Connecting to a program
+          path: /hackers/warp-client-config.html
 - title: Programs
   items:
     - title: Invitations
       path: /hackers/invitations.html
     - title: Decline Invites and Leave Programs
       path: /hackers/decline-invites-and-leave-programs.html
-    - title: Invitations Priority Queue
-      path: /hackers/invitations-priority-queue.html
     - title: HackerOne Clear
       path: /hackers/hackerone-clear.html
 - title: Reports
@@ -105,10 +139,14 @@
       path: /hackers/report-actions.html
     - title: Report States
       path: /hackers/report-states.html
+    - title: Report Components
+      path: /hackers/report-components.html
     - title: Quality Reports
       path: /hackers/quality-reports.html
     - title: Using Markdown
       path: /hackers/using-markdown.html
+    - title: HackerOne on Your Reports
+      path: /hackers/hackerone-on-your-reports.html
     - title: Weakness
       path: /hackers/weakness.html
       items:
@@ -120,3 +158,9 @@
       path: /hackers/disclosure.html
     - title: Keyboard Shortcuts
       path: /hackers/keyboard-shortcuts.html
+- title: Pentests
+  items:
+    - title: Pentest Overview
+      path: /hackers/pentest-overview.html
+    - title: Retesting Pentest
+      path: /hackers/retesting-pentest.html

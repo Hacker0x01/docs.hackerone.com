@@ -1,6 +1,5 @@
 import React from "react";
-import Helmet from "react-helmet";
-import Link from "gatsby-link";
+import { Helmet } from "react-helmet";
 import slugify from "slugify";
 import GatsbyConfig from "../../../gatsby-config";
 import { graphql } from "gatsby";
@@ -20,7 +19,7 @@ class IndexRoute extends React.Component {
               <ul className="sidebar__items sidebar__items--active">
                 {edges.map((item, index) => {
                   return (
-                    <li className="sidebar__item">
+                    <li className="sidebar__item" key={index}>
                       <a href={`#${slugify(item.node.frontmatter.path)}`}>
                         {item.node.frontmatter.title}
                       </a>
@@ -35,9 +34,10 @@ class IndexRoute extends React.Component {
         <div className="article__inner">
           <h1>Changelog</h1>
           <p>See what's changed or new in HackerOne.</p>
+          <p>Stay updated: <a href="/changelog/rss.xml">RSS</a> | <a href="/changelog/atom.xml">Atom</a> | <a href="/changelog/feed.json">JSON Feed</a></p>
           {edges.map((item, index) => {
             return (
-              <div className="changelog__wrapper">
+              <div className="changelog__wrapper" key={index}>
                 <div
                   className="changelog__anchor"
                   id={slugify(item.node.frontmatter.path)}

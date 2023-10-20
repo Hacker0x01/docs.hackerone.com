@@ -29,7 +29,7 @@ We now enable you to search within Hacktivity. You can search for reports regard
 
 ### Disclosure
 We've deprecated the term "Public Disclosure" and now simply just call it
-[Disclosure](/programs/disclosure.html).
+[Disclosure](/organizations/disclosure.html).
 
 ![request disclosure](./images/nov_2018_disclosure.png)
 
@@ -51,12 +51,12 @@ We now enable you to cancel disclosure requests. You can cancel your own request
 ### Activities API Endpoint
 We added a new activities API endpoint that enables you to fetch all activities of your program incrementally by time. Learn more about the [activities endpoint](https://api.hackerone.com/#activities-query-activities).
 
-### HackerOne VPN
-Hackers can now configure the [HackerOne VPN](/hackers/configure-the-hackerone-vpn.html) and access their VPN credentials for VPN enabled programs.
+### HackerOne Gateway (VPN)
+Hackers can now configure the [HackerOne Gateway (VPN)](/hackers/configure-the-hackerone-vpn.html) and access their Gateway (VPN) credentials for Gateway (VPN) enabled programs.
 
 ![VPN](./images/nov_2018_vpn.png)
 
 ### Retesting
-We've globally launched our [retesting](/programs/retesting.html) feature so that all programs can now initiate retests on any of their resolved reports. Invitations for retests now expire after 24 hours, and hackers are now required to provide a short summary of how they retested the vulnerability. Hackers can also provide attachments of their findings.  
+We've globally launched our [retesting](/organizations/retesting.html) feature so that all programs can now initiate retests on any of their resolved reports. Invitations for retests now expire after 24 hours, and hackers are now required to provide a short summary of how they retested the vulnerability. Hackers can also provide attachments of their findings.  
 
 ![Retesting](./images/nov_2018_retesting.png)

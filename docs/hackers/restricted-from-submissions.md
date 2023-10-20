@@ -4,16 +4,23 @@ path: "/hackers/restricted-from-submissions.html"
 id: "hackers/restricted-from-submissions"
 ---
 
-You can be restricted from submissions. There are 2 reasons as to why you might be restricted from submissions:
+You can be restricted from submissions, meaning you won't be able to submit reports to certain programs. There are 2 reasons as to why you might be restricted from submissions:
 1) You're a new user and have submitted a large amount of reports in the same day
 2) You run into a program with Signal Requirements that you don't meet
 
 ### Signal Requirements
-Signal Requirements allow programs to specify if they require a minimum Signal of hackers who can submit reports to them. If your Signal is above their requirement, then you won’t even notice this feature. If you don’t meet the required Signal, you will be given trial reports that you can submit within a rolling window so you can still participate in their program.
+[Signal requirements](/organizations/signal-requirements.html) allow programs to specify a required minimum [signal](/hackers/signal-and-impact.html#signal-and-impact-facts) that hackers must meet in order to submit reports to that program. Your signal for signal requirements is based on your activity from the last 365 days.
+If your signal is above their requirement, then you won’t be restricted from submissions for that program. If you don’t meet the required signal for a program, you'll be given a number of trial reports that you can submit so you can still participate in their program. 
+> **Note:** Keep in mind that not all programs allow you to have trial reports.
 
-### How do Signal Requirements work?
-* The amount of trial reports available is largely based on your signal.
-* Trial reports are given within a 30 day rolling window.
-* There is a per program limit for trial reports, and also a total platform limit for all reports sent to programs of which you don't meet the requirements.
+### How do trial reports work?
+Trial reports are given when you don't meet the signal requirements for a program. They are given within a 30 day rolling window, and there are limits to the number of trial reports you can submit. These are the limits:
 
-Use your trial reports wisely! When you are dipping into your trial reports, there will be a yellow warning box on top of the report submission form. Use these limited chances to submit the best reports that you have, so that your Signal has a chance to improve.
+ Type of Limit | Description | New Hackers (*you have less than 5 resolved reports on HackerOne*) | Seasoned Hackers (*you have more than 5 resolved reports on HackerOne*) |
+ -|-|-|-|
+ Program Limit | The number of trial reports you're able to submit to a single program | 4 | 8
+ Platform Limit | The total number of trial reports you're able to submit on the HackerOne platform | 6 | 12
+
+When you have 5 total trial reports left, you'll see a yellow warning box on top of the report submission form letting you know that the number of trial reports you have left is getting lower.
+
+Use your trial reports wisely! These limited chances are the perfect opportunity to submit the best reports  you have so that your signal can improve.

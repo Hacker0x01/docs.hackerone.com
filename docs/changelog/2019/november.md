@@ -23,3 +23,5 @@ We added an **Experience by vulnerability type** section to the **Overview** pag
 We modified the layout of the profile section of the Hacker Dashboard and also expanded it with metrics on resolved reports that enables hackers to understand the percentage of their report submissions that are resolved.
 
 ![profile layout on hacker dashboard](./images/nov_2019_hackerdashboardprofile.png)
+
+###

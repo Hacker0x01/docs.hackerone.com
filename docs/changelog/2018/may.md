@@ -5,11 +5,11 @@ date: "2018-05"
 ---
 
 ### Hacker Feedback Dashboard
-We introduce the new Hacker Feedback Dashboard where private programs can see the total feedback their program has received from hackers along with the reasons they’ve declined to participate in their program. The feedback can be viewed at <b>Dashboard > Feedback</b>. Learn more about the [feedback dashboard](/programs/hacker-feedback-dashboard.html).
+We introduce the new Hacker Feedback Dashboard where private programs can see the total feedback their program has received from hackers along with the reasons they’ve declined to participate in their program. The feedback can be viewed at <b>Dashboard > Feedback</b>. Learn more about the [feedback dashboard](/organizations/hacker-feedback-dashboard.html).
 ![may_2018](./images/may_2018.png)
 
 ### Triggers
-We've revamped our [triggers](/programs/triggers.html) functionality so that you can: 
+We've revamped our [triggers](/organizations/triggers.html) functionality so that you can: 
 * Preview matches for a new trigger
 * Add <i>And/Or</i> conditionals to make the trigger more flexible
 * Edit or build off of default triggers
@@ -18,7 +18,7 @@ We've also updated the design so that you'll have a better user experience.
 ![may_2018_triggers](./images/may_2018_triggers.png)
 
 ### Response Targets 
-We’ve deprecated the threatening term, <i>Response SLA</i> and replaced it with the more friendly terms, <i>Response Targets</i> and <i>Response Standards</i>. [Learn more about these new terms](/programs/response-targets.html). 
+We’ve deprecated the threatening term, <i>Response SLA</i> and replaced it with the more friendly terms, <i>Response Targets</i> and <i>Response Standards</i>. [Learn more about these new terms](/organizations/response-targets.html). 
 
 We’ve deprecated the <i>SLA Violations</i> inbox view and changed the name to <b>Missed targets</b>. The inbox filters are also now <b>Missed response targets</b> and <b>Missed response standards</b> instead of <i>SLA violation reports</i> and <i>SLA Fail reports</i>. 
 
@@ -36,7 +36,7 @@ We’ve modified response efficiency indicators so that:
 ![may_2018_indicator](./images/may_2018_efficiencyindicator.png)
 
 ### Time to Resolution by Severity
-We now enable you to set your Time to Resolution response standards by severity. Learn more [here](/programs/setting-response-targets.html). 
+We now enable you to set your Time to Resolution response standards by severity. Learn more [here](/organizations/setting-response-targets.html). 
 ![may_2018_severity](./images/may_2018_resbyseverity.png)
 
 ### Invitations Toggle

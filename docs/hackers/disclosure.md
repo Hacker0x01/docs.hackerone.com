@@ -22,7 +22,7 @@ Option | Detail
 ------ | -------
 Disclosure | You or the security team can request disclosure for any closed report in the program. If the admin of your program agrees to disclosure, the contents of the report will be made public. Upon requesting disclosure, if the report is neither approved or denied, reports in the Resolved state will automatically default to disclosure where the contents of the report will be auto-disclosed within 30 days.<br> <br>*This is the default setting for all verified programs*.<br><br>Note: Reports must be in the Resolved state to default to disclosure. Any other [report state](/hackers/report-states.html) requires mutual agreement.
 Disclosure requiring Mutual Agreement | You can request disclosure for any closed report in the program. If the program security team agrees to disclosure, the contents of the report will be made public. If the security team doesn't take any action, the contents of the report will remain private. <br><br>*The program must request to opt-in to this option.*
-Disclosure Disabled | Disclosure isn't allowed for any report.
+Disclosure Disabled | Disclosure isn't allowed for any report.<br><br>*Only available for private programs.*
 
 ### Requesting Disclosure
 
@@ -75,4 +75,4 @@ Option | Details
 Full | Upon disclosure, the contents of the report will be visible to other hackers in the private program.
 Limited | Only the summary and timeline of activity will be visible to other hackers in the private program.
 
-For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com/hc/en-us/requests/new).
+For more information, please read the full [HackerOne Disclosure Guidelines](https://hackerone.com/disclosure-guidelines). If disclosure was accidentally initiated or you have concerns about this process, please [submit a support request](https://support.hackerone.com).

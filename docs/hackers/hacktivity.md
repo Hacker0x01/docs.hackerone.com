@@ -4,59 +4,45 @@ path: "/hackers/hacktivity.html"
 id: "hackers/hacktivity"
 ---
 
-[Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. You can view:
-* Reports of disclosed vulnerabilities
-* The hacker that submitted the vulnerability
-* The associated program
-* The awarded bounty amount
+[Hacktivity](https://hackerone.com/hacktivity?sort_type=popular&filter=type%3Aall&page=1&range=forever) is HackerOne's community feed that showcases hacker activity on HackerOne. It also serves as a resource that enables you to search for reports regarding programs and weaknesses you're interested in so that you can see how specific weaknesses were exploited in various programs.
 
-![hacktivity-1a](./images/hacktivity-1b.png)
+![hacktivity page](./images/hacktivity-1c.png)
 
-You can sort your hacktivity feed by:
+You can sort your Hacktivity feed by:
 
 Option | Details
 ---- | --------
-Popular | The activity that is currently trending
-New | The latest activity
+Popular | Activities are listed based what's currently trending. They are ranked on the page primarily by their aggregated upvotes. The vote is weighted slightly more if it comes from a hacker with high [signal](signal-and-impact.html). Additionally, each activity gets an initial boost if it is resolved and/or receives an above average bounty.
+New | Activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
 
-You can also filter the activity you want to see by these filters:
+You can also filter the types of activities and programs you want to see listed with these filters:
 
-Filter Option | Details
+Option | Details
 ------------- | --------
-Disclosed | Vulnerability reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
-Bug Bounty | Vulnerability reports that were only submitted to programs that provide bounties.
-Published | Vulnerability reports that are from external sources outside of HackerOne. See: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html)
-All | All activities that appear on Hacktivity.
+All | Shows all activities that appear on Hacktivity.
+Bug Bounty | Only shows activities on reports that are submitted to programs that provide bounties.
+Published | Only shows activities on reports that are from external sources outside of HackerOne. See: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html)
+Disclosed | Only shows activities on reports that have been disclosed to the public. You can view contents and details of the vulnerabilities of each report.  
+Hackers I am following | Only shows the activities associated with hackers that you're following.
+Collaborations | Only shows the activities associated with reports that were collaborated on with multiple hackers.  
 
-### How Do Activities Appear on Hacktivity?
+### How do activities appear on Hacktivity?
 Hacktivity only showcases activity for public programs. Hacker activity populates on the Hacktivity feed when disclosed and undisclosed reports are marked as:
 * Closed
 * Disclosed
 * Bounty awarded
 * Swag awarded
 
-><i>Note: Undisclosed reports appear with a redacted title.</i>
+> **Note:** Undisclosed reports appear with a redacted title.
 
 You and other hackers can also publish your findings from external sources outside of HackerOne. To learn more, see: [Publishing External Vulnerabilities](/hackers/publishing-external-vulnerabilities.html).
 
-### How are Activities Ranked on Hacktivity?
-Activities on each page are ranked differently.
-
-On the **Popular** page, vulnerabilities are ranked primarily by their aggregated upvotes. The vote is weighted slightly more if it comes from a hacker with high Signal. Additionally, each activity gets an initial boost if it is resolved and/or receives an above average bounty.
-
-On the **New** page, activities are ordered chronologically with the latest activity being listed on top. A previously appeared vulnerability goes back to the top when there is new activity on the report.
-
-If you want to see downvoting, a commenting feature, or a new feature request, send [HackerOne a feature request](mailto:feedback@hackerone.com).
-
-### Search
-You can search for reports regarding programs and weaknesses you're interested to read about in the search bar to better learn how specific weaknesses were exploited in various programs.
-
 ### Upvoting
-You can upvote hacker activities that you find interesting by clicking on the arrow next to the activity. Your upvotes help members of the platform discover what the most popular hacker activities are. Anyone with an account can upvote, but you can only upvote once on each activity. When you hover over the upvote count, you can see the top 10 hackers (ranked by Signal) that voted on the activity.
+You can upvote hacker activities that you find interesting by clicking on the arrow next to the activity. Your upvotes help members of the platform discover what the most popular hacker activities are. Anyone with an account can upvote, but you can only upvote once on each activity. When you hover over the upvote count, you can see the top 10 hackers (ranked by signal) that voted on the activity.
 
 There is currently no downvoting capability, but you can retract your upvote by clicking on the arrow again.
 
-![hacktivity-2](./images/hacktivity-2-update.png)
+![hacktivity upvoting](./images/hacktivity-upvoting.png)
 
 ### Bounty Visibility
 If you don't want to display the bounty amount you've earned on Hacktivity, you can choose to hide your earnings by going to your profile **Settings > Account Preferences** and selecting *Hide* for your bounty earnings.

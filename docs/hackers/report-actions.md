@@ -24,7 +24,7 @@ When the report is in the triaged state, you can only add comments to the report
 ### Request Mediation
 You can also request for mediation from HackerOne in extreme cases when all normal discussions with the team have been attempted and there has been no satisfactory resolution.
 
-To request mediation, select the **Report abuse** option, and select **Report Mediation**.
+To request mediation, select the **Report abuse** option, and select **Request Mediation**.
 
 ![report-actions-hacker-3](./images/report-actions-hacker-3.png)
 

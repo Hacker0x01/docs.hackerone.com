@@ -25,7 +25,7 @@ export default class ToC extends React.Component {
                   <ul className="sidebar__items sidebar__items--active">
                     {headings.map(header => (
                       <li key={header.value} className="sidebar__item">
-                        <a href={`#${this.slug(header.value)}`}>
+                        <a href={`#${this.slug(header.value)}`} className="right_sidebar__link">
                           {header.value}
                         </a>
                       </li>

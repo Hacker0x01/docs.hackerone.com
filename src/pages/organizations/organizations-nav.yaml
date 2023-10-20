@@ -1,0 +1,432 @@
+- title: Getting Started
+  items:
+    - title: Welcome
+      path: /organizations.html
+      items:
+        - title: Edit the Doc Site
+          path: /organizations/edit-the-doc-site.html
+    - title: Product Offerings
+      path: /organizations/product-offerings.html
+    - title: Program Starting Point
+      path: /organizations/program-starting-point.html
+    - title: Navigation
+      path: /organizations/navigation.html
+      items:
+        - title: Organization Dropdown
+          path: /organizations/organization-dropdown.html
+    - title: Program Types
+      path: /organizations/program-types.html
+      items:
+        - title: Private vs. Public Programs
+          path: /organizations/private-vs-public-programs.html
+        - title: Parent/Child Programs
+          path: /organizations/parent-child-programs.html
+        - title: VDP vs. BBP
+          path: /organizations/vdp-vs-bbp.html
+    - title: Using Markdown
+      path: /organizations/using-markdown.html
+    - title: Industry Best Practices
+      path: /organizations/best-practices.html  
+      items:
+        - title: Authenticated Testing
+          path: /organizations/authenticated-testing.html
+        - title: Scoping Considerations
+          path: /organizations/scoping-considerations.html
+        - title: Traffic Identification
+          path: /organizations/traffic-identification.html
+        - title: Detailed Platform Standards
+          path: /organizations/platform-standards.html
+- title: Your Organization
+  items:
+    - title: Engagements
+      path: /organizations/engagements.html
+      items:
+        - title: Campaigns
+          path: /organizations/campaigns.html
+    - title: Organization Profile
+      path: /organizations/organization-profile.html
+    - title: Users
+      path: /organizations/organization-users.html
+    - title: Groups
+      path: /organizations/groups.html
+    - title: Asset Inventory
+      path: /organizations/asset-inventory.html
+      items: 
+      - title: Asset Types
+        path: /organizations/asset-types.html
+      - title: External Attack Surface Management Solution
+        path: /organizations/external-asm.html
+    - title: Single Sign-On via SAML
+      path: /organizations/single-sign-on-sso-via-saml.html
+      items:
+        - title: JIT Provisioning
+          path: /organizations/sso-jit.html
+        - title: Domain Verification
+          path: /organizations/domain-verification.html
+        - title: Google
+          path: /organizations/google-sso-saml-setup.html
+        - title: Okta
+          path: /organizations/okta-sso-saml-setup.html
+        - title: OneLogin
+          path: /organizations/onelogin-sso-saml-setup.html
+        - title: FAQs
+          path: /organizations/sso-faqs.html
+- title: Your Program
+  items:
+    - title: General Settings
+      path: /organizations/general-settings.html
+    - title: User Management
+      path: /organizations/user-management.html
+      items:
+        - title: Groups and Permissions
+          path: /organizations/groups-and-permissions.html
+    - title: Security Page
+      path: /organizations/security-page.html
+      items:
+        - title: Program Metrics
+          path: /organizations/program-metrics.html
+        - title: Response Target Indicators
+          path: /organizations/response-target-indicators.html
+        - title: Top Hackers
+          path: /organizations/top-hackers.html
+    - title: Policy and Scope
+      path: /organizations/policy-and-scope.html
+      items:
+        - title: Good Policies
+          path: /organizations/good-policies.html
+          items:
+        - title: Standard Ineligible Findings
+          path: /organizations/standard-ineligible-findings.html
+        - title: Safe Harbor FAQ
+          path: /organizations/safe-harbor-faq.html
+        - title: Gold Standard Safe Harbor Statement
+          path: /organizations/safe-harbor-statement.html
+        - title: Program Levels
+          path: /organizations/program-levels.html
+        - title: Defining Scope
+          path: /organizations/defining-scope.html
+        - title: Scope Best Practices
+          path: /organizations/scope-best-practices.html
+        - title: Severity
+          path: /organizations/severity.html
+        - title: Environmental Score
+          path: /organizations/environmental-score.html
+    - title: Bounty Tables
+      path: /organizations/bounty-tables.html
+      items:
+      - title: Importance of Bounty Tables
+        path: /organizations/importance-of-bounty-tables.html
+      - title: Internet Bug Bounty
+        path: /organizations/internet-bug-bounty.html
+    - title: Submit Report Form
+      path: /organizations/submit-report-form.html
+      items:
+       - title: Report Templates
+         path: /organizations/report-templates.html
+       - title: Pausing Report Submissions
+         path: /organizations/pausing-report-submissions.html
+    - title: Response Targets
+      path: /organizations/response-targets.html
+      items:
+        - title: Response Target Metrics
+          path: /organizations/response-target-metrics.html
+        - title: Setting Response Targets
+          path: /organizations/setting-response-targets.html
+    - title: Invitations
+      path: /organizations/invitations.html
+      items:
+        - title: Reputation
+          path: /hackers/reputation.html
+        - title: Signal and Impact
+          path: /hackers/signal-and-impact.html
+    - title: CVE Requests
+      path: /organizations/cve-requests.html
+    - title: Submission
+      path: /organizations/submission.html
+      items:
+        - title: Signal Requirements
+          path: /organizations/signal-requirements.html
+    - title: Two-Factor Authentication
+      path: /organizations/two-factor-authentication.html
+      items:
+        - title: Invalid OTP Code
+          path: /organizations/invalid-otp-code.html
+    - title: Sessions
+      path: /organizations/sessions.html
+    - title: Credential Management
+      path: /organizations/credential-management.html
+      items:
+      - title: Asset-Based Credential Management
+        path: /organizations/asset-based-credential-management.html
+    - title: Notifications
+      path: /organizations/notifications.html
+    - title: Response Programs
+      path: /organizations/start-h1-response.html
+    - title: Using the Support Portal
+      path: /organizations/using-support-portal.html
+- title: Reports
+  items:
+    - title: Inbox
+      path: /organizations/inbox.html
+      items:
+        - title: Inbox Views
+          path: /organizations/inbox-views.html
+    - title: Report Management
+      path: /organizations/report-management.html
+      items:
+        - title: Report Actions
+          path: /organizations/report-actions.html
+        - title: Report States
+          path: /organizations/report-states.html
+        - title: Report Components
+          path: /organizations/report-components.html
+        - title: Quality Reports
+          path: /organizations/quality-reports.html
+        - title: Locking Reports
+          path: /organizations/locking-reports.html
+        - title: Duplicate Reports
+          path: /organizations/duplicate-reports.html
+        - title: Duplicate Detection
+          path: /organizations/duplicate-detection.html
+        - title: Exporting Reports
+          path: /organizations/export-reports.html
+        - title: Response Labels
+          path: /organizations/response-labels.html
+        - title: Keyboard Shortcuts
+          path: /organizations/keyboard-shortcuts.html
+    - title: Custom Fields
+      path: /organizations/custom-fields.html
+    - title: Disclosure
+      path: /organizations/disclosure.html
+      items:
+        - title: Limiting Disclosed Information
+          path: /organizations/limiting-disclosed-information.html
+    - title: Retesting
+      path: /organizations/retesting.html
+    - title: Request Code Review (BETA)
+      path: /organizations/request-code-review.html
+    - title: Vacations
+      path: /organizations/vacations.html
+    - title: HackerOne on Your Program
+      path: /organizations/hackerone-on-your-program.html
+- title: Integrations
+  items:
+    - title: Supported Integrations
+      path: /organizations/supported-integrations.html
+    - title: Integration Variables
+      path: /organizations/integration-variables.html
+    - title: Webhooks
+      path: /organizations/webhooks.html
+    - title: API Tokens
+      path: /organizations/api-tokens.html
+    - title: ArmorCode Integration
+      path: /organizations/armorcode-integration.html
+    - title: Assembla
+      path: /organizations/assembla-integration.html
+    - title: AWS Security Hub
+      path: /organizations/aws-security-hub-integration.html
+    - title: Azure DevOps
+      path: /organizations/azure-devops-integration.html
+    - title: Brinqa
+      path: /organizations/brinqa-integration.html
+    - title: Bugzilla
+      path: /organizations/bugzilla-integration.html
+    - title: ClickUp
+      path: /organizations/clickup-integration.html
+      items:
+        - title: ClickUp Setup
+          path: /organizations/clickup-setup.html
+    - title: Freshdesk
+      path: /organizations/freshdesk-integration.html
+    - title: GitHub
+      path: /organizations/github-integration.html
+    - title: GitLab
+      path: /organizations/gitlab-integration.html
+    - title: HackEDU
+      path: /organizations/hackedu-integration.html
+    - title: IBM Security QRadar SOAR
+      path: /organizations/ibm-security-soar.html
+    - title: Jira
+      path: /organizations/jira-integration.html
+      items:
+        - title: Jira Setup
+          path: /organizations/jira-setup.html
+        - title: Jira Migration Guide
+          path: /organizations/jira-migration-guide.html
+        - title: Jira FAQs
+          path: /organizations/jira-faqs.html
+    - title: Kenna Security
+      path: /organizations/kenna-security.html
+    - title: Linear
+      path: /organizations/linear-integration.html
+      items:
+        - title: Linear Setup
+          path: /organizations/linear-setup.html
+    - title: MantisBT
+      path: /organizations/mantisbt-integration.html
+    - title: Microsoft Teams
+      path: /organizations/microsoft-teams.html
+    - title: OTRS
+      path: /organizations/otrs-integration.html
+    - title: PagerDuty
+      path: /organizations/pagerduty-integration.html
+    - title: Phabricator
+      path: /organizations/phabricator-integration.html
+    - title: Redmine
+      path: /organizations/redmine-integration.html
+    - title: SafeBase
+      path: /organizations/safebase-integration.html
+    - title: ServiceNow
+      path: /organizations/servicenow-integration.html
+    - title: Slack
+      path: /organizations/slack-integration.html
+    - title: Splunk
+      path: /organizations/splunk-integration.html
+    - title: Sumo Logic
+      path: /organizations/sumo-logic-integration.html
+    - title: Trac
+      path: /organizations/trac-integration.html
+    - title: Zendesk
+      path: /organizations/zendesk-integration.html
+- title: Payments
+  items:
+    - title: Billing
+      path: /organizations/billing.html
+    - title: Bounties
+      path: /organizations/bounties.html
+    - title: Swag
+      path: /organizations/swag.html
+    - title: Bonuses
+      path: /organizations/bonuses.html
+- title: Analytics
+  items:
+    - title: Dashboards
+      path: /organizations/dashboards.html
+      items:
+        - title: Program Overview
+          path: /organizations/program-overview.html
+        - title: Submissions Dashboard
+          path: /organizations/submissions-dashboard.html
+        - title: Bounty Dashboard
+          path: /organizations/bounty-dashboard.html
+        - title: Statistics Dashboard
+          path: /organizations/statistics-dashboard.html
+        - title: Hacker Engagement Dashboard
+          path: /organizations/hacker-engagement.html
+        - title: Hacker Feedback Dashboard
+          path: /organizations/hacker-feedback-dashboard.html
+        - title: Response Efficiency Dashboard
+          path: /organizations/response-efficiency-dashboard.html
+        - title: Explore
+          path: /organizations/explore.html
+        - title: Program Status Reports
+          path: /organizations/program-status-reports.html
+    - title: Audit Logs
+      path: /organizations/audit-logs.html
+    - title: Industry Benchmarking
+      path: /organizations/industry-benchmarking.html
+- title: Hacker Engagement
+  items:
+    - title: Hacktivity
+      path: /organizations/hacktivity.html
+      items:
+        - title: CVE & CWE Discovery
+          path: /organizations/cve-cwe-discovery.html
+    - title: Communicating with Hackers
+      path: /organizations/communicating-with-hackers.html
+      items:
+        - title: Message Hackers
+          path: /organizations/message-hackers.html
+    - title: Banning Hackers
+      path: /organizations/banning-hackers.html
+    - title: Hacker Email Alias
+      path: /organizations/hacker-email-alias.html
+    - title: Program Mediation & Code of Conduct Review Requests
+      path: /organizations/hacker-mediation.html
+    - title: Hacker Reviews
+      path: /organizations/hacker-reviews.html
+    - title: Disclosure Assistance
+      path: /organizations/disclosure-assistance.html
+    - title: HackerOne Clear
+      path: /organizations/hackerone-clear.html
+    - title: Gateway
+      path: /organizations/hackerone-vpn.html
+      items:
+        - title: Hacker Traffic Logs
+          path: /organizations/vpn-hacker-traffic-logs.html
+        - title: Gateway V1
+          path: /organizations/hackerone-vpn-v1.html
+        - title: FAQs Gateway V1
+          path: /organizations/vpn-faqs.html
+- title: Pentests
+  items:
+    - title: "Pentest as a Service (PTaaS): Enhanced Pentest Delivery"
+      path: /organizations/pentests-delivery.html
+    - title: "Pentester Selection and Vetting Process"
+      path: /organizations/pentest-pentesters.html
+    - title: "Pentest Phases and Terminology"
+      path: /organizations/pentest-phases.html
+      items:
+        - title: "Structure"
+          path: /organizations/pentest-phases.html#structure
+        - title: "Pentest Engagement Process"
+          path: /organizations/pentest-phases.html#pentest-engagement-process
+          items:
+            - title: "Pre-Testing Phase"
+              path: /organizations/pentest-phases.html#1-pre-testing-phase
+            - title: "Testing Phase"
+              path: /organizations/pentest-phases.html#2-testing-phase
+            - title: "Post-testing Phase"
+              path: /organizations/pentest-phases.html#3-post-testing-phase
+        - title: "Scoping"
+          path: /organizations/pentest-phases.html#scoping
+        - title: "Size"
+          path: /organizations/pentest-phases.html#size
+        - title: "Pentester Roles and Responsibilities"
+          path: /organizations/pentest-phases.html#pentester-roles-and-responsibilities
+        - title: "Tiers"
+          path: /organizations/pentest-phases.html#tiers
+    - title: "Pentesting Methodology"
+      path: /organizations/pentest-methodology.html
+    - title: "Reporting"
+      path: /organizations/pentest-reporting.html
+    - title: "Pentest Deliverables"
+      path: /organizations/pentest-deliverables.html
+    - title: Retesting
+      path: /organizations/retesting-pentest.html
+    - title: Getting to Know Your Dedicated Pentest Team
+      path: /organizations/pentest-team.html
+    - title: FAQs
+      path: /organizations/pentest-faqs.html
+
+- title: Helpful Tools
+  items:
+    - title: Automation
+      path: /organizations/automation.html
+      items:
+        - title: Common Responses
+          path: /organizations/common-responses.html
+        - title: Triggers
+          path: /organizations/triggers.html
+        - title: Hackbot
+          path: /organizations/hackbot.html
+    - title: Email Forwarding
+      path: /organizations/email-forwarding.html
+    - title: Embedded Submission Form
+      path: /organizations/embedded-submissions-form.html
+    - title: Import Vulnerabilities
+      path: /organizations/import-vulnerabilities.html
+    - title: IP Allowlists
+      path: /organizations/ip-allowlists.html
+    - title: Multi-Party Coordination
+      path: /organizations/multi-party-coordination.html
+    - title: Password Best Practices
+      path: /organizations/passwords.html
+    - title: Proof of Compliance
+      path: /organizations/proof-of-compliance.html
+    - title: Slack Shared Channels
+      path: /organizations/slack-shared-channels.html
+    - title: Reducing Noise
+      path: /organizations/reducing-noise.html
+    - title: Team Member Eligibility
+      path: /organizations/team-member-eligibility.html

@@ -5,13 +5,15 @@ id: "accessibility/vpat"
 bookIndexFor: "accessibility"
 ---
 
-**VPAT® Version 2.3 (Revised) – April 2019**
+**VPAT®[^1] Version 2.4 – February 2020**
 
 **Name of Product/Version:** HackerOne Bug Bounty & Vulnerability Disclosure Platform ("HackerOne Platform")
 
+**Report Date:** September 16, 2020
+
 **Product Description:** The HackerOne Platform is a platform for an improved security coordination process. Security teams use HackerOne to implement their vulnerability disclosure policy and host bug bounty programs. The platform will communicate the procedures of how to discover and report security vulnerabilities in accordance with industry best practices.
 
-**Last Updated:** September 26, 2019
+**Contact Information:** https://www.hackerone.com/contact
 
 **Evaluation Methods Used:** Accessibility testing consisted of but was not limited to: automated testing, extensive manual testing, general product knowledge, etc.
 
@@ -33,7 +35,7 @@ The terms used in the Conformance Level information are defined as follows:
 * **Not Evaluated:** The product has not been evaluated against the criterion. This can be used only in WCAG 2.0 Level AAA.
 
 ## WCAG 2.0 Report
-Tables 1 and 2 also document conformance with:
+Tables 1 and 2 also document conformance with Revised Section 508:
 * Chapter 5 – 501.1 Scope, 504.2 Content Creation or Editing
 * Chapter 6 – 602.3 Electronic Support Documentation
 
@@ -88,7 +90,7 @@ Criteria | Conformance Level | Remarks and Explanations
 [3.3.4 Error Prevention (Legal, Financial, Data)](http://www.w3.org/TR/WCAG20/#minimize-error-reversible) (Level AA) <br>Also applies to: <br>Revised Section 508 <ul><li>501 (Web)(Software)</li> <li>504.2 (Authoring Tool)</li> <li>602.3 (Support Docs)</li> | Web: Supports | Web: These actions are either checked or confirmed.
 
 ### Table 3: Success Criteria, Level AAA
-Notes: Section removed as Section 508 Does not apply
+Notes: Section removed, as it does not apply to Revised Section 508
 
 ## Revised Section 508 Report
 Notes:
@@ -116,3 +118,8 @@ Notes: Section removed.  Not applicable.  The HackerOne Platform is a web-only a
 
 ### Chapter 6: [Support Documentation and Services](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines#601-general)
 Notes: Section removed.  Not applicable.  The HackerOne Platform is a web-only application.
+
+### Legal Disclaimer
+This document is provided for information purposes only and the contents hereof are subject to change without notice. HackerOne does not warrant that this document is error free, nor does it provide any other warranties or conditions, whether expressed orally or implied in law, including implied warranties and conditions of merchantability or fitness for a particular purpose. HackerOne specifically disclaims any liability with respect to this document and no contractual obligations are formed either directly or indirectly by this document. HackerOne further makes no representation concerning the ability of assistive technologies or other products to interoperate with HackerOne products.
+
+[^1]: "Voluntary Product Accessibility Template" and "VPAT" are registered service marks of the Information Technology Industry Council (ITI).

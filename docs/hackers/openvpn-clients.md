@@ -4,7 +4,7 @@ path: "/hackers/openvpn-clients.html"
 id: "hackers/openvpn-clients"
 ---
 
-In order to use the HackerOne VPN, you need to install a VPN client that supports OpenVPN.
+In order to use the HackerOne Gateway, you need to install a VPN client that supports OpenVPN.
 
 Refer to these installation and configuration instructions for your platform:
 
@@ -15,7 +15,7 @@ Refer to these installation and configuration instructions for your platform:
 
 To configure the OpenVPN client to your windows machine:
 
-1. Download the OpenVPN **Windows Installer** from <a href="https://openvpn.net/community-downloads/" target="_blank">this page</a>.
+1. Download the OpenVPN **Windows Installer** from [this page](https://openvpn.net/community-downloads/).
 
 2. Execute the OpenVPN Installer.
 

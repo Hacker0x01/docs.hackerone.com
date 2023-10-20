@@ -21,8 +21,8 @@ const MobileNavigationMenu = handleClick => {
           handleClick={handleClick}
         />
         <NavItem
-          linkTo="/programs.html"
-          title="Programs"
+          linkTo="/organizations.html"
+          title="Organizations"
           handleClick={handleClick}
         />
         <NavItem
