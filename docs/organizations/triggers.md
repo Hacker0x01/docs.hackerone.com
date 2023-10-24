@@ -10,7 +10,7 @@ Triggers are simple, but powerful tools for executing automated responses to new
 ### System Triggers
 When you go to **Program Settings > Settings > Automation > Triggers**, you'll notice a list of system triggers that have already been made for your program. You can choose to enable or disable a system trigger. You can show a trigger's details and see how many times a System Trigger has been hit. 
 
-![System-Triggers](system-triggers.png)
+![triggers-5](./images/triggers-5.png)
 
 ### Adding Custom Triggers
 To add custom triggers:
