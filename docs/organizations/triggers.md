@@ -7,15 +7,15 @@ id: "organizations/triggers"
 ### What are they?
 Triggers are simple, but powerful tools for executing automated responses to new, incoming reports. With triggers, you can set up an automated action when your program receives a report with or without a given trigger word. Triggers aid in reducing noise as they can flag certain reports.
 
-### Default Triggers
-When you go to Settings > Program > Automation > Triggers, you'll notice a list of default triggers that have already been made for your program. You can choose to edit or delete these triggers.
+### System Triggers
+When you go to **Program Settings > Settings > Automation > Triggers**, you'll notice a list of system triggers that have already been made for your program. You can choose to enable or disable a system trigger. You can show a trigger's details and see how many times a System Trigger has been hit. 
 
 ![triggers-5](./images/triggers-5.png)
 
-### Adding Triggers
-To add new triggers:
+### Adding Custom Triggers
+To add custom triggers:
 1. Go to **Program Settings > Program > Automation > Triggers**.
-2. Click **Add new Trigger**.
+2. Click **Custom triggers**.
 ![triggers-1](./images/triggers-1.png)
 3. In the first dropdown of the **IF** section, you can choose to have your trigger be within:
    * Any Field
@@ -37,7 +37,7 @@ To add new triggers:
 Option | Details
 ------ | ------
 Show warning: Ask for submission confirmation | Hackers will be asked for submission confirmation
-Add Comment: all participants | A public comment will be posted on the report
+Add Comment: All participants | A public comment will be posted on the report
 Change State: Request more information | The report state will be changed to needs more info
 
 ![triggers-4](./images/triggers-4.png)
