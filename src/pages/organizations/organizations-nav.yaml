@@ -71,6 +71,8 @@
           path: /organizations/onelogin-sso-saml-setup.html
         - title: FAQs
           path: /organizations/sso-faqs.html
+    - title: Custom inboxes
+      path: /organizations/custom-inboxes.html
 - title: Your Program
   items:
     - title: General Settings
