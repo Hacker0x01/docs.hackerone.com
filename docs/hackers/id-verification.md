@@ -8,17 +8,33 @@ Due to the sensitive nature of their systems, some programs require you to verif
 
 ### How do I become ID verified?
 
-Any hacker that has submitted a valid report is eligible for ID verification. To start the process, simply visit the settings page and click the “Start Verification” button:
+Any hacker that has submitted a valid report is eligible for ID verification. To start the process, visit the User Profile page and click the **ID Verification** header:
 
 ![User settings](/images/id-verification-1.png)
 
 ![Verification button](/images/id-verification-2.png)
 
+You will first need to sign our Rules of Engagement. To start complete this, click the Sign the Rules of Engagement button:
+
+![ID Verification Rules of Engagement](/images/id-verification-4.png)
+
+The Rules of Engagement pop up will be displayed. Review the hyperlinked documents and once ready, tick the box to confirm that you agree to the Rules of Engagement and press the **Save** button:
+
+![Agree to Rules of Engagement](/images/id-verification-5.png)
+
+Now you will be able to start the ID Verification by clicking on the Start Verification button:
+
+![Start verification process](/images/id-verification-6.png)
+
+Check out our tips and then click the Start the Process button:
+
+![Verification tips](/images/id-verification-7.png)
+
 You will be redirected to our partner Berbix to continue the process there. If you are not ready to finish your ID verification yet, Berbix will send an email with a link to continue the process later.
 
 ### What distinguishes H1 Clear from the standard ID Verification process?
 
-H1 Clear is a stricter and more thorough process that requires a more stringent background check, ensuring that only the most skilled and professional hackers receive this status. These hackers are granted additional benefits as a result. The standard ID Verification process is available to any hacker who has submitted a valid report, providing a convenient method for identity confirmation.
+H1 Clear is a stricter and more thorough process that requires a more stringent background check, ensuring that only the most skilled and professional hackers receive this status. The standard ID Verification process is available to any hacker who has submitted a valid report, providing a convenient method for identity confirmation.
 
 ### How do I know that my identity is verified?
 
