@@ -32,7 +32,7 @@ From this page, you can search for an inbox, manage custom inboxes, and create n
     * If you set up your groups ahead of time, you can easily add them here by typing their name.
     * If groups still need to be set up, you can keep this field empty and create the groups after the inbox. 
 
-Once created, the inbox will be visible on your [Inboxes Overview page](/organizations/custom-inboxes-overview.html). From here, you can update the details and access for this inbox.
+Once created, the inbox will be visible on your Inboxes Overview. From here, you can update the details and access for this inbox.
 
 Groups with access can see this inbox in their inbox dropdown under **Inbox** in the main navigation.
 
