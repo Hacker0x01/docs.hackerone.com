@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/hacker",
+    "result": {"data":{"markdownRemark":{"html":"<p>Someone who’s able to find vulnerabilities in information-related systems. One who enjoys the intellectual challenge of creatively overcoming limitations (Jargon File 4.4.7).</p>","frontmatter":{"path":"/glossary/hacker","title":"Hacker"}}},"pageContext":{}},
+    "staticQueryHashes": []}

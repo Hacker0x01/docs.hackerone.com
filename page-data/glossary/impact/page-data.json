@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/impact",
+    "result": {"data":{"markdownRemark":{"html":"<p>Average <a href=\"/hackers/reputation.html\">reputation</a> gained per bounty.</p>","frontmatter":{"path":"/glossary/impact","title":"Impact"}}},"pageContext":{}},
+    "staticQueryHashes": []}

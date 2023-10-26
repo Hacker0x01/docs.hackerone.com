@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/definition.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>Content.</p>","frontmatter":{"path":"/organizations/definition.html","id":"organizations/definition","title":"Definition","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

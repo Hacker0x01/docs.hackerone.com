@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/signal",
+    "result": {"data":{"markdownRemark":{"html":"<p>Average <a href=\"/hackers/reputation.html\">reputation</a> gained per report.</p>","frontmatter":{"path":"/glossary/signal","title":"Signal"}}},"pageContext":{}},
+    "staticQueryHashes": []}

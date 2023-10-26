@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/iso-30111",
+    "result": {"data":{"markdownRemark":{"html":"<p>An international standard describing vulnerability handling processes.</p>","frontmatter":{"path":"/glossary/iso-30111","title":"ISO 30111"}}},"pageContext":{}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/response-targets.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>Response targets refer to how quickly your security team will respond to a found vulnerability. The quicker your response target, the healthier and more attractive your program will be.</p>\n<p>HackerOne’s response target features enable you to set and achieve response target times for your program. This will help you attract and maintain top hacker talent as hackers are able to quickly see if your program is fast to acknowledge, validate, and resolve submitted vulnerabilities.</p>","frontmatter":{"path":"/organizations/response-targets.html","id":"organizations/response-targets","title":"Response Targets","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

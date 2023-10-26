@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/automation.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>HackerOne offers various automated features to simplify your workflow. You can configure:</p>\n<ul>\n<li>Default common responses to reports</li>\n<li>Triggers that'll automate an action</li>\n<li>Integrations with other third party services</li>\n<li>Hackbot notifications</li>\n</ul>","frontmatter":{"path":"/organizations/automation.html","id":"organizations/automation","title":"Automation","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

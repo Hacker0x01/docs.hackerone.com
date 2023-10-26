@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/common-response",
+    "result": {"data":{"markdownRemark":{"html":"<p>A saved response or template that can be applied repeatedly to reports.</p>","frontmatter":{"path":"/glossary/common-response","title":"Common Response"}}},"pageContext":{}},
+    "staticQueryHashes": []}

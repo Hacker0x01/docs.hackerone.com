@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/report",
+    "result": {"data":{"markdownRemark":{"html":"<p>A submission from a hacker that describes a potential security vulnerability.</p>","frontmatter":{"path":"/glossary/report","title":"Report"}}},"pageContext":{}},
+    "staticQueryHashes": []}

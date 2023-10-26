@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/asset",
+    "result": {"data":{"markdownRemark":{"html":"<p>Attack surfaces that hackers can hack on. There are different <a href=\"/organizations/asset-types.html\">types</a> such as: CIDR, Domain, Source code, Executable, Hardware/loT, iOS: .ipa.</p>\n<p>A collection of assets creates a scope.</p>","frontmatter":{"path":"/glossary/asset","title":"Asset"}}},"pageContext":{}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/iso-29147",
+    "result": {"data":{"markdownRemark":{"html":"<p>An international standard describing vulnerability coordination.</p>","frontmatter":{"path":"/glossary/iso-29147","title":"ISO 29147"}}},"pageContext":{}},
+    "staticQueryHashes": []}

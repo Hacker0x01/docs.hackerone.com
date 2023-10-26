@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/cvss",
+    "result": {"data":{"markdownRemark":{"html":"<p>Common Vulnerability Scoring System (<a href=\"/organizations/severity.html\">CVSS</a>) is the framework HackerOne utilizes to assign a severity rating to a vulnerability.</p>","frontmatter":{"path":"/glossary/cvss","title":"CVSS"}}},"pageContext":{}},
+    "staticQueryHashes": []}

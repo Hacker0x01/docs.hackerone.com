@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/bug-bounty-program",
+    "result": {"data":{"markdownRemark":{"html":"<p>A bug bounty offers monetary incentives for vulnerabilities and invites submissions from hackers.</p>","frontmatter":{"path":"/glossary/bug-bounty-program","title":"Bug Bounty Program"}}},"pageContext":{}},
+    "staticQueryHashes": []}

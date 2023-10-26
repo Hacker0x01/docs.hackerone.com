@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/reputation",
+    "result": {"data":{"markdownRemark":{"html":"<p>Reputation measures how likely a hacker’s finding is to be immediately relevant and actionable.</p>","frontmatter":{"path":"/glossary/reputation","title":"Reputation"}}},"pageContext":{}},
+    "staticQueryHashes": []}

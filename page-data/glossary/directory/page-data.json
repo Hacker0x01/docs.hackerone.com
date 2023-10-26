@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/directory",
+    "result": {"data":{"markdownRemark":{"html":"<p>The HackerOne <a href=\"/hackers/directory.html\">directory</a> is a community-curated resource for contacting an organization regarding a security vulnerability.</p>","frontmatter":{"path":"/glossary/directory","title":"Directory"}}},"pageContext":{}},
+    "staticQueryHashes": []}

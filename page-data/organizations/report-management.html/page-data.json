@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/report-management.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>Hackers submit vulnerabilities to your program through submitting reports. You can manage all incoming reports through your Inbox.</p>\n<p>Check out this tutorial video on the life cycle of reports and the different parts of report management.</p>\n<iframe id=\"ytplayer\" type=\"text/html\" width=\"640\" height=\"360\" src=\"https://www.youtube-nocookie.com/embed/51QuAfUebsE?rel=0&autoplay=0&origin={{ site.url }}\" frameborder=\"0\"></iframe>","frontmatter":{"path":"/organizations/report-management.html","id":"organizations/report-management","title":"Report Management","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

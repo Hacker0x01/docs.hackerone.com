@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/program-starting-point.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>Congratulations on deciding to set up your hacker-powered security program on HackerOne! Here are the steps that'll get you up and running:</p>\n<ol>\n<li>Go to <a href=\"https://www.hackerone.com/\">hackerone.com</a>.</li>\n<li>Click <strong><a href=\"https://hackerone.com/sign_up\">Sign Up</a></strong>.</li>\n<li>Select <strong>I'm a company</strong>.</li>\n<li>Fill out all fields on the form.</li>\n<li>Click <strong>Submit</strong>.</li>\n</ol>\n<p>A HackerOne sales representative will be in touch with you to help guide you through the process in setting up your HackerOne program.</p>","frontmatter":{"path":"/organizations/program-starting-point.html","id":"organizations/program-starting-point","title":"Program Starting Point","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

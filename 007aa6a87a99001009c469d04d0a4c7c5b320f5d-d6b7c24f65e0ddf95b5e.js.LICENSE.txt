@@ -1,0 +1,4 @@
+/*!
+ * is.js 0.8.0
+ * Author: Aras Atasaygin
+ */

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/ip-allowlists.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>IP allowlists is a security feature that permits teams to control which IP ranges their team members must be coming from in order to access HackerOne. You can configure IP allowlists with these addresses:</p>\n<ul>\n<li>IPv4</li>\n<li>IPv6</li>\n<li>CIDR</li>\n</ul>\n<p><a href=\"https://support.hackerone.com\">Contact HackerOne</a> if you'd like to enable this feature for your team.</p>","frontmatter":{"path":"/organizations/ip-allowlists.html","id":"organizations/ip-allowlists","title":"IP Allowlists","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

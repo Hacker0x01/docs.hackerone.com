@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/bounty",
+    "result": {"data":{"markdownRemark":{"html":"<p>A financial reward offered in exchange for a valid vulnerability report.</p>","frontmatter":{"path":"/glossary/bounty","title":"Bounty"}}},"pageContext":{}},
+    "staticQueryHashes": []}

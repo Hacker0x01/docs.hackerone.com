@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/cwe",
+    "result": {"data":{"markdownRemark":{"html":"<p>Common Weakness Enumeration (<a href=\"/hackers/weakness.html\">CWE</a>) is the framework HackerOne utilizes to assign a weakness to a vulnerability.</p>","frontmatter":{"path":"/glossary/cwe","title":"CWE"}}},"pageContext":{}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-organizations-js",
+    "path": "/organizations/organization-profile.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>Your organization profile page displays the following details of your organization:</p>\n<ul>\n<li>Organization name</li>\n<li>Organization logo</li>\n<li>Organization handle</li>\n<li>Organization description</li>\n</ul>\n<p>The organization administrator can edit all these items on the profile page. Changes to the organization details can be seen from the organization picker on the Home page and the Organization Settings page.</p>","frontmatter":{"path":"/organizations/organization-profile.html","id":"organizations/organization-profile","title":"Organization Profile","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-hackers-js",
+    "path": "/hackers/verification-letters.html",
+    "result": {"data":{"markdownRemark":{"html":"<p>If you require a Verification Letter for your bank, please take the following steps:</p>\n<ul>\n<li>Log into your HackerOne account</li>\n<li>Go to <strong>Profile</strong>, then <strong>User Settings.</strong></li>\n<li>Navigate to <strong>Payments.</strong>\n<ul>\n<li>At the bottom, you will find <strong>Verification Letter.</strong></li>\n</ul>\n</li>\n<li>Click on <strong>Email me a PDF verification letter</strong>. This will send an email with an attached PDF file.</li>\n</ul>\n<p><strong>Note:</strong> We can only verify payments that have already been made.</p>\n<p>If you have any questions or difficulties with this process, please contact support via our <a href=\"https://support.hackerone.com/support/home\">Support Portal</a>.</p>","frontmatter":{"title":"Verification Letters","id":"hackers/verification-letters","path":"/hackers/verification-letters.html","description":null},"headings":[]}},"pageContext":{}},
+    "staticQueryHashes": []}

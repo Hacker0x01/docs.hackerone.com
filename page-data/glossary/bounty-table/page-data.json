@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/bounty-table",
+    "result": {"data":{"markdownRemark":{"html":"<p>A <a href=\"/organizations/bounty-tables.html\">bounty table</a> illustrates how much an organization is willing to pay for various bugs, helps set expectations for hackers, and gives the bug bounty team a guideline to ensure fair and consistent reward amounts.</p>","frontmatter":{"path":"/glossary/bounty-table","title":"Bounty Table"}}},"pageContext":{}},
+    "staticQueryHashes": []}

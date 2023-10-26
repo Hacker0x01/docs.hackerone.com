@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-glossary-js",
+    "path": "/glossary/hacktivity",
+    "result": {"data":{"markdownRemark":{"html":"<p><a href=\"/hackers/hacktivity.html\">Hacktivity</a> is the public community feed that showcases hacker activity on HackerOne.</p>","frontmatter":{"path":"/glossary/hacktivity","title":"Hacktivity"}}},"pageContext":{}},
+    "staticQueryHashes": []}
