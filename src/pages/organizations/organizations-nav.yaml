@@ -71,6 +71,8 @@
           path: /organizations/onelogin-sso-saml-setup.html
         - title: FAQs
           path: /organizations/sso-faqs.html
+    - title: Custom inboxes
+      path: /organizations/custom-inboxes.html
 - title: Your Program
   items:
     - title: General Settings
@@ -352,6 +354,8 @@
     - title: Gateway
       path: /organizations/hackerone-vpn.html
       items:
+        - title: Hacker Traffic Logs
+          path: /organizations/vpn-hacker-traffic-logs.html
         - title: Gateway V1
           path: /organizations/hackerone-vpn-v1.html
         - title: FAQs Gateway V1
