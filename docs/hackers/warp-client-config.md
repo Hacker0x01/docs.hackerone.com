@@ -24,7 +24,7 @@ These guides assume you already have the WARP Client installed, if you haven't p
 ![image](./images/warp_login_email.png)
 > **Note:** Please use your @wearehackerone.com alias.
 
-4. Authentication succesfull, register client into program
+4. Authentication successful, register client into program
 Click the "Open Cloudflare WARP" button
 ![image](./images/warp_login_success.png)
 
@@ -45,7 +45,7 @@ Click "account" tab, and click **Login with Cloudflare Zero Trust**.
 ![image](./images/warp_login_email.png)
 > **Note:** Please use your @wearehackerone.com alias.
 
-4. Authentication succesfull, register client into program
+4. Authentication successful, register client into program
 Click the "Open Cloudflare WARP" button
 ![image](./images/warp_login_success.png)
 

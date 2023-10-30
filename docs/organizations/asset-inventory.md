@@ -68,7 +68,7 @@ The quickest way to add multiple assets to the Asset Inventory is to utilize the
 
 ![image](./images/asset-inventory-15.png)
 
-Once you have uploaded the file, an Import Summary will display. The Import Summary covers successful asset additions, succesful asset updates, and failed asset imports.
+Once you have uploaded the file, an Import Summary will display. The Import Summary covers successful asset additions, successful asset updates, and failed asset imports.
 
 ### Filtering
 

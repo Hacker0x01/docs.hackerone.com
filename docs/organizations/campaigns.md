@@ -55,7 +55,7 @@ If campaigns have already been created, the user will be presented with an overv
     ![Bounty table](/images/campaigns-8.png)
     c. Select the bounty multipliers. The resulting bounty amounts will be presented on the right of the multiplier selection. 
         * We also show a recommendation informing you whether the current offer is competitive or if you should consider raising the bounties. This score is calculated based on critical and high values. A score of 90% or higher is considered competitive. The hackers selected as the audience, the programs these hackers submitted reports to, and how high the bounties were that these hackers received for valid reports are all considered to determine the competitiveness score.
-    ![Reward competetiveness](/images/campaigns-9.png)
+    ![Reward competitiveness](/images/campaigns-9.png)
     d. Select the start- and end date of the campaign. We allow customers to schedule a campaign 3 days in advance.
     ![Campaign duration](/images/campaigns-10.png)
     e. Verify all details for the campaign in the summary on the right.
