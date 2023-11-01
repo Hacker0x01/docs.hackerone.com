@@ -64,7 +64,7 @@ After the asset is added, it will appear in the list alongside all other assets.
 
 #### Adding multiple assets
 
-The quickest way to add multiple assets to the Asset Inventory is to utilize the "Import from CSV" option. This will open a modal where you can upload a file and start your import. For convenience, there is also an example file provided here to download.
+The quickest way to add multiple assets to the Asset Inventory is to utilize the "Import from CSV" option. This will open a modal where you can upload a file and start your import. For convenience, there is also an example file provided here to download. Important: use *semicolon* (;) as field separator in your file.
 
 ![image](./images/asset-inventory-15.png)
 
