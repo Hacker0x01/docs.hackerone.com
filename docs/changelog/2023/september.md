@@ -5,7 +5,7 @@ date: "2023-09"
 ---
 
 ### Program Status Reports
-Program Status Reports are available to all Bounty and Response customers! Go to Analytics > Program Status Reports and click **Create New to use Program Status Reports.** This will bring you to the report preview, where you can name your report, select the input date range for your report, and apply content filters via the menu in the upper right-hand corner of the page. Once satisfied with the contents of the report, click the **Generate Report** button to save it and return to the list view for your reports. 
+Program Status Reports are available to all Bounty and Response customers! Go to Analytics > Program Status Reports and click **Create New** to use Program Status Reports. This will bring you to the report preview, where you can name your report, select the input date range for your report, and apply content filters via the menu in the upper right-hand corner of the page. Once satisfied with the contents of the report, click the **Generate Report** button to save it and return to the list view for your reports. 
 
 ![program status report example](/images/program-status-report.png)
 
